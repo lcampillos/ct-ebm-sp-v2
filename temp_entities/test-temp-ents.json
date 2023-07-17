@@ -2992,7 +2992,7 @@
 {"tokens": ["-", "Alergias", "a", "metronidazol", "."], "ner_tags": ["O", "O", "O", "O", "O"]}
 {"tokens": ["-", "Pacientes", "a", "tratamiento", "con", "bifosfonatos", "."], "ner_tags": ["O", "O", "O", "O", "O", "O", "O"]}
 {"tokens": ["-", "Enfermedad", "periodontal", "no", "controlada", "."], "ner_tags": ["O", "O", "O", "O", "O", "O"]}
-{"tokens": ["-", "Fumadores", "de", "más", "de", "20", "cigarros", "/", "día", "."], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"tokens": ["-", "Fumadores", "de", "más", "de", "20", "cigarros", "/", "día", "."], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "B-Frequency", "I-Frequency", "O"]}
 {"tokens": ["EudraCT", "Nº", ":"], "ner_tags": ["O", "O", "O"]}
 {"tokens": ["2017", "-", "002267", "-", "18"], "ner_tags": ["B-Date", "O", "O", "O", "O"]}
 {"tokens": ["Título", "público", ":"], "ner_tags": ["O", "O", "O"]}
