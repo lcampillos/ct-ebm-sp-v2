@@ -1,0 +1,15 @@
+EudraCT Nº: 2022-002482-15
+
+Título científico: Estudio de fase 3b/4 aleatorizado, abierto, enmascarado para los evaluadores de la eficacia, para comparar la seguridad y la eficacia enmascarada para los evaluadores de upadacitinib frente a dupilumab en pacientes con dermatitis atópica moderada o grave (Level-Up) 
+
+Indicación: Dermatitis atópica de moderada a grave (Eczema)
+
+Criterios de inclusión:
+1. Pacientes ≥12 años (y ≥40 kg en el momento basal) y <65 años.
+2. Sujetos con DA crónica cuyos síntomas aparecieran al menos 3 años antes del momento basal y que cumplan los criterios de Hanifin y Rajka.
+3. Puntuación EASI ≥16, puntuación vIGA-AD ≥3 y superficie corporal (SC) afectada por la DA ≥10 % en la visita basal.
+4. Promedio semanal basal de la puntuación diaria en la WP-NRS ≥4.
+5. Antecedentes documentados de respuesta insuficiente al tratamiento sistémico previo, definidos como antecedentes documentados de respuesta insuficiente previa a al menos un tratamiento sistémico previo para la DA, O BIEN documentación de que se desaconsejan médicamente otros tratamientos sistémicos por cualquier otro motivo. 
+
+Criterios de exclusión:
+- Exposición previa a cualquier inhibidor de JAK oral o tópico (incluidos, entre otros, upadacitinib [Rinvoq®], tofacitinib [Xeljanz®], ruxolitinib [Jakafi® u Opzelura®], baricitinib [Olumiant®], peficitinib [Smyraf®], abrocitinib [Cibinqo®] y filgotinib [Jyseleca®]) - Exposición previa a dupilumab, tralokinumab o lebrikizumab

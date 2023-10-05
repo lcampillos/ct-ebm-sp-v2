@@ -1,0 +1,103 @@
+T1	PROC 46 74	Estudio de extensión abierto
+T2	Date 95 108	a largo plazo
+T3	CHEM 112 134	treprostinil palmitilo
+T4	LIVB 163 172	pacientes
+#1	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	DISO 177 207	hipertensión arterial pulmonar
+#2	AnnotatorNotes T5	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T6	PROC 230 258	Estudio de extensión abierto
+T7	PROC 264 310	evaluar la seguridad, tolerabilidad y eficacia
+T8	Date 319 332	a largo plazo
+T9	CHEM 336 358	treprostinil palmitilo
+T10	LIVB 387 396	pacientes
+#3	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 401 431	hipertensión arterial pulmonar
+#4	AnnotatorNotes T11	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T12	LIVB 455 468	Participantes
+T14	ANAT 503 527	arterias de los pulmones
+T15	LIVB 554 567	Participantes
+T16	DISO 572 602	hipertensión arterial pulmonar
+#5	AnnotatorNotes T16	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T17	LIVB 632 645	Participantes
+T18	PROC 665 671	visita
+T19	PROC 682 693	tratamiento
+#6	AnnotatorNotes T19	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T20	CHEM 777 781	TPPI
+T21	DISO 790 793	HAP
+#7	AnnotatorNotes T21	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T22	LIVB 799 812	participantes
+T23	Neg_cue 841 843	no
+T24	Negated 851 861	disponible
+T25	Date 903 915	preinclusión
+T26	Duration 958 964	un año
+T27	PROC 971 977	visita
+T28	PROC 988 999	tratamiento
+#8	AnnotatorNotes T28	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T29	Date 1015 1027	preinclusión
+T30	PROC 1033 1058	Evaluaciones de selección
+T31	Duration 1145 1159	más de 30 días
+T32	PROC 1169 1175	visita
+T33	Date 1269 1281	preinclusión
+T34	CHEM 1286 1290	TPPI
+T35	DISO 1299 1302	HAP
+#9	AnnotatorNotes T35	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T36	PROC 1328 1352	consentimiento informado
+#10	AnnotatorNotes T36	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T37	LIVB 1391 1404	Participantes
+T38	DISO 1434 1451	hipersensibilidad
+#11	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T39	DISO 1454 1485	reacción adversa al medicamento
+T40	CHEM 1560 1564	TPPI
+T41	DISO 1573 1576	HAP
+#12	AnnotatorNotes T41	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T42	LIVB 1601 1613	investigador
+#13	AnnotatorNotes T42	C0035173; Research Personnel; Professional or Occupational Group
+T43	Spec_cue 1615 1621	podría
+T44	PROC 1634 1658	continuar el tratamiento
+T45	CHEM 1663 1667	TPPI
+T46	Spec_cue 1668 1673	puede
+T49	LIVB 1714 1726	participante
+T50	PROC 1744 1769	administración parenteral
+T51	Route 1759 1769	parenteral
+T52	CHEM 1773 1798	análogos de prostaciclina
+T53	CHEM 1813 1816	TRE
+T54	CHEM 1818 1830	epoprostenol
+#14	AnnotatorNotes T54	C0033567; epoprostenol; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
+T55	CHEM 1915 1919	TPPI
+T56	CHEM 1945 1970	análogos de prostaciclina
+T57	Route 1971 1980	inhalados
+T58	CHEM 1995 1998	TRE
+#15	AnnotatorNotes T58	C0014935; Estrogen Replacement Therapy; Therapeutic or Preventive Procedure
+T59	CHEM 2000 2006	Tyvaso
+T60	CHEM 2011 2019	iloprost
+#16	AnnotatorNotes T60	C0079594; iloprost; Organic Chemical · Pharmacologic Substance
+T61	CHEM 2023 2055	análogos orales de prostaciclina
+T62	Route 2032 2038	orales
+T63	CHEM 2070 2073	TRE
+#17	AnnotatorNotes T63	C0014935; Estrogen Replacement Therapy; Therapeutic or Preventive Procedure
+T64	CHEM 2075 2084	Orenitram
+T65	CHEM 2090 2112	agonistas del receptor
+T66	CHEM 2127 2136	selexipag
+#18	AnnotatorNotes T66	C2000145; selexipag; Organic Chemical · Pharmacologic Substance
+T67	Duration 2154 2162	24 horas
+T68	PROC 2186 2212	administración del fármaco
+T69	PHYS 2229 2237	Embarazo
+#19	AnnotatorNotes T69	C0032961; Pregnancy; Organism Function
+T70	PHYS 2240 2249	lactancia
+#20	AnnotatorNotes T70	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T71	DISO 2264 2293	afección médica o psicológica
+T72	LIVB 2381 2393	investigador
+#21	AnnotatorNotes T72	C0035173; Research Personnel; Professional or Occupational Group
+T73	DISO 2407 2417	enfermedad
+#22	AnnotatorNotes T73	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T74	Spec_cue 2458 2463	pueda
+T75	Speculated 2477 2495	riesgo irrazonable
+T77	LIVB 2504 2516	participante
+T78	Form 362 367	polvo
+T79	Route 373 383	inhalación
+T80	Form 138 143	polvo
+T81	Route 149 159	inhalación
+T13	DISO 473 495	tension sanguínea alta
+T82	Date 761 773	preinclusión
+T85	DISO 2309 2333	anomalías de laboratorio
+T47	Speculated 1687 1705	riesgo irrazonable

@@ -1,0 +1,150 @@
+T1	PROC 46 73	Estudio sin enmascaramiento
+T2	Neg_cue 54 57	sin
+T3	Negated 58 73	enmascaramiento
+T4	Date 74 87	a largo plazo
+T5	PROC 93 127	evaluar la seguridad y la eficacia
+T6	CHEM 131 143	donidalorsén
+T7	PROC 149 173	tratamiento profiláctico
+#1	AnnotatorNotes T7	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T8	DISO 178 200	angioedema hereditario
+#2	AnnotatorNotes T8	C0019243; Angioedemas, Hereditary; Disease or Syndrome
+T9	DISO 202 205	AEH
+#3	AnnotatorNotes T9	C0019243; Angioedemas, Hereditary; Disease or Syndrome
+T10	DISO 230 249	Enfermedad genética
+#4	AnnotatorNotes T10	C0019247; Hereditary Diseases; Disease or Syndrome
+T11	DISO 284 317	edemas subcutáneos y/o submucosos
+T12	Duration 318 330	transitorios
+T13	DISO 361 370	hinchazón
+#5	AnnotatorNotes T13	C0038999; Swelling; Finding
+T14	DISO 375 390	dolor abdominal
+#6	AnnotatorNotes T14	C0000737; Abdominal Pain; Sign or Symptom
+T15	DISO 417 439	angioedema hereditario
+#7	AnnotatorNotes T15	C0019243; Angioedemas, Hereditary; Disease or Syndrome
+T16	DISO 441 444	AEH
+#8	AnnotatorNotes T16	C0019243; Angioedemas, Hereditary; Disease or Syndrome
+T17	LIVB 479 492	participantes
+T18	LIVB 519 533	representantes
+#9	AnnotatorNotes T18	C0600419; Patient Agent; Group | C1708966; Medical Equipment Company Technician or Representative; Professional or Occupational Group
+T19	LIVB 568 588	padre(s)/tutor legal
+T20	PROC 627 651	consentimiento informado
+#10	AnnotatorNotes T20	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T21	PROC 653 656	ICF
+T22	LIVB 688 701	participantes
+T23	CHEM 752 775	medicamento(s) agudo(s)
+T24	CHEM 785 819	concentrado de C1-INH recombinante
+T25	CHEM 822 840	derivado de plasma
+T26	CHEM 846 893	antagonista del receptor de bradicinina (BK) 2)
+T27	PROC 899 905	tratar
+T28	DISO 910 931	ataques de angioedema
+T29	LIVB 937 950	participantes
+T30	PROC 1035 1088	estudio de índice aleatorizado controlado con placebo
+T31	Date 1096 1108	la semana 25
+T32	LIVB 1111 1124	participantes
+T33	PROC 1188 1197	protocolo
+#11	AnnotatorNotes T33	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T34	LIVB 1251 1264	Participantes
+T35	Neg_cue 1273 1275	no
+T36	Negated 1276 1303	previamente en donidalorsen
+T37	LIVB 1322 1335	participantes
+T38	Age 1348 1357	≥ 12 años
+T39	PROC 1376 1400	consentimiento informado
+#12	AnnotatorNotes T39	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T40	LIVB 1447 1460	participantes
+T41	PROC 1476 1487	diagnóstico
+#13	AnnotatorNotes T41	C0011900; Diagnosis; Diagnostic Procedure
+T42	DISO 1503 1508	HAE-1
+T43	DISO 1509 1514	HAE-2
+T44	LIVB 1522 1535	participantes
+T45	Dose 1551 1568	una dosis estable
+T46	Duration 1569 1582	(≥ 12 semanas
+T47	PROC 1587 1611	tratamiento profiláctico
+#14	AnnotatorNotes T47	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T48	CHEM 1616 1627	lanadelumab
+T49	CHEM 1630 1642	berotralstat
+T50	CHEM 1645 1675	inhibidor de la esterasa SC C1
+T51	CHEM 1844 1854	medicación
+#15	AnnotatorNotes T51	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T52	LIVB 1855 1868	Participantes
+T53	PROC 1880 1903	Diagnóstico concurrente
+T54	DISO 1930 1940	angioedema
+#16	AnnotatorNotes T54	C0002994; Angioedema; Pathologic Function
+T55	DISO 1965 1996	angioedema idiopático adquirido
+T56	DISO 1999 2002	AEH
+#17	AnnotatorNotes T56	C0019243; Angioedemas, Hereditary; Disease or Syndrome
+T58	DISO 2044 2056	AEH tipo III
+T59	CHEM 2092 2102	andrógenos
+#18	AnnotatorNotes T59	C0002844; Androgens; Hormone · Pharmacologic Substance
+T60	PROC 2119 2129	profilaxis
+#19	AnnotatorNotes T60	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T61	CHEM 2134 2151	ácido tranexámico
+#20	AnnotatorNotes T61	C0040613; tranexamic acid; Organic Chemical · Pharmacologic Substance
+T62	PROC 2157 2165	prevenir
+#21	AnnotatorNotes T62	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T63	DISO 2166 2187	ataques de angioedema
+T64	DISO 2198 2209	anormalidad
+#22	AnnotatorNotes T64	C1704258; Abnormality; Finding
+T65	PROC 2244 2279	valores de laboratorio de detección
+T66	DISO 2283 2300	Neoplasia maligna
+#23	AnnotatorNotes T66	C0006826; Malignant Neoplasms; Neoplastic Process | C1306459; Primary malignant neoplasm; Neoplastic Process
+T67	Duration 2311 2321	los 5 años
+T68	PROC 2339 2348	detección
+#24	AnnotatorNotes T68	C1511790; Detection; Therapeutic or Preventive Procedure
+T69	Neg_cue 2350 2364	a excepción de
+T70	DISO 2369 2397	cánceres de piel no melanoma
+#25	AnnotatorNotes T70	C0699893; Skin carcinoma; Neoplastic Process
+T71	Negated 2369 2397	cánceres de piel no melanoma
+T72	DISO 2402 2437	carcinoma in situ de cuello uterino
+T73	Negated 2402 2437	carcinoma in situ de cuello uterino
+T74	DISO 2442 2474	carcinoma ductal de mama in situ
+T75	Negated 2442 2474	carcinoma ductal de mama in situ
+T76	DISO 2480 2501	carcinoma de próstata
+#26	AnnotatorNotes T76	C0600139; Prostate carcinoma; Neoplastic Process
+T77	Negated 2480 2501	carcinoma de próstata
+T78	PROC 2527 2534	tratado
+T79	DISO 2549 2566	Hipersensibilidad
+#27	AnnotatorNotes T79	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T80	CHEM 2570 2586	principio activo
+T81	CHEM 2588 2600	donidalorsen
+T82	CHEM 2620 2631	excipientes
+#28	AnnotatorNotes T82	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T83	PROC 2635 2646	Tratamiento
+#29	AnnotatorNotes T83	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T84	CHEM 2656 2680	fármaco en investigación
+T85	Neg_cue 2682 2684	no
+T86	CHEM 2685 2700	oligonucleótido
+#30	AnnotatorNotes T86	C0028953; Oligonucleotides; Nucleic Acid, Nucleoside, or Nucleotide
+T87	Negated 2685 2700	oligonucleótido
+T88	CHEM 2704 2720	agente biológico
+#31	AnnotatorNotes T88	C0005515; Biological Factors; Biologically Active Substance
+T89	Duration 2736 2741	1 mes
+T90	Duration 2763 2774	5 semividas
+T91	CHEM 2779 2802	agente en investigación
+T92	Date 2838 2846	reciente
+T93	DISO 2849 2881	abuso actual de drogas o alcohol
+T94	Date 2855 2861	actual
+T95	CHEM 2921 2933	donidalorsen
+T96	CHEM 2979 2991	medicamentos
+#32	AnnotatorNotes T96	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T97	CHEM 2993 3046	Inhibidores de la enzima convertidora de angiotensina
+#33	AnnotatorNotes T97	C0003015; Angiotensin-Converting Enzyme Inhibitors; Pharmacologic Substance
+T98	CHEM 3048 3051	ECA
+#34	AnnotatorNotes T98	C0022709; Peptidyl-Dipeptidase A; Amino Acid, Peptide, or Protein · Enzyme · Immunologic Factor
+T99	CHEM 3065 3076	medicamento
+#35	AnnotatorNotes T99	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T100	CHEM 3090 3099	estrógeno
+#36	AnnotatorNotes T100	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T101	PHYS 3104 3113	absorción
+T102	CHEM 3124 3140	Oligonucleótidos
+#37	AnnotatorNotes T102	C0028953; Oligonucleotides; Nucleic Acid, Nucleoside, or Nucleotide
+T103	CHEM 3154 3197	ácido ribonucleico de interferencia pequeño
+T104	CHEM 3199 3204	siRNA
+T105	Duration 3217 3228	los 4 meses
+T106	Dose 3270 3285	una dosis única
+T107	Duration 3299 3311	los 12 meses
+T108	Dose 3356 3371	dosis múltiples
+T109	Neg_cue 3388 3390	no
+T110	CHEM 3407 3414	vacunas
+#38	AnnotatorNotes T110	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T111	Negated 3407 3414	vacunas
+T112	CHEM 2007 2013	C1-INH
+T113	Route 1670 1672	SC

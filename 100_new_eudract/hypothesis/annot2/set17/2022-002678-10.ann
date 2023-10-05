@@ -1,0 +1,46 @@
+T1	PROC 63 73	protocolos
+#1	AnnotatorNotes T1	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T2	PROC 77 97	estimulación ovárica
+T3	LIVB 101 119	donantes de óvulos
+T4	CHEM 127 139	progestágeno
+#2	AnnotatorNotes T4	C0033306; Progestins; Hormone · Pharmacologic Substance
+T5	CHEM 145 170	inhibidor de la ovulación
+T6	CHEM 180 192	progestágeno
+#3	AnnotatorNotes T6	C0033306; Progestins; Hormone · Pharmacologic Substance
+T7	Date 206 211	día 5
+T8	PROC 218 238	estimulación ovárica
+T9	PROC 268 288	estimulación ovárica
+T10	PROC 310 319	Protocolo
+#4	AnnotatorNotes T10	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T11	CHEM 324 360	Progestin-primed Ovarian Stimulation
+T12	PROC 362 366	PPOS
+T13	PROC 371 376	pauta
+#5	AnnotatorNotes T13	C0935576; treatment guideline; Therapeutic or Preventive Procedure
+T14	Date 385 390	día 5
+T15	PROC 394 406	estimulación
+#6	AnnotatorNotes T15	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T16	PROC 414 423	Protocolo
+#7	AnnotatorNotes T16	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T17	CHEM 428 444	Progestin-primed
+T18	PROC 466 470	PPOS
+T19	PROC 475 493	pauta convencional
+T20	PROC 510 522	estimulación
+#8	AnnotatorNotes T20	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T21	LIVB 526 544	donantes de óvulos
+T22	ANAT 577 591	óvulos maduros
+T23	PROC 610 630	estimulación ovárica
+T24	PROC 633 653	extracción de óvulos
+T25	LIVB 673 693	donantes de ovocitos
+T26	ANAT 728 736	ovocitos
+#9	AnnotatorNotes T26	C0029045; Oocytes; Cell
+T27	ANAT 740 743	MII
+#10	AnnotatorNotes T27	C0230416; Left lower extremity; Body Part, Organ, or Organ Component
+T28	Age 803 819	entre 18-35 años
+T29	PROC 823 826	IMC
+T30	PROC 893 902	protocolo
+#11	AnnotatorNotes T30	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T31	PROC 931 957	consentimiento por escrito
+T32	LIVB 987 995	Donantes
+#12	AnnotatorNotes T32	C0013018; Donor person; Population Group
+T33	PROC 1000 1030	recuento de folículos antrales
+T34	ANAT 1048 1061	ambos ovarios

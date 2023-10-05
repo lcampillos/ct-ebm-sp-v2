@@ -1,0 +1,53 @@
+T1	PROC 47 74	Estudio piloto de seguridad
+T2	PROC 78 103	radioterapia neoadyuvante
+T3	LIVB 107 116	pacientes
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	DISO 121 133	glioblastoma
+#2	AnnotatorNotes T4	C0017636; Glioblastoma; Neoplastic Process | C1621958; Glioblastoma Multiforme; Neoplastic Process
+T5	DISO 148 160	Glioblastoma
+#3	AnnotatorNotes T5	C0017636; Glioblastoma; Neoplastic Process | C1621958; Glioblastoma Multiforme; Neoplastic Process
+T6	Age 193 211	entre 18 y 75 años
+T7	DISO 215 234	Enfermedad unifocal
+T8	DISO 238 252	Tumor unilobar
+T9	PROC 256 279	Diagnóstico radiológico
+T11	PROC 344 353	resección
+#4	AnnotatorNotes T11	C0728940; Excision; Therapeutic or Preventive Procedure
+T12	PROC 384 407	Diagnóstico histológico
+T13	DISO 411 434	glioblastoma multiforme
+#5	AnnotatorNotes T13	C0017636; Glioblastoma; Neoplastic Process | C1621958; Glioblastoma Multiforme; Neoplastic Process
+T14	DISO 464 480	Tumor multilobar
+T15	DISO 529 550	enfermedad multifocal
+T16	DISO 609 634	hipertensión intracraneal
+#6	AnnotatorNotes T16	C0151740; Intracranial Hypertension; Finding
+T17	PROC 648 671	tratamiento corticoideo
+T19	PROC 734 741	cirugía
+#8	AnnotatorNotes T19	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T20	Contraindicated 734 741	cirugía
+T21	PROC 743 755	radioterapia
+#9	AnnotatorNotes T21	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T22	Contraindicated 743 755	radioterapia
+T23	PROC 758 769	tratamiento
+#10	AnnotatorNotes T23	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T24	Contraindicated 758 769	tratamiento
+T25	CHEM 774 777	TMZ
+T26	Contraindicated 774 777	TMZ
+T27	DISO 781 800	Deterioro cognitivo
+#11	AnnotatorNotes T27	C0338656; Impaired cognition; Mental or Behavioral Dysfunction | C0854193; Cognitive deterioration; Mental or Behavioral Dysfunction
+T29	PROC 816 840	consentimiento informado
+#12	AnnotatorNotes T29	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T30	Negated 816 840	consentimiento informado
+T32	Negated 866 887	seguimiento de 2 años
+T33	PROC 866 877	seguimiento
+#13	AnnotatorNotes T33	C0420316; Other follow-up; Health Care Activity
+T34	Duration 881 887	2 años
+T35	Neg_cue 804 811	Rechazo
+T28	Spec_cue 844 857	Imposibilidad
+T31	DISO 675 695	Neoplasia sincrónica
+#14	AnnotatorNotes T31	Neoplasms, Multiple Primary C0027663 ( disease, neoplastic process)
+T18	ANAT 304 318	supratentorial
+T36	DISO 283 289	glioma
+#7	AnnotatorNotes T36	Glioma C0017638 ( disease)
+T10	ANAT 492 508	interhemisférica
+T37	ANAT 511 525	infratentorial
+#15	AnnotatorNotes T8	Unifocal tumor C1302361
+T38	PROC 553 578	Desviación de línea media

@@ -1,0 +1,131 @@
+T1	CHEM 59 102	vacuna antigripal tetravalente recombinante
+T2	CHEM 104 108	RIV4
+T3	LIVB 113 126	participantes
+T4	Age 127 141	de 9 a 49 años
+T5	PHYS 164 179	Inmunogenicidad
+T6	CHEM 198 241	vacuna antigripal tetravalente recombinante
+T7	CHEM 243 247	RIV4
+T8	LIVB 252 257	niños
+#1	AnnotatorNotes T8	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T9	Age 252 257	niños
+T10	LIVB 260 272	adolescentes
+#2	AnnotatorNotes T10	C0205653; Adolescent (age group); Age Group
+T11	Age 260 272	adolescentes
+T12	Age 273 287	de 9 a 17 años
+T13	LIVB 290 297	adultos
+#3	AnnotatorNotes T13	C0001675; Adult; Age Group
+T14	Age 290 297	adultos
+T15	Age 298 313	de 18 a 49 años
+T16	DISO 337 342	Gripe
+#4	AnnotatorNotes T16	C0021400; Influenza; Disease or Syndrome
+T17	Age 377 391	de 9 a 49 años
+T18	LIVB 423 435	participante
+T19	Neg_cue 477 479	no
+T20	PHYS 485 495	embarazada
+#5	AnnotatorNotes T20	C0032961; Pregnancy; Organism Function
+T21	Negated 485 495	embarazada
+T22	PHYS 498 506	lactando
+#6	AnnotatorNotes T22	C0006147; Breast Feeding; Organism Function
+T23	Neg_cue 560 562	No
+T24	PHYS 582 590	concebir
+#7	AnnotatorNotes T24	C0009637; Conception; Organism Function
+T25	Negated 582 590	concebir
+T26	Neg_cue 618 620	no
+T27	PHYS 640 648	concebir
+#8	AnnotatorNotes T27	C0009637; Conception; Organism Function
+T28	Negated 640 648	concebir
+T29	LIVB 654 659	mujer
+#9	AnnotatorNotes T29	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T30	PHYS 669 682	premenárquica
+T31	PHYS 684 698	posmenopáusica
+#10	AnnotatorNotes T31	C0206159; Postmenopause; Organism Function
+T32	Duration 707 721	al menos 1 año
+T33	PROC 744 769	esterilización quirúrgica
+T34	PHYS 794 802	concebir
+#11	AnnotatorNotes T34	C0009637; Conception; Organism Function
+T35	PROC 820 841	método anticonceptivo
+#12	AnnotatorNotes T35	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T37	Duration 884 902	al menos 4 semanas
+T38	PROC 923 937	administración
+#13	AnnotatorNotes T38	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T39	PROC 944 956	intervención
+#14	AnnotatorNotes T39	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T40	Duration 975 997	por lo menos 4 semanas
+T41	PROC 1019 1033	administración
+#15	AnnotatorNotes T41	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T42	PROC 1040 1052	intervención
+#16	AnnotatorNotes T42	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T43	LIVB 1072 1084	participante
+T44	PROC 1134 1158	consentimiento informado
+#17	AnnotatorNotes T44	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T45	LIVB 1214 1219	padre
+#18	AnnotatorNotes T45	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T46	LIVB 1223 1228	madre
+#19	AnnotatorNotes T46	C0026591; Mother (person); Family Group
+T47	LIVB 1236 1255	representante legal
+T48	PROC 1287 1311	consentimiento informado
+#20	AnnotatorNotes T48	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T49	Neg_cue 1340 1351	Se excluirá
+T50	LIVB 1370 1383	participantes
+T51	Negated 1370 1383	participantes
+T52	DISO 1435 1474	Inmunodeficiencia congénita o adquirida
+T54	Spec_cue 1487 1497	sospechada
+T55	PROC 1514 1538	terapia inmunosupresoras
+T56	CHEM 1545 1558	quimioterapia
+#21	AnnotatorNotes T56	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T57	PROC 1561 1587	radioterapia anticancerosa
+T58	Duration 1592 1611	los últimos 6 meses
+T59	PROC 1615 1649	terapia con corticoides sistémicos
+T60	Date 1650 1664	de largo plazo
+T61	CHEM 1666 1676	prednisona
+#22	AnnotatorNotes T61	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T62	Duration 1699 1728	más de 2 semanas consecutivas
+T63	Duration 1732 1754	los 3 meses anteriores
+T64	DISO 1760 1787	Hipersensibilidad sistémica
+T65	CHEM 1835 1841	vacuna
+#23	AnnotatorNotes T65	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T66	DISO 1860 1870	reacciones
+#24	AnnotatorNotes T66	C0221736; Reaction emotional; Finding
+T67	PROC 1905 1919	administración
+#25	AnnotatorNotes T67	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T68	CHEM 1927 1934	vacunas
+#26	AnnotatorNotes T68	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T69	CHEM 1968 1974	vacuna
+#27	AnnotatorNotes T69	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T70	DISO 2027 2042	Trombocitopenia
+#28	AnnotatorNotes T70	C0040034; Thrombocytopenia; Disease or Syndrome
+T71	DISO 2047 2070	Trastornos hemorrágicos
+#29	AnnotatorNotes T71	C0019087; Hemorrhagic Disorders; Disease or Syndrome
+T72	PROC 2073 2087	administración
+#30	AnnotatorNotes T72	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T73	CHEM 2091 2106	anticoagulantes
+#31	AnnotatorNotes T73	C0003280; Anticoagulants; Pharmacologic Substance
+T74	Duration 2110 2123	las 3 semanas
+T75	PROC 2188 2212	vacunación intramuscular
+T77	Route 2199 2212	intramuscular
+T78	LIVB 2235 2247	investigador
+#32	AnnotatorNotes T78	C0035173; Research Personnel; Professional or Occupational Group
+T79	DISO 2292 2318	síndrome de Guillain-Barré
+#33	AnnotatorNotes T79	C0018378; Guillain-Barre Syndrome; Disease or Syndrome
+T80	DISO 2320 2323	GBS
+#34	AnnotatorNotes T80	C0018378; Guillain-Barre Syndrome; Disease or Syndrome
+T81	DISO 2356 2405	retraso clínicamente significativo del desarrollo
+T82	LIVB 2420 2432	investigador
+#35	AnnotatorNotes T82	C0035173; Research Personnel; Professional or Occupational Group
+T83	DISO 2438 2459	trastorno neurológico
+#36	AnnotatorNotes T83	C0027765; nervous system disorder; Disease or Syndrome
+T84	DISO 2465 2485	trastorno convulsivo
+#37	AnnotatorNotes T84	C0014544; Epilepsy; Disease or Syndrome | C0234972; Convulsive disorder; Disease or Syndrome
+T85	Neg_cue 2494 2496	no
+T86	Negated 2548 2577	todos los aspectos relevantes
+T87	Spec_cue 2586 2593	posible
+T88	Speculated 2594 2607	participación
+T89	LIVB 2614 2622	paciente
+#38	AnnotatorNotes T89	C0030705; Patients; Patient or Disabled Group
+T90	PROC 2629 2644	estudio clínico
+#39	AnnotatorNotes T90	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T91	Negated 498 506	lactando
+T92	PROC 864 875	abstinencia
+T53	Speculated 1435 1474	Inmunodeficiencia congénita o adquirida
+T76	Contraindicated 2188 2212	vacunación intramuscular
+T36	Route 1639 1649	sistémicos

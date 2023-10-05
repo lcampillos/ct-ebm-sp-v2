@@ -1,0 +1,30 @@
+EudraCT Nº: 2022-002434-13
+
+Título público: ENSAYO CLÍNICO PARA DETERMINAR LA EFICACIA Y SEGURIDAD DEL COLIRIO DE INSULINA EN EL TRATAMIENTO DEL OJO SECO EN GLAUCOMA
+
+Título científico: ENSAYO CLÍNICO ALEATORIZADO, DOBLE CIEGO (CON EVALUADOR CIEGO), PARALELO, PARA DETERMINAR LA EFICACIA Y SEGURIDAD DEL COLIRIO DE INSULINA EN EL TRATAMIENTO DEL OJO SECO EN PACIENTES CON HIPOTENSORES TÓPICOS
+
+Indicación: Enfermedad del ojo seco en el glaucoma
+
+Criterios de inclusión:
+1. Pacientes que otorguen su consentimiento informado por escrito y que sean capaces y estén dispuestos a cumplir con todas las visitas y procedimientos programados del estudio.
+2. Pacientes ≥ 18 años en la visita de selección.
+3. Hipertensión ocular o glaucoma controlado con tratamiento hipotensor
+4. Diagnóstico de ojo seco 
+
+Criterios de exclusión:
+1. Glaucoma no controlado con cambios esperables en el tratamiento hipotensor en los próximos 6 meses
+2. Cambios en el tratamiento tópico de glaucoma en los últimos 3 meses
+3. Tratamiento para el ojo seco que contenga conservantes en los últimos 3 meses
+4. Ojo seco grave que necesite tratamiento inmediato
+5. Cirugía ocular previa, excepto cirugía de catarata hace más de 12 meses
+6. Procedimientos láser hace menos de 6 meses
+7. Otra patología ocular concomitante: patología cicatricial de la superficie ocular, uveítis, infección en los últimos 90 días, traumatismo en los últimos 90 días
+8. Alteraciones palpebrales
+9. Uso de lentes de contacto
+10. Otro tratamiento tópico distinto del ojo seco y el glaucoma
+11. Pacientes con antecedentes de alergia o hipersensibilidad a la medicación del estudio o a alguno de sus excipientes 12. Modificaciones en el tratamiento inmunosupresor sistémico en los últimos 6 meses
+13. Antecedentes de abuso de alcohol o drogas
+14. Pacientes que hayan recibido un fármaco experimental o usado un dispositivo médico experimental en un periodo de 30 días antes de la visita de selección.
+15. Patología sistémica (patología cardiopulmonar, alteraciones del tejido conectivo, patología neurológica o psiquiátrica) o situación basal del paciente que no permita la realización de la exploración (como retraso mental o psicomotor).
+16. Cualquier otra enfermedad o condición que, a criterio del investigador, pudiera constituir un riesgo para el participante o interferir con los resultados del estudio.

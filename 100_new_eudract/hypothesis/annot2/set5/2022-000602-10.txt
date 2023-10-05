@@ -1,0 +1,43 @@
+EudraCT Nº:  2022-000602-10
+
+Título público:  Un estudio que compara la administración de tratamiento antibiótico corto y largo en pacientes con infecciones óseas 
+
+Título científico:  Regímenes antibióticos cortos o largos en ortopedia (SOLARIO): Un ensayo clínico multicéntrico aleatorio y abierto 
+
+Indicación pública:  Pacientes adultos que presentan infecciones óseas que deben ser tratadas con antibióticos y cirugía 
+
+Indicación científica:  Infecciones osteoarticulares, incluida la osteomielitis crónica y la infección de prótesis articular) que requieren ciclos prolongados de antibióticos (6 semanas o más) y también tratamiento quirúrgico 
+
+Criterios de inclusión:
+1) Prestación de consentimiento informado
+2) Tener 18 años o más
+3) Que presenten una infección ortopédica, definida por uno o más de los siguientes criterios
+a) dolor localizado, O 
+b) eritema localizado, O 
+c) temperatura ≥ 38,0ºC, O 
+d) un seno o una herida que descargue. 
+4) Sometido a tratamiento quirúrgico por la infección
+5) Antibióticos administrados localmente en un producto aprobado por la HTA o en un soporte con marcado CE para la administración de antibióticos 
+6) Ha recibido <= 7 días de terapia antimicrobiana sistémica después de la cirugía
+7) Se trataría normalmente con un tratamiento prolongado (>= 4 semanas) de antibióticos sistémicos
+8) Muestras para el análisis microbiológico tomadas en la cirugía inicial 
+
+Criterios de exclusión:
+Criterios de exclusión quirúrgica
+
+1) La operación índice no fue un procedimiento definitivo con el objetivo de erradicar la infección:
+a) No se ha logrado el cierre primario, o 
+b) Se ha planificado una cirugía de revisión
+
+2) La operación índice implicaba la retención de un implante (por ejemplo, DAIR)
+
+Criterios de exclusión microbiológica
+
+3) Todos los microorganismos identificados en las muestras operatorias del lugar de la infección incidental son totalmente resistentes a los antibióticos locales administrados en el lugar de la infección
+
+Criterios de exclusión médica
+
+4) Otra infección que requiera un tratamiento antibiótico sistémico adicional más allá de 7 días después de la cirugía, como bacteriemia por Staphylococcus aureus, absceso del psoas, discitis o endocarditis bacteriana.
+
+5) Si el paciente participa en un ensayo clínico con un medicamento en investigación relacionado con la infección 
+

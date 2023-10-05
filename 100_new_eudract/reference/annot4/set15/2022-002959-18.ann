@@ -1,0 +1,64 @@
+T1	PROC 44 73	Estudio abierto de dos grupos
+T2	CHEM 87 100	rilzabrutinib
+T3	LIVB 104 113	pacientes
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	DISO 118 152	enfermedad relacionada con la IgG4
+T5	PROC 173 217	Estudio de fase IIa, abierto y de dos grupos
+T6	CHEM 244 257	rilzabrutinib
+T8	DISO 318 328	enfermedad
+#2	AnnotatorNotes T8	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T9	LIVB 332 341	pacientes
+#3	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	DISO 346 380	enfermedad relacionada con la IgG4
+T12	CHEM 433 451	inmunoglobulina G4
+#5	AnnotatorNotes T12	C0020860; Immunoglobulin IgG4; Amino Acid, Peptide, or Protein · Immunologic Factor
+T15	LIVB 543 549	hombre
+#7	AnnotatorNotes T15	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T16	LIVB 552 557	mujer
+#8	AnnotatorNotes T16	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T17	Age 567 575	≥18 años
+T18	PROC 589 608	diagnóstico clínico
+#9	AnnotatorNotes T18	C0332140; Diagnosis, clinical; Finding
+T19	DISO 612 619	IgG4-RD
+T20	PROC 642 661	disminuir una dosis
+T21	Dose 652 661	una dosis
+T22	CHEM 677 687	prednisona
+#10	AnnotatorNotes T22	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T23	Dose 694 702	20-40 mg
+T24	Frequency 702 706	/día
+T25	Duration 710 719	2 semanas
+T26	Date 748 759	Actualmente
+T27	Duration 772 783	los 6 meses
+T28	CHEM 819 828	rituximab
+#11	AnnotatorNotes T28	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T30	ANAT 860 869	células B
+#12	AnnotatorNotes T30	C0004561; B-Lymphocytes; Cell
+T31	CHEM 872 891	agentes alquilantes
+#13	AnnotatorNotes T31	C0002073; Alkylating Agents; Hazardous or Poisonous Substance · Pharmacologic Substance
+T33	ANAT 1010 1017	células
+#14	AnnotatorNotes T33	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T34	PROC 1042 1061	citometría de flujo
+#15	AnnotatorNotes T34	C0016263; Flow Cytometry; Laboratory Procedure
+T35	PROC 1079 1106	trasplante de órgano sólido
+T36	PROC 1125 1144	prueba de detección
+T37	DISO 1148 1151	VIH
+#16	AnnotatorNotes T37	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T38	DISO 1153 1164	hepatitis B
+#17	AnnotatorNotes T38	C0019163; Hepatitis B; Disease or Syndrome
+T39	DISO 1166 1177	hepatitis C
+#18	AnnotatorNotes T39	C0019196; Hepatitis C; Disease or Syndrome
+T40	DISO 1180 1182	TB
+#19	AnnotatorNotes T40	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
+T41	LIVB 1186 1193	Mujeres
+#20	AnnotatorNotes T41	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T42	PHYS 1218 1229	amamantando
+#21	AnnotatorNotes T42	C0006147; Breast Feeding; Organism Function
+T13	DISO 476 510	Enfermedad relacionada con la IgG4
+T14	CHEM 148 152	IgG4
+T43	CHEM 376 380	IgG4
+T11	DISO 403 451	Enfermedad relacionada con la inmunoglobulina G4
+T44	CHEM 506 510	IgG4
+T45	PHYS 1204 1215	embarazadas
+T29	CHEM 836 843	agentes
+T46	CHEM 259 266	PRN1008
+T7	CHEM 267 276	SAR444671

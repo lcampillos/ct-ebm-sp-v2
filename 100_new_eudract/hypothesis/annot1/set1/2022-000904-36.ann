@@ -1,0 +1,102 @@
+T1	PROC 46 60	Ensayo clínico
+#1	AnnotatorNotes T1	C0008976; Clinical Trials; Research Activity
+T2	PROC 98 112	administración
+#2	AnnotatorNotes T2	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T3	CHEM 117 137	verde de indocianina
+#3	AnnotatorNotes T3	C0021234; indocyanine green; Indicator, Reagent, or Diagnostic Aid · Organic Chemical
+T4	PROC 144 171	colangiografía fluorescente
+T5	PROC 183 212	colecistectomía laparoscópica
+#4	AnnotatorNotes T5	C0162522; Cholecystectomy, Laparoscopic; Therapeutic or Preventive Procedure
+T6	PROC 236 263	Ensayo clínico aleatorizado
+T7	PROC 301 315	administración
+#5	AnnotatorNotes T7	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T8	CHEM 320 340	verde de indocianina
+#6	AnnotatorNotes T8	C0021234; indocyanine green; Indicator, Reagent, or Diagnostic Aid · Organic Chemical
+T9	PROC 347 397	colangiografía fluorescente por infrarrojo cercano
+T10	PROC 409 438	colecistectomía laparoscópica
+#7	AnnotatorNotes T10	C0162522; Cholecystectomy, Laparoscopic; Therapeutic or Preventive Procedure
+T11	PROC 463 492	Colecistectomía laparoscópica
+#8	AnnotatorNotes T11	C0162522; Cholecystectomy, Laparoscopic; Therapeutic or Preventive Procedure
+T12	Age 526 541	mayor a 18 años
+T13	DISO 606 608	CL
+T14	DISO 624 648	Colelitiasis sintomática
+T15	DISO 666 682	cólicos biliares
+#9	AnnotatorNotes T15	C0151824; Biliary Colic; Disease or Syndrome
+T16	DISO 684 712	colecistitis aguda litiásica
+#10	AnnotatorNotes T16	C0149520; Acute Cholecystitis; Disease or Syndrome
+T17	DISO 714 730	coledocolitiasis
+#11	AnnotatorNotes T17	C0701818; Choledocholithiasis; Disease or Syndrome
+T18	DISO 732 759	colangitis aguda ascendente
+T19	DISO 770 779	litiásico
+#12	AnnotatorNotes T19	C0023869; Lithiasis; Pathologic Function
+T20	DISO 782 810	pancreatitis aguda litiásica
+T21	DISO 814 833	Pólipos vesiculares
+#13	AnnotatorNotes T21	C0262493; Polyp of gallbladder; Neoplastic Process
+T22	PROC 852 873	cirugía laparoscópica
+#14	AnnotatorNotes T22	C0751429; Surgical Procedures, Laparoscopic; Therapeutic or Preventive Procedure
+T23	DISO 878 903	Adenomiomatosis vesicular
+T24	PROC 922 943	cirugía laparoscópica
+#15	AnnotatorNotes T24	C0751429; Surgical Procedures, Laparoscopic; Therapeutic or Preventive Procedure
+T25	Duration 972 982	(<72 horas
+T26	PROC 986 993	ingreso
+#16	AnnotatorNotes T26	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T27	DISO 998 1026	colecistitis aguda litiásica
+#17	AnnotatorNotes T27	C0149520; Acute Cholecystitis; Disease or Syndrome
+T28	DISO 1027 1056	colecistitis aguda alitiásica
+T29	DISO 1057 1081	cólico biliar complicado
+T30	PHYS 1128 1139	Comprensión
+#18	AnnotatorNotes T30	C0162340; Comprehension; Mental Process
+T31	PROC 1171 1195	consentimiento informado
+#19	AnnotatorNotes T31	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T32	Age 1230 1245	menor a 18 años
+T33	PHYS 1265 1273	Embarazo
+#20	AnnotatorNotes T33	C0032961; Pregnancy; Organism Function
+T34	PHYS 1276 1285	lactancia
+#21	AnnotatorNotes T34	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T35	DISO 1289 1313	Enfermedad renal crónica
+#22	AnnotatorNotes T35	C0403447; Chronic Kidney Insufficiency; Disease or Syndrome | C1561643; Chronic Kidney Diseases; Disease or Syndrome
+T36	Duration 1306 1313	crónica
+T37	DISO 1334 1353	Reacciones adversas
+#23	AnnotatorNotes T37	C0559546; Adverse reactions; Pathologic Function
+T38	DISO 1356 1364	alergias
+#24	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function
+T39	DISO 1383 1402	Reacciones adversas
+#25	AnnotatorNotes T39	C0559546; Adverse reactions; Pathologic Function
+T40	DISO 1405 1413	alergias
+#26	AnnotatorNotes T40	C0020517; Hypersensitivity; Pathologic Function
+T41	CHEM 1424 1435	excipientes
+#27	AnnotatorNotes T41	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T42	DISO 1446 1465	Reacciones adversas
+#28	AnnotatorNotes T42	C0559546; Adverse reactions; Pathologic Function
+T43	DISO 1468 1476	alergias
+#29	AnnotatorNotes T43	C0020517; Hypersensitivity; Pathologic Function
+T44	CHEM 1491 1509	contrastes iodados
+T45	DISO 1513 1541	Patología tiroidea funcional
+T46	DISO 1543 1558	hipertiroidismo
+#30	AnnotatorNotes T46	C0020550; Hyperthyroidism; Disease or Syndrome
+T47	DISO 1560 1570	tiroiditis
+#31	AnnotatorNotes T47	C0040147; Thyroiditis; Disease or Syndrome
+T48	DISO 1572 1597	bocio multinodular tóxico
+T49	DISO 1599 1615	adenoma tiroideo
+#32	AnnotatorNotes T49	C0151468; Thyroid Gland Follicular Adenoma; Neoplastic Process
+T50	PROC 1633 1648	Cirugía urgente
+T51	Neg_cue 1649 1651	no
+T52	Negated 1652 1661	diferible
+T53	Negated 1662 1671	emergente
+T54	ANAT 1678 1693	vesícula biliar
+#33	AnnotatorNotes T54	C0016976; Gallbladder; Body Part, Organ, or Organ Component | C1269001; Entire gallbladder; Body Part, Organ, or Organ Component
+T55	PROC 1698 1705	Cirugía
+#34	AnnotatorNotes T55	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T56	PROC 1722 1734	laparotómica
+#35	AnnotatorNotes T56	C0023038; Laparotomy; Therapeutic or Preventive Procedure
+T57	Spec_cue 1738 1746	Sospecha
+T58	DISO 1757 1785	carcinoma de vesícula biliar
+#36	AnnotatorNotes T58	C0235782; Gallbladder Carcinoma; Neoplastic Process
+T59	Speculated 1757 1785	carcinoma de vesícula biliar
+T60	Neg_cue 1791 1805	Incapacidad de
+T61	PHYS 1806 1816	comprender
+T62	Negated 1806 1816	comprender
+T63	Neg_cue 1876 1886	Rechazo de
+T64	Negated 1887 1929	inclusión dentro del protocolo del estudio
+T65	PROC 1908 1917	protocolo
+#37	AnnotatorNotes T65	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure

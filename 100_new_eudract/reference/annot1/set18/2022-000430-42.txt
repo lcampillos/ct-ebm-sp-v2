@@ -1,0 +1,35 @@
+EudraCT Nº: 2022-000430-42
+
+Título público: Un estudio para evaluar si aticaprant agregado a un antidepresivo actual y administrado hasta por un año es seguro y ayudaría a mejorar la depresión.
+
+Título científico: Un estudio abierto y a largo plazo para evaluar la seguridad y la eficacia de aticaprant como tratamiento complementario en participantes adultos y de edad avanzada con trastorno depresivo mayor (TDM).
+
+Indicación pública: Depresión
+
+Indicación científica: Trastorno depresivo mayor (TDM)
+
+Criterios de inclusión:
+
+Participantes de entrada transferida: 
+- Los participantes tienen que haber completado el tratamiento doble ciego de las fases de los estudios MDD3001 o MDD3002. 
+- El participante debe estar médicamente estable según el examen físico, el historial médico, los signos vitales (incluida la presión arterial) y el ECG de 12 derivaciones realizado al inicio y antes del inicio del tratamiento de etiqueta abierta. Participantes de entrada directa: 
+- De sexo masculino o femenino, de 18 a 74 años, ambos inclusive. 
+- Cumplir con los criterios diagnósticos de la 5.ª versión del Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-5) para TDM recurrente o de episodio único, sin características psicóticas. Los participantes de 65 años o más deberán haber sufrido el primer episodio de depresión antes de los 55 años. 
+- Haber tenido una respuesta inadecuada a un mínimo de 1, pero no más de 3 antidepresivos, administrados a una dosis adecuada y una duración adecuada en el episodio actual de depresión. 
+- Estar recibiendo y tolerando bien un ISRS/IRSN para síntomas depresivos en la fase de selección, a una dosis adecuada durante al menos 6 semanas. 
+- Tener una puntuación total de ≥ 20 en la primera y segunda entrevista de selección de la Escala de evaluación de la depresión de Hamilton de 17 elementos (HDRS-17) sin una mejora superior al 20 % de la primera a la segunda evaluación. 
+
+Criterios de exclusión:
+
+Participantes de entrada transferida: 
+- El participante no cumplió con la administración de la intervención del estudio en la fase de tratamiento doble ciego (DB) en cualquiera de los estudios 67953964MDD3001 o 67953964MDD3002. 
+- La evaluación del beneficio frente al riesgo de continuar el tratamiento con aticacaprant no es favorable para el participante en opinión del investigador. 
+- El participante informa de ideas suicidas con intención de actuar o comportamiento suicida al inicio del estudio. 
+- El participante ha tomado cualquier terapia prohibida que no permitiría la dosificación en el Día 1, como se indica en la sección de terapia previa al estudio y concomitante. 
+- El participante tiene alguna condición o situación/circunstancia por la cual, en opinión del investigador, la participación no sería lo mejor para el participante (p. ej., comprometer el bienestar) o que podría impedir, limitar o confundir las evaluaciones especificadas en el protocolo. Participantes de entrada directa: 
+- El participante carece de una mejora clínicamente significativa con respecto al ISRS/IRSN actual 
+- Tiene antecedentes o evidencia de incumplimiento clínicamente significativo con la terapia antidepresiva actual. 
+- Tiene antecedentes de trastorno por consumo de sustancias de moderado a grave, incluido el trastorno por consumo de alcohol según los criterios del DSM-5 en los 6 meses anteriores a la selección. 
+- Ha recibido en los últimos 5 años algún tratamiento antidepresivo previo con ketamina/esketamina, terapia electroconvulsiva (es decir, al menos 7 tratamientos), estimulación del nervio vagal o un dispositivo de estimulación cerebral profunda 
+- Tiene una idea/intención homicida actual, según el juicio clínico del investigador, o tiene ideas suicidas con alguna intención de actuar dentro de los 3 meses anteriores al inicio de la fase de selección. 
+

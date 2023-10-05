@@ -1,0 +1,71 @@
+T1	PROC 47 102	Estudio de fase 3b/4 aleatorizado, abierto, enmascarado
+T3	PROC 145 192	comparar la seguridad y la eficacia enmascarada
+T4	LIVB 202 213	evaluadores
+T5	CHEM 217 229	upadacitinib
+T6	CHEM 239 248	dupilumab
+#1	AnnotatorNotes T6	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T7	LIVB 252 261	pacientes
+#2	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
+T8	DISO 266 284	dermatitis atópica
+#3	AnnotatorNotes T8	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T9	DISO 327 345	Dermatitis atópica
+#4	AnnotatorNotes T9	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T10	DISO 367 373	Eczema
+#5	AnnotatorNotes T10	C0013595; Eczema; Disease or Syndrome
+T11	LIVB 403 412	Pacientes
+#6	AnnotatorNotes T11	C0030705; Patients; Patient or Disabled Group
+T12	Age 413 421	≥12 años
+T13	Age 455 463	<65 años
+T14	LIVB 468 475	Sujetos
+#7	AnnotatorNotes T14	C0681850; Study Subject; Group
+T15	DISO 480 490	DA crónica
+T16	Duration 483 490	crónica
+T17	DISO 497 505	síntomas
+#8	AnnotatorNotes T17	C1457887; Symptoms; Sign or Symptom
+T18	Duration 518 533	al menos 3 años
+T19	ANAT 654 673	superficie corporal
+T20	ANAT 675 677	SC
+#9	AnnotatorNotes T20	C0456944; Coronary sinus structure; Body Part, Organ, or Organ Component | C1269893; Entire coronary sinus; Body Part, Organ, or Organ Component
+T21	DISO 695 697	DA
+T22	PROC 710 716	visita
+T23	Frequency 736 743	semanal
+T24	Frequency 767 773	diaria
+T25	PROC 780 786	WP-NRS
+T26	PROC 849 870	tratamiento sistémico
+T27	PROC 967 988	tratamiento sistémico
+T28	DISO 1004 1006	DA
+T31	PROC 1070 1093	tratamientos sistémicos
+T33	Contraindicated 1070 1093	tratamientos sistémicos
+T34	CHEM 1179 1195	inhibidor de JAK
+T35	Route 1196 1200	oral
+T36	Route 1203 1209	tópico
+T37	CHEM 1235 1247	upadacitinib
+T38	CHEM 1249 1255	Rinvoq
+T39	CHEM 1259 1270	tofacitinib
+#10	AnnotatorNotes T39	C2930696; tofacitinib; Organic Chemical · Pharmacologic Substance
+T40	CHEM 1272 1279	Xeljanz
+T41	CHEM 1283 1294	ruxolitinib
+#11	AnnotatorNotes T41	C2931926; ruxolitinib; Organic Chemical · Pharmacologic Substance
+T42	CHEM 1296 1302	Jakafi
+#12	AnnotatorNotes T42	C3247913; Jakafi; Organic Chemical · Pharmacologic Substance
+T43	CHEM 1306 1314	Opzelura
+T44	CHEM 1318 1329	baricitinib
+#13	AnnotatorNotes T44	C4044947; baricitinib; Organic Chemical · Pharmacologic Substance
+T45	CHEM 1331 1339	Olumiant
+T46	CHEM 1343 1354	peficitinib
+T47	CHEM 1356 1362	Smyraf
+T48	CHEM 1366 1377	abrocitinib
+T49	CHEM 1379 1386	Cibinqo
+T50	CHEM 1391 1401	filgotinib
+#14	AnnotatorNotes T50	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T51	CHEM 1403 1411	Jyseleca
+T52	CHEM 1437 1446	dupilumab
+#15	AnnotatorNotes T52	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T53	CHEM 1448 1460	tralokinumab
+T54	CHEM 1463 1475	lebrikizumab
+T55	LIVB 112 123	evaluadores
+T2	PROC 576 604	criterios de Hanifin y Rajka
+T56	PROC 620 624	EASI
+T29	Route 979 988	sistémico
+T30	Route 861 870	sistémico
+T32	Route 1083 1093	sistémicos

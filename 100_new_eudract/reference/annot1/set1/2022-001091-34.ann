@@ -1,0 +1,92 @@
+T1	CHEM 72 82	BI 1015550
+T2	PHYS 93 109	función pulmonar
+T3	LIVB 113 121	personas
+#1	AnnotatorNotes T3	C0027361; Persons; Population Group
+T4	DISO 126 154	Fibrosis Pulmonar Idiopática
+#2	AnnotatorNotes T4	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T5	DISO 156 159	FPI
+#3	AnnotatorNotes T5	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T6	PROC 183 240	Ensayo doble ciego, aleatorizado y controlado con placebo
+T7	PROC 246 277	evaluar la eficacia y seguridad
+T8	CHEM 282 292	BI 1015550
+T9	Duration 301 320	al menos 52 semanas
+T10	LIVB 324 333	pacientes
+#4	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 338 366	Fibrosis Pulmonar Idiopática
+#5	AnnotatorNotes T11	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T12	DISO 368 371	FPI
+#6	AnnotatorNotes T12	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T13	DISO 396 420	Fibrosis de los pulmones
+#7	AnnotatorNotes T13	C0034069; Pulmonary Fibrosis; Disease or Syndrome
+T14	Neg_cue 431 433	no
+T15	Negated 434 446	identificado
+T16	DISO 473 501	Fibrosis Pulmonar Idiopática
+#8	AnnotatorNotes T16	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T17	DISO 503 506	FPI
+#9	AnnotatorNotes T17	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T18	LIVB 534 543	Pacientes
+#10	AnnotatorNotes T18	C0030705; Patients; Patient or Disabled Group
+T19	Age 547 555	≥40 años
+T20	PROC 586 600	consentimiento
+T21	PROC 609 620	Diagnóstico
+#11	AnnotatorNotes T21	C0011900; Diagnosis; Diagnostic Procedure
+T22	DISO 624 627	FPI
+#12	AnnotatorNotes T22	C0085786; Hamman-Rich syndrome; Disease or Syndrome | C1279945; Acute interstitial pneumonia; Disease or Syndrome | C1800706; Idiopathic Pulmonary Fibrosis; Disease or Syndrome
+T23	PROC 673 676	CVF
+T24	PROC 709 713	DLCO
+#13	AnnotatorNotes T24	C1516251; Carbon Monoxide Diffusing Capability Test; Diagnostic Procedure
+T25	PROC 758 769	tratamiento
+#14	AnnotatorNotes T25	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T26	CHEM 782 792	nintedanib
+#15	AnnotatorNotes T26	C2930789; nintedanib; Organic Chemical · Pharmacologic Substance
+T27	CHEM 795 806	pirfenidona
+#16	AnnotatorNotes T27	C0298067; pirfenidone; Organic Chemical · Pharmacologic Substance
+T28	Duration 815 834	al menos 12 semanas
+T29	Neg_cue 837 840	sin
+T30	PROC 841 852	tratamiento
+#17	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	Negated 841 852	tratamiento
+T32	CHEM 857 867	nintedanib
+#18	AnnotatorNotes T32	C2930789; nintedanib; Organic Chemical · Pharmacologic Substance
+T33	Negated 857 867	nintedanib
+T34	CHEM 870 881	pirfenidona
+#19	AnnotatorNotes T34	C0298067; pirfenidone; Organic Chemical · Pharmacologic Substance
+T35	Negated 870 881	pirfenidona
+T36	Duration 890 908	al menos 8 semanas
+T37	DISO 935 983	Obstrucción importante de las vías respiratorias
+T38	PROC 985 993	FEV1/FVC
+T39	PROC 1011 1027	broncodilatación
+#20	AnnotatorNotes T39	C1371299; Bronchodilation [PE]; Organ or Tissue Function
+T40	DISO 1029 1057	Exacerbación aguda de la FPI
+T41	Duration 1061 1072	los 3 meses
+T42	PROC 1120 1131	Tratamiento
+#21	AnnotatorNotes T42	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T43	CHEM 1136 1166	medicamentos inmunomoduladores
+T44	Neg_cue 1172 1174	no
+T45	CHEM 1180 1196	corticosteroides
+#22	AnnotatorNotes T45	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T46	Negated 1180 1196	corticosteroides
+T47	Route 1197 1203	orales
+T49	Negated 1207 1217	prednisona
+#23	AnnotatorNotes T49	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T50	Dose 1218 1225	> 15 mg
+T51	Frequency 1225 1229	/día
+T52	PHYS 1256 1269	respiratorios
+#24	AnnotatorNotes T52	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
+T53	ANAT 1272 1282	pulmonares
+#25	AnnotatorNotes T53	C1269007; Entire pulmonary valve; Body Part, Organ, or Organ Component | C1269026; Entire pulmonary artery; Body Part, Organ, or Organ Component | C1278908; Entire lung; Body Part, Organ, or Organ Component
+T54	DISO 1283 1293	Vasculitis
+#26	AnnotatorNotes T54	C0042384; Vasculitis; Disease or Syndrome | C0264939; Systemic Vasculitis; Finding | C1328843; Autoimmune vasculitis; Disease or Syndrome
+T55	Neg_cue 1314 1316	no
+T56	Negated 1317 1327	controlada
+T57	Duration 1331 1352	las 8 semanas previas
+T58	DISO 1363 1385	comportamiento suicida
+#27	AnnotatorNotes T58	C1760428; Suicidal behavior; Finding
+T59	Duration 1389 1407	los últimos 2 años
+T60	DISO 1418 1434	ideación suicida
+#28	AnnotatorNotes T60	C0424000; Feeling suicidal (finding); Finding
+T61	Duration 1465 1484	los últimos 3 meses
+T62	PROC 46 53	Estudio
+T48	CHEM 1207 1217	prednisona
+T65	PROC 1455 1461	C-SSRS
+T66	PROC 1110 1119	selección

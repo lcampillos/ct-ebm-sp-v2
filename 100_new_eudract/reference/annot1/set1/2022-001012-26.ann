@@ -1,0 +1,89 @@
+T1	PROC 46 96	Estudio para evaluar la efectividad y la seguridad
+T2	CHEM 100 111	efzofitimod
+T3	LIVB 115 124	pacientes
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	DISO 129 149	sarcoidosis pulmonar
+#2	AnnotatorNotes T4	C0036205; Sarcoidosis, Pulmonary; Disease or Syndrome
+T5	PROC 172 244	Estudio de fase 3, aleatorizado, en doble ciego y controlado con placebo
+T6	PROC 251 285	evaluar la eficacia y la seguridad
+T7	CHEM 289 300	efzofitimod
+T8	Route 301 312	intravenoso
+T9	LIVB 316 325	pacientes
+#3	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	DISO 330 350	sarcoidosis pulmonar
+#4	AnnotatorNotes T10	C0036205; Sarcoidosis, Pulmonary; Disease or Syndrome
+T11	DISO 374 394	Sarcoidosis pulmonar
+#5	AnnotatorNotes T11	C0036205; Sarcoidosis, Pulmonary; Disease or Syndrome
+T12	PROC 423 434	Diagnóstico
+#6	AnnotatorNotes T12	C0011900; Diagnosis; Diagnostic Procedure
+T13	DISO 449 469	sarcoidosis pulmonar
+#7	AnnotatorNotes T13	C0036205; Sarcoidosis, Pulmonary; Disease or Syndrome
+T14	Duration 481 497	al menos 6 meses
+T15	PROC 538 549	diagnóstico
+#8	AnnotatorNotes T15	C0011900; Diagnosis; Diagnostic Procedure
+T16	DISO 553 564	sarcoidosis
+#9	AnnotatorNotes T16	C0036202; Sarcoidosis; Disease or Syndrome
+T17	PROC 590 606	histológicamente
+T18	PROC 611 628	biopsia de tejido
+T19	DISO 655 689	afectación del parénquima pulmonar
+T20	PROC 699 719	pruebas radiológicas
+T21	DISO 742 774	sarcoidosis pulmonar sintomática
+T23	LIVB 980 989	pacientes
+#11	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T25	Duration 1046 1056	>= 3 meses
+T26	Dose 1061 1070	una dosis
+T27	Dose 1085 1100	>=7,5 y <=25 mg
+T28	Frequency 1100 1104	/día
+T29	PROC 1108 1121	Peso corporal
+T30	PROC 1168 1179	Tratamiento
+#12	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	CHEM 1187 1201	inmunosupresor
+#13	AnnotatorNotes T31	C0021081; Immunosuppressive Agents; Immunologic Factor · Pharmacologic Substance
+T32	Route 1202 1206	oral
+T33	PROC 1210 1221	Tratamiento
+#14	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T34	CHEM 1226 1254	inmunomoduladores biológicos
+#15	AnnotatorNotes T34	C1527392; Immunomodulators; Immunologic Factor · Pharmacologic Substance
+T35	CHEM 1265 1312	inhibidores del factor de necrosis tumoral alfa
+T36	CHEM 1314 1322	FNT-alfa
+T37	CHEM 1326 1340	antifibróticos
+T38	CHEM 1343 1373	inhibidores de la interleucina
+T39	Spec_cue 1377 1392	Probabilidad de
+T40	DISO 1393 1410	fibrosis pulmonar
+#16	AnnotatorNotes T40	C0034069; Pulmonary Fibrosis; Disease or Syndrome
+T41	Speculated 1393 1410	fibrosis pulmonar
+T43	DISO 1483 1491	Fibrosis
+#17	AnnotatorNotes T43	C0016059; Fibrosis; Pathologic Function
+T44	PROC 1498 1520	TAC de alta resolución
+T45	PROC 1544 1547	FVC
+T46	DISO 1599 1620	Hipertensión pulmonar
+#18	AnnotatorNotes T46	C0020542; Pulmonary Hypertension; Pathologic Function
+T47	PROC 1661 1672	tratamiento
+#19	AnnotatorNotes T47	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T48	CHEM 1677 1692	vasodilatadores
+#20	AnnotatorNotes T48	C0042402; Vasodilator Agents; Pharmacologic Substance
+T49	LIVB 1696 1705	Pacientes
+#21	AnnotatorNotes T49	C0030705; Patients; Patient or Disabled Group
+T50	DISO 1710 1730	sarcoidosis cardíaca
+T51	DISO 1732 1748	neurosarcoidosis
+T52	DISO 1751 1768	sarcoidosis renal
+T53	DISO 1772 1800	Sarcoidosis cutánea u ocular
+T54	DISO 1848 1868	síntomas adisonianos
+T55	Neg_cue 1873 1883	impidieron
+T56	Negated 1911 1931	reducción progresiva
+T57	CHEM 1939 1942	OCS
+T58	DISO 1946 1953	Fumador
+#22	AnnotatorNotes T58	C0337664; Smoker; Finding
+T59	CHEM 2002 2008	tabaco
+#23	AnnotatorNotes T59	C0040329; Tobacco; Hazardous or Poisonous Substance · Organic Chemical
+T60	CHEM 2009 2017	nicotina
+#24	AnnotatorNotes T60	C0028040; nicotine; Hazardous or Poisonous Substance · Organic Chemical
+T61	DISO 2037 2059	síndrome antisintetasa
+T62	CHEM 2076 2080	Jo-1
+T63	PROC 829 895	escala de disnea modificada del Consejo de Investigaciones Médicas
+T22	PROC 897 900	MRC
+T64	PROC 959 967	KSQ-Lung
+T42	PROC 1583 1591	KSQ-Lung
+T65	PROC 1015 1026	tratamiento
+T24	CHEM 1031 1034	OCS
+T66	PROC 1911 1931	reducción progresiva

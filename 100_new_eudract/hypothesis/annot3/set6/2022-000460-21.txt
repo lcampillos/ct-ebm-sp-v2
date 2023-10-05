@@ -1,0 +1,19 @@
+EudraCT Nº:  2022-000460-21
+
+Título público:  Seguridad y eficacia de ALXN1720 en adultos con miastenia gravis generalizada. 
+
+Título científico:  Estudio de fase 3, aleatorizado, doble ciego, controlado con placebo, paralelo y multicéntrico para evaluar la seguridad y eficacia de ALXN1720 en adultos con miastenia gravis generalizada. 
+
+Indicación pública:  Miastenia Gravis Generalizada 
+
+Criterios de inclusión:
+- Debe ser ≥18 años en el momento de firmar el consentimiento informado 
+- Diagnóstico de MG con debilidad muscular generalizada que cumple con los criterios clínicos definidos por la Fundación de Miastenia Gravis de los EE. UU. (Myasthenia Gravis Foundation of America, MGFA) Clase II, III o IV
+- Prueba serológica positiva para autoanticuerpos contra AChR. 
+
+Criterios de exclusión:
+- Antecedentes de timectomía o cualquier otra cirugía tímica en los 12 meses anteriores a la selección
+- Neoplasia tímica maligna, carcinoma o timoma no tratados
+- Antecedentes de infección por Neisseria meningitidis
+- Embarazo, lactancia o intención de concebir durante el transcurso del estudio 
+

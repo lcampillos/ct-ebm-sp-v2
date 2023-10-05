@@ -1,0 +1,33 @@
+EudraCT Nº:  2022-000757-93
+
+Título público:  Estudio sin enmascaramiento a largo plazo para evaluar la seguridad y la eficacia de donidalorsén como tratamiento profiláctico del angioedema hereditario (AEH) 
+
+Indicación pública:  Enfermedad genética caracterizada por la aparición de edemas subcutáneos y/o submucosos transitorios y recurrentes que resultan en hinchazón y/o dolor abdominal 
+
+Indicación científica:  angioedema hereditario (AEH) 
+
+Criterios de inclusión:
+1. Los participantes y, según corresponda, los representantes legalmente autorizados (es decir, padre(s)/tutor legal), deben proporcionar un formulario de consentimiento informado (ICF) por escrito y firmado.
+2. Los participantes deben tener acceso a, y la capacidad de usar, ≥ 1 medicamento(s) agudo(s) (p. ej., concentrado de C1-INH recombinante o derivado de plasma o un antagonista del receptor de bradicinina (BK) 2) para tratar los ataques de angioedema
+SÓLO participantes de extensión de etiqueta abierta:
+3. Finalización satisfactoria de ISIS 721744-CS5 (estudio de índice aleatorizado controlado con placebo) hasta la semana 25 o participantes a los que se les permite salir del estudio ISIS 721744-CS5 por protocolo con un perfil de seguridad y tolerabilidad aceptable
+Participantes nuevos (no previamente en donidalorsen) SOLAMENTE
+4. Los participantes deben tener ≥ 12 años en el momento del consentimiento informado y, según corresponda, el asentimiento.
+5. Los participantes deben tener un diagnóstico documentado de HAE-1/HAE-2
+6. Los participantes deben estar en una dosis estable (≥ 12 semanas) de tratamiento profiláctico con lanadelumab o berotralstat o inhibidor de la esterasa SC C1 antes del período de selección. 
+
+Criterios de exclusión:
+1. Tiene alguna condición nueva o empeoramiento de una condición existente o cambio o cambio anticipado en la medicación
+Participantes nuevos:
+2. Diagnóstico concurrente de cualquier otro tipo de angioedema recurrente, incluido el angioedema idiopático adquirido o AEH con C1-INH normal (también conocido como AEH tipo III)
+3. Cambio anticipado en el uso de andrógenos concomitantes o profilaxis con ácido tranexámico para prevenir ataques de angioedema
+Cualquier anormalidad clínicamente significativa en los valores de laboratorio de detección
+4. Neoplasia maligna dentro de los 5 años posteriores a la detección, a excepción de los cánceres de piel no melanoma, el carcinoma in situ de cuello uterino, el carcinoma ductal de mama in situ o el carcinoma de próstata en estadio 1 que se haya tratado con éxito.
+5. Hipersensibilidad al principio activo (donidalorsen) o a alguno de los excipientes
+6. Tratamiento con otro fármaco en investigación (no oligonucleótido) o agente biológico en el plazo de 1 mes desde la selección o 5 semividas del agente en investigación, lo que sea más largo
+7. Historial reciente o abuso actual de drogas o alcohol
+8. Participó en un estudio anterior de donidalorsen
+9. Exposición a cualquiera de los siguientes medicamentos:
+Inhibidores de la enzima convertidora de angiotensina (ECA) o cualquier medicamento que contenga estrógeno con absorción sistémica
+Oligonucleótidos (incluido el ácido ribonucleico de interferencia pequeño [siRNA]) dentro de los 4 meses posteriores a la selección si se recibió una dosis única, o dentro de los 12 meses posteriores a la selección si se recibieron dosis múltiples. Esta exclusión no se aplica a las vacunas. 
+

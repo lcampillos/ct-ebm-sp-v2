@@ -1,0 +1,42 @@
+T1	CHEM 55 65	prilocaína
+#1	AnnotatorNotes T1	C0033124; prilocaine; Organic Chemical · Pharmacologic Substance
+T2	Route 66 79	intraraquídea
+T3	PROC 107 133	biopsia de próstata fusión
+T4	PROC 137 156	cirugía ambulatoria
+#2	AnnotatorNotes T4	C0002428; Ambulatory Surgical Procedures; Therapeutic or Preventive Procedure
+T5	CHEM 220 230	prilocaína
+#3	AnnotatorNotes T5	C0033124; prilocaine; Organic Chemical · Pharmacologic Substance
+T6	Route 243 253	intratecal
+T7	PROC 290 320	biopsia de próstata por fusión
+T8	PROC 324 343	cirugía ambulatoria
+#4	AnnotatorNotes T8	C0002428; Ambulatory Surgical Procedures; Therapeutic or Preventive Procedure
+T9	PROC 367 376	anestesia
+#5	AnnotatorNotes T9	C0002903; Anesthesia procedures; Therapeutic or Preventive Procedure
+T10	PROC 398 417	biopsia de próstata
+#6	AnnotatorNotes T10	C0194804; Biopsy of prostate; Diagnostic Procedure
+T11	PROC 422 441	cirugía ambulatoria
+#7	AnnotatorNotes T11	C0002428; Ambulatory Surgical Procedures; Therapeutic or Preventive Procedure
+T12	PROC 468 477	anestesia
+#8	AnnotatorNotes T12	C0002903; Anesthesia procedures; Therapeutic or Preventive Procedure
+T13	PROC 499 529	biopsia de próstata por fusión
+T14	PROC 533 552	cirugía ambulatoria
+#9	AnnotatorNotes T14	C0002428; Ambulatory Surgical Procedures; Therapeutic or Preventive Procedure
+T15	LIVB 579 589	-Pacientes
+T16	PROC 590 593	ASA
+T17	PROC 597 600	ASA
+T18	PROC 606 609	ASA
+T19	Age 628 644	entre 18-85 años
+T20	PROC 666 692	biopsia de próstata fusión
+#10	AnnotatorNotes T20	C0194804; Biopsy of prostate; Diagnostic Procedure
+T21	PROC 706 730	consentimiento informado
+#11	AnnotatorNotes T21	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T22	PROC 788 805	bloqueo neuraxial
+T23	Contraindicated 788 805	bloqueo neuraxial
+T24	DISO 807 819	coagulopatía
+#12	AnnotatorNotes T24	C0005779; Blood Coagulation Disorders; Disease or Syndrome
+T25	DISO 821 841	infección de la zona
+T26	DISO 846 867	deterioro neurológico
+T27	DISO 869 876	alergia
+#13	AnnotatorNotes T27	C0020517; Hypersensitivity; Pathologic Function
+T28	CHEM 892 911	anestésicos locales
+#14	AnnotatorNotes T28	C0002934; Local Anesthetics; Organic Chemical · Pharmacologic Substance

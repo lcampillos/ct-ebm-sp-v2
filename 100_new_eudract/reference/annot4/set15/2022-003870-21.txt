@@ -1,0 +1,27 @@
+EudraCT Nº: 2022-003870-21
+
+Título público: Estudio de fase 3, abierto y cruzado, para evaluar la autoadministración del rozanolixizumab por los participantes en el estudio con gMG.
+
+Título científico: Estudio abierto y cruzado para evaluar la autoadministración del rozanolixizumab por los participantes en el estudio con miastenia gravis generalizada.
+
+Indicación pública: La miastenia gravis es una enfermedad autoinmunitaria que causa debilidad en los músculos; es causada por un problema de comunicación entre los nervios y los músculos.
+
+Indicación científica: Miastenia gravis generalizada
+
+Criterios de inclusión:
+
+- Los participantes en el estudio deben tener un diagnóstico documentado de Miastenia gravis (gMG)
+- El participante del estudio está dispuesto a realizar y es capaz de realizar la autoadministración domiciliaria
+- Se considera que el participante del estudio recibe rozanolixizumab adicional
+- Tratamiento con la posología propuesta en este estudio
+- Peso corporal >=35 kg
+- Los participantes del estudio pueden ser hombres o mujeres
+
+Criterios de exclusión:
+
+- El participante del estudio tiene una hipersensibilidad conocida a cualquiera de los componentes del medicamento del estudio u otros medicamentos anti-receptor Fc neonatal (FcRn).
+- Participante del estudio con una infección de tuberculosis (TB) conocida, con alto riesgo de contraer una infección de TB o una infección de tuberculosis latente (LTBI), o una infección por micobacterias no tuberculosas actual o anterior (NTMBI)
+- El participante del estudio tiene una infección activa clínicamente relevante o antecedentes de infección grave (que resultó en hospitalización o requirió tratamiento con antibióticos por vía intravenosa) dentro de las 6 semanas anteriores a la visita inicial
+- El participante del estudio participó previamente en cualquier estudio de rozanolixizumab MG y cumplió con los criterios obligatorios de retiro o interrupción obligatoria del fármaco del estudio.
+- El participante del estudio ha recibido una vacuna viva dentro de las 4 semanas antes de comenzar el tratamiento, o una vacuna de Bacillus Calmette Guérin (BCG) dentro de 1 año antes de comenzar el tratamiento; o tiene la intención de recibir una vacuna viva durante el curso del estudio o dentro de las 8 semanas posteriores a la última dosis de rozanolixizumab
+- Participante del estudio con debilidad grave (definida como grado 3 en la escala de actividades de la vida diaria (MG-ADL) de miastenia gravis) que afecta los músculos orofaríngeos o respiratorios, o que tiene una crisis miasténica o una crisis inminente

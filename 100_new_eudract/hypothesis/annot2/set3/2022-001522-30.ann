@@ -1,0 +1,109 @@
+T1	CHEM 60 105	antagonista/agonista inverso del receptor CB1
+T2	CHEM 107 117	Rimonabant
+#1	AnnotatorNotes T2	C1142933; Rimonabant; Organic Chemical · Pharmacologic Substance
+T3	PHYS 146 158	deambulación
+T4	DISO 162 194	lesionados medulares incompletos
+T5	PHYS 245 257	deambulación
+T6	LIVB 261 270	pacientes
+#2	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	CHEM 300 310	Rimonabant
+#3	AnnotatorNotes T7	C1142933; Rimonabant; Organic Chemical · Pharmacologic Substance
+T8	PROC 320 339	medidas funcionales
+T9	PROC 366 377	tratamiento
+#4	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	LIVB 391 400	población
+#5	AnnotatorNotes T10	C1257890; Population Group; Population Group
+T11	Age 441 459	Entre 18 y 75 años
+T12	DISO 471 507	Lesión medular incompleta traumática
+T13	Neg_cue 510 513	non
+T14	DISO 514 524	traumática
+#6	AnnotatorNotes T14	C3203533; Psychological Trauma; Mental or Behavioral Dysfunction | C3714660; Trauma; Injury or Poisoning
+T15	Negated 514 524	traumática
+T16	Neg_cue 526 529	non
+T17	Negated 530 540	progresiva
+T18	DISO 543 553	paraplejia
+#7	AnnotatorNotes T18	C0030486; Paraplegia; Disease or Syndrome
+T19	Negated 543 553	paraplejia
+T20	DISO 556 567	tetraplejia
+#8	AnnotatorNotes T20	C0034372; Quadriplegia; Disease or Syndrome
+T21	Negated 556 567	tetraplejia
+T22	DISO 569 573	ASIA
+T23	DISO 593 618	lesión medular traumática
+T24	DISO 623 641	intento autolítico
+#9	AnnotatorNotes T24	C0582496; Suicidal intent; Finding
+T25	DISO 646 668	patología psiquiátrica
+T26	Neg_cue 713 721	descarte
+T27	Negated 737 748	de suicidio
+T28	DISO 740 748	suicidio
+#10	AnnotatorNotes T28	C0038661; Suicide; Finding
+T29	DISO 752 766	Lesión medular
+#11	AnnotatorNotes T29	C0241224; Spinal cord lesion; Finding
+T30	DISO 777 783	lesión
+#12	AnnotatorNotes T30	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T31	ANAT 790 792	C4
+#13	AnnotatorNotes T31	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T32	ANAT 795 797	L1
+#14	AnnotatorNotes T32	C0223492; First lumbar vertebra; Body Part, Organ, or Organ Component | C1305241; Entire L1 vertebra; Body Part, Organ, or Organ Component
+T33	Duration 801 816	Más de 12 meses
+T34	DISO 838 844	lesión
+#15	AnnotatorNotes T34	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T35	Duration 851 858	crónica
+T36	PHYS 876 882	marcha
+T37	Neg_cue 889 892	sin
+T38	Negated 893 901	auxilios
+T39	PROC 959 983	consentimiento informado
+#16	AnnotatorNotes T39	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T40	Age 1013 1031	Menores de 18 años
+T41	Age 1042 1058	mayor de 75 años
+T42	DISO 1070 1095	Lesión medular traumática
+T43	DISO 1100 1118	intento autolítico
+#17	AnnotatorNotes T43	C0582496; Suicidal intent; Finding
+T44	DISO 1123 1145	patología psiquiátrica
+T45	Neg_cue 1146 1148	no
+T46	Negated 1149 1157	resuelta
+T47	Spec_cue 1184 1195	NO descarte
+T48	DISO 1214 1222	suicidio
+#18	AnnotatorNotes T48	C0038661; Suicide; Finding
+T49	DISO 1227 1241	Lesión medular
+#19	AnnotatorNotes T49	C0241224; Spinal cord lesion; Finding
+T50	DISO 1246 1250	ASIA
+T51	DISO 1264 1278	Lesión medular
+#20	AnnotatorNotes T51	C0241224; Spinal cord lesion; Finding
+T52	DISO 1289 1295	lesión
+#21	AnnotatorNotes T52	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T53	ANAT 1311 1313	C4
+#22	AnnotatorNotes T53	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T54	ANAT 1331 1332	L
+T55	PROC 1354 1368	rehabilitación
+#23	AnnotatorNotes T55	C0034991; Rehabilitation therapy; Therapeutic or Preventive Procedure
+T56	Duration 1370 1385	menos de un año
+T57	DISO 1407 1413	lesión
+#24	AnnotatorNotes T57	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T58	PHYS 1430 1436	marcha
+T59	Neg_cue 1443 1446	sin
+T60	Negated 1447 1455	auxilios
+T61	Neg_cue 1472 1475	sin
+T62	Negated 1476 1495	capacidad de marcha
+T63	PHYS 1489 1495	marcha
+T64	PROC 1499 1510	Tratamiento
+#25	AnnotatorNotes T64	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T65	CHEM 1515 1530	anticoagulantes
+#26	AnnotatorNotes T65	C0003280; Anticoagulants; Pharmacologic Substance
+T66	PHYS 1534 1542	Embarazo
+#27	AnnotatorNotes T66	C0032961; Pregnancy; Organism Function
+T67	PHYS 1545 1554	lactancia
+#28	AnnotatorNotes T67	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T68	Neg_cue 1558 1574	Imposibilidad de
+T69	PROC 1589 1610	método anticonceptivo
+#29	AnnotatorNotes T69	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T70	Negated 1589 1610	método anticonceptivo
+T71	Negated 1611 1617	eficaz
+T72	DISO 1622 1636	Hipotiroidismo
+#30	AnnotatorNotes T72	C0020676; Hypothyroidism; Disease or Syndrome
+T73	DISO 1638 1671	Enfermedad ósea, hepática o renal
+T74	Neg_cue 1683 1699	Incapacidad para
+T75	Negated 1700 1718	acudir al Hospital
+T76	Neg_cue 1723 1739	Incapacidad para
+T77	PROC 1756 1780	consentimiento informado
+#31	AnnotatorNotes T77	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T78	Negated 1756 1780	consentimiento informado

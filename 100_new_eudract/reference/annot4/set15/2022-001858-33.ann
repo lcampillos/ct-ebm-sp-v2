@@ -1,0 +1,102 @@
+T5	LIVB 215 224	pacientes
+#1	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	DISO 225 235	infectados
+#2	AnnotatorNotes T6	C0009450; Communicable Diseases; Disease or Syndrome | C0439663; Infected; Finding | C3714514; Infection; Pathologic Function
+T7	DISO 240 248	cirrosis
+#3	AnnotatorNotes T7	C1623038; Cirrhosis; Disease or Syndrome
+T8	PROC 270 301	Estidio controlado aleatorizado
+T9	PROC 314 338	estrategias antibióticas
+T12	LIVB 417 426	pacientes
+#5	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	DISO 427 437	infectados
+#6	AnnotatorNotes T13	C0009450; Communicable Diseases; Disease or Syndrome | C0439663; Infected; Finding | C3714514; Infection; Pathologic Function
+T14	DISO 442 450	cirrosis
+#7	AnnotatorNotes T14	C1623038; Cirrhosis; Disease or Syndrome
+T15	LIVB 473 482	Pacientes
+#8	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 487 495	cirrosis
+#9	AnnotatorNotes T16	C1623038; Cirrhosis; Disease or Syndrome
+T17	DISO 531 551	infección bacteriana
+#10	AnnotatorNotes T17	C0004623; Bacterial Infections; Disease or Syndrome
+T18	PROC 571 593	ingreso en el hospital
+T19	LIVB 620 629	Pacientes
+#11	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	PROC 630 644	hospitalizados
+#12	AnnotatorNotes T20	C0019993; Hospitalization; Health Care Activity
+T21	DISO 649 671	cirrosis descompensada
+T22	PROC 673 687	diagnosticados
+#13	AnnotatorNotes T22	C0011900; Diagnosis; Diagnostic Procedure
+T23	DISO 691 711	infección bacteriana
+#14	AnnotatorNotes T23	C0004623; Bacterial Infections; Disease or Syndrome
+T24	Duration 715 731	48 horas o menos
+T25	LIVB 776 785	Pacientes
+#15	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
+T26	DISO 786 796	cirróticos
+#16	AnnotatorNotes T26	C1623038; Cirrhosis; Disease or Syndrome
+T27	DISO 801 822	descompensación aguda
+T28	Age 831 839	≥18 años
+T29	Spec_cue 859 870	sospecha de
+T30	DISO 871 891	infección bacteriana
+#17	AnnotatorNotes T30	C0004623; Bacterial Infections; Disease or Syndrome
+T31	Speculated 871 891	infección bacteriana
+T32	PROC 905 928	tratamiento antibiótico
+T33	PROC 933 944	diagnóstico
+#18	AnnotatorNotes T33	C0011900; Diagnosis; Diagnostic Procedure
+T34	LIVB 1007 1015	Paciente
+#19	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
+T35	LIVB 1017 1033	represente legal
+T36	LIVB 1036 1055	familiares cercanos
+T37	PROC 1066 1090	consentimiento informado
+#20	AnnotatorNotes T37	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T38	DISO 1122 1142	Infección bacteriana
+#21	AnnotatorNotes T38	C0004623; Bacterial Infections; Disease or Syndrome
+T39	Duration 1155 1165	> 48 horas
+T40	DISO 1170 1179	Infección
+#22	AnnotatorNotes T40	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T41	LIVB 1186 1194	paciente
+#23	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	DISO 1195 1204	cirrótico
+#24	AnnotatorNotes T42	C1623038; Cirrhosis; Disease or Syndrome
+T43	PROC 1224 1241	ingreso en la UCI
+T44	LIVB 1252 1261	población
+#25	AnnotatorNotes T44	C1257890; Population Group; Population Group
+T45	PROC 1266 1291	vigilancia epidemiológica
+T46	PROC 1299 1315	práctica clínica
+T47	DISO 1342 1352	malignidad
+T48	Date 1353 1359	actual
+T49	DISO 1382 1393	metastásica
+#26	AnnotatorNotes T49	C4255448; Metastasis; Pathologic Function
+T50	LIVB 1412 1421	pacientes
+#27	AnnotatorNotes T50	C0030705; Patients; Patient or Disabled Group
+T51	DISO 1426 1450	carcinoma hepatocellular
+T52	DISO 1486 1516	cáncer de piel no melanocítico
+#28	AnnotatorNotes T52	C0699893; Skin carcinoma; Neoplastic Process
+T53	Negated 1504 1516	melanocítico
+T55	LIVB 1570 1579	Pacientes
+#29	AnnotatorNotes T55	C0030705; Patients; Patient or Disabled Group
+T56	Neg_cue 1584 1586	no
+T57	PROC 1601 1625	consentimiento informado
+#30	AnnotatorNotes T57	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T58	Negated 1601 1625	consentimiento informado
+T59	LIVB 1678 1686	paciente
+#31	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
+T60	Neg_cue 1687 1689	no
+T62	Spec_cue 1747 1760	poco probable
+T63	LIVB 1768 1776	paciente
+#32	AnnotatorNotes T63	C0030705; Patients; Patient or Disabled Group
+T65	PHYS 1789 1799	conciencia
+#33	AnnotatorNotes T65	C0004448; Awareness; Mental Process | C0009790; Conscience; Mental Process | C0234421; Conscious; Mental Process
+T67	PROC 1838 1862	consentimiento informado
+#34	AnnotatorNotes T67	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T2	CHEM 109 121	antibióticos
+T1	PROC 44 77	Estudio aleatorizado y controlado
+T3	PROC 1465 1483	criterios de Milan
+T69	Neg_cue 1501 1503	no
+T70	LIVB 1699 1714	sustituto legal
+T71	Negated 1699 1714	sustituto legal
+T61	Speculated 1789 1799	conciencia
+T64	PROC 100 121	esquemas antibióticos
+T4	PROC 146 211	estrategias antimicrobianas guiadas por vigilancia epidemiológica
+T10	PROC 363 413	regímenes guiados por la vigilancia epidemiológica
+T11	LIVB 1522 1538	Mujer embarazada
+T54	PHYS 1557 1566	lactancia

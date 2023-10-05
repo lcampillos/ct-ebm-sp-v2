@@ -1,0 +1,25 @@
+EudraCT Nº: 2020-004431-24
+
+Título público: Estudio para evaluar la eficacia, seguridad, farmacocinética y farmacodinamia de ponesimod frente a fingolimod durante 108 semanas de tratamiento en pacientes pediátricos, de 10 a <18 años, con esclerosis múltiple remitente recurrente
+
+Título científico: Estudio multicéntrico, aleatorizado, doble ciego, de grupos paralelos, con doble simulación, controlado con tratamiento activo y comparativo para evaluar la eficacia, seguridad, farmacocinética y farmacodinamia de ponesimod frente a fingolimod durante 108 semanas de tratamiento en pacientes pediátricos, de 10 a <18 años, con esclerosis múltiple remitente recurrente
+
+Indicación pública: Enfermedad inflamatoria crónica que ataca al SNC
+
+Indicación científica: Esclerosis múltiple remitente recurrente
+
+Criterios de inclusión:
+
+- Un diagnóstico de esclerosis múltiple remitente-recurrente (EMRR) según la definición de las revisiones de 2017 de los criterios de McDonald. Se requerirá una revisión central del diagnóstico de esclerosis múltiple (EM) pediátrica para todos los participantes antes de la Visita 3 (Día 1, aleatorización).
+- Puntuación de la Escala de Estado de Discapacidad Expandida (EDSS) entre 0 y 5,5 (inclusive).
+- Al menos 1 recaída de la EM durante el año anterior o 2 recaídas de la EM en los 2 años anteriores o evidencia de lesiones con realce de gadolinio (Gd+) en las imágenes de resonancia magnética (IRM) 6 meses antes de la Visita 3 (Día 1, Aleatorización), incluyendo la IRM en la Visita 2 (Inicio).
+- Deben estar sanos, según el criterio clínico del investigador, teniendo como base la exploración física, la historia clínica, los signos vitales, las pruebas de laboratorio y el electrocardiograma (ECG) en la visita 1 (selección). Cualquier anormalidad documentada debe ser consistente con la EM pediátrica. Esta determinación debe registrarse en los documentos fuente del participante y ser iniciada por el investigador principal (IP).
+- Participantes con peso o superficie corporal entre el 5º y el 95º percentil para la edad y el sexo. Los participantes con sobrepeso superior al percentil 95 y los participantes con peso inferior al percentil 5 pueden participar tras recibir la autorización médica.
+
+Criterios de exclusión:
+
+- Presentar un diagnóstico de EM con curso progresivo desde el inicio (es decir, EM primaria progresiva o EM progresiva recidivante).
+- Alteraciones generalizadas y simétricas de la sustancia blanca en la RM de base que sugieren otros trastornos desmielinizantes (por ejemplo, trastornos metabólicos, trastornos mitocondriales).
+- Prueba positiva para la acuaporina 4 (AQP4) o anticuerpos contra la glicoproteína oligodendrocítica de mielina (MOG) en la visita 1 (selección).
+- Embarazada (definido como el estado de una mujer después de la concepción y hasta la terminación de la gestación, confirmado por una prueba de laboratorio de gonadotropina coriónica humana positiva), o en período de lactancia, o que planea quedar embarazada mientras está participando en este estudio.
+- Cualquier condición por la cual, en opinión del investigador, la participación no sea conveniente para el participante (por ejemplo, comprometiendo su bienestar) o que pudiera impedir, limitar o confundir las evaluaciones especificadas en el protocolo.

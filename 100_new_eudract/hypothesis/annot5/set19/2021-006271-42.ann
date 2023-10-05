@@ -1,0 +1,166 @@
+T1	PROC 44 58	Ensayo abierto
+T2	PROC 64 110	evaluar la eficacia, seguridad y tolerabilidad
+T3	CHEM 114 121	HZN-825
+T4	LIVB 125 134	pacientes
+#1	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	DISO 139 174	esclerosis sistémica cutánea difusa
+T6	PROC 195 236	Ensayo de extensión abierto multicéntrico
+T7	PROC 242 288	evaluar la eficacia, seguridad y tolerabilidad
+T8	CHEM 292 299	HZN-825
+T9	LIVB 303 312	pacientes
+#2	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	DISO 317 352	esclerosis sistémica cutánea difusa
+T11	DISO 374 384	Enfermedad
+#3	AnnotatorNotes T11	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T12	DISO 406 430	engrosamiento de la piel
+#4	AnnotatorNotes T12	C0334008; Pachyderma; Pathologic Function
+T13	DISO 432 440	fibrosis
+#5	AnnotatorNotes T13	C0016059; Fibrosis; Pathologic Function
+T14	DISO 444 456	problemas en
+T15	DISO 464 482	órganos del cuerpo
+T16	DISO 507 542	Esclerosis sistémica cutánea difusa
+T17	PROC 572 608	Consentimiento informado por escrito
+T18	PROC 637 660	tratamiento doble ciego
+T19	Date 662 671	semana 52
+T20	LIVB 708 715	sujetos
+#6	AnnotatorNotes T20	C0681850; Study Subject; Group
+T21	PROC 720 762	suspendieron prematuramente el tratamiento
+T22	CHEM 770 777	fármaco
+#7	AnnotatorNotes T22	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T23	DISO 859 868	toxicidad
+#8	AnnotatorNotes T23	C0600688; Toxic effect; Injury or Poisoning
+T24	LIVB 904 916	investigador
+#9	AnnotatorNotes T24	C0035173; Research Personnel; Professional or Occupational Group
+T25	PROC 946 953	visitas
+T26	PROC 1009 1021	evaluaciones
+#10	AnnotatorNotes T26	C1261322; Evaluation procedure; Health Care Activity
+T27	Date 1025 1037	la semana 52
+T28	LIVB 1043 1049	Sujeto
+#11	AnnotatorNotes T28	C0681850; Study Subject; Group
+T29	PROC 1085 1094	protocolo
+#12	AnnotatorNotes T29	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T30	PROC 1098 1109	tratamiento
+#13	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	PROC 1110 1119	prescrito
+#14	AnnotatorNotes T31	C0033080; Prescription procedure; Health Care Activity
+T32	PROC 1126 1138	evaluaciones
+#15	AnnotatorNotes T32	C1261322; Evaluation procedure; Health Care Activity
+T33	CHEM 1214 1238	fármaco en investigación
+T34	PROC 1244 1250	tratar
+T35	DISO 1261 1271	enfermedad
+#16	AnnotatorNotes T35	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T36	PROC 1316 1327	diagnóstico
+#17	AnnotatorNotes T36	C0011900; Diagnosis; Diagnostic Procedure
+T37	DISO 1331 1348	neoplasia maligna
+#18	AnnotatorNotes T37	C0006826; Malignant Neoplasms; Neoplastic Process | C1306459; Primary malignant neoplasm; Neoplastic Process
+T38	Neg_cue 1403 1410	excepto
+T39	DISO 1411 1460	carcinoma de células basales/escamosas de la piel
+T40	Negated 1411 1460	carcinoma de células basales/escamosas de la piel
+T41	DISO 1463 1488	cáncer de cuello de útero
+T42	Negated 1463 1488	cáncer de cuello de útero
+T43	PROC 1500 1507	tratado
+T44	LIVB 1538 1560	Mujeres en edad fértil
+T45	Age 1549 1560	edad fértil
+T46	LIVB 1562 1565	MEF
+T47	LIVB 1569 1576	varones
+T48	Neg_cue 1581 1583	no
+T49	PROC 1609 1632	métodos anticonceptivos
+#19	AnnotatorNotes T49	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T50	Negated 1609 1632	métodos anticonceptivos
+T51	Negated 1633 1652	altamente efectivos
+T52	Duration 1686 1695	4 semanas
+T53	CHEM 1727 1734	fármaco
+#20	AnnotatorNotes T53	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T54	LIVB 1751 1758	varones
+T55	Neg_cue 1765 1778	abstenerse de
+T56	PROC 1779 1792	donar esperma
+T57	Negated 1779 1792	donar esperma
+T58	LIVB 1800 1807	mujeres
+#21	AnnotatorNotes T58	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T59	PROC 1811 1823	donar óvulos
+T60	Negated 1811 1823	donar óvulos
+T61	LIVB 1884 1889	mujer
+#22	AnnotatorNotes T61	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T62	Age 1898 1909	edad fértil
+T63	PHYS 1932 1945	posmenopausia
+#23	AnnotatorNotes T63	C0206159; Postmenopause; Organism Function
+T64	Neg_cue 1948 1950	no
+T65	PROC 1972 1997	esterilización quirúrgica
+T66	Negated 1972 1997	esterilización quirúrgica
+T67	PROC 2007 2031	salpingectomía bilateral
+T68	PROC 2033 2055	ooforectomía bilateral
+#24	AnnotatorNotes T68	C0278321; Bilateral oophorectomy; Therapeutic or Preventive Procedure
+T69	PROC 2058 2071	histerectomía
+#25	AnnotatorNotes T69	C0020699; Hysterectomy; Therapeutic or Preventive Procedure
+T70	PHYS 2090 2111	estado posmenopáusico
+#26	AnnotatorNotes T70	C0206159; Postmenopause; Organism Function
+T71	Date 2097 2111	posmenopáusico
+T72	Neg_cue 2130 2141	ausencia de
+T73	PHYS 2142 2154	menstruación
+#27	AnnotatorNotes T73	C0025344; Menstruation; Organism Function
+T74	Negated 2142 2154	menstruación
+T75	Duration 2163 2171	12 meses
+T76	Neg_cue 2172 2175	sin
+T77	Negated 2180 2192	causa médica
+T78	CHEM 2230 2257	hormona foliculoestimulante
+#28	AnnotatorNotes T78	C0733758; follicle stimulating hormone; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance
+T79	CHEM 2259 2262	FSH
+#29	AnnotatorNotes T79	C0733758; follicle stimulating hormone; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance
+T80	Date 2281 2295	posmenopáusico
+T81	Speculated 2315 2324	confirmar
+T82	PHYS 2328 2349	estado posmenopáusico
+#30	AnnotatorNotes T82	C0206159; Postmenopause; Organism Function
+T83	Date 2335 2349	posmenopáusico
+T84	LIVB 2353 2360	mujeres
+#31	AnnotatorNotes T84	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T85	Neg_cue 2365 2367	no
+T86	CHEM 2373 2399	anticonceptivos hormonales
+T87	Negated 2373 2399	anticonceptivos hormonales
+T88	PROC 2402 2432	terapia de reposición hormonal
+T89	Negated 2402 2432	terapia de reposición hormonal
+T90	Neg_cue 2450 2461	ausencia de
+T91	Duration 2462 2470	12 meses
+T92	Negated 2462 2470	12 meses
+T93	PHYS 2474 2483	amenorrea
+T94	Negated 2474 2483	amenorrea
+T95	PROC 2494 2512	medición de la FSH
+#32	AnnotatorNotes T95	C0202022; Follicle stimulating hormone measurement; Laboratory Procedure
+T96	LIVB 2534 2550	varones fértiles
+T97	PROC 2557 2578	utilizar preservativo
+T98	Duration 2612 2621	4 semanas
+T99	CHEM 2653 2660	fármaco
+#33	AnnotatorNotes T99	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T100	LIVB 2676 2681	varón
+T101	PHYS 2716 2724	pubertad
+#34	AnnotatorNotes T101	C0034011; Puberty; Physiologic Function
+T102	DISO 2757 2764	estéril
+#35	AnnotatorNotes T102	C0021359; Infertility; Pathologic Function
+T103	PROC 2769 2791	orquiectomía bilateral
+#36	AnnotatorNotes T103	C0007347; Male Castration; Therapeutic or Preventive Procedure
+T104	LIVB 2797 2842	Mujeres embarazadas o en período de lactancia
+T105	DISO 2874 2884	enfermedad
+#37	AnnotatorNotes T105	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T106	LIVB 2902 2908	sujeto
+#38	AnnotatorNotes T106	C0681850; Study Subject; Group
+T107	LIVB 3015 3027	investigador
+#39	AnnotatorNotes T107	C0035173; Research Personnel; Professional or Occupational Group
+T108	Spec_cue 3029 3035	podría
+T109	LIVB 3045 3051	sujeto
+#40	AnnotatorNotes T109	C0681850; Study Subject; Group
+T110	Speculated 3058 3064	riesgo
+T111	Speculated 3065 3076	inaceptable
+T112	LIVB 3085 3092	sujetos
+#41	AnnotatorNotes T112	C0681850; Study Subject; Group
+T113	Neg_cue 3093 3095	no
+T114	Negated 3102 3111	elegibles
+T115	LIVB 3131 3143	investigador
+#42	AnnotatorNotes T115	C0035173; Research Personnel; Professional or Occupational Group
+T116	Spec_cue 3148 3161	poco probable
+T117	Speculated 3166 3190	cumplan con el protocolo
+T118	PROC 3181 3190	protocolo
+#43	AnnotatorNotes T118	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T119	DISO 3215 3225	enfermedad
+#44	AnnotatorNotes T119	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T120	DISO 3228 3249	afección concomitante
+T121	Spec_cue 3254 3259	pueda
+T122	Speculated 3260 3270	interferir

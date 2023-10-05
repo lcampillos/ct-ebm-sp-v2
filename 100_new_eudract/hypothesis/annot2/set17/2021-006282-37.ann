@@ -1,0 +1,131 @@
+T1	PHYS 66 81	farmacocinética
+#1	AnnotatorNotes T1	C0031327; Drug Kinetics; Physiologic Function
+T2	CHEM 86 96	guselkumab
+#2	AnnotatorNotes T2	C3852217; guselkumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T3	LIVB 100 125	participantes pediátricos
+T4	Age 114 125	pediátricos
+T5	DISO 130 149	enfermedad de Crohn
+#3	AnnotatorNotes T5	C0010346; Crohn Disease; Disease or Syndrome
+T6	PROC 198 261	Estudio de plataforma en fase III, aleatorizado y multicéntrico
+T7	CHEM 298 303	IL-23
+T8	CHEM 319 322	p19
+T9	PROC 328 350	establecer la eficacia
+T10	DISO 357 376	enfermedad de Crohn
+#4	AnnotatorNotes T10	C0010346; Crohn Disease; Disease or Syndrome
+T11	DISO 401 420	Enfermedad de Crohn
+#5	AnnotatorNotes T11	C0010346; Crohn Disease; Disease or Syndrome
+T12	Age 480 492	2 a <18 años
+T13	PROC 531 545	consentimiento
+T14	PROC 554 563	detección
+#6	AnnotatorNotes T14	C1511790; Detection; Therapeutic or Preventive Procedure
+T15	PROC 598 611	examen físico
+#7	AnnotatorNotes T15	C0031809; Physical Examination; Health Care Activity
+T16	PROC 639 653	signos vitales
+T17	PROC 712 742	pruebas de laboratorio clínico
+T18	PROC 783 794	diagnóstico
+#8	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
+T19	DISO 803 818	CD fistulizante
+T20	DISO 824 831	colitis
+#9	AnnotatorNotes T20	C0009319; Colitis; Disease or Syndrome
+T21	DISO 840 847	ileítis
+#10	AnnotatorNotes T21	C0020877; Ileitis; Disease or Syndrome
+T22	DISO 850 861	ileocolitis
+#11	AnnotatorNotes T22	C0949272; IIeocolitis; Disease or Syndrome
+T23	Date 877 894	cualquier momento
+T24	Date 895 907	en el pasado
+T25	PROC 932 944	endoscópicos
+#12	AnnotatorNotes T25	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T26	PROC 947 959	histológicos
+T27	PROC 985 996	diagnóstico
+#13	AnnotatorNotes T27	C0011900; Diagnosis; Diagnostic Procedure
+T28	PROC 1010 1030	resección quirúrgica
+#14	AnnotatorNotes T28	C0728940; Excision; Therapeutic or Preventive Procedure
+T29	PROC 1043 1053	histología
+#15	AnnotatorNotes T29	C0344441; Histology Procedure; Laboratory Procedure
+T30	PROC 1069 1082	radiográficos
+#16	AnnotatorNotes T30	C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T31	Spec_cue 1083 1089	pueden
+T32	Speculated 1103 1112	evidencia
+T33	PROC 1209 1218	detección
+#17	AnnotatorNotes T33	C1511790; Detection; Therapeutic or Preventive Procedure
+T34	PROC 1238 1248	endoscopia
+#18	AnnotatorNotes T34	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T35	LIVB 1322 1335	participantes
+T36	DISO 1340 1356	enfermedad ileal
+T37	Duration 1376 1389	las 4 semanas
+T38	PROC 1415 1427	intervención
+#19	AnnotatorNotes T38	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T39	Date 1443 1454	la semana 0
+T40	PROC 1468 1477	protocolo
+#20	AnnotatorNotes T40	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T41	DISO 1555 1578	complicaciones de la EC
+T42	DISO 1585 1594	estenosis
+#21	AnnotatorNotes T42	C1261287; Stenosis; Pathologic Function
+T43	DISO 1597 1619	estenosis sintomáticas
+T44	DISO 1621 1649	síndrome del intestino corto
+#22	AnnotatorNotes T44	C0036992; Short Bowel Syndrome; Disease or Syndrome
+T45	DISO 1667 1680	manifestación
+#23	AnnotatorNotes T45	C0037088; Signs and Symptoms; Sign or Symptom
+T46	PROC 1716 1723	cirugía
+#24	AnnotatorNotes T46	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T47	Speculated 1736 1743	impedir
+T48	PROC 1792 1799	terapia
+#25	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	Spec_cue 1802 1814	posiblemente
+T50	Speculated 1815 1826	confundiría
+T51	PROC 1865 1876	tratamiento
+#26	AnnotatorNotes T51	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T52	PROC 1900 1926	procedimientos quirúrgicos
+#27	AnnotatorNotes T52	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T53	PROC 1947 1958	tratamiento
+#28	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	DISO 1965 1972	fístula
+#29	AnnotatorNotes T54	C0016169; pathologic fistula; Anatomical Abnormality | C1442858; Surgical fistula; Finding
+T55	Neg_cue 1973 1975	no
+T56	Negated 1995 2006	excluyentes
+T57	LIVB 2024 2038	monitor médico
+T58	Date 2043 2054	Actualmente
+T59	Spec_cue 2063 2074	se sospecha
+T60	DISO 2088 2095	absceso
+#30	AnnotatorNotes T60	C0000833; Abscess; Disease or Syndrome
+T61	Speculated 2088 2095	absceso
+T62	DISO 2101 2131	abscesos cutáneos y perianales
+T63	Date 2132 2141	recientes
+T64	Neg_cue 2142 2144	no
+T65	Negated 2149 2160	excluyentes
+T66	PROC 2167 2175	drenaron
+#31	AnnotatorNotes T66	C0013103; Drainage procedure; Therapeutic or Preventive Procedure
+T67	PROC 2178 2186	trataron
+T68	Duration 2201 2219	al menos 3 semanas
+T69	Date 2229 2252	la semana 0 u 8 semanas
+T70	Date 2262 2273	la semana 0
+T71	DISO 2283 2308	abscesos intraabdominales
+#32	AnnotatorNotes T71	C0243001; Abdominal Abscess; Disease or Syndrome
+T72	Neg_cue 2322 2324	no
+T73	PROC 2354 2361	cirugía
+#33	AnnotatorNotes T73	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T74	Negated 2354 2361	cirugía
+T75	PROC 2400 2420	resección intestinal
+#34	AnnotatorNotes T75	C1096244; Intestinal resection; Therapeutic or Preventive Procedure
+T76	Duration 2431 2445	las 26 semanas
+T77	PROC 2463 2485	cirugía intraabdominal
+T78	Duration 2496 2521	las 12 semanas anteriores
+T79	ANAT 2539 2545	estoma
+#35	AnnotatorNotes T79	C1955856; Surgical Stoma; Anatomical Structure
+T80	ANAT 2547 2561	bolsa ileoanal
+T81	PROC 2564 2571	ostomía
+#36	AnnotatorNotes T81	C0029473; Ostomy; Therapeutic or Preventive Procedure
+T82	DISO 2582 2591	displasia
+#37	AnnotatorNotes T82	C0334044; Dysplasia; Pathologic Function
+T83	Date 2632 2638	actual
+T84	DISO 2642 2676	displasia polipoide o no polipoide
+T85	Neg_cue 2664 2666	no
+T86	Negated 2667 2676	polipoide
+T87	DISO 2690 2697	adenoma
+#38	AnnotatorNotes T87	C0001430; Adenoma; Neoplastic Process
+T88	Neg_cue 2702 2704	no
+T89	Negated 2705 2722	se haya extirpado
+T90	PROC 2713 2722	extirpado
+#39	AnnotatorNotes T90	C0728940; Excision; Therapeutic or Preventive Procedure
+T91	PROC 2736 2745	protocolo
+#40	AnnotatorNotes T91	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure

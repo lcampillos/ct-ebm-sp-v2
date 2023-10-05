@@ -1,0 +1,28 @@
+EudraCT Nº: 2022-002840-29
+
+Título público: Protocolo de nuevas combinaciones en pacientes con adenocarcinoma gástrico o de la unión gastroesofágica localmente avanzado no resecable o metastásico 
+
+Título científico: Protocolo abierto, multifármaco, multicéntrico, de fase II para evaluar la eficacia, seguridad, tolerabilidad, farmacocinética e inmunogenicidad de nuevas combinaciones en pacientes con adenocarcinoma gástrico o gastroesofágico localmente avanzado no resecable o metastásico
+
+Indicación pública: Tipo específico de cáncer gástrico o de la unión gastroesofágica que no se puede extirpar mediante cirugía.
+
+Indicación científica: Adenocarcinoma de la unión gastroesofágica localmente avanzado no resecable o metastásico.
+
+Criterios de inclusión:
+• 18 años o más en el momento de firmar el ICF.
+• Peso corporal > 35 kg.
+• No se ha tratado previamente para el adenocarcinoma gástrico o de la unión gastroesofágica no resecable o metastásico.
+• Tener una lesión diana medible evaluada por el investigador basada en RECIST 1.1.
+• ECOG PS 0 o 1.
+• Esperanza de vida de al menos 12 semanas.
+• Función adecuada de órganos y médula ósea. 
+
+Criterios de exclusión:
+• Participantes con HER2 positivo (3+ por IHC, o 2+ por IHC y positivo por ISH) o carcinoma gástrico o GEJ indeterminado.
+• Enfermedad metastásica del SNC progresiva o no tratada, cualquier enfermedad leptomeníngea o compresión medular
+• Participantes con ascitis que no se puede controlar con intervenciones apropiadas.
+• Enfermedades infecciosas activas, como tuberculosis, infección por VIH o hepatitis A/B/C.
+• Enfermedad intercurrente no controlada.
+• Trastornos autoinmunes o inflamatorios activos o documentados previamente que requieren tratamiento sistémico con esteroides u otro tratamiento inmunosupresor.
+• Antecedentes de otra neoplasia maligna primaria.
+• Tratamiento previo con un agente inmuno-oncológico.

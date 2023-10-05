@@ -1,0 +1,192 @@
+T1	PROC 47 62	estudio clínico
+#1	AnnotatorNotes T1	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T2	PROC 89 100	tratamiento
+#2	AnnotatorNotes T2	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T3	CHEM 105 116	amivantamab
+T4	CHEM 119 129	lazertinib
+T5	CHEM 134 145	bevacizumab
+#3	AnnotatorNotes T5	C0796392; bevacizumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T6	LIVB 150 158	personas
+#4	AnnotatorNotes T6	C0027361; Persons; Population Group
+T7	PROC 159 173	diagnosticadas
+#5	AnnotatorNotes T7	C0011900; Diagnosis; Diagnostic Procedure
+T8	DISO 178 217	cáncer de pulmón de células no pequeñas
+#6	AnnotatorNotes T8	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T9	Neg_cue 206 208	no
+T10	Negated 209 217	pequeñas
+T11	DISO 219 224	CPCNP
+#7	AnnotatorNotes T11	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T12	DISO 250 282	cambio (mutación) en el gen EGFR
+T13	ANAT 310 327	partes del cuerpo
+T14	PROC 350 361	tratamiento
+#8	AnnotatorNotes T14	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T15	CHEM 366 377	osimertinib
+#9	AnnotatorNotes T15	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T16	CHEM 380 390	lazertinib
+T17	PROC 412 460	Estudio de fase II, con un grupo y multicéntrico
+T18	CHEM 464 475	amivantamab
+T19	CHEM 477 487	lazertinib
+T20	CHEM 490 501	bevacizumab
+#10	AnnotatorNotes T20	C0796392; bevacizumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T21	LIVB 505 514	pacientes
+#11	AnnotatorNotes T21	C0030705; Patients; Patient or Disabled Group
+T22	DISO 519 532	CPNM avanzado
+#12	AnnotatorNotes T22	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T23	DISO 537 553	mutación de EGFR
+T24	CHEM 579 590	TKI de EGFR
+T26	LIVB 641 650	Pacientes
+#13	AnnotatorNotes T26	C0030705; Patients; Patient or Disabled Group
+T27	DISO 655 694	cáncer de pulmón de células no pequeñas
+#14	AnnotatorNotes T27	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T28	Neg_cue 683 685	no
+T29	Negated 686 694	pequeñas
+T32	ANAT 760 777	partes del cuerpo
+T33	PROC 800 811	tratamiento
+#16	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T34	CHEM 816 827	osimertinib
+#17	AnnotatorNotes T34	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T35	CHEM 830 840	lazertinib
+T36	LIVB 866 875	Pacientes
+#18	AnnotatorNotes T36	C0030705; Patients; Patient or Disabled Group
+T37	DISO 880 894	NSCLC avanzado
+#19	AnnotatorNotes T37	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T38	DISO 899 915	mutación de EGFR
+T39	DISO 1005 1022	NSCLC no escamoso
+T40	Neg_cue 1011 1013	no
+T41	Negated 1014 1022	escamoso
+T42	PROC 1034 1050	histológicamente
+T43	Neg_cue 1068 1070	no
+T44	PROC 1086 1105	tratamiento radical
+#20	AnnotatorNotes T44	C0332316; Radical procedure; Therapeutic or Preventive Procedure
+T45	Negated 1086 1105	tratamiento radical
+T46	DISO 1169 1200	mutación sensibilizante de EGFR
+T48	LIVB 1211 1220	pacientes
+#22	AnnotatorNotes T48	C0030705; Patients; Patient or Disabled Group
+T50	DISO 1358 1385	Progresión de la enfermedad
+#24	AnnotatorNotes T50	C0242656; Disease Progression; Pathologic Function
+T51	PROC 1397 1413	radiológicamente
+T52	PROC 1420 1431	tratamiento
+#25	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	CHEM 1443 1454	osimertinib
+#26	AnnotatorNotes T53	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T54	CHEM 1457 1467	lazertinib
+T55	PROC 1472 1483	tratamiento
+#27	AnnotatorNotes T55	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T56	CHEM 1488 1499	osimertinib
+#28	AnnotatorNotes T56	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T57	CHEM 1502 1512	lazertinib
+T58	PROC 1526 1538	interrumpido
+T59	Duration 1539 1554	al menos 8 días
+T60	PROC 1623 1634	tratamiento
+#29	AnnotatorNotes T60	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T61	CHEM 1639 1650	osimertinib
+#30	AnnotatorNotes T61	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T62	CHEM 1653 1663	lazertinib
+T63	Duration 1705 1713	≥6 meses
+T64	PROC 1725 1736	tratamiento
+#31	AnnotatorNotes T64	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T65	CHEM 1741 1752	osimertinib
+#32	AnnotatorNotes T65	C4058811; osimertinib; Organic Chemical · Pharmacologic Substance
+T66	CHEM 1755 1765	lazertinib
+T67	DISO 1771 1789	Enfermedad medible
+T68	Age 1834 1842	≥18 años
+T69	LIVB 1872 1881	Pacientes
+#33	AnnotatorNotes T69	C0030705; Patients; Patient or Disabled Group
+T70	DISO 1913 1952	carcinoma de pulmón de células pequeñas
+#34	AnnotatorNotes T70	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T71	DISO 1954 1958	CPCP
+#35	AnnotatorNotes T71	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T72	LIVB 1964 1973	Pacientes
+#36	AnnotatorNotes T72	C0030705; Patients; Patient or Disabled Group
+T73	DISO 1978 1999	metástasis cerebrales
+T74	LIVB 2018 2027	pacientes
+#37	AnnotatorNotes T74	C0030705; Patients; Patient or Disabled Group
+T75	DISO 2032 2053	metástasis cerebrales
+#38	AnnotatorNotes T75	C0220650; Metastatic malignant neoplasm to brain; Neoplastic Process | C0555278; Cerebral metastasis; Neoplastic Process
+T78	PROC 2082 2090	tratadas
+T79	LIVB 2141 2150	pacientes
+#40	AnnotatorNotes T79	C0030705; Patients; Patient or Disabled Group
+T80	PROC 2170 2193	radioterapia definitiva
+#41	AnnotatorNotes T80	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T81	PROC 2196 2203	cirugía
+#42	AnnotatorNotes T81	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T82	DISO 2208 2229	metástasis cerebrales
+T83	DISO 2299 2312	asintomáticos
+#43	AnnotatorNotes T83	C0231221; Asymptomatic (finding); Finding
+T84	Negated 2299 2312	asintomáticos
+T85	Duration 2321 2331	≥2 semanas
+T86	Neg_cue 2396 2399	sin
+T87	PROC 2400 2432	tratamiento con corticosteroides
+T89	Negated 2416 2432	corticosteroides
+T90	PROC 2452 2463	tratamiento
+#44	AnnotatorNotes T90	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T91	CHEM 2468 2484	corticosteroides
+T92	Dose 2488 2499	dosis bajas
+T93	Dose 2501 2507	≤10 mg
+T94	Frequency 2507 2511	/día
+T95	CHEM 2515 2525	prednisona
+#45	AnnotatorNotes T95	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T96	Duration 2549 2567	al menos 2 semanas
+T97	LIVB 2596 2605	Pacientes
+#46	AnnotatorNotes T97	C0030705; Patients; Patient or Disabled Group
+T99	DISO 2654 2678	enfermedad leptomeníngea
+T100	LIVB 2683 2692	Pacientes
+#47	AnnotatorNotes T100	C0030705; Patients; Patient or Disabled Group
+T101	DISO 2697 2728	compresión de la médula espinal
+#48	AnnotatorNotes T101	C0037926; Compression of spinal cord; Disease or Syndrome
+T102	Neg_cue 2729 2731	no
+T103	PROC 2732 2739	tratada
+T104	Negated 2732 2739	tratada
+T105	LIVB 2745 2754	pacientes
+#49	AnnotatorNotes T105	C0030705; Patients; Patient or Disabled Group
+T106	PROC 2768 2792	tratados definitivamente
+T107	PROC 2797 2804	cirugía
+#50	AnnotatorNotes T107	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T108	PROC 2807 2819	radioterapia
+#51	AnnotatorNotes T108	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T110	Duration 2867 2877	≥2 semanas
+T111	Neg_cue 2928 2930	no
+T113	Negated 2940 2951	tratamiento
+T114	Negated 2956 2972	corticosteroides
+T116	Dose 3028 3039	dosis bajas
+T117	Frequency 3046 3050	/día
+T118	CHEM 3054 3064	prednisona
+#52	AnnotatorNotes T118	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T119	LIVB 3083 3092	Pacientes
+#53	AnnotatorNotes T119	C0030705; Patients; Patient or Disabled Group
+T120	DISO 3097 3113	eventos adversos
+#54	AnnotatorNotes T120	C0877248; Adverse event; Pathologic Function
+T121	Neg_cue 3114 3116	no
+T122	Negated 3117 3126	resueltos
+T123	DISO 3141 3149	alopecia
+#55	AnnotatorNotes T123	C0002170; Alopecia; Disease or Syndrome | C0497378; hair loss/baldness; Pathologic Function
+T124	PROC 3158 3179	terapia anticancerosa
+T125	Neg_cue 3193 3195	no
+T126	Negated 3205 3213	resuelto
+T127	LIVB 3251 3260	Pacientes
+#56	AnnotatorNotes T127	C0030705; Patients; Patient or Disabled Group
+T128	PROC 3265 3297	prueba de antígeno de superficie
+T129	PROC 3299 3304	HBsAg
+#57	AnnotatorNotes T129	C0201477; Hepatitis B surface antigen measurement; Laboratory Procedure
+T130	DISO 3320 3331	hepatitis B
+#58	AnnotatorNotes T130	C0019163; Hepatitis B; Disease or Syndrome
+T131	LIVB 3333 3356	virus de la hepatitis B
+T132	LIVB 3358 3361	VHB
+T133	Date 12 16	2021
+T134	DISO 560 570	progresión
+T25	DISO 920 930	progresión
+T31	CHEM 934 945	TKI de EGFR
+T135	PROC 1132 1149	clasificación TNM
+T47	PROC 1813 1824	RECIST v1.1
+T136	DISO 2000 2012	sintomáticas
+T137	PROC 2128 2135	estudio
+T138	DISO 2230 2242	sintomáticas
+T109	Dose 3040 3046	≤10 mg
+T140	PROC 2832 2850	estado neurológico
+T30	DISO 702 733	mutación en un gen llamado EGFR
+T49	DISO 1225 1255	deleción del exón 19 y/o L858R
+T76	Negated 2400 2411	tratamiento
+T77	CHEM 2956 2972	corticosteroides
+T88	CHEM 3008 3024	corticosteroides
+T98	PROC 2940 2951	tratamiento
+T112	PROC 2992 3003	tratamiento

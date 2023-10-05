@@ -1,0 +1,25 @@
+EudraCT Nº: 2021-003031-29
+
+Título público: Estudio maestro de continuación en pacientes que hayan completado un estudio en oncología previo con Durvalumab
+
+Título científico: ROSY-D: Estudio maestro de continuación en pacientes que hayan completado un estudio en oncología previo Durvalumab y que el investigador considere que van a beneficiarse clínicamente de continuar el tratamiento
+
+Indicación pública: Carcinoma urotelial y no urotelial de vías urinarias posquimioterapia Pacientes de primera línea con cáncer de pulmón de células pequeñas (CPCP) con enfermedad grave (etapa IV). Cáncer de pulmón de células no pequeñas avanzado o metastásico en pacientes sin tratamiento previo con receptor del factor de crecimiento epidérmico (EGFR) y patología tumoral de cepa silvestre de quinasa de linfoma anaplásico (ALK). Cáncer de pulmón de células no pequeñas no resecable, localmente avanzado (etapa III)
+
+Indicación científica: Diferentes tipos de cáncer (dependiendo del estudio de origen)
+
+Criterios de inclusión:
+
+1. Suministro de ICF escrito, firmado y fechado. 
+2. El paciente obtiene actualmente un beneficio clínico, según lo juzgado por el investigador, del tratamiento contínuo en un estudio de origen de AZ que utiliza un compuesto de AZ que alcanzó sus criterios de valoración, o se detuvo por algún motivo, o el paciente alcanzó la duración máxima del tratamiento permitida en el protocolo del estudio de origen. 
+
+Criterios de exclusión:
+
+1. Toxicidad en curso, no resuelta, de Grado 3 o superior que requiera la interrupción del tratamiento en el momento de la finalización del estudio de origen. 
+2. Actualmente recibie tratamiento con algún medicamento prohibido. 
+3. Estar inscrito simultáneamente en cualquier otro tipo de investigación médica que no se considere científica o médicamente compatible con este estudio. 
+4. Interrupción permanente del estudio de origen debido a toxicidad o progresión de la enfermedad. 
+5. Acceso local a medicamentos disponibles comercialmente sin costo para el paciente según lo permita la regulación local/del país. Criterios de exclusión adicionales para el subestudio ROSY-D: 
+6. Infección activa incluyendo COVID-19 (confirmado por PCR y/o clínicamente sospechado), tuberculosis, hepatitis B (resultado positivo conocido de HBsAg), hepatitis C o VIH (anticuerpos VIH 1/2 positivos). 
+7. Pacientes masculinos o femeninos con potencial reproductivo que no estén dispuestos a emplear un método anticonceptivo eficaz desde la inclusión en el estudio hasta 90 días después de la última dosis de monoterapia con durvalumab. 
+8. Toxicidad de grado 2 en curso, no resuelta, con incapacidad para reducir el corticosteroide a una dosis de </= 10 mg de prednisona por día (o equivalente) en las 12 semanas posteriores a la última dosis del tratamiento del estudio/régimen del estudio, según Modificación de la dosis de toxicidad y TMG para las guías de reacciones inmunológicas, relacionadas con la infusión y no inmunológicas del estudio de origen. 

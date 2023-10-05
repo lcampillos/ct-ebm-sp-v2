@@ -1,0 +1,90 @@
+T1	CHEM 61 104	vacuna antigripal tetravalente recombinante
+T2	CHEM 106 110	RIV4
+T3	CHEM 134 180	vacuna antigripal tetravalente a base de huevo
+T4	CHEM 182 186	IIV4
+T5	LIVB 191 204	participantes
+T6	Age 205 218	de 3 a 8 años
+T7	CHEM 276 319	vacuna antigripal tetravalente recombinante
+T8	CHEM 342 372	vacuna antigripal tetravalente
+T9	Dose 376 390	dosis estándar
+T10	CHEM 401 406	huevo
+T11	LIVB 410 415	niños
+#1	AnnotatorNotes T11	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T12	Age 410 415	niños
+T13	Age 416 429	de 3 a 8 años
+T14	DISO 454 459	Gripe
+#2	AnnotatorNotes T14	C0021400; Influenza; Disease or Syndrome
+T15	Age 520 533	de 3 a 8 años
+T16	LIVB 565 577	participante
+T17	LIVB 677 682	padre
+#3	AnnotatorNotes T17	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T18	LIVB 686 691	madre
+#4	AnnotatorNotes T18	C0026591; Mother (person); Family Group
+T19	LIVB 699 718	representante legal
+T20	LIVB 724 731	testigo
+#5	AnnotatorNotes T20	C0009932; Control Groups; Group | C0682356; Witnesses; Population Group
+T21	PROC 783 807	consentimiento informado
+#6	AnnotatorNotes T21	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T22	Neg_cue 886 897	Se excluirá
+T23	LIVB 916 929	participantes
+T24	Negated 916 929	participantes
+T25	DISO 980 1019	Inmunodeficiencia congénita o adquirida
+T27	Spec_cue 1032 1042	sospechada
+T28	PROC 1059 1084	terapias inmunosupresoras
+#7	AnnotatorNotes T28	C0021079; Therapeutic immunosuppression; Therapeutic or Preventive Procedure
+T29	PROC 1091 1104	quimioterapia
+#8	AnnotatorNotes T29	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T30	PROC 1107 1133	radioterapia anticancerosa
+T31	Duration 1138 1157	los últimos 6 meses
+T32	PROC 1161 1195	terapia con corticoides sistémicos
+T33	Date 1196 1210	de largo plazo
+T34	CHEM 1212 1222	prednisona
+#9	AnnotatorNotes T34	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T35	Duration 1245 1274	más de 2 semanas consecutivas
+T36	Duration 1278 1300	los 3 meses anteriores
+T37	DISO 1307 1334	Hipersensibilidad sistémica
+T38	CHEM 1382 1388	vacuna
+#10	AnnotatorNotes T38	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T39	DISO 1407 1417	reacciones
+#11	AnnotatorNotes T39	C0221736; Reaction emotional; Finding
+T40	PROC 1452 1466	administración
+#12	AnnotatorNotes T40	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T41	CHEM 1474 1481	vacunas
+#13	AnnotatorNotes T41	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T42	CHEM 1515 1521	vacuna
+#14	AnnotatorNotes T42	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T43	DISO 1576 1591	Trombocitopenia
+#15	AnnotatorNotes T43	C0040034; Thrombocytopenia; Disease or Syndrome
+T44	DISO 1596 1619	Trastornos hemorrágicos
+#16	AnnotatorNotes T44	C0019087; Hemorrhagic Disorders; Disease or Syndrome
+T45	PROC 1622 1636	administración
+#17	AnnotatorNotes T45	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T46	CHEM 1640 1655	anticoagulantes
+#18	AnnotatorNotes T46	C0003280; Anticoagulants; Pharmacologic Substance
+T47	Duration 1659 1672	las 3 semanas
+T48	PROC 1737 1761	vacunación intramuscular
+T50	Route 1748 1761	intramuscular
+T51	LIVB 1784 1796	investigador
+#19	AnnotatorNotes T51	C0035173; Research Personnel; Professional or Occupational Group
+T52	DISO 1841 1867	síndrome de Guillain-Barré
+#20	AnnotatorNotes T52	C0018378; Guillain-Barre Syndrome; Disease or Syndrome
+T53	DISO 1869 1872	GBS
+#21	AnnotatorNotes T53	C0018378; Guillain-Barre Syndrome; Disease or Syndrome
+T54	DISO 1905 1954	retraso clínicamente significativo del desarrollo
+T55	LIVB 1969 1981	investigador
+#22	AnnotatorNotes T55	C0035173; Research Personnel; Professional or Occupational Group
+T56	DISO 1987 2008	trastorno neurológico
+#23	AnnotatorNotes T56	C0027765; nervous system disorder; Disease or Syndrome
+T57	DISO 2014 2034	trastorno convulsivo
+#24	AnnotatorNotes T57	C0014544; Epilepsy; Disease or Syndrome | C0234972; Convulsive disorder; Disease or Syndrome
+T58	Neg_cue 2043 2045	no
+T59	Negated 2097 2126	todos los aspectos relevantes
+T60	Spec_cue 2135 2142	posible
+T61	Speculated 2143 2156	participación
+T62	LIVB 2163 2171	paciente
+#25	AnnotatorNotes T62	C0030705; Patients; Patient or Disabled Group
+T63	PROC 2178 2193	estudio clínico
+#26	AnnotatorNotes T63	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T26	Speculated 980 1019	Inmunodeficiencia congénita o adquirida
+T49	Contraindicated 1737 1761	vacunación intramuscular
+T64	Route 1185 1195	sistémicos

@@ -1,0 +1,21 @@
+EudraCT Nº: 2022-001582-12
+
+Título: Ensayo clínico abierto, multicéntrico, aleatorizado para evaluar la eficacia y seguridad de aripiprazol vs paliperidona / risperidona mediante datos multi-ómicos en pacientes con un primer episodio psicótico.
+
+Indicación: Pacientes con un primer episodio psicótico 
+
+Criterios de inclusión:
+
+1. Pacientes con edad comprendida entre 15 y 40 años. 
+2. Pacientes que vivan en el área de influencia del centro. 
+3. Pacientes que estén experimentando su primer episodio psicótico. 
+4. Pacientes con diagnósticos del espectro de la esquizofrenia según DSM-5 (trastorno esquizofreniforme, esquizofrenia, trastorno esquizoafectivo, trastorno psicótico breve o trastorno psicótico no especificado). 
+
+Criterios de exclusión:
+
+1. Estar recibiendo tratamiento antipsicótico desde hace >6 semanas en el momento de la aleatorización del fármaco de estudio. 
+2. Pacientes que cumplan los criterios del DSM-5 para dependencia a sustancias (diferente a tabaco o cannabis). 
+3. Pacientes que cumplan los criterios del DSM-5 para discapacidad intelectual. 
+4. Pacientes con antecedentes de patología neurológica o traumatismo craneoencefálico. 
+5. Estar embarazada.
+6. Tratamiento crónico (>3 meses) con corticoides orales o intramusculares o tratamiento inmunosupresor. 

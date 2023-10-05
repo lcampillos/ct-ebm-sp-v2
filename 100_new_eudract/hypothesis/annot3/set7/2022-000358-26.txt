@@ -1,0 +1,21 @@
+EudraCT Nº: 2022-000358-26
+
+Título público: Seguridad, tolerabilidad y eficacia de una estrategia de reducción de dosis basada en bictegravir /emtricitabina / tenofovir alafenamida en adultos infectados por el VIH con supresión viral 
+
+Indicación pública: tratamiento de Infecció por HIV 
+
+Indicación científica: infección por HIV 
+
+Criterios de inclusión:
+- Adultos infectados por el VIH estables y asintomáticos (≥18 años) que recibieron BETAF una vez al día durante al menos los 6 meses anteriores.
+- ARN plasmático del VIH-1 inferior a 50 copias/ml durante al menos los 6 meses anteriores
+- Recuentos de células 3CD4 superiores a 350 células/ml en el momento de la consideración para el estudio
+- Las mujeres en edad fértil deben tener una prueba de embarazo negativa en suero antes de la inclusión en el estudio y aceptar el uso de métodos anticonceptivos altamente efectivos
+- Pacientes aceptaron participar 
+
+Criterios de exclusión:
+- Fracaso virológico anterior a cualquier régimen antirretroviral o mutaciones de resistencia documentadas a bictegravir, emtricitabina o tenofovir.
+- cualquier diagnóstico de enfermedad psiquiátrica
+- Abuso de alcohol o consumo de drogas ilícitas (basado en su historial médico pasado y preguntas específicas en el momento del reclutamiento) 
+- Pacientes coinfectados con VIH y virus de la hepatitis B o C
+- Cualquier otra condición a discreción del médico que no permitiera asegurar una correcta adherencia. 

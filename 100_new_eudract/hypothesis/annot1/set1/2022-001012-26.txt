@@ -1,0 +1,25 @@
+EudraCT Nº:  2022-001012-26
+
+Título público:  Estudio para evaluar la efectividad y la seguridad de efzofitimod en pacientes con sarcoidosis pulmonar 
+
+Título científico:  Estudio de fase 3, aleatorizado, en doble ciego y controlado con placebo, para evaluar la eficacia y la seguridad de efzofitimod intravenoso en pacientes con sarcoidosis pulmonar 
+
+Indicación pública:  Sarcoidosis pulmonar 
+
+Criterios de inclusión:
+- Diagnóstico confirmado de sarcoidosis pulmonar desde hace al menos 6 meses, definido por los siguientes criterios: diagnóstico de sarcoidosis documentado y demostrado histológicamente por biopsia de tejido y pruebas documentadas de afectación del parénquima pulmonar mediante pruebas radiológicas previas.
+- Pruebas de sarcoidosis pulmonar sintomática, demostrada por los siguientes criterios: grado de la escala de disnea modificada del Consejo de Investigaciones Médicas (MRC, por sus siglas en inglés) de al menos 1 y Puntuación del KSQ-Lung <=70.
+- Los pacientes deberán estar recibiendo tratamiento con OCS desde hace >= 3 meses con una dosis inicial entre >=7,5 y <=25 mg/día.
+- Peso corporal >=40 kg y <160 kg 
+
+Criterios de exclusión:
+- Tratamiento con >1 inmunosupresor oral.
+- Tratamiento con inmunomoduladores biológicos, como los inhibidores del factor de necrosis tumoral alfa (FNT-alfa) o antifibróticos o inhibidores de la interleucina.
+- Probabilidad de fibrosis pulmonar significativa, como lo demuestran uno o más de los siguientes factores: Fibrosis en la TAC de alta resolución >20 % en la Selección; FVC <50 % del teórico y Puntuación del KSQ-Lung <30.
+- Hipertensión pulmonar clínicamente significativa que requiera tratamiento con vasodilatadores.
+- Pacientes con sarcoidosis cardíaca, neurosarcoidosis o sarcoidosis renal.
+- Sarcoidosis cutánea u ocular clínicamente significativas.
+- Antecedentes de síntomas adisonianos que impidieron los intentos anteriores de reducción progresiva de los OCS.
+- Fumador activo y empedernido de productos que contienen tabaco/nicotina.
+- Antecedentes de síndrome antisintetasa o positivo para Jo-1 en el momento basal. 
+

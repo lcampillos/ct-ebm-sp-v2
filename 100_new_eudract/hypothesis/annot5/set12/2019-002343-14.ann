@@ -1,0 +1,117 @@
+T1	Date 12 16	2019
+T2	PROC 44 60	TERAPIA GENÉTICA
+T3	LIVB 64 69	NIÑOS
+#1	AnnotatorNotes T3	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T4	Age 64 69	NIÑOS
+T5	DISO 74 91	INMUNODEFICIENCIA
+#2	AnnotatorNotes T5	C0021051; Immunologic Deficiency Syndromes; Disease or Syndrome
+T6	DISO 112 131	DEFICIENCIA DE RAG1
+T7	PROC 152 181	ENSAYO CLÍNICO DE FASE I / II
+T8	PROC 185 234	TERAPIA DE GENES DE CÉLULAS MADRE HEMATOPOYÉTICAS
+T9	DISO 250 267	INMUNODEFICIENCIA
+#3	AnnotatorNotes T9	C0021051; Immunologic Deficiency Syndromes; Disease or Syndrome
+T10	DISO 288 307	DEFICIENCIA DE RAG1
+T11	LIVB 329 334	Niños
+#4	AnnotatorNotes T11	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T12	Age 329 334	Niños
+T13	DISO 339 366	inmunodeficiencia combinada
+T14	DISO 386 394	mutación
+T15	LIVB 434 443	Pacientes
+#5	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 448 475	inmunodeficiencia combinada
+T17	DISO 483 487	SCID
+#6	AnnotatorNotes T17	C0085110; Severe Combined Immunodeficiency; Disease or Syndrome
+T18	DISO 502 518	defecto genético
+T19	CHEM 542 555	recombinasa 1
+T20	DISO 591 615	Deficiencia de RAG1 SCID
+T21	PROC 631 648	análisis genético
+#7	AnnotatorNotes T21	C0679560; Genetic screening method; Laboratory Procedure
+T22	ANAT 652 682	Células T de sangre periférica
+T23	ANAT 699 708	células T
+#8	AnnotatorNotes T23	C0039194; T-Lymphocyte; Cell
+T24	Age 734 741	<2 años
+T25	Age 751 769	al menos 8 semanas
+T26	PROC 798 812	administración
+#9	AnnotatorNotes T26	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T27	CHEM 816 824	busulfán
+#10	AnnotatorNotes T27	C0006463; busulfan; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T28	Neg_cue 829 837	Falta de
+T29	Negated 841 867	donante compatible con HLA
+T30	LIVB 841 848	donante
+#11	AnnotatorNotes T30	C0013018; Donor person; Population Group
+T31	PROC 864 867	HLA
+T32	LIVB 880 887	hermano
+#12	AnnotatorNotes T32	C0037047; Sibling; Family Group
+T33	PROC 892 895	HLA
+T34	Negated 896 904	idéntico
+T35	LIVB 907 914	donante
+#13	AnnotatorNotes T35	C0013018; Donor person; Population Group
+T36	Neg_cue 920 922	no
+T37	Negated 924 934	parentesco
+T38	Negated 939 948	alelos 10
+T39	PROC 939 945	alelos
+T40	PROC 985 1009	consentimiento informado
+#14	AnnotatorNotes T40	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T41	LIVB 1019 1024	padre
+#15	AnnotatorNotes T41	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T42	LIVB 1027 1032	tutor
+T43	PROC 1074 1078	TCMH
+T44	PROC 1084 1095	seguimiento
+#16	AnnotatorNotes T44	C0420316; Other follow-up; Health Care Activity
+T45	PROC 1101 1110	protocolo
+#17	AnnotatorNotes T45	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T46	Duration 1134 1140	2 años
+T47	PROC 1146 1154	revisión
+#18	AnnotatorNotes T47	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T48	Duration 1158 1165	15 años
+T49	Date 1184 1197	a largo plazo
+T50	LIVB 1248 1255	donante
+#19	AnnotatorNotes T50	C0013018; Donor person; Population Group
+T51	PROC 1271 1274	HLA
+T52	LIVB 1276 1283	hermano
+#20	AnnotatorNotes T52	C0037047; Sibling; Family Group
+T53	PROC 1288 1291	HLA
+T54	LIVB 1303 1310	donante
+#21	AnnotatorNotes T54	C0013018; Donor person; Population Group
+T55	Neg_cue 1327 1329	no
+T56	DISO 1381 1436	Deficiencia de RAG 1 con células T de sangre periférica
+T57	ANAT 1453 1462	células T
+#22	AnnotatorNotes T57	C0039194; T-Lymphocyte; Cell
+T58	DISO 1483 1500	Síndrome de Omenn
+#23	AnnotatorNotes T58	C2700553; Omenn Syndrome; Disease or Syndrome
+T59	PROC 1504 1518	TCMH alogénico
+T60	DISO 1529 1539	Disfunción
+#24	AnnotatorNotes T60	C0277785; Functional disorder; Pathologic Function
+T61	DISO 1542 1554	comorbilidad
+#25	AnnotatorNotes T61	C0206308; Dual diagnosis (psychiatry); Finding | C1275743; Co-morbid conditions; Finding
+T62	ANAT 1572 1579	órganos
+#26	AnnotatorNotes T62	C0178784; Organ; Body Part, Organ, or Organ Component | C1280836; Entire body organ; Body Part, Organ, or Organ Component
+T63	PROC 1648 1668	Ventilacion mecanica
+#27	AnnotatorNotes T63	C0199470; Mechanical ventilation; Therapeutic or Preventive Procedure
+T64	PROC 1674 1698	Fracción de acortamiento
+T65	PROC 1702 1716	ecocardiograma
+#28	AnnotatorNotes T65	C0013516; Echocardiography; Diagnostic Procedure
+T66	DISO 1728 1747	Insuficiencia renal
+#29	AnnotatorNotes T66	C0035078; Kidney Failure; Disease or Syndrome | C1565489; Renal Insufficiency; Disease or Syndrome
+T67	DISO 1762 1773	dependencia
+#30	AnnotatorNotes T67	C0439857; Dependence; Mental or Behavioral Dysfunction | C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T68	PROC 1777 1785	diálisis
+#31	AnnotatorNotes T68	C4551529; Renal Dialysis; Therapeutic or Preventive Procedure
+T69	DISO 1791 1824	Trastorno convulsivo incontrolado
+T70	DISO 1843 1859	condición médica
+#32	AnnotatorNotes T70	C4745084; Medical Condition; Finding
+T71	LIVB 1880 1895	médico tratante
+T72	Spec_cue 1897 1902	pueda
+T73	Speculated 1903 1913	interferir
+T74	PROC 1942 1956	ensayo clínico
+#33	AnnotatorNotes T74	C0008976; Clinical Trials; Research Activity
+T75	PROC 1998 2026	recolección de células madre
+T76	Contraindicated 1998 2026	recolección de células madre
+T77	PROC 2032 2046	administración
+#34	AnnotatorNotes T77	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T78	Contraindicated 2032 2046	administración
+T79	CHEM 2050 2079	medicamentos acondicionadores
+T80	Contraindicated 2050 2079	medicamentos acondicionadores
+T81	DISO 2084 2101	Infección por VIH
+#35	AnnotatorNotes T81	C0019693; HIV Infections; Disease or Syndrome
+T82	DISO 2104 2122	infección por HTLV

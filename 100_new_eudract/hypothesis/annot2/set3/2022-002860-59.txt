@@ -1,0 +1,20 @@
+EudraCT Nº:  2022-002860-59
+
+Título público:  Un estudio de extensión abierto para pacientes que completaron previamente el estudio ISEE2008 (GATHER2). 
+
+Título científico:  Estudio de extensión abierta (OLE) de fase III para evaluar la seguridad de la administración intravítrea de avacincaptad pegol (inhibidor del complemento C5) en pacientes con atrofia geográfica que han completado previamente el estudio de fase III ISEE2008 (GATHER2) 
+
+Indicación pública:  Atrofia greográfica 
+
+Indicación científica:  Atrofia geográfica 
+
+Criterios de inclusión:
+Pacientes masculinos o femeninos de 50 años o más diagnosticados con AG dentro y/o fuera de la fóvea que completaron el estudio ISEE2008 (GATHER2) hasta la visita del Mes 24 en el tratamiento del estudio, independientemente de si recibieron tratamiento con avacincaptad pegol o Sham anteriormente, derivar a la Sección 8.2 del protocolo ISEE2008 para conocer los detalles de los criterios de inclusión. Los pacientes deben proporcionar un nuevo consentimiento informado por escrito para este ensayo OLE antes de participar y tener la posibilidad de regresar para todas las visitas del ensayo durante los 18 meses del ensayo. 
+
+Criterios de exclusión:
+Los pacientes no serán elegibles para el estudio si:
+1. El paciente no completó el estudio ISEE2008 (GATHER2) hasta la visita del mes 24 de tratamiento del estudio (ya sea avacincaptad pegol o Sham),
+2. Los pacientes a los que se les retiró el fármaco del estudio de forma permanente por un EA no son elegibles; los pacientes a los que se les retuvo temporalmente el fármaco del estudio debido a un AA o cirugía ocular electiva serán revisados caso por caso para determinar su elegibilidad,
+3. El paciente no se inscribió en este ensayo OLE dentro del período de inscripción de 90 días.
+4. Pacientes embarazadas o lactantes. 
+

@@ -1,0 +1,139 @@
+T1	PROC 36 51	Estudio abierto
+T2	PROC 57 77	evaluar la seguridad
+T3	Date 78 91	a largo plazo
+T4	CHEM 95 102	BCX9930
+T5	PROC 106 117	monoterapia
+#1	AnnotatorNotes T5	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T6	LIVB 121 128	sujetos
+#2	AnnotatorNotes T6	C0681850; Study Subject; Group
+T7	DISO 133 168	hemoglobinuria paroxística nocturna
+#3	AnnotatorNotes T7	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T8	Time 160 168	nocturna
+T9	CHEM 201 208	BCX9930
+T10	DISO 267 302	Hemoglobinuria Paroxística Nocturna
+#4	AnnotatorNotes T10	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T11	DISO 327 330	HPN
+#5	AnnotatorNotes T11	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T12	PROC 389 425	consentimiento informado por escrito
+T13	LIVB 431 438	Mujeres
+#6	AnnotatorNotes T13	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T14	Neg_cue 439 441	no
+T15	PHYS 442 453	embarazadas
+#7	AnnotatorNotes T15	C0033011; Pregnant Women; Population Group
+T16	Negated 442 453	embarazadas
+T17	Neg_cue 454 456	ni
+T18	PHYS 457 466	lactantes
+#8	AnnotatorNotes T18	C0021270; Infant; Age Group
+T19	Negated 457 466	lactantes
+T20	LIVB 476 483	sujetos
+#9	AnnotatorNotes T20	C0681850; Study Subject; Group
+T21	DISO 488 491	HPN
+#10	AnnotatorNotes T21	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T22	PROC 516 527	tratamiento
+#11	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	PROC 536 551	estudio clínico
+#12	AnnotatorNotes T23	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T24	CHEM 552 559	BCX9930
+T25	LIVB 578 590	investigador
+#13	AnnotatorNotes T25	C0035173; Research Personnel; Professional or Occupational Group
+T26	Speculated 592 608	se beneficiarían
+T27	PROC 615 635	tratamiento continuo
+T28	CHEM 640 647	BCX9930
+T29	LIVB 657 687	participantes de sexo femenino
+T30	LIVB 791 806	mujer no fértil
+T31	Neg_cue 797 799	no
+T32	Negated 800 806	fértil
+T33	LIVB 819 839	mujer en edad fértil
+T34	Age 828 839	edad fértil
+T35	PROC 863 884	método anticonceptivo
+#14	AnnotatorNotes T35	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T36	Duration 938 945	30 días
+T38	CHEM 976 983	BCX9930
+T39	PROC 1019 1030	abstinencia
+T40	LIVB 1053 1075	mujeres en edad fértil
+T41	Age 1064 1075	edad fértil
+T42	LIVB 1181 1189	paciente
+#15	AnnotatorNotes T42	C0030705; Patients; Patient or Disabled Group
+T43	LIVB 1199 1230	participantes de sexo masculino
+T44	LIVB 1330 1337	hombres
+#16	AnnotatorNotes T44	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T45	LIVB 1346 1361	pareja femenina
+T46	Age 1365 1376	edad fértil
+T47	LIVB 1391 1408	pareja embarazada
+T48	PROC 1416 1434	usar preservativos
+T49	Duration 1479 1486	90 días
+T50	CHEM 1510 1517	BCX9930
+T51	LIVB 1534 1540	pareja
+#17	AnnotatorNotes T51	C0682323; Partner in relationship; Family Group
+T52	PROC 1560 1581	método anticonceptivo
+#18	AnnotatorNotes T52	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T53	PROC 1660 1671	abstinencia
+T54	LIVB 1788 1796	paciente
+#19	AnnotatorNotes T54	C0030705; Patients; Patient or Disabled Group
+T55	LIVB 1817 1829	investigador
+#20	AnnotatorNotes T55	C0035173; Research Personnel; Professional or Occupational Group
+T56	LIVB 1848 1854	sujeto
+#21	AnnotatorNotes T56	C0681850; Study Subject; Group
+T57	PROC 1890 1904	procedimientos
+T58	DISO 1999 2029	afección médica o psiquiátrica
+T59	DISO 2069 2104	dependencia al alcohol o las drogas
+T60	LIVB 2125 2137	investigador
+#22	AnnotatorNotes T60	C0035173; Research Personnel; Professional or Occupational Group
+T61	Spec_cue 2149 2154	pueda
+T62	Speculated 2155 2182	interferir con la capacidad
+T63	LIVB 2187 2193	sujeto
+#23	AnnotatorNotes T63	C0681850; Study Subject; Group
+T64	Speculated 2226 2244	aumentar el riesgo
+T67	LIVB 2272 2278	sujeto
+#24	AnnotatorNotes T67	C0681850; Study Subject; Group
+T68	DISO 2287 2309	acontecimiento adverso
+#25	AnnotatorNotes T68	C0877248; Adverse event; Pathologic Function
+T69	DISO 2311 2313	AA
+#26	AnnotatorNotes T69	C0000727; Abdomen, Acute; Sign or Symptom | C0002874; Aplastic Anemia; Disease or Syndrome | C0003486; Aortic Aneurysm; Disease or Syndrome | C0004031; Aspergillosis, Allergic Bronchopulmonary; Disease or Syndrome | C0085693; Acute appendicitis NOS (disorder); Disease or Syndrome | C0221014; Reactive systemic amyloidosis; Disease or Syndrome
+T70	DISO 2375 2384	toxicidad
+#27	AnnotatorNotes T70	C0600688; Toxic effect; Injury or Poisoning
+T71	LIVB 2415 2427	investigador
+#28	AnnotatorNotes T71	C0035173; Research Personnel; Professional or Occupational Group
+T72	LIVB 2457 2463	sujeto
+#29	AnnotatorNotes T72	C0681850; Study Subject; Group
+T74	PROC 2483 2521	procedimientos específicos del estudio
+T75	Neg_cue 2541 2543	no
+T76	Negated 2550 2555	mejor
+T77	LIVB 2564 2570	sujeto
+#30	AnnotatorNotes T77	C0681850; Study Subject; Group
+T78	PROC 2586 2616	evaluación de riesgo-beneficio
+T79	Neg_cue 2620 2622	no
+T80	PROC 2640 2660	tratamiento continuo
+T81	Negated 2640 2660	tratamiento continuo
+T82	Duration 2652 2660	continuo
+T83	LIVB 2665 2671	sujeto
+#31	AnnotatorNotes T83	C0681850; Study Subject; Group
+T84	Frequency 2681 2687	diario
+T85	CHEM 2691 2699	fármacos
+#32	AnnotatorNotes T85	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T86	Date 2700 2711	actualmente
+T87	CHEM 2737 2749	medicamentos
+#33	AnnotatorNotes T87	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T88	Contraindicated 2737 2749	medicamentos
+T89	DISO 2790 2807	Hipersensibilidad
+#34	AnnotatorNotes T89	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T91	Speculated 2819 2829	sospechada
+T92	CHEM 2832 2839	BCX9930
+T93	CHEM 2860 2871	excipientes
+#35	AnnotatorNotes T93	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T94	DISO 2897 2905	erupción
+#36	AnnotatorNotes T94	C0015230; Exanthema; Sign or Symptom | C0302295; Eruptions; Pathologic Function
+T96	CHEM 2917 2924	fármaco
+#37	AnnotatorNotes T96	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T97	Neg_cue 2925 2927	no
+T98	Negated 2931 2941	excluyente
+T99	PROC 215 222	estudio
+T100	Time 294 302	Nocturna
+T102	PROC 762 769	estudio
+T103	PROC 1451 1458	estudio
+T104	PROC 1617 1624	estudio
+T105	PROC 1951 1958	estudio
+T106	PROC 2216 2222	ensayo
+T66	PROC 920 927	estudio
+T73	PROC 1305 1312	estudio
+T37	Speculated 2790 2807	Hipersensibilidad

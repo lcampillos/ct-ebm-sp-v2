@@ -1,0 +1,34 @@
+EudraCT Nº: 2022-000082-41
+
+Título público: Se realiza un ensayo clínico para ver el beneficio que puede tener un fármaco hipolipemiante conocido como es pitavastatina en pacientes con cáncer de próstata avanzado y que están siendo tratados con los nuevos antiandrógenos 
+
+Título científico: Impacto del uso de pitavastatina en pacientes con cáncer de próstata tratados con terapia androgénica de nueva generación: ensayo clínico multicéntrico 
+
+Indicación pública: Determinar si un fármaco ampliamente utilizado (pitavastatina), puede ser beneficioso en pacientes con cancer de próstata avanzado; se investigará si puede retrasar la progresión de la enfermedad. 
+
+Indicación científica: Proponemos un ensayo clínico, randomizado y simple ciego, sin conflicto de intereses, para determinar el beneficio clínico de las estatinas en pacientes con cáncer de próstata que están siendo tratados con ARTA (enzalutamida, apalutamida, darolutamida y abiraterona). Como objetivos primarios determinaremos si en el grupo experimental se consigue un aumento de la supervivencia libre de metástasis y en la supervivencia libre de progresión radiológica. 
+
+Criterios de inclusión:
+Pacientes con diagnóstico histológico de cáncer de próstata, que se encuentren en uno de los estadios clínicos que se enumeran en los criterios de inclusión
+a) Criterios de inclusión:
+a.1. Pacientes con cáncer de próstata metastásico hormonosensibles (CPHSm), que no hayan recibido línea previa con superantiandrógenos ni quimioterapia.
+a.2. Pacientes con cáncer de próstata metastásico resistente a la castración (CPRCm), que no hayan recibido línea previa con superantiandrógenos ni quimioterapia.
+Los criterios que definen el cáncer de próstata resistente a la castración son:
+- Tres elevaciones consecutivas de PSA, separadas por al menos una semana, con dos incrementos del 50% sobre el nadir y siempre que este incremento de lugar a un PSA mayor de 2 ng/ml.
+- Niveles de testosterona inferiores a 50 ng/dl ó 1.7 nmol/l.
+- Progresión de lesiones óseas ≥ 2 en gammagrafía ósea o progresión de lesiones de tejidos blandos según los criterios RECIST
+a.3. Pacientes con cáncer de próstata resistente a la castración no metastásicos (CRPCnm) y de alto riesgo (tiempo de duplicación de PSA < 6 meses)
+a.4. Los pacientes con CaP estarán bajo tratamiento con unos de estos 4 fármacos activos para su enfermedad:
+- Abiraterona 
+- Enzalutamida 
+- Apalutamida 
+- Darolutamida
+a.5 Fármaco a estudiar (variable dependiente): pitavastatina 2 mg.
+
+Criterios de exclusión:
+
+b.1. Pacientes con hiperlipidemia en el momento del diagnóstico estén o no bajo tratamiento farmacológico
+b.2. Pacientes con niveles de transaminasas dos veces por encima del valor normal.
+b.3. Pacientes en los que no se disponga de información sobre las variables a estudio.
+b.4. Pacientes que rechacen formar parte del estudio o no firmen el consentimiento informado del estudio. 
+

@@ -1,0 +1,81 @@
+T1	PHYS 63 73	fase lútea
+T2	CHEM 83 95	progesterona
+#1	AnnotatorNotes T2	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T3	PROC 99 138	procedimientos de reproducción asistida
+T4	PROC 271 290	Estudio comparativo
+T5	PROC 305 311	pautas
+#2	AnnotatorNotes T5	C0935576; treatment guideline; Therapeutic or Preventive Procedure
+T6	PROC 315 336	cobertura gestagénica
+T7	PROC 350 370	fecundación in vitro
+#3	AnnotatorNotes T7	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T8	PROC 372 375	FIV
+#4	AnnotatorNotes T8	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T9	PROC 381 403	transferencia diferida
+T10	ANAT 407 419	blastocistos
+#5	AnnotatorNotes T10	C1281743; Blastocyst structure; Embryonic Structure
+T11	PROC 532 551	estudio comparativo
+T12	PROC 566 572	pautas
+#6	AnnotatorNotes T12	C0935576; treatment guideline; Therapeutic or Preventive Procedure
+T13	PROC 576 597	cobertura gestagénica
+T14	PROC 611 631	fecundación in vitro
+#7	AnnotatorNotes T14	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T15	PROC 633 636	FIV
+#8	AnnotatorNotes T15	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T16	PROC 642 664	transferencia diferida
+T17	ANAT 668 680	blastocistos
+#9	AnnotatorNotes T17	C1281743; Blastocyst structure; Embryonic Structure
+T18	PROC 756 776	procedimiento de FIV
+T19	PROC 810 830	estimulación ovárica
+T20	PROC 846 855	inducción
+#10	AnnotatorNotes T20	C0857127; Induction procedure; Therapeutic or Preventive Procedure
+T21	PHYS 858 870	recuperación
+#11	AnnotatorNotes T21	C0679061; Retrieval of memory; Mental Process | C2004454; Recovery - healing process; Organism Function
+T22	ANAT 871 881	ovocitaria
+T23	LIVB 968 975	Mujeres
+#12	AnnotatorNotes T23	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T24	Age 979 1009	más de 18 años y menores de 42
+T25	PROC 1057 1077	fecundación in vitro
+#13	AnnotatorNotes T25	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T26	PROC 1082 1122	transferencia diferida de un blastocisto
+T27	PROC 1128 1164	screening genético preimplantacional
+T28	ANAT 1203 1210	embrión
+#14	AnnotatorNotes T28	C0013935; Embryo; Embryonic Structure | C0013948; Embryonic Structures; Embryonic Structure | C1305370; Entire embryo; Embryonic Structure
+T29	Neg_cue 1234 1236	no
+T30	Negated 1249 1276	embriones clasificados como
+T31	ANAT 1249 1258	embriones
+#15	AnnotatorNotes T31	C0013935; Embryo; Embryonic Structure | C0013948; Embryonic Structures; Embryonic Structure | C1305370; Entire embryo; Embryonic Structure
+T32	Spec_cue 1277 1285	posibles
+T33	Speculated 1286 1294	mosaicos
+T34	Neg_cue 1299 1310	Ausencia de
+T35	Negated 1311 1348	contraindicaciones médico-quirúrgicas
+T36	PROC 1358 1375	punción folicular
+T37	PROC 1388 1391	FIV
+#16	AnnotatorNotes T37	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T38	Neg_cue 1395 1406	Ausencia de
+T39	DISO 1407 1422	miomas uterinos
+#17	AnnotatorNotes T39	C0042133; Uterine Fibroids; Neoplastic Process
+T40	Negated 1407 1422	miomas uterinos
+T41	DISO 1532 1547	miomas uterinos
+#18	AnnotatorNotes T41	C0042133; Uterine Fibroids; Neoplastic Process
+T42	DISO 1570 1592	pérdidas gestacionales
+T43	PROC 1624 1639	cirugía uterina
+T44	DISO 1642 1659	Hipersensibilidad
+#19	AnnotatorNotes T44	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T45	DISO 1662 1674	intolerancia
+T46	PROC 1680 1702	administración exógena
+T47	CHEM 1706 1716	Estrógenos
+#20	AnnotatorNotes T47	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T48	CHEM 1719 1731	Progesterona
+#21	AnnotatorNotes T48	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T49	CHEM 1752 1763	excipientes
+#22	AnnotatorNotes T49	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T50	CHEM 1781 1791	medicación
+#23	AnnotatorNotes T50	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T51	PROC 1820 1842	administración exógena
+T52	Contraindicated 1820 1842	administración exógena
+T53	CHEM 1846 1856	Estrógenos
+#24	AnnotatorNotes T53	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T54	Contraindicated 1846 1856	Estrógenos
+T55	CHEM 1859 1871	Progesterona
+#25	AnnotatorNotes T55	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T56	Contraindicated 1859 1871	Progesterona

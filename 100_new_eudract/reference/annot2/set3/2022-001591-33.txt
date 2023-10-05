@@ -1,0 +1,21 @@
+EudraCT Nº:  2022-001591-33
+
+Título público:  Estudio piloto de una estrategia de cambio de etravirina (ETR) a doravirina (DOR) en adultos infectados por VIH-1 virológicamente suprimidos con resistencia a ETR 
+
+Título científico:  Estudio abierto, de un solo brazo, unicéntrico y piloto de una estrategia de cambio de etravirina (ETR) a doravirina (DOR) en adultos infectados por VIH-1 virológicamente suprimidos con resistencia a ETR 
+
+Indicación pública:  Virus de Inmunodeficiencia Humana (VIH) 
+
+Criterios de inclusión:
+• Sujetos infectados por el VIH-1 con edad ≥18 años de edad.  
+• Deseo del paciente de simplificar su régimen de TAR  
+• Tener ARN plasmático VIH-1 < 50 copias/ml durante al menos las 24 semanas anteriores  
+• Actualmente recibiendo un régimen que contiene ETR (sin cambios durante las 24 semanas anteriores).  
+• El genotipo o GRT documentado agrupado/histórico en el ADN pro-viral debe mostrar la presencia de 103N y/o 181C y/o 190A y/o 100I y/o 138K/A. 
+
+Criterios de exclusión:
+• Genotipo agrupado/histórico documentado o GRT en ADN pro-viral de cualquier DOR-DRM (Mutaciones V106A, Y188L y M230L, y combinaciones de V106A y L234I; V106A y F227L y L234I; y V106A y 190A y F227L)  
+• Mujeres embarazadas, lactantes, mujeres con una prueba de embarazo positiva en el momento de la detección, mujeres fértiles sexualmente activas que deseen concebir o no estén dispuestas a comprometerse con métodos anticonceptivos (consulte el Apéndice 1 para la lista aceptada de los métodos altamente efectivos para evitar el embarazo), durante la duración del estudio y hasta 4 semanas después de la última dosis de medicamento del estudio. Todas las mujeres se consideran fértiles a menos que se hayan sometido a una cirugía esterilizante o sean mayores de 50 años con amenorrea espontánea durante más de 12 meses antes del ingreso al estudio.  
+• Infección tuberculosa activa.  
+• Cualquier condición clínica o terapia que, en opinión del investigador, haría que el individuo no sea adecuado para el estudio o no pueda cumplir con los requisitos de dosificación. 
+

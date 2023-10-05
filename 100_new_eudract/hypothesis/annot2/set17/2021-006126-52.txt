@@ -1,0 +1,30 @@
+EudraCT Nº: 2021-006126-52
+
+Título público: Estudio de accidente cerebrovascular en solución acuosa de afamelanotida de fase IIa
+
+Título científico: Estudio de fase IIa, no ciego, prueba de concepto para evaluar la seguridad de la solución acuosa de afamelanotida en pacientes con infarto agudo de origen arterial (IAA) que no son candidatos a trombólisis intravenosa (IVT) o trombectomía endovascular (EVT)
+
+Indicación: infarto agudo de origen arterial (IAA)
+
+Criterios de inclusión:
+
+• Sujetos masculinos o femeninos con diagnóstico de IAA primario
+• Seis pacientes con gravedad leve a moderada (definida como puntuación NIHSS de 1-15) y seis pacientes con gravedad moderada a grave (definida como puntuación NIHSS de 16-42)
+• Al menos tres pacientes con una puntuación NIHSS de 1-15 y al menos tres pacientes con puntuación NIHSS superior a 15 serán reclutados con anomalías de perfusión observadas en la perfusión por tomografía computarizada (CTP) y el resto de los pacientes sin anomalías de perfusión pero con sospecha clínica de IAA
+• mRS anterior al ictus <4
+• 18 a 85 años
+• Consentimiento informado por escrito obtenido del paciente y/o del responsable de la toma de decisiones del tratamiento médico antes del inicio del estudio (en el momento del ingreso).
+
+Criterios de exclusión:
+
+• Administración de terapia trombolítica intravenosa en la oclusión distal como etiología del IAA
+• Intervención mediante trombectomía endovascular (EVT)
+• Alergia o anafilaxia conocida a una hormona adrenocorticocotrópica (ACTH), melanocortinas o cualquiera de los excipientes enumerados en el manual del investigador
+• Cualquier evidencia de insuficiencia hepática (definida como tres veces el rango estándar) o renal (definida como eTFG <50 ml/min/1,73 m²)
+• Cualquier otra condición médica que pueda interferir con el protocolo del estudio (por ejemplo, problemas físicos o mentales que no permitan que los pacientes sigan el protocolo)
+• Mujer embarazada (confirmada por prueba de embarazo sérica positiva de GCH antes del inicio del estudio) o lactante
+• Mujeres en edad fértil que no utilizan medidas anticonceptivas de gran efectividad hasta tres meses después de la última inyección
+• Hombre sexualmente activo con una pareja en edad fértil que no use medidas anticonceptivas adecuadas, como se describió anteriormente.
+• Incapaz de someterse a una resonancia magnética cerebral
+• No apto para la participación según el juicio del Investigador Principal (IP)
+• Pacientes que comienzan afamelanotida 24 horas o más desde el accidente cerebrovascular.

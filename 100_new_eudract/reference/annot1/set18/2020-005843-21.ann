@@ -1,0 +1,51 @@
+T1	Date 12 16	2020
+T2	PROC 44 80	Estudio de seguimiento a largo plazo
+T3	Date 67 80	a largo plazo
+T4	LIVB 86 99	participantes
+T5	PROC 103 129	estudios intervencionistas
+T7	CHEM 164 187	células genomodificadas
+T8	PROC 208 244	Estudio de seguimiento a largo plazo
+T9	Date 231 244	a largo plazo
+T10	LIVB 250 263	participantes
+T11	PROC 267 293	estudios intervencionistas
+T12	PROC 315 323	tratados
+T13	CHEM 328 351	células genomodificadas
+T14	DISO 365 388	Neoplasias de células B
+T15	DISO 391 414	leucemia mieloide aguda
+#1	AnnotatorNotes T15	C0023467; Leukemia, Myelocytic, Acute; Neoplastic Process
+T16	LIVB 446 452	sujeto
+#2	AnnotatorNotes T16	C0681850; Study Subject; Group
+T17	PROC 477 522	infusión de células modificadas genéticamente
+T18	Neg_cue 569 571	no
+T20	Negated 583 615	retirado su pleno consentimiento
+T21	PROC 601 615	consentimiento
+T22	PROC 669 680	seguimiento
+#3	AnnotatorNotes T22	C0420316; Other follow-up; Health Care Activity
+T23	PROC 694 705	tratamiento
+#4	AnnotatorNotes T23	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T24	LIVB 756 762	sujeto
+#5	AnnotatorNotes T24	C0681850; Study Subject; Group
+T25	PHYS 768 776	entender
+T26	PROC 819 843	Consentimiento Informado
+#6	AnnotatorNotes T26	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T27	PROC 931 941	evaluación
+#7	AnnotatorNotes T27	C1261322; Evaluation procedure; Health Care Activity
+T28	PROC 944 957	procedimiento
+T29	LIVB 1002 1014	investigador
+#8	AnnotatorNotes T29	C0035173; Research Personnel; Professional or Occupational Group
+T30	LIVB 1019 1025	sujeto
+#9	AnnotatorNotes T30	C0681850; Study Subject; Group
+T31	PROC 1080 1091	seguimiento
+#10	AnnotatorNotes T31	C0420316; Other follow-up; Health Care Activity
+T32	PROC 1109 1118	protocolo
+#11	AnnotatorNotes T32	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T33	Neg_cue 1204 1206	No
+T34	Negated 1215 1237	criterios de exclusión
+T6	PROC 529 536	estudio
+T35	PROC 712 719	estudio
+T36	PROC 845 848	ICF
+T37	PROC 869 891	Asentimiento Informado
+T38	PROC 977 984	estudio
+T39	PROC 1169 1176	estudio
+T40	PROC 1260 1267	estudio
+T41	PROC 151 159	tratados

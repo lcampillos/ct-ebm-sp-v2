@@ -1,0 +1,79 @@
+T1	PROC 19 81	Estudio de fase 2, multicéntrico, aleatorizado, en doble ciego
+T2	PROC 108 154	), controlado con placebo, de grupos paralelos
+T3	PROC 181 212	evaluar la eficacia y seguridad
+T4	CHEM 216 222	TF0023
+T5	PROC 232 239	placebo
+#1	AnnotatorNotes T5	C0032042; Placebos; Therapeutic or Preventive Procedure
+T6	PROC 246 257	tratamiento
+#2	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	DISO 264 272	COVID-19
+#3	AnnotatorNotes T7	C5203670; COVID19 (disease); Disease or Syndrome
+T8	LIVB 276 283	adultos
+#4	AnnotatorNotes T8	C0001675; Adult; Age Group
+T9	Age 276 283	adultos
+T10	PROC 284 298	hospitalizados
+#5	AnnotatorNotes T10	C0019993; Hospitalization; Health Care Activity
+T11	PROC 316 333	Estudio de fase 2
+T12	PROC 339 370	evaluar la eficacia y seguridad
+T13	CHEM 374 380	TF0023
+T14	PROC 390 397	placebo
+#6	AnnotatorNotes T14	C0032042; Placebos; Therapeutic or Preventive Procedure
+T15	PROC 404 415	tratamiento
+#7	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	DISO 422 430	COVID-19
+#8	AnnotatorNotes T16	C5203670; COVID19 (disease); Disease or Syndrome
+T17	LIVB 434 441	adultos
+#9	AnnotatorNotes T17	C0001675; Adult; Age Group
+T18	Age 434 441	adultos
+T19	PROC 442 456	hospitalizados
+#10	AnnotatorNotes T19	C0019993; Hospitalization; Health Care Activity
+T20	DISO 470 492	Infección por COVID-19
+#11	AnnotatorNotes T20	C5203670; COVID19 (disease); Disease or Syndrome
+T21	PROC 520 533	Hospitalizado
+#12	AnnotatorNotes T21	C0019993; Hospitalization; Health Care Activity
+T22	DISO 538 569	síntomas pulmonares de COVID-19
+T23	LIVB 583 591	paciente
+#13	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	LIVB 598 617	representante legal
+T25	PROC 629 653	consentimiento informado
+#14	AnnotatorNotes T25	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T26	PROC 678 691	procedimiento
+T27	PROC 729 743	procedimientos
+T28	LIVB 770 775	Varón
+T29	LIVB 778 783	mujer
+#15	AnnotatorNotes T29	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T30	Neg_cue 784 786	no
+T31	PHYS 787 797	embarazada
+#16	AnnotatorNotes T31	C0032961; Pregnancy; Organism Function
+T32	Negated 787 797	embarazada
+T33	LIVB 799 805	adulto
+#17	AnnotatorNotes T33	C0001675; Adult; Age Group
+T34	Age 799 805	adulto
+T35	Age 806 816	>/=18 años
+T36	DISO 868 944	infección por el coronavirus del síndrome respiratorio agudo grave de tipo 2
+T37	LIVB 946 956	SARS-CoV-2
+#18	AnnotatorNotes T37	C5203676; SARS-CoV-2; Virus
+T38	PROC 997 1032	reacción en cadena de la polimerasa
+#19	AnnotatorNotes T38	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique
+T39	PROC 1034 1059	polymerase chain reaction
+T40	PROC 1061 1064	PCR
+#20	AnnotatorNotes T40	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T41	Neg_cue 1110 1112	no
+T42	PROC 1129 1138	serología
+#21	AnnotatorNotes T42	C0036743; Serologic tests; Laboratory Procedure
+T43	Negated 1129 1138	serología
+T44	DISO 1172 1181	trastorno
+#22	AnnotatorNotes T44	C0012634; Disease; Disease or Syndrome
+T45	DISO 1227 1244	neuropsiquiátrico
+T46	LIVB 1331 1339	paciente
+#23	AnnotatorNotes T46	C0030705; Patients; Patient or Disabled Group
+T47	LIVB 1460 1472	investigador
+#24	AnnotatorNotes T47	C0035173; Research Personnel; Professional or Occupational Group
+T48	PROC 1489 1527	oxigenación por membrana extracorpórea
+#25	AnnotatorNotes T48	C0015357; Extracorporeal Membrane Oxygenation; Therapeutic or Preventive Procedure
+T49	PROC 1564 1568	alta
+#26	AnnotatorNotes T49	C0030685; Patient Discharge; Health Care Activity
+T50	PROC 1584 1608	traslado a otro hospital
+T51	Neg_cue 1609 1611	no
+T52	Negated 1612 1638	participante en el estudio
+T53	LIVB 1612 1624	participante

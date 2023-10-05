@@ -1,0 +1,80 @@
+T1	PROC 46 95	ENSAYO CLÍNICO ABIERTO, ALEATORIZADO Y CONTROLADO
+T2	PROC 101 121	EVALUAR LA SEGURIDAD
+T3	PROC 128 157	ADMINISTRACIÓN INTRABRONQUIAL
+T4	Route 143 157	INTRABRONQUIAL
+T5	ANAT 161 168	CÉLULAS
+#1	AnnotatorNotes T5	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T6	DISO 173 192	ESTROMA MESENQUIMAL
+T7	LIVB 207 216	PACIENTES
+#2	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
+T8	Neg_cue 221 228	RECHAZO
+T9	Duration 229 236	CRÓNICO
+T10	PROC 240 260	TRASPLANTE DE PULMÓN
+#3	AnnotatorNotes T10	C0024128; Lung Transplantation; Therapeutic or Preventive Procedure
+T11	Negated 240 260	TRASPLANTE DE PULMÓN
+T12	LIVB 305 314	PACIENTES
+#4	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	Neg_cue 319 326	RECHAZO
+T14	Duration 327 334	CRÓNICO
+T15	PROC 338 358	TRASPLANTE DE PULMÓN
+#5	AnnotatorNotes T15	C0024128; Lung Transplantation; Therapeutic or Preventive Procedure
+T16	Negated 338 358	TRASPLANTE DE PULMÓN
+T17	LIVB 392 401	pacientes
+#6	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
+T18	PROC 425 461	consentimiento informado por escrito
+T19	LIVB 466 483	Pacientes adultos
+T20	Age 476 483	adultos
+T21	Age 484 492	≥18 años
+T22	LIVB 536 545	Pacientes
+#7	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	PROC 563 590	trasplante uni o bipulmonar
+T24	PROC 594 605	Diagnóstico
+#8	AnnotatorNotes T24	C0011900; Diagnosis; Diagnostic Procedure
+T25	DISO 621 624	BOS
+T26	PROC 631 635	FEV1
+T27	PROC 645 648	FEF
+T28	Neg_cue 674 677	sin
+T29	Negated 678 688	otra causa
+T30	Duration 711 730	los últimos 6 meses
+T31	PROC 774 792	trasplante lobular
+T32	PROC 809 839	trasplante de corazón y pulmón
+T33	DISO 843 852	Infección
+#9	AnnotatorNotes T33	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T34	Neg_cue 915 917	no
+T35	PROC 918 925	tratado
+T36	Negated 918 925	tratado
+T37	Neg_cue 981 988	excepto
+T38	DISO 989 1008	basocelular cutáneo
+T39	Negated 989 1008	basocelular cutáneo
+T40	DISO 1011 1028	carcinoma in situ
+#10	AnnotatorNotes T40	C0007099; Carcinoma in Situ; Neoplastic Process | C0851135; In situ cancer; Neoplastic Process
+T41	Negated 1011 1028	carcinoma in situ
+T42	DISO 1033 1068	Enfermedades autoinmunes sistémicas
+T43	DISO 1073 1105	Infección activa por VIH/VHB/VHC
+T44	PROC 1122 1131	serología
+#11	AnnotatorNotes T44	C0036743; Serologic tests; Laboratory Procedure
+T45	PROC 1134 1137	PCR
+#12	AnnotatorNotes T45	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T46	DISO 1142 1176	Estenosis de la vía aérea proximal
+T47	LIVB 1180 1199	Mujeres embarazadas
+#13	AnnotatorNotes T47	C0033011; Pregnant Women; Population Group
+T48	LIVB 1201 1208	mujeres
+#14	AnnotatorNotes T48	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T49	PROC 1329 1345	Estado funcional
+T50	DEVI 1368 1372	cama
+T51	DEVI 1375 1380	silla
+T52	PHYS 1418 1425	vigilia
+#15	AnnotatorNotes T52	C0043012; Wakefulness; Mental Process
+T53	PROC 1458 1469	actividades
+T54	PROC 1473 1489	cuidado personal
+T55	Duration 1518 1536	inferior a 3 meses
+T56	DISO 1542 1559	Hipersensibilidad
+#16	AnnotatorNotes T56	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T57	DISO 1618 1621	SCC
+#17	AnnotatorNotes T57	C0206651; Clear Cell Sarcoma of Soft Tissue; Neoplastic Process
+T58	LIVB 1680 1692	investigador
+#18	AnnotatorNotes T58	C0035173; Research Personnel; Professional or Occupational Group
+T59	LIVB 1722 1730	paciente
+#19	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
+T60	PROC 1753 1767	ensayo clínico
+#20	AnnotatorNotes T60	C0008976; Clinical Trials; Research Activity

@@ -1,0 +1,111 @@
+T1	PROC 46 81	Estudio para investigar la eficacia
+T2	CHEM 85 94	PARENTIDE
+T3	Form 95 100	crema
+T4	CHEM 111 122	medicamento
+#1	AnnotatorNotes T4	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T5	PROC 131 142	tratamiento
+#2	AnnotatorNotes T5	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T6	DISO 147 152	picor
+#3	AnnotatorNotes T6	C0033774; Pruritus; Sign or Symptom
+T7	PROC 175 239	Ensayo clínico aleatorizado, doble ciego, controlado con placebo
+T8	PROC 245 264	evaluar la eficacia
+T9	PROC 285 302	aplicación tópica
+T10	Route 296 302	tópica
+T11	CHEM 306 315	PARENTIDE
+T12	Form 316 321	crema
+T13	PROC 330 348	inducción de picor
+T14	CHEM 353 362	histamina
+#4	AnnotatorNotes T14	C0019588; histamine; Biologically Active Substance · Organic Chemical
+T15	LIVB 366 383	voluntarios sanos
+T16	PROC 407 418	Tratamiento
+#5	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	DISO 423 428	picor
+#6	AnnotatorNotes T17	C0033774; Pruritus; Sign or Symptom
+T18	DISO 434 443	urticaria
+#7	AnnotatorNotes T18	C0042109; Urticaria; Disease or Syndrome
+T19	PROC 470 481	Tratamiento
+#8	AnnotatorNotes T19	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T20	DISO 485 492	prurito
+#9	AnnotatorNotes T20	C0033774; Pruritus; Sign or Symptom
+T21	DISO 495 504	urticaria
+#10	AnnotatorNotes T21	C0042109; Urticaria; Disease or Syndrome
+T22	LIVB 533 540	Sujetos
+#11	AnnotatorNotes T22	C0681850; Study Subject; Group
+T23	Age 547 565	entre 18 y 60 años
+T24	PROC 605 629	Consentimiento Informado
+#12	AnnotatorNotes T24	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T25	LIVB 633 640	Sujetos
+#13	AnnotatorNotes T25	C0681850; Study Subject; Group
+T26	DISO 645 661	reacción cutánea
+T27	PROC 686 709	Escala Visual Analógica
+#14	AnnotatorNotes T27	C3536884; Visual Analog Scale; Intellectual Product
+T28	PROC 711 714	EVA
+#15	AnnotatorNotes T28	C3536884; Visual Analog Scale; Intellectual Product
+T29	PROC 717 720	VAS
+T30	Duration 759 772	los 2 minutos
+T31	PROC 779 788	inducción
+#16	AnnotatorNotes T31	C0857127; Induction procedure; Therapeutic or Preventive Procedure
+T32	LIVB 800 812	zona control
+T33	PROC 819 825	Visita
+T34	PHYS 857 865	Embarazo
+#17	AnnotatorNotes T34	C0032961; Pregnancy; Organism Function
+T35	PHYS 868 877	lactancia
+#18	AnnotatorNotes T35	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T36	DISO 881 925	Consumo de cannabis, opioides u otras drogas
+T37	Date 929 942	el último mes
+T38	PROC 946 971	Test para drogas en orina
+T39	DISO 1000 1051	enfermedad neurológica, musculoesquelética o mental
+T40	Date 1064 1080	en la actualidad
+T41	DISO 1094 1106	enfermedades
+#19	AnnotatorNotes T41	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T42	Neg_cue 1110 1118	Falta de
+T43	Negated 1119 1149	disponibilidad para participar
+T44	CHEM 1173 1183	medicación
+#20	AnnotatorNotes T44	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T45	Spec_cue 1188 1193	pueda
+T46	Speculated 1194 1201	afectar
+T47	CHEM 1229 1245	antihistamínicos
+#21	AnnotatorNotes T47	C0019590; Histamine Antagonists; Organic Chemical · Pharmacologic Substance
+T48	CHEM 1247 1261	antipsicóticos
+#22	AnnotatorNotes T48	C0040615; Antipsychotic Agents; Pharmacologic Substance
+T49	CHEM 1264 1275	analgésicos
+#23	AnnotatorNotes T49	C0002771; Analgesics; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T50	PROC 1286 1316	tratamiento sistémico o tópico
+T51	Route 1298 1307	sistémico
+T52	Route 1310 1316	tópico
+T53	CHEM 1320 1330	esteroides
+#24	AnnotatorNotes T53	C0038317; Steroids; Organic Chemical · Pharmacologic Substance
+T54	DISO 1334 1352	Consumo de alcohol
+#25	AnnotatorNotes T54	C4273278; alcohol use behavior; Finding
+T55	DISO 1355 1366	analgésicos
+#26	AnnotatorNotes T55	C0344307; Absence of pain sensation; Finding
+T56	Duration 1370 1390	las últimas 72 horas
+T57	DISO 1433 1443	Cicatrices
+#27	AnnotatorNotes T57	C0008767; Cicatrization; Pathologic Function | C0205192; Cicatricial; Finding | C0241158; Scar Tissue; Finding | C2004491; Cicatrix; Pathologic Function
+T58	DISO 1446 1454	tatuajes
+#28	AnnotatorNotes T58	C1366940; Tattoo; Finding
+T59	DISO 1480 1501	Dolor agudo o crónico
+T60	Duration 1494 1501	crónico
+T61	DISO 1505 1512	Alergia
+#29	AnnotatorNotes T61	C0020517; Hypersensitivity; Pathologic Function
+T62	DISO 1514 1531	hipersensibilidad
+#30	AnnotatorNotes T62	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T63	CHEM 1611 1637	productos en investigación
+T64	PROC 1663 1670	estudio
+#31	AnnotatorNotes T64	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity | C2603343; Study; Research Activity
+T65	Date 1674 1690	la semana previa
+T66	Duration 1707 1728	las 4 últimas semanas
+T67	PROC 1743 1759	ensayos clínicos
+#32	AnnotatorNotes T67	C0008976; Clinical Trials; Research Activity
+T68	CHEM 1764 1776	medicamentos
+#33	AnnotatorNotes T68	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T69	Spec_cue 1816 1822	puedan
+T70	LIVB 1832 1838	sujeto
+#34	AnnotatorNotes T70	C0681850; Study Subject; Group
+T71	Speculated 1845 1851	riesgo
+T72	Spec_cue 1871 1876	pueda
+T73	Speculated 1877 1886	confundir
+T74	Spec_cue 1920 1925	pueda
+T75	Speculated 1926 1936	interferir
+T76	LIVB 1984 1993	pacientes
+#35	AnnotatorNotes T76	C0030705; Patients; Patient or Disabled Group

@@ -1,0 +1,31 @@
+EudraCT Nº:  2022-000641-33
+
+Título público:  Evaluación de la seguridad y la tolerabilidad del recambio plasmático en pacientes con síndrome post-COVID-19 (SPC) en comparación con recambio plasmático simulado (placebo). 
+
+Título científico:  Recambio plasmático como tratamiento para pacientes con Síndrome post-COVID-19: Estudio piloto aleatorizado y doble ciego 
+
+Indicación pública:  Covid Persistente, Síndrome post-COVID-19 
+
+Indicación científica:  Síndrome post-COVID-19 
+
+Criterios de inclusión:
+1.	Individuos masculinos o femeninos de 18 años o más.
+2.	Evidencia de infección previa por SARS-CoV-2 al menos 90 días antes del estudio, definida por (a) prueba SARS-CoV-2 nasofaríngea (Polymerase chain reaction [PCR] or Transcription-Mediated Amplification [TMA]), (b) test de antígenos rápido COVID-19 (TAR), o (c) serología de SARS-CoV-2 antes de la vacunación contra el SARS-CoV-2 o (d) Serología SARS-CoV-2 antiproteína N. 
+3.	Síntomas de SPC después de 90 días de la infección y que duran al menos 2 meses y no pueden explicarse con un diagnóstico alternativo.
+4.	No puede realizar todas las tareas / actividades habituales debido a síntomas como dolor, depresión o ansiedad, definidos como grados 3 o 4 en la escala de estado funcional de pacientes post-COVID-19 (PCFS)
+5.	Disponibilidad de una adecuada canalización venosa periférica 
+6.	En mujeres en edad fértil heterosexualmente activas, uso de un método anticonceptivo altamente eficaz (abstinencia, anticonceptivos hormonales, dispositivo intrauterino (DIU), o esterilidad anatómica en ella).
+7.	Disponibilidad para cumplir con los requisitos del protocolo y disponible para seguimiento durante la duración prevista del estudio.
+8.	Comprensión y capacidad para dar su consentimiento informado. 
+
+Criterios de exclusión:
+1.	Infección por SARS-CoV-2 diagnosticada durante los 90 días anteriores.
+2.	Última dosis de vacuna contra el SARS-CoV-2 durante los 30 días anteriores 
+3.	No hay limitaciones significativas en la capacidad del sujeto para realizar todas las tareas / actividades habituales (es decir, grados 0, 1 o 2 en la escala funcional PCFS).
+4.	Condiciones médicas para las que 250 ml de líquido intravenoso se consideran peligrosos (es decir, insuficiencia cardíaca descompensada o insuficiencia renal con sobrecarga de líquidos, entre otras).
+5.	Mujeres embarazadas o en periodo de lactancia.
+6.	Contraindicaciones para la plasmaféresis terapéutica: No disponibilidad de un catéter venoso periférico adecuado, inestabilidad hemodinámica o septicemia, alergia conocida al plasma fresco congelado o coloide / albúmina de reemplazo, alergia conocida a la heparina.
+7.	Ingresos hospitalarios actuales o previstos por cualquier causa durante el seguimiento del estudio.
+8.	Incapacidad para firmar el consentimiento informado y / o cumplir con los requisitos del estudio, bajo opinión del investigador.
+9.	Participación actual o planteamiento de participar en cualquier otro ensayo clínico hasta el día 90 de seguimiento 
+

@@ -1,0 +1,89 @@
+T1	PROC 19 92	Estudio aleatorizado, estratificado, doble ciego y controlado con placebo
+T2	PROC 98 153	investigar la eficacia, la seguridad y la tolerabilidad
+T3	CHEM 157 169	JNJ-55308942
+T4	PROC 176 187	tratamiento
+#1	AnnotatorNotes T4	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T5	DISO 194 211	depresión bipolar
+#2	AnnotatorNotes T5	C0005587; Depression, Bipolar; Mental or Behavioral Dysfunction
+T6	PROC 229 295	Estudio para analizar la eficacia, la seguridad y la tolerabilidad
+T7	CHEM 299 311	JNJ-55308942
+T8	PROC 318 329	tratamiento
+#3	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	DISO 336 353	depresión bipolar
+#4	AnnotatorNotes T9	C0005587; Depression, Bipolar; Mental or Behavioral Dysfunction
+T10	DISO 378 395	Depresión Bipolar
+#5	AnnotatorNotes T10	C0005587; Depression, Bipolar; Mental or Behavioral Dysfunction
+T11	DISO 417 426	Depresión
+#6	AnnotatorNotes T11	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T12	PROC 462 472	reclutados
+T13	Spec_cue 492 500	posibles
+T14	LIVB 501 510	pacientes
+#7	AnnotatorNotes T14	C0030705; Patients; Patient or Disabled Group
+T15	Speculated 501 510	pacientes
+T16	Age 580 595	de 18 a 64 años
+T17	LIVB 623 631	paciente
+#8	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
+T18	DISO 656 666	enfermedad
+#9	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	LIVB 704 709	alelo
+T20	PROC 810 821	diagnóstico
+#10	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	DISO 840 842	TB
+#11	AnnotatorNotes T21	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
+T22	Neg_cue 857 860	sin
+T23	Negated 861 887	características psicóticas
+T24	DISO 949 952	EDM
+#12	AnnotatorNotes T24	C0026760; Multiple Epiphyseal Dysplasia; Congenital Abnormality
+T25	Date 960 971	actualmente
+T26	CHEM 977 982	litio
+#13	AnnotatorNotes T26	C0023870; lithium; Element, Ion, or Isotope · Pharmacologic Substance
+T27	CHEM 984 999	ácido valproico
+#14	AnnotatorNotes T27	C0042291; valproic acid; Organic Chemical · Pharmacologic Substance
+T28	PROC 1005 1050	tratamiento estabilizador del estado de ánimo
+T29	CHEM 1055 1066	lamotrigina
+#15	AnnotatorNotes T29	C0064636; lamotrigine; Organic Chemical · Pharmacologic Substance
+T30	Dose 1094 1111	una dosis estable
+T31	Duration 1120 1142	al menos las 4 semanas
+T32	PROC 1234 1252	exploración física
+#16	AnnotatorNotes T32	C0031809; Physical Examination; Health Care Activity
+T33	PROC 1280 1298	constantes vitales
+T34	PROC 1395 1422	pruebas analíticas clínicas
+T35	Neg_cue 1477 1479	No
+T36	Negated 1487 1511	participar en el estudio
+T37	Spec_cue 1516 1524	posibles
+T38	LIVB 1525 1534	pacientes
+#17	AnnotatorNotes T38	C0030705; Patients; Patient or Disabled Group
+T39	Speculated 1525 1534	pacientes
+T40	DISO 1583 1601	Afecciones médicas
+T41	DISO 1843 1878	trastorno límite de la personalidad
+#18	AnnotatorNotes T41	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
+T42	PROC 1912 1923	diagnóstico
+#19	AnnotatorNotes T42	C0011900; Diagnosis; Diagnostic Procedure
+T43	Date 1924 1930	actual
+T44	DISO 1949 1984	trastorno límite de la personalidad
+#20	AnnotatorNotes T44	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
+T45	DISO 1987 2023	trastorno de personalidad antisocial
+#21	AnnotatorNotes T45	C0003431; Antisocial Personality Disorder; Mental or Behavioral Dysfunction
+T46	DISO 2026 2047	trastorno alimenticio
+T47	DISO 2050 2079	trastorno de conducta suicida
+T48	DISO 2109 2141	alteraciones del estado de ánimo
+#22	AnnotatorNotes T48	C2939186; Disturbance in mood; Mental or Behavioral Dysfunction
+T49	DISO 2151 2156	manía
+#23	AnnotatorNotes T49	C0338831; Manic; Mental or Behavioral Dysfunction
+T50	DISO 2158 2167	hipomanía
+#24	AnnotatorNotes T50	C0241934; Hypomania; Finding
+T51	DISO 2169 2178	depresión
+#25	AnnotatorNotes T51	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T52	DISO 2180 2188	distimia
+#26	AnnotatorNotes T52	C0013415; Dysthymic Disorder; Mental or Behavioral Dysfunction
+T53	DISO 2191 2200	hipomanía
+#27	AnnotatorNotes T53	C0241934; Hypomania; Finding
+T54	Duration 2205 2225	los últimos 12 meses
+T55	DISO 2238 2257	trastorno psicótico
+#28	AnnotatorNotes T55	C0033975; Psychotic Disorders; Mental or Behavioral Dysfunction
+T56	Date 2269 2280	actualmente
+T57	DISO 2309 2327	episodios maniacos
+#29	AnnotatorNotes T57	C0349208; Manic Episode; Mental or Behavioral Dysfunction
+T58	DISO 2329 2331	EM
+#30	AnnotatorNotes T58	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T59	PROC 2366 2370	YMRS

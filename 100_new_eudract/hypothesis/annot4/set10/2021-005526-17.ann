@@ -1,0 +1,101 @@
+T1	PROC 47 149	Ensayo de fase II/III, multicéntrico, aleatorizado, con enmascaramiento doble y controlado con placebo
+T2	PROC 155 207	evaluar la eficacia, la tolerabilidad y la seguridad
+T3	Date 208 221	a largo plazo
+T4	CHEM 225 238	sibeprenlimab
+T5	PROC 239 270	administrado por vía subcutánea
+T6	Route 256 270	vía subcutánea
+T7	LIVB 273 282	pacientes
+#1	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
+T8	DISO 287 319	nefropatía por inmunoglobulina A
+#2	AnnotatorNotes T8	C0017661; IGA Glomerulonephritis; Disease or Syndrome
+T9	DISO 345 361	enfermedad renal
+#3	AnnotatorNotes T9	C0022658; Kidney Diseases; Disease or Syndrome | C1542676; (Renal disease NOS) or (pyoureter); Disease or Syndrome
+T10	DISO 402 416	de anticuerpos
+T11	ANAT 424 431	riñones
+#4	AnnotatorNotes T11	C0022646; Kidney; Body Part, Organ, or Organ Component | C1278978; Entire kidney; Body Part, Organ, or Organ Component
+T12	DISO 456 470	Nefropatía por
+T13	CHEM 471 488	inmunoglobulina A
+#5	AnnotatorNotes T13	C0020835; immunoglobulin A; Amino Acid, Peptide, or Protein · Immunologic Factor
+T14	LIVB 517 524	Sujetos
+#6	AnnotatorNotes T14	C0681850; Study Subject; Group
+T15	PROC 599 605	visita
+T16	PROC 683 689	visita
+T17	Neg_cue 711 714	sin
+T18	DISO 715 737	problemas de seguridad
+T19	Negated 715 737	problemas de seguridad
+T20	LIVB 760 772	investigador
+#7	AnnotatorNotes T20	C0035173; Research Personnel; Professional or Occupational Group
+T21	Spec_cue 774 781	podrían
+T22	Speculated 782 794	beneficiarse
+T23	Spec_cue 795 809	potencialmente
+T24	PROC 814 825	tratamiento
+#8	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	CHEM 830 843	sibeprenlimab
+T26	DISO 852 856	NIgA
+T27	LIVB 864 870	sujeto
+#9	AnnotatorNotes T27	C0681850; Study Subject; Group
+T28	PROC 881 884	FGe
+T29	PROC 928 935	fórmula
+T30	PROC 950 956	Kidney
+T31	PROC 993 1000	CKD-EPI
+T32	PROC 1034 1070	consentimiento informado por escrito
+T33	PROC 1101 1114	procedimiento
+T34	LIVB 1165 1187	investigador principal
+#10	AnnotatorNotes T34	C1521895; Principal Investigator; Professional or Occupational Group
+T35	LIVB 1267 1274	Sujetos
+#11	AnnotatorNotes T35	C0681850; Study Subject; Group
+T36	Neg_cue 1279 1281	no
+T37	Negated 1288 1315	completado su participación
+T38	LIVB 1362 1369	Sujetos
+#12	AnnotatorNotes T38	C0681850; Study Subject; Group
+T39	DISO 1374 1390	eventos adversos
+#13	AnnotatorNotes T39	C0877248; Adverse event; Pathologic Function
+T40	DISO 1392 1394	EA
+#14	AnnotatorNotes T40	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
+T41	PROC 1413 1424	tratamiento
+#15	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	LIVB 1517 1529	investigador
+#16	AnnotatorNotes T42	C0035173; Research Personnel; Professional or Occupational Group
+T43	Neg_cue 1534 1543	impediría
+T44	Negated 1547 1574	transferencia a este ensayo
+T45	LIVB 1611 1617	sujeto
+#17	AnnotatorNotes T45	C0681850; Study Subject; Group
+T46	Neg_cue 1618 1620	no
+T47	Negated 1621 1676	cumplió repetidamente con los procedimientos del ensayo
+T48	PROC 1651 1665	procedimientos
+T49	LIVB 1765 1772	sujetos
+#18	AnnotatorNotes T49	C0681850; Study Subject; Group
+T50	Neg_cue 1794 1796	no
+T51	Negated 1797 1814	cumplieron con el
+T52	PROC 1827 1834	visitas
+T53	PROC 1840 1852	evaluaciones
+#19	AnnotatorNotes T53	C1261322; Evaluation procedure; Health Care Activity
+T54	PROC 1869 1891	régimen de tratamiento
+T55	LIVB 1915 1929	monitor médico
+T56	LIVB 1936 1948	investigador
+#20	AnnotatorNotes T56	C0035173; Research Personnel; Professional or Occupational Group
+T57	Neg_cue 1949 1951	no
+T58	Negated 1957 1963	seguro
+T59	Speculated 1970 1982	elegibilidad
+T60	LIVB 1989 1995	sujeto
+#21	AnnotatorNotes T60	C0681850; Study Subject; Group
+T61	LIVB 2000 2007	Sujetos
+#22	AnnotatorNotes T61	C0681850; Study Subject; Group
+T62	PROC 2047 2065	prueba de embarazo
+#23	AnnotatorNotes T62	C0032976; Pregnancy Tests; Diagnostic Procedure
+T63	LIVB 2091 2113	Varones heterosexuales
+T64	LIVB 2139 2161	sujetos en edad fértil
+T65	Age 2150 2161	edad fértil
+T66	LIVB 2169 2176	parejas
+#24	AnnotatorNotes T66	C0682323; Partner in relationship; Family Group
+T67	Neg_cue 2182 2184	no
+T68	Negated 2193 2235	cumplir con los requisitos anticonceptivos
+T69	CHEM 2220 2235	anticonceptivos
+#25	AnnotatorNotes T69	C0009871; Contraceptive Agents; Pharmacologic Substance
+T70	PROC 2257 2271	consentimiento
+T71	LIVB 2311 2317	sujeto
+#26	AnnotatorNotes T71	C0681850; Study Subject; Group
+T72	Duration 2333 2340	90 días
+T73	LIVB 2354 2383	sujetos biológicos masculinos
+T74	Duration 2387 2394	30 días
+T75	LIVB 2396 2424	sujetos biológicos femeninos

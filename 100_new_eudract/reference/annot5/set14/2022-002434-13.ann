@@ -1,0 +1,136 @@
+T1	PROC 44 58	ENSAYO CLÍNICO
+#1	AnnotatorNotes T1	C0008976; Clinical Trials; Research Activity
+T2	PROC 64 98	DETERMINAR LA EFICACIA Y SEGURIDAD
+T3	CHEM 103 122	COLIRIO DE INSULINA
+T4	PROC 129 140	TRATAMIENTO
+#2	AnnotatorNotes T4	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T5	DISO 145 153	OJO SECO
+#3	AnnotatorNotes T5	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T6	DISO 157 165	GLAUCOMA
+#4	AnnotatorNotes T6	C0017601; Glaucoma; Disease or Syndrome
+T7	PROC 186 258	ENSAYO CLÍNICO ALEATORIZADO, DOBLE CIEGO (CON EVALUADOR CIEGO), PARALELO
+T8	PROC 265 299	DETERMINAR LA EFICACIA Y SEGURIDAD
+T9	CHEM 304 323	COLIRIO DE INSULINA
+T10	PROC 330 341	TRATAMIENTO
+#5	AnnotatorNotes T10	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T11	DISO 346 354	OJO SECO
+#6	AnnotatorNotes T11	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T12	LIVB 358 367	PACIENTES
+#7	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T14	Route 385 392	TÓPICOS
+T15	DISO 406 429	Enfermedad del ojo seco
+T16	DISO 436 444	glaucoma
+#8	AnnotatorNotes T16	C0017601; Glaucoma; Disease or Syndrome
+T17	LIVB 473 482	Pacientes
+#9	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
+T18	PROC 499 535	consentimiento informado por escrito
+T19	PROC 598 605	visitas
+T20	PROC 608 622	procedimientos
+T21	LIVB 651 660	Pacientes
+#10	AnnotatorNotes T21	C0030705; Patients; Patient or Disabled Group
+T22	Age 661 670	≥ 18 años
+T23	PROC 677 696	visita de selección
+T24	DISO 701 720	Hipertensión ocular
+#11	AnnotatorNotes T24	C0028840; Ocular Hypertension; Disease or Syndrome
+T26	PROC 747 769	tratamiento hipotensor
+T27	PROC 773 784	Diagnóstico
+#13	AnnotatorNotes T27	C0011900; Diagnosis; Diagnostic Procedure
+T28	DISO 788 796	ojo seco
+#14	AnnotatorNotes T28	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T29	DISO 826 834	Glaucoma
+#15	AnnotatorNotes T29	C0017601; Glaucoma; Disease or Syndrome
+T30	Neg_cue 835 837	no
+T31	Negated 838 848	controlado
+T32	PROC 878 900	tratamiento hipotensor
+T33	Duration 904 924	los próximos 6 meses
+T34	PROC 942 960	tratamiento tópico
+T35	Route 954 960	tópico
+T36	DISO 964 972	glaucoma
+#16	AnnotatorNotes T36	C0017601; Glaucoma; Disease or Syndrome
+T37	Duration 976 995	los últimos 3 meses
+T38	PROC 999 1010	Tratamiento
+#17	AnnotatorNotes T38	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T39	DISO 1019 1027	ojo seco
+#18	AnnotatorNotes T39	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T40	CHEM 1041 1053	conservantes
+#19	AnnotatorNotes T40	C0016485; Food Preservatives; Chemical Viewed Functionally | C0033086; Pharmaceutical Preservatives; Biomedical or Dental Material
+T41	Duration 1057 1076	los últimos 3 meses
+T42	DISO 1080 1088	Ojo seco
+#20	AnnotatorNotes T42	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T43	PROC 1108 1119	tratamiento
+#21	AnnotatorNotes T43	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T44	PROC 1133 1147	Cirugía ocular
+#22	AnnotatorNotes T44	C0395020; Surgical procedure on eye proper; Therapeutic or Preventive Procedure
+T45	Neg_cue 1156 1163	excepto
+T46	PROC 1164 1183	cirugía de catarata
+#23	AnnotatorNotes T46	C2939459; Cataract surgery; Therapeutic or Preventive Procedure
+T48	Date 1184 1204	hace más de 12 meses
+T49	PROC 1208 1228	Procedimientos láser
+T50	Date 1229 1250	hace menos de 6 meses
+T53	DISO 1337 1344	uveítis
+#24	AnnotatorNotes T53	C0042164; Uveitis; Disease or Syndrome
+T54	DISO 1346 1355	infección
+#25	AnnotatorNotes T54	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T55	Duration 1359 1378	los últimos 90 días
+T56	DISO 1380 1391	traumatismo
+#26	AnnotatorNotes T56	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T57	Duration 1395 1414	los últimos 90 días
+T58	DISO 1418 1442	Alteraciones palpebrales
+T59	PROC 1446 1471	Uso de lentes de contacto
+T60	PROC 1481 1499	tratamiento tópico
+T61	Route 1493 1499	tópico
+T62	Neg_cue 1500 1512	distinto del
+T63	DISO 1513 1521	ojo seco
+#27	AnnotatorNotes T63	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T64	Negated 1513 1521	ojo seco
+T65	DISO 1527 1535	glaucoma
+#28	AnnotatorNotes T65	C0017601; Glaucoma; Disease or Syndrome
+T66	Negated 1527 1535	glaucoma
+T67	LIVB 1540 1549	Pacientes
+#29	AnnotatorNotes T67	C0030705; Patients; Patient or Disabled Group
+T68	DISO 1570 1577	alergia
+#30	AnnotatorNotes T68	C0020517; Hypersensitivity; Pathologic Function
+T69	DISO 1580 1597	hipersensibilidad
+#31	AnnotatorNotes T69	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T71	CHEM 1644 1655	excipientes
+#33	AnnotatorNotes T71	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T72	PROC 1681 1717	tratamiento inmunosupresor sistémico
+T73	Duration 1721 1740	los últimos 6 meses
+T74	DISO 1761 1786	abuso de alcohol o drogas
+T75	LIVB 1791 1800	Pacientes
+#34	AnnotatorNotes T75	C0030705; Patients; Patient or Disabled Group
+T76	CHEM 1823 1843	fármaco experimental
+T77	DEVI 1855 1886	dispositivo médico experimental
+T78	Duration 1904 1911	30 días
+T80	DISO 1949 1968	Patología sistémica
+T81	DISO 1970 1994	patología cardiopulmonar
+T82	DISO 1996 2029	alteraciones del tejido conectivo
+T83	DISO 2031 2067	patología neurológica o psiquiátrica
+T84	LIVB 2091 2099	paciente
+#35	AnnotatorNotes T84	C0030705; Patients; Patient or Disabled Group
+T85	Neg_cue 2104 2106	no
+T86	PROC 2136 2147	exploración
+#36	AnnotatorNotes T86	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T87	Negated 2136 2147	exploración
+T88	DISO 2154 2181	retraso mental o psicomotor
+T89	DISO 2203 2213	enfermedad
+#37	AnnotatorNotes T89	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T90	LIVB 2246 2258	investigador
+#38	AnnotatorNotes T90	C0035173; Research Personnel; Professional or Occupational Group
+T91	Spec_cue 2260 2267	pudiera
+T92	Speculated 2282 2288	riesgo
+T93	LIVB 2297 2309	participante
+T95	Date 12 16	2022
+T96	PROC 639 646	estudio
+T25	DISO 723 731	glaucoma
+T47	Negated 1164 1204	cirugía de catarata hace más de 12 meses
+T51	DISO 1259 1275	patología ocular
+T97	ANAT 1318 1335	superficie ocular
+T99	Route 1708 1717	sistémico
+T100	CHEM 1603 1625	medicación del estudio
+T70	DISO 2216 2225	condición
+T94	Speculated 2312 2341	interferir con los resultados
+T101	PROC 2346 2353	estudio
+T13	CHEM 372 392	HIPOTENSORES TÓPICOS
+T52	DISO 1290 1311	patología cicatricial
+T79	PROC 1924 1930	visita

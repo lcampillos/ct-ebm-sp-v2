@@ -1,0 +1,75 @@
+T2	LIVB 62 71	PACIENTES
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T4	Duration 87 95	CRÓNICAS
+T7	ANAT 199 219	arterias del corazón
+T8	DISO 245 277	Oclusión crónica total coronaria
+T9	Duration 254 261	crónica
+T10	DISO 306 328	Oclusión crónica total
+T11	Duration 315 322	crónica
+T12	ANAT 336 353	arteria coronaria
+#5	AnnotatorNotes T12	C0205042; Coronary artery; Body Part, Organ, or Organ Component | C1269008; Entire coronary artery; Body Part, Organ, or Organ Component
+T13	Age 368 391	mayor o igual a 18 años
+T14	ANAT 394 398	Vaso
+#6	AnnotatorNotes T14	C0005847; Blood Vessel; Body Part, Organ, or Organ Component | C0042591; Vessel Positions; Body Location or Region
+T16	Duration 420 427	crónica
+T17	PROC 487 511	consentimiento informado
+#7	AnnotatorNotes T17	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T18	PROC 544 556	seguimientos
+#8	AnnotatorNotes T18	C0420316; Other follow-up; Health Care Activity
+T19	PROC 577 586	protocolo
+#9	AnnotatorNotes T19	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T20	DISO 616 636	Enfermedad multivaso
+T21	PROC 641 669	revascularización incompleta
+T22	ANAT 676 683	arteria
+#10	AnnotatorNotes T22	C0003842; Arteries; Body Part, Organ, or Organ Component | C1285085; Entire artery; Body Part, Organ, or Organ Component
+T23	Neg_cue 684 687	sin
+T24	DISO 688 715	oclusiones crónicas totales
+T25	Negated 688 715	oclusiones crónicas totales
+T26	Duration 699 707	crónicas
+T27	PROC 719 747	Cirugía de revascularización
+T28	ANAT 761 768	arteria
+#11	AnnotatorNotes T28	C0003842; Arteries; Body Part, Organ, or Organ Component | C1285085; Entire artery; Body Part, Organ, or Organ Component
+T29	DISO 773 795	oclusión crónica total
+T30	Duration 782 789	crónica
+T31	DISO 799 825	Infarto agudo de miocardio
+#12	AnnotatorNotes T31	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T33	ANAT 866 875	coronaria
+#13	AnnotatorNotes T33	C0545745; coronary artery and coronary vein; Body Part, Organ, or Organ Component
+T34	Neg_cue 876 878	no
+T35	Negated 879 888	favorable
+T36	PROC 894 922	revascularización percutánea
+T37	Negated 894 922	revascularización percutánea
+T38	DISO 929 951	oclusión crónica total
+T39	Duration 938 945	crónica
+T40	DISO 955 975	Enfermedad coronaria
+#14	AnnotatorNotes T40	C0010068; Coronary heart disease; Disease or Syndrome
+T41	ANAT 993 1005	tronco común
+T42	ANAT 1013 1018	vasos
+#15	AnnotatorNotes T42	C0005847; Blood Vessel; Body Part, Organ, or Organ Component | C0042591; Vessel Positions; Body Location or Region
+T43	PROC 1045 1052	cirugía
+#16	AnnotatorNotes T43	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T44	PROC 1062 1072	valoración
+#17	AnnotatorNotes T44	C0162621; Titration Method; Laboratory Procedure | C1261322; Evaluation procedure; Health Care Activity
+T45	Duration 1124 1138	menor a 2 años
+T46	DISO 1142 1169	Insuficiencia renal crónica
+#18	AnnotatorNotes T46	C0403447; Chronic Kidney Insufficiency; Disease or Syndrome | C1561643; Chronic Kidney Diseases; Disease or Syndrome
+T48	PROC 1177 1196	Filtrado glomerular
+#19	AnnotatorNotes T48	C0017654; Glomerular Filtration Rate; Diagnostic Procedure
+T51	PHYS 1258 1266	Embarazo
+#20	AnnotatorNotes T51	C0032961; Pregnancy; Organism Function
+T52	DISO 1270 1289	Enfermedad valvular
+T53	PROC 1314 1321	cirugía
+#21	AnnotatorNotes T53	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T54	DISO 76 114	OCLUSIONES CRÓNICAS TOTALES CORONARIAS
+T5	PROC 1234 1254	doble antiagregación
+T49	Contraindicated 1234 1254	doble antiagregación
+T32	PROC 119 136	IMAGEN MULTIMODAL
+T56	PROC 48 58	EVALUACIÓN
+#1	AnnotatorNotes T54	Complete occlusion of coronary artery C1955780
+T50	Duration 178 195	de larga duración
+#3	AnnotatorNotes T8	Complete occlusion of coronary artery C1955780 
+T3	DISO 411 419	oclusión
+T15	DISO 160 177	Obstrucción total
+#4	AnnotatorNotes T15	Complete occlusion of coronary artery C1955780 
+T6	LIVB 1077 1100	equipo multidisciplinar
+T57	Duration 834 845	los 3 meses

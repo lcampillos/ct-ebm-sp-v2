@@ -1,0 +1,107 @@
+T1	CHEM 70 81	dutasterida
+#1	AnnotatorNotes T1	C0754659; dutasteride; Organic Chemical · Pharmacologic Substance
+T2	Route 82 88	topica
+T3	LIVB 92 99	hombres
+#2	AnnotatorNotes T3	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T4	DISO 104 124	alopecia androgenica
+#3	AnnotatorNotes T4	C0162311; Androgenetic Alopecia; Disease or Syndrome
+T5	PROC 148 199	Ensayo Clínico exploratorio de seguridad y eficacia
+T6	Frequency 217 223	diaria
+T7	CHEM 227 238	dutasterida
+#4	AnnotatorNotes T7	C0754659; dutasteride; Organic Chemical · Pharmacologic Substance
+T8	Route 239 245	tópica
+T9	Form 249 262	emulsión fina
+T10	LIVB 267 274	varones
+T11	DISO 279 299	alopecia androgénica
+#5	AnnotatorNotes T11	C0162311; Androgenetic Alopecia; Disease or Syndrome
+T12	DISO 323 337	Calvicie común
+#6	AnnotatorNotes T12	C0002170; Alopecia; Disease or Syndrome
+T13	LIVB 341 348	hombres
+#7	AnnotatorNotes T13	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T14	LIVB 375 382	Hombres
+#8	AnnotatorNotes T14	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T15	DISO 387 407	alopecia androgenica
+#9	AnnotatorNotes T15	C0162311; Androgenetic Alopecia; Disease or Syndrome
+T16	LIVB 436 443	Varones
+T17	Age 444 462	mayores de 18 años
+T18	PROC 464 478	diagnosticados
+#10	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
+T19	DISO 482 502	alopecia androgénica
+#11	AnnotatorNotes T19	C0162311; Androgenetic Alopecia; Disease or Syndrome
+T20	PROC 518 526	Sinclair
+T21	Neg_cue 552 558	ningún
+T22	PROC 559 578	tratamiento capilar
+T23	Negated 559 578	tratamiento capilar
+T24	Date 579 595	en la actualidad
+T25	Neg_cue 596 598	ni
+T26	Duration 621 640	los últimos 3 meses
+T27	PHYS 645 653	Entender
+T28	PROC 724 743	visitas al hospital
+T29	PROC 755 779	consentimiento informado
+#12	AnnotatorNotes T29	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T30	LIVB 788 795	varones
+T31	LIVB 800 806	pareja
+#13	AnnotatorNotes T31	C0682323; Partner in relationship; Family Group
+T32	Age 810 821	edad fértil
+T33	PROC 856 895	método anticonceptivo  de doble barrera
+T34	LIVB 903 909	pareja
+#14	AnnotatorNotes T34	C0682323; Partner in relationship; Family Group
+T35	Duration 916 921	1 mes
+T36	PROC 953 964	tratamiento
+#15	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	LIVB 1006 1015	Pacientes
+#16	AnnotatorNotes T37	C0030705; Patients; Patient or Disabled Group
+T38	DISO 1036 1053	hipersensibilidad
+#17	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T39	CHEM 1057 1073	principio activo
+T40	CHEM 1083 1117	inhibidores de la 5-alfa reductasa
+T41	PROC 1121 1145	Tratamiento concomitante
+T42	CHEM 1150 1184	inhibidores de la 5 alfa reductasa
+T43	Route 1185 1191	orales
+T44	DISO 1197 1207	patologías
+#18	AnnotatorNotes T44	C0677042; Pathology processes; Pathologic Function
+T45	Neg_cue 1208 1217	distintas
+T46	DISO 1224 1232	alopecia
+#19	AnnotatorNotes T46	C0002170; Alopecia; Disease or Syndrome | C0497378; hair loss/baldness; Pathologic Function
+T47	Negated 1224 1232	alopecia
+T48	LIVB 1235 1244	Pacientes
+#20	AnnotatorNotes T48	C0030705; Patients; Patient or Disabled Group
+T49	DISO 1249 1271	insuficiencia hepática
+#21	AnnotatorNotes T49	C0085605; Liver Failure; Disease or Syndrome | C1306571; Hepatic Insufficiency; Pathologic Function
+T50	LIVB 1281 1290	Pacientes
+#22	AnnotatorNotes T50	C0030705; Patients; Patient or Disabled Group
+T51	PROC 1321 1340	tratamiento capilar
+T52	Date 1341 1357	en la actualidad
+T53	Duration 1382 1401	los últimos 3 meses
+T54	LIVB 1405 1414	Pacientes
+#23	AnnotatorNotes T54	C0030705; Patients; Patient or Disabled Group
+T55	Neg_cue 1415 1424	incapaces
+T56	PHYS 1428 1436	entender
+T57	Negated 1428 1436	entender
+T58	PROC 1473 1497	consentimiento Informado
+#24	AnnotatorNotes T58	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T59	Negated 1473 1497	consentimiento Informado
+T60	LIVB 1502 1511	Pacientes
+#25	AnnotatorNotes T60	C0030705; Patients; Patient or Disabled Group
+T61	LIVB 1531 1543	investigador
+#26	AnnotatorNotes T61	C0035173; Research Personnel; Professional or Occupational Group
+T62	Contraindicated 1618 1647	participación en este estudio
+T63	LIVB 1652 1661	Pacientes
+#27	AnnotatorNotes T63	C0030705; Patients; Patient or Disabled Group
+T64	DISO 1682 1694	drogadicción
+#28	AnnotatorNotes T64	C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T65	DISO 1697 1709	toxicomanías
+#29	AnnotatorNotes T65	C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T66	LIVB 1714 1723	Pacientes
+#30	AnnotatorNotes T66	C0030705; Patients; Patient or Disabled Group
+T67	PROC 1755 1769	ensayo clínico
+#31	AnnotatorNotes T67	C0008976; Clinical Trials; Research Activity
+T68	LIVB 1774 1783	Pacientes
+#32	AnnotatorNotes T68	C0030705; Patients; Patient or Disabled Group
+T69	LIVB 1789 1795	pareja
+#33	AnnotatorNotes T69	C0682323; Partner in relationship; Family Group
+T70	Negated 602 617	hayan realizado
+T71	PROC 671 678	estudio
+T72	PROC 969 976	estudio
+T73	PROC 1453 1460	estudio
+T74	PHYS 1801 1811	embarazada

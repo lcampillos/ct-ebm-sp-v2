@@ -1,0 +1,21 @@
+EudraCT Nº:  2022-001951-18
+
+Título público:  Estudio de extensión abierto para evaluar el uso a largo plazo de treprostinil palmitilo en polvo para inhalación en pacientes con hipertensión arterial pulmonar 
+
+Título científico:  Estudio de extensión abierto para evaluar la seguridad, tolerabilidad y eficacia del uso a largo plazo de treprostinil palmitilo en polvo para inhalación en pacientes con hipertensión arterial pulmonar 
+
+Indicación pública:  Participantes con tension sanguínea alta en las arterias de los pulmones 
+
+Indicación científica:  Participantes con hipertensión arterial pulmonar 
+
+Criterios de inclusión:
+1. Participantes que completaron la visita de fin de tratamiento en el estudio INS1009-201, INS1009-202 o cualquier otro estudio de preinclusión de TPPI para la HAP. Los participantes para los que el estudio AAE no estaba disponible en el momento de completar el estudio de preinclusión son elegibles para inscribirse al cabo de un año de su visita de fin de tratamiento del estudio de preinclusión. 
+2. Evaluaciones de selección iniciales completas que confirmen la elegibilidad para participar si han transcurrido más de 30 días desde la visita de fin de estudio en el estudio INS1009-201, estudio INS1009-202 o cualquier otro estudio de preinclusión con TPPI para la HAP. 
+3. Capacidad de dar el consentimiento informado firmado. 
+
+Criterios de exclusión:
+1. Participantes que experimentaron cualquier hipersensibilidad o reacción adversa al medicamento o fueron retirados/discontinuados anticipadamente en un estudio previo de TPPI para la HAP, lo que, en opinión del investigador, podría indicar que continuar el tratamiento con TPPI puede presentar un riesgo irrazonable para el participante.
+2. Inicio de la administración parenteral de análogos de prostaciclina (por ejemplo, TRE, epoprostenol) desde la finalización de los estudios INS1009-201, INS1009-202 u otros estudios de TPPI. Se permite el inicio de análogos de prostaciclina inhalados (por ejemplo, TRE [Tyvaso®] o iloprost) y análogos orales de prostaciclina (por ejemplo, TRE [Orenitram®]) o agonistas del receptor (por ejemplo, selexipag) si se suspenden 24 horas antes del inicio de la administración del fármaco del estudio.
+3. Embarazo o lactancia.
+4. Cualquier afección médica o psicológica, incluidas las anomalías de laboratorio relevantes en la selección que, en opinión del investigador, sugiera una enfermedad nueva o insuficientemente entendida que pueda presentar un riesgo irrazonable para el participante del estudio como resultado de la participación en el estudio. 
+

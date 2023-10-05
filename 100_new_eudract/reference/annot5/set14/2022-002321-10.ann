@@ -1,0 +1,47 @@
+T1	PROC 44 81	Estudio de la efectividad y seguridad
+T2	CHEM 94 101	fármaco
+#1	AnnotatorNotes T2	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T3	CHEM 102 113	sevoflurano
+#2	AnnotatorNotes T3	C0074414; sevoflurane; Organic Chemical · Pharmacologic Substance
+T4	PROC 122 133	tratamiento
+#3	AnnotatorNotes T4	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T5	DISO 137 163	úlceras cutáneas dolorosas
+T6	CHEM 213 224	sevoflurano
+#4	AnnotatorNotes T6	C0074414; sevoflurane; Organic Chemical · Pharmacologic Substance
+T7	Route 225 231	tópico
+T8	PROC 240 251	tratamiento
+#5	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	DISO 255 281	úlceras cutáneas dolorosas
+T10	PROC 283 346	ensayo clínico aleatorizado, doble ciego controlado con placebo
+T11	DISO 368 384	Úlceras cutáneas
+#6	AnnotatorNotes T11	C0037299; Skin Ulcer; Disease or Syndrome
+T12	DISO 395 404	dolorosas
+#7	AnnotatorNotes T12	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T13	DISO 429 436	Úlceras
+#8	AnnotatorNotes T13	C0041582; Ulcer; Pathologic Function
+T14	DISO 462 471	dolorosas
+#9	AnnotatorNotes T14	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T15	PROC 485 504	curas hospitalarias
+T16	LIVB 530 555	Pacientes mayores de edad
+T17	Age 540 555	mayores de edad
+T18	DISO 570 577	úlceras
+#10	AnnotatorNotes T18	C0041582; Ulcer; Pathologic Function
+T19	DISO 610 619	dolorosas
+#11	AnnotatorNotes T19	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T21	DISO 720 727	Úlceras
+#13	AnnotatorNotes T21	C0041582; Ulcer; Pathologic Function
+T22	Neg_cue 747 750	sin
+T23	Negated 751 774	solución de continuidad
+T24	DISO 792 799	alergia
+#14	AnnotatorNotes T24	C0020517; Hypersensitivity; Pathologic Function
+T25	CHEM 806 823	gases halogenados
+T26	DISO 861 880	hipertermia maligna
+#15	AnnotatorNotes T26	C0024591; Malignant hyperpyrexia due to anesthesia; Injury or Poisoning
+T27	PHYS 883 891	Embarazo
+#16	AnnotatorNotes T27	C0032961; Pregnancy; Organism Function
+T29	PROC 924 938	consentimiento
+T30	DISO 960 977	déficit cognitivo
+#17	AnnotatorNotes T30	C0338656; Impaired cognition; Mental or Behavioral Dysfunction
+T31	Date 12 16	2022
+T32	PROC 684 691	estudio
+T20	PROC 633 652	curas hospitalarias

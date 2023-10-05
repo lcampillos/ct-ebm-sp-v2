@@ -1,0 +1,110 @@
+T1	PROC 44 94	Estudio de extensión de la eficacia y la seguridad
+T2	CHEM 98 104	LTP001
+T3	LIVB 108 121	participantes
+T4	DISO 126 156	hipertensión arterial pulmonar
+#1	AnnotatorNotes T4	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T5	PROC 177 205	Estudio de extensión abierto
+T6	PROC 219 274	investigan la eficacia, la seguridad y la tolerabilidad
+T7	CHEM 278 284	LTP001
+T8	LIVB 288 301	participantes
+T9	DISO 306 336	hipertensión arterial pulmonar
+#2	AnnotatorNotes T9	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T10	DISO 359 363	Enf.
+#3	AnnotatorNotes T10	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T11	ANAT 387 403	vasos sanguíneos
+#4	AnnotatorNotes T11	C0005847; Blood Vessel; Body Part, Organ, or Organ Component | C1283786; Entire blood vessel; Body Part, Organ, or Organ Component
+T12	ANAT 405 414	arterias)
+T13	ANAT 422 430	pulmones
+#5	AnnotatorNotes T13	C0024109; Lung; Body Part, Organ, or Organ Component | C1278908; Entire lung; Body Part, Organ, or Organ Component
+T14	PHYS 446 461	flujo sanguíneo
+#6	AnnotatorNotes T14	C0232338; Blood flow; Physiologic Function
+T15	PHYS 467 501	presión en las arterias pulmonares
+T16	DISO 538 560	insuficiencia cardiaca
+#7	AnnotatorNotes T16	C0018801; Heart failure; Disease or Syndrome
+T17	DISO 585 615	Hipertensión arterial pulmonar
+#8	AnnotatorNotes T17	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T18	PROC 648 684	consentimiento informado por escrito
+T19	PROC 729 739	evaluación
+#9	AnnotatorNotes T19	C1261322; Evaluation procedure; Health Care Activity
+T20	LIVB 744 757	Participantes
+T21	Date 762 773	actualmente
+T22	DISO 820 823	HAP
+#10	AnnotatorNotes T22	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T23	PROC 877 891	procedimientos
+T24	PROC 947 958	tratamiento
+#11	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	Neg_cue 981 984	sin
+T26	Negated 985 1020	cumplir ninguno de los criterios de
+T27	PROC 1021 1036	discontinuación
+T28	Negated 1021 1036	discontinuación
+T29	PROC 1105 1112	visitas
+T30	PROC 1140 1151	tratamiento
+#12	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	PROC 1169 1182	procedimiento
+T32	LIVB 1199 1212	Participantes
+T33	Date 1217 1228	actualmente
+T34	Neg_cue 1229 1231	no
+T35	Negated 1242 1251	signos de
+T36	DISO 1242 1248	signos
+#13	AnnotatorNotes T36	C0311392; Physical findings; Finding
+T37	Neg_cue 1252 1254	no
+T38	Negated 1261 1286	respondido al tratamiento
+T39	PROC 1275 1286	tratamiento
+#14	AnnotatorNotes T39	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T40	LIVB 1307 1319	investigador
+#15	AnnotatorNotes T40	C0035173; Research Personnel; Professional or Occupational Group
+T41	PROC 1333 1344	tratamiento
+#16	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	LIVB 1358 1371	Participantes
+T43	LIVB 1392 1404	investigador
+#17	AnnotatorNotes T43	C0035173; Research Personnel; Professional or Occupational Group
+T44	Speculated 1406 1422	se beneficiarían
+T45	PROC 1427 1438	tratamiento
+#18	AnnotatorNotes T45	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T46	CHEM 1443 1449	LTP001
+T47	Spec_cue 1451 1457	Pueden
+T48	Speculated 1468 1473	otros
+T49	Speculated 1474 1496	criterios de inclusión
+T50	PROC 1514 1523	protocolo
+#19	AnnotatorNotes T50	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T51	DISO 1569 1586	hipersensibilidad
+#20	AnnotatorNotes T51	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T52	PROC 1590 1601	tratamiento
+#21	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	PROC 1618 1628	Trasplante
+#22	AnnotatorNotes T53	C0040732; Transplantation; Therapeutic or Preventive Procedure
+T54	PROC 1631 1656	cirugía de corazón/pulmón
+T55	DISO 1684 1693	Deterioro
+#23	AnnotatorNotes T55	C0231171; Physical impairment; Finding | C0684336; Impaired health; Finding | C1265875; Disintegration (morphologic abnormality); Acquired Abnormality
+T56	Duration 1702 1709	crónico
+T57	Neg_cue 1711 1716	salvo
+T58	DISO 1720 1726	disnea
+#24	AnnotatorNotes T58	C0013404; Dyspnea; Sign or Symptom
+T59	Negated 1720 1726	disnea
+T60	PROC 1864 1878	procedimientos
+T61	PROC 1899 1903	6MWT
+T62	DISO 1913 1928	angina de pecho
+#25	AnnotatorNotes T62	C0002962; Angina Pectoris; Sign or Symptom
+T63	DISO 1930 1942	claudicación
+#26	AnnotatorNotes T63	C0231176; Acute failure; Pathologic Function | C1456822; Claudication (finding); Finding
+T64	DISO 1944 1972	trastorno musculoesquelético
+#27	AnnotatorNotes T64	C0026857; Musculoskeletal Diseases; Disease or Syndrome
+T65	DEVI 1988 2009	dispositivos de ayuda
+#28	AnnotatorNotes T65	C0036605; Self-Help Devices; Medical Device
+T66	PHYS 2015 2022	caminar
+T67	PROC 2028 2043	Discontinuación
+T68	CHEM 2059 2066	fármaco
+#29	AnnotatorNotes T68	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T69	DISO 2112 2121	toxicidad
+#30	AnnotatorNotes T69	C0600688; Toxic effect; Injury or Poisoning
+T70	DISO 2124 2151	progresión de la enfermedad
+#31	AnnotatorNotes T70	C0242656; Disease Progression; Pathologic Function
+T71	PROC 2175 2189	procedimientos
+T72	Neg_cue 2203 2215	retirada del
+T73	PROC 2216 2230	consentimiento
+T74	Negated 2216 2230	consentimiento
+T75	Spec_cue 2256 2262	Pueden
+T76	Speculated 2273 2278	otros
+T77	Speculated 2279 2301	criterios de exclusión
+T78	PROC 2319 2328	protocolo
+#32	AnnotatorNotes T78	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure

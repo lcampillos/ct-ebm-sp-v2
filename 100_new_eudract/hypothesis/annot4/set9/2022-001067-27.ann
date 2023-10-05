@@ -1,0 +1,73 @@
+T1	PROC 47 163	Ensayo fase III multicéntrico, internacional, aleatorizado, controlado con placebo, doble ciego, de grupos paralelos
+T2	CHEM 195 231	inhibidor oral del FXIa - Asundexian
+T3	Route 205 209	oral
+T4	CHEM 233 244	BAY 2433334
+T5	PROC 255 265	prevención
+#1	AnnotatorNotes T5	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T6	DISO 269 285	ictus isquémicos
+#2	AnnotatorNotes T6	C0948008; Ischemic stroke; Disease or Syndrome
+T7	LIVB 289 313	pacientes de ambos sexos
+T8	Age 314 329	mayores de edad
+T9	DISO 339 378	ictus isquémico no cardioembólico agudo
+T10	Neg_cue 355 357	no
+T11	Negated 358 372	cardioembólico
+T12	DISO 381 384	AIT
+#3	AnnotatorNotes T12	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T13	PROC 424 434	Prevención
+#4	AnnotatorNotes T13	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T14	DISO 438 453	ictus isquémico
+#5	AnnotatorNotes T14	C0948008; Ischemic stroke; Disease or Syndrome
+T15	LIVB 457 466	pacientes
+#6	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 475 480	ictus
+#7	AnnotatorNotes T16	C0038454; Cerebrovascular accident; Disease or Syndrome
+T17	DISO 493 500	coágulo
+#8	AnnotatorNotes T17	C0302148; Blood Clot; Pathologic Function
+T18	ANAT 524 531	corazón
+#9	AnnotatorNotes T18	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T19	Neg_cue 533 550	no-cardioembólico
+T20	DISO 536 550	cardioembólico
+T21	ANAT 572 579	cerebro
+#10	AnnotatorNotes T21	C0242202; Cerebrum; Body Part, Organ, or Organ Component | C1269537; Entire brain; Body Part, Organ, or Organ Component | C1280654; Entire cerebrum; Body Part, Organ, or Organ Component
+T22	DISO 592 597	ictus
+#11	AnnotatorNotes T22	C0038454; Cerebrovascular accident; Disease or Syndrome
+T23	PROC 632 642	Prevención
+#12	AnnotatorNotes T23	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T24	DISO 646 661	ictus isquémico
+#13	AnnotatorNotes T24	C0948008; Ischemic stroke; Disease or Syndrome
+T25	LIVB 665 674	pacientes
+#14	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
+T26	DISO 683 722	ictus isquémico no cardioembólico agudo
+T27	Neg_cue 699 701	no
+T28	Negated 702 716	cardioembólico
+T29	DISO 725 753	ataque isquémico transitorio
+#15	AnnotatorNotes T29	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T30	Duration 742 753	transitorio
+T31	LIVB 798 807	Pacientes
+#16	AnnotatorNotes T31	C0030705; Patients; Patient or Disabled Group
+T32	Age 817 843	igual o superior a 18 años
+T33	DISO 847 876	Ictus no-cardioembólico agudo
+T34	DISO 879 882	AIT
+#17	AnnotatorNotes T34	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T35	DISO 902 944	Aterosclerosis sistémica o cerebrovascular
+T36	DISO 947 971	infarto agudo no-lacunar
+T37	DISO 1001 1016	Ictus isquémico
+#18	AnnotatorNotes T37	C0948008; Ischemic stroke; Disease or Syndrome
+T38	Duration 1020 1030	los 7 días
+T39	DISO 1062 1067	ictus
+#19	AnnotatorNotes T39	C0038454; Cerebrovascular accident; Disease or Syndrome
+T40	DISO 1072 1077	Ictus
+#20	AnnotatorNotes T40	C0038454; Cerebrovascular accident; Disease or Syndrome
+T41	PROC 1105 1119	procedimientos
+T42	DISO 1122 1127	ictus
+#21	AnnotatorNotes T42	C0038454; Cerebrovascular accident; Disease or Syndrome
+T43	DISO 1176 1187	fibrilación
+#22	AnnotatorNotes T43	C0231531; Muscle fibrillation; Sign or Symptom | C0232197; Fibrillation; Disease or Syndrome | C1523847; fibril organization; Cell Function
+T44	DISO 1188 1204	aleteo auricular
+#23	AnnotatorNotes T44	C0004239; Atrial Flutter; Pathologic Function
+T45	DISO 1206 1239	trombo en el ventrículo izquierdo
+T46	DEVI 1241 1257	válvula mecánica
+T47	DISO 1290 1295	ictus
+#24	AnnotatorNotes T47	C0038454; Cerebrovascular accident; Disease or Syndrome
+T48	PROC 1309 1324	anticoagulación
+#25	AnnotatorNotes T48	C0150457; Anticoagulant therapy; Therapeutic or Preventive Procedure

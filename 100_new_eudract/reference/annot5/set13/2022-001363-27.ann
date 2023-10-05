@@ -1,0 +1,81 @@
+T1	CHEM 62 68	DAY101
+T2	PROC 81 103	quimioterapia estándar
+T3	LIVB 107 128	pacientes pediátricos
+T4	Age 117 128	pediátricos
+T5	DISO 133 153	glioma de bajo grado
+#1	AnnotatorNotes T5	C1997217; Low grade glioma; Neoplastic Process
+T6	PROC 167 205	tratamiento sistémico de primera línea
+T7	PROC 245 308	Ensayo en fase III, aleatorizado, internacional y multicéntrico
+T8	CHEM 312 318	DAY101
+T9	PROC 322 333	monoterapia
+#2	AnnotatorNotes T9	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T10	PROC 346 368	quimioterapia estándar
+T11	LIVB 372 381	pacientes
+#3	AnnotatorNotes T11	C0030705; Patients; Patient or Disabled Group
+T12	DISO 386 417	glioma pediátrico de bajo grado
+T15	PROC 478 516	tratamiento sistémico de primera línea
+T16	DISO 538 552	Tumor cerebral
+#5	AnnotatorNotes T16	C0006118; Brain Neoplasms; Neoplastic Process
+T17	LIVB 556 561	niños
+#6	AnnotatorNotes T17	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T18	Age 556 561	niños
+T19	LIVB 564 579	adultos jóvenes
+T20	Age 564 579	adultos jóvenes
+T21	PROC 594 605	tratamiento
+#7	AnnotatorNotes T21	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T22	DISO 646 677	Glioma pediátrico de bajo grado
+T24	PROC 737 775	tratamiento sistémico de primera línea
+T25	Age 809 827	inferior a 25 años
+T26	DISO 830 850	glioma de bajo grado
+#9	AnnotatorNotes T26	C1997217; Low grade glioma; Neoplastic Process
+T28	PROC 891 918	Diagnóstico histopatológico
+T29	DISO 922 928	glioma
+#11	AnnotatorNotes T29	C0017638; Glioma; Neoplastic Process
+T30	DISO 931 949	tumor glioneuronal
+T31	DISO 966 980	lesión medible
+T32	PROC 1054 1092	tratamiento sistémico de primera línea
+T35	DISO 1196 1201	tumor
+#12	AnnotatorNotes T35	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T36	DISO 1207 1217	Schwannoma
+#13	AnnotatorNotes T36	C0027809; Neurilemmoma; Neoplastic Process
+T37	DISO 1222 1268	Astrocitoma subependimario de células gigantes
+#14	AnnotatorNotes T37	C0205768; Subependymal Giant Cell Astrocytoma; Neoplastic Process
+T38	DISO 1270 1289	Esclerosis Tuberosa
+#15	AnnotatorNotes T38	C0041341; Tuberous Sclerosis; Neoplastic Process
+T39	DISO 1295 1327	Glioma pontino intrínseco difuso
+#16	AnnotatorNotes T39	C2986658; Diffuse Intrinsic Pontine Glioma; Neoplastic Process
+T40	PROC 1343 1366	diagnóstico histológico
+T42	DISO 1462 1467	tumor
+#17	AnnotatorNotes T42	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T43	PROC 1471 1482	Diagnóstico
+#18	AnnotatorNotes T43	C0011900; Diagnosis; Diagnostic Procedure
+T44	Spec_cue 1494 1502	presunto
+T45	DISO 1506 1537	neurofibromatosis de tipo 1 o 2
+T46	Speculated 1506 1537	neurofibromatosis de tipo 1 o 2
+T47	DISO 1539 1543	NF-1
+#19	AnnotatorNotes T47	C0027831; Neurofibromatosis 1; Neoplastic Process
+T48	Speculated 1539 1543	NF-1
+T49	DISO 1544 1548	NF-2
+#20	AnnotatorNotes T49	C0027832; Neurofibromatosis 2; Neoplastic Process
+T50	Speculated 1544 1548	NF-2
+T51	PROC 1553 1593	Tratamiento antineoplásico no quirúrgico
+T52	Negated 1583 1593	quirúrgico
+T54	PROC 1644 1657	quimioterapia
+#21	AnnotatorNotes T54	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T55	PROC 1659 1677	terapias dirigidas
+#22	AnnotatorNotes T55	C0278348; Immunotherapy for cancer; Therapeutic or Preventive Procedure
+T56	Route 1682 1690	vía oral
+T57	Route 1693 1696	i.v
+T58	PROC 1712 1724	radioterapia
+#23	AnnotatorNotes T58	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T59	Date 12 16	2022
+T23	DISO 695 723	alteración de RAF activadora
+T13	DISO 436 464	alteración de RAF activadora
+T14	DISO 859 887	alteración de RAF activadora
+T27	PROC 1007 1021	criterios RANO
+T33	DISO 1419 1455	alteraciones moleculares activadoras
+T41	Neg_cue 1580 1582	no
+T34	Route 179 188	sistémico
+T53	Route 490 499	sistémico
+T60	Route 749 758	sistémico
+T61	Route 1066 1075	sistémico

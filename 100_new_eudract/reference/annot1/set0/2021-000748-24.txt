@@ -1,0 +1,18 @@
+Título científico: Estudio de fase 2, multicéntrico, aleatorizado, en doble ciego (dentro del nivel de dosis), controlado con placebo, de grupos paralelos y búsqueda de dosis, para evaluar la eficacia y seguridad de TF0023 frente a placebo en el tratamiento de la COVID-19 en adultos hospitalizados
+
+Título público: Estudio de fase 2 para evaluar la eficacia y seguridad de TF0023 frente a placebo en el tratamiento de la COVID-19 en adultos hospitalizados
+
+Indicación: Infección por COVID-19
+
+Criterios de inclusión
+
+- Hospitalizado por síntomas pulmonares de COVID-19 activa.
+- El paciente (o su representante legal) otorga su consentimiento informado antes de iniciar ningún procedimiento del estudio y acepta cumplir con los procedimientos del estudio previstos.
+4. Varón o mujer no embarazada, adulto >/=18 años de edad en el momento de la inclusión.
+5. Presenta infección por el coronavirus del síndrome respiratorio agudo grave de tipo 2 (SARS-CoV-2), confirmada en el laboratorio mediante reacción en cadena de la polimerasa (polymerase chain reaction, PCR) u otro método comercial o de salud pública (no es aceptable la serología)
+
+Criterios de exclusión
+
+- Todo trastorno, lo que comprende cualquier proceso médico o neuropsiquiátrico significativo, incluida la presencia de anomalías de laboratorio, que suponga para el paciente un riesgo inaceptable si participase en el estudio o dificulte la interpretación de los datos del estudio, a juicio del investigador.
+- Necesidad de oxigenación por membrana extracorpórea en el momento basal.
+- Previsión de alta del hospital o traslado a otro hospital no participante en el estudio.

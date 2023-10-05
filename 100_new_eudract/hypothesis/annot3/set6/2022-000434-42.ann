@@ -1,0 +1,49 @@
+T1	PROC 59 94	evaluar la flexibilidad de la dosis
+T2	CHEM 98 110	Upadacitinib
+T3	LIVB 114 129	sujetos adultos
+T4	Age 122 129	adultos
+T5	DISO 134 152	dermatitis atópica
+#1	AnnotatorNotes T5	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T6	PROC 195 260	Estudio de fase 3b/4, aleatorizado, doble ciego y dosis flexibles
+T7	Dose 245 260	dosis flexibles
+T8	CHEM 264 276	upadacitinib
+T9	LIVB 280 287	adultos
+#2	AnnotatorNotes T9	C0001675; Adult; Age Group
+T10	Age 280 287	adultos
+T11	DISO 292 310	dermatitis atópica
+#3	AnnotatorNotes T11	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T12	DISO 363 381	Dermatitis atópica
+#4	AnnotatorNotes T12	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T13	LIVB 430 460	Sujetos masculinos o femeninos
+T14	Age 461 477	≥ 18 y > 65 años
+T15	LIVB 488 495	Sujetos
+#5	AnnotatorNotes T15	C0681850; Study Subject; Group
+T16	DISO 500 510	DA crónica
+T17	Duration 503 510	crónica
+T18	DISO 517 525	síntomas
+#6	AnnotatorNotes T18	C1457887; Symptoms; Sign or Symptom
+T19	Duration 538 553	al menos 3 años
+T20	PROC 643 664	tratamiento sistémico
+T21	Route 655 664	sistémico
+T22	PROC 697 718	tratamiento sistémico
+T23	Route 709 718	sistémico
+T24	DISO 727 729	DA
+T25	CHEM 788 804	inhibidor de JAK
+T26	Neg_cue 807 809	No
+T27	Negated 810 815	poder
+T28	Neg_cue 818 820	no
+T29	PROC 828 856	interrumpir los tratamientos
+T30	Negated 828 856	interrumpir los tratamientos
+T31	Date 857 865	actuales
+T32	DISO 876 878	EA
+#7	AnnotatorNotes T32	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
+T33	CHEM 912 924	medicamentos
+#8	AnnotatorNotes T33	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T34	Contraindicated 912 924	medicamentos
+T35	PROC 947 958	tratamiento
+#9	AnnotatorNotes T35	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T36	LIVB 974 1015	Mujer embarazada, en periodo de lactancia
+T37	Spec_cue 1027 1035	pensando
+T38	PHYS 1048 1058	embarazada
+#10	AnnotatorNotes T38	C0032961; Pregnancy; Organism Function
+T39	Speculated 1048 1058	embarazada

@@ -1,0 +1,82 @@
+T1	CHEM 74 85	vatiquinona
+T2	CHEM 87 97	medicación
+#1	AnnotatorNotes T2	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T3	PROC 137 143	tratar
+T4	DISO 147 167	ataxia de Friedreich
+#2	AnnotatorNotes T4	C0016719; Friedreich Ataxia; Disease or Syndrome
+T5	DISO 173 194	condición neurológica
+T6	PROC 215 230	Estudio abierto
+T7	Date 231 244	a largo plazo
+T8	PROC 250 284	evaluar la seguridad y la eficacia
+T9	CHEM 288 299	vatiquinona
+T10	LIVB 303 312	pacientes
+#3	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 317 337	ataxia de Friedreich
+#4	AnnotatorNotes T11	C0016719; Friedreich Ataxia; Disease or Syndrome
+T12	DISO 362 382	ataxia de Friedreich
+#5	AnnotatorNotes T12	C0016719; Friedreich Ataxia; Disease or Syndrome
+T13	DISO 390 438	enfermedad neurodegenerativa autosómica recesiva
+T14	ANAT 468 484	sistema nervioso
+#6	AnnotatorNotes T14	C0027763; Nervous system structure; Body System | C1269560; Entire nervous system; Body System
+T15	ANAT 490 497	corazón
+#7	AnnotatorNotes T15	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T16	DISO 523 543	Ataxia de Friedreich
+#8	AnnotatorNotes T16	C0016719; Friedreich Ataxia; Disease or Syndrome
+T17	LIVB 576 583	persona
+#9	AnnotatorNotes T17	C0027361; Persons; Population Group
+T18	PROC 594 608	consentimiento
+T19	LIVB 630 638	Personas
+#10	AnnotatorNotes T19	C0027361; Persons; Population Group
+T20	DISO 643 645	AF
+#11	AnnotatorNotes T20	C0015625; Fanconi Anemia; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T21	PROC 668 683	estudio clínico
+#12	AnnotatorNotes T21	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T22	Date 788 794	actual
+T23	LIVB 804 811	mujeres
+#13	AnnotatorNotes T23	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T24	LIVB 814 830	hombres fértiles
+T25	PROC 866 887	método anticonceptivo
+#14	AnnotatorNotes T25	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T26	DEVI 905 914	implantes
+#15	AnnotatorNotes T26	C0021102; Implants; Medical Device
+T27	Route 916 927	inyectables
+T28	DEVI 929 948	parche transdérmico
+#16	AnnotatorNotes T28	C0991556; Transdermal System; Medical Device
+T29	Form 929 935	parche
+T30	Route 936 948	transdérmico
+T31	CHEM 950 965	anticonceptivos
+#17	AnnotatorNotes T31	C0009871; Contraceptive Agents; Pharmacologic Substance
+T32	Route 966 972	orales
+T33	PROC 985 1003	métodos de barrera
+#18	AnnotatorNotes T33	C0004764; Contraception, Barrier; Therapeutic or Preventive Procedure
+T34	DEVI 1006 1032	dispositivos intrauterinos
+#19	AnnotatorNotes T34	C0021900; Intrauterine Devices; Medical Device
+T35	PROC 1077 1091	consentimiento
+T36	Duration 1098 1105	30 días
+T37	CHEM 1137 1159	medicamento en estudio
+T38	PROC 1168 1174	visita
+T39	LIVB 1207 1214	hombres
+#20	AnnotatorNotes T39	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T40	Neg_cue 1237 1239	no
+T41	PROC 1240 1251	donar semen
+T42	Negated 1240 1251	donar semen
+T43	Duration 1281 1297	al menos 30 días
+T44	CHEM 1329 1340	medicamento
+#21	AnnotatorNotes T44	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T45	PROC 1349 1355	visita
+T46	Neg_cue 1407 1413	ningún
+T47	Negated 1414 1418	otro
+T48	PROC 1419 1440	método anticonceptivo
+#22	AnnotatorNotes T48	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T49	Negated 1419 1440	método anticonceptivo
+T50	PROC 1472 1495	método de doble barrera
+T51	DEVI 1505 1517	preservativo
+#23	AnnotatorNotes T51	C0009653; Condoms, Male; Medical Device | C0677582; Condoms, Unspecified; Medical Device
+T52	CHEM 1522 1533	espermicida
+#24	AnnotatorNotes T52	C0037862; Spermatocidal Agents; Pharmacologic Substance
+T53	Date 1580 1586	actual
+T54	PROC 1605 1627	estudio intervencional
+T55	PHYS 1632 1640	Embarazo
+#25	AnnotatorNotes T55	C0032961; Pregnancy; Organism Function
+T56	PHYS 1643 1652	lactancia
+#26	AnnotatorNotes T56	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function

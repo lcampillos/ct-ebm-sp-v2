@@ -1,0 +1,45 @@
+T1	PROC 44 58	ENSAYO CLÍNICO
+#1	AnnotatorNotes T1	C0008976; Clinical Trials; Research Activity
+T2	PROC 64 98	DETERMINAR LA EFICACIA Y SEGURIDAD
+T3	CHEM 103 122	COLIRIO DE INSULINA
+T4	PROC 129 140	TRATAMIENTO
+#2	AnnotatorNotes T4	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T5	DISO 145 170	DEFECTO EPITELIAL CORNEAL
+T6	PROC 203 280	ENSAYO CLÍNICO MULTICÉNTRICO, CONTROLADO, ALEATORIZADO Y CON OBSERVADOR CIEGO
+T7	PROC 287 318	EVALUAR LA EFICACIA Y SEGURIDAD
+T8	CHEM 334 342	INSULINA
+#3	AnnotatorNotes T8	C0021641; Insulin; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance | C3537244; Insulins; Pharmacologic Substance
+T9	PROC 359 370	TRATAMIENTO
+#4	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	DISO 375 400	DEFECTO EPITELIAL CORNEAL
+T11	DISO 426 451	DEFECTO EPITELIAL CORNEAL
+T12	Age 497 513	mayor de 18 años
+T13	PROC 516 527	Diagnóstico
+#5	AnnotatorNotes T13	C0011900; Diagnosis; Diagnostic Procedure
+T14	DISO 531 556	defecto epitelial corneal
+T15	PROC 581 605	consentimiento informado
+#6	AnnotatorNotes T15	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T16	PROC 608 617	Serología
+#7	AnnotatorNotes T16	C0036743; Serologic tests; Laboratory Procedure
+T17	Neg_cue 618 626	negativa
+T18	DISO 632 635	VIH
+#8	AnnotatorNotes T18	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T19	Negated 632 635	VIH
+T20	DISO 637 640	VHC
+T21	Negated 637 640	VHC
+T22	DISO 642 645	VHB
+T23	Negated 642 645	VHB
+T24	PROC 647 651	HLTV
+T25	Negated 647 651	HLTV
+T26	DISO 654 658	lúes
+#9	AnnotatorNotes T26	C0039128; Syphilis; Disease or Syndrome
+T27	Negated 654 658	lúes
+T28	PHYS 687 695	Embarazo
+#10	AnnotatorNotes T28	C0032961; Pregnancy; Organism Function
+T29	PHYS 698 707	lactancia
+#11	AnnotatorNotes T29	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T30	DISO 710 741	Adelgazamiento estromal extremo
+T31	DISO 743 758	espesor corneal
+T32	DISO 795 827	Isquemia grave del limbo corneal
+T33	Duration 870 883	6 horas o más
+T34	DISO 887 902	isquemia limbar

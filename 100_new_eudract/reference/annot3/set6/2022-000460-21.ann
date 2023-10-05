@@ -1,0 +1,45 @@
+T1	CHEM 70 78	ALXN1720
+T2	LIVB 82 89	adultos
+#1	AnnotatorNotes T2	C0001675; Adult; Age Group
+T3	Age 82 89	adultos
+T4	DISO 94 123	miastenia gravis generalizada
+T5	PROC 147 241	Estudio de fase 3, aleatorizado, doble ciego, controlado con placebo, paralelo y multicéntrico
+T6	PROC 247 278	evaluar la seguridad y eficacia
+T7	CHEM 282 290	ALXN1720
+T8	LIVB 294 301	adultos
+#2	AnnotatorNotes T8	C0001675; Adult; Age Group
+T9	Age 294 301	adultos
+T10	DISO 306 335	miastenia gravis generalizada
+T11	DISO 360 389	Miastenia Gravis Generalizada
+T12	Age 427 435	≥18 años
+T13	PROC 463 487	consentimiento informado
+#3	AnnotatorNotes T13	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T14	PROC 491 502	Diagnóstico
+#4	AnnotatorNotes T14	C0011900; Diagnosis; Diagnostic Procedure
+T15	DISO 506 508	MG
+T16	DISO 513 544	debilidad muscular generalizada
+T18	PROC 714 731	Prueba serológica
+#6	AnnotatorNotes T18	C0036743; Serologic tests; Laboratory Procedure
+T19	CHEM 746 774	autoanticuerpos contra AChR.
+T20	PROC 819 829	timectomía
+#7	AnnotatorNotes T20	C0040071; Thymectomy; Therapeutic or Preventive Procedure
+T21	PROC 847 861	cirugía tímica
+T22	Duration 865 877	los 12 meses
+T23	DISO 906 930	Neoplasia tímica maligna
+T24	DISO 932 941	carcinoma
+#8	AnnotatorNotes T24	C0007097; Carcinoma; Neoplastic Process
+T25	DISO 944 950	timoma
+#9	AnnotatorNotes T25	C0040100; Thymoma; Neoplastic Process
+T26	Neg_cue 951 953	no
+T27	PROC 954 962	tratados
+T28	Negated 954 962	tratados
+T29	DISO 981 1017	infección por Neisseria meningitidis
+#10	AnnotatorNotes T29	C0025303; Meningococcal Infections; Disease or Syndrome
+T30	PHYS 1020 1028	Embarazo
+#11	AnnotatorNotes T30	C0032961; Pregnancy; Organism Function
+T31	PHYS 1030 1039	lactancia
+#12	AnnotatorNotes T31	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T32	PHYS 1055 1063	concebir
+#13	AnnotatorNotes T32	C0009637; Conception; Organism Function
+T36	Spec_cue 1042 1051	intención
+T37	Speculated 1055 1063	concebir

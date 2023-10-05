@@ -1,0 +1,15 @@
+EudraCT Nº: 2022-003107-15
+
+Título científico: Ensayo multicéntrico Fase III, aleatorizado, doble-ciego, de grupos paralelos y controlado frente a placebo, para evaluar la eficacia y seguridad de tozorakimab (MEDI3506) en pacientes hospitalizados por infección pulmonar vírica que requieren oxigenoterapia (TILIA) 
+
+Indicación: Infecciones pulmonares víricas graves
+
+Criterios de inclusión:
+1. Pacientes adultos ≥ 18 años en el momento de firma del consentimiento informado.
+2. Pacientes hospitalizados con infección pulmonar vírica.
+3. Hipoxemia que requiere tratamiento con suplemento de oxígeno.
+
+Criterios de exclusión:
+1. Infección pulmonar fúngica o parasitaria conocida, infección pulmonar por aspiración, absceso pulmonar o sepsis pulmonar. Se permite la coinfección bacteriana, a menos que, a juicio del investigador, la infección bacteriana defina la gravedad del estado del paciente.
+2. Hipoxemia causada principalmente por lesión extrapulmonar o por lesión pulmonar de etiología no infecciosa.
+3. IMV/ECMO en curso o inminente en la aleatorización. 

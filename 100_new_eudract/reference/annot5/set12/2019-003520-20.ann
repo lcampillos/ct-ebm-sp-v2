@@ -1,0 +1,162 @@
+T1	Date 12 16	2019
+T2	PROC 44 91	Estudio para evaluar la eficacia y la seguridad
+T3	CHEM 95 104	dupilumab
+#1	AnnotatorNotes T3	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T4	LIVB 108 125	pacientes adultos
+T5	Age 118 125	adultos
+T6	DISO 130 150	penfigoide ampolloso
+#2	AnnotatorNotes T6	C0030805; Bullous pemphigoid; Disease or Syndrome
+T7	PROC 171 280	Estudio multicéntrico, aleatorizado, con doble enmascaramiento, controlado con placebo y con grupos paralelos
+T8	PROC 286 320	evaluar la eficacia y la seguridad
+T9	CHEM 324 333	dupilumab
+#3	AnnotatorNotes T9	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T10	LIVB 337 354	pacientes adultos
+T11	Age 347 354	adultos
+T12	DISO 359 379	penfigoide ampolloso
+#4	AnnotatorNotes T12	C0030805; Bullous pemphigoid; Disease or Syndrome
+T13	DISO 404 424	penfigoide ampolloso
+#5	AnnotatorNotes T13	C0030805; Bullous pemphigoid; Disease or Syndrome
+T14	DISO 432 464	afección cutánea autoinmunitaria
+T15	DISO 500 508	ampollas
+#6	AnnotatorNotes T15	C0005758; Bulla; Finding
+T16	ANAT 519 526	líquido
+T17	DISO 551 571	Penfigoide ampolloso
+#7	AnnotatorNotes T17	C0030805; Bullous pemphigoid; Disease or Syndrome
+T18	DISO 572 575	(PA
+T19	LIVB 609 618	pacientes
+#8	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	DISO 635 659	manifestaciones clínicas
+#9	AnnotatorNotes T20	C0037088; Signs and Symptoms; Sign or Symptom
+T21	DISO 663 665	PA
+#10	AnnotatorNotes T21	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T22	DISO 675 682	prurito
+#11	AnnotatorNotes T22	C0033774; Pruritus; Sign or Symptom
+T23	DISO 684 692	ampollas
+#12	AnnotatorNotes T23	C0005758; Bulla; Finding
+T24	DISO 695 742	placas eritematosas, eccematosas o urticarianas
+T25	PROC 752 781	isitas de selección e inicial
+T26	LIVB 806 819	participantes
+T27	PROC 845 900	confirmación histológica, inmunopatológica y serológica
+T28	DISO 905 907	PA
+#13	AnnotatorNotes T28	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T33	PROC 1181 1184	NRS
+T34	DISO 1216 1223	prurito
+#16	AnnotatorNotes T34	C0033774; Pruritus; Sign or Symptom
+T35	LIVB 1241 1264	Personas de ambos sexos
+T36	Age 1269 1287	entre 18 y 90 años
+T37	PROC 1294 1313	visita de selección
+T38	PROC 1346 1379	valoración funcional de Karnofsky
+T39	PROC 1386 1405	visita de selección
+T40	PROC 1477 1486	protocolo
+#17	AnnotatorNotes T40	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T41	DISO 1526 1536	penfigoide
+#18	AnnotatorNotes T41	C0030805; Bullous pemphigoid; Disease or Syndrome
+T42	Neg_cue 1537 1549	distintos al
+T43	DISO 1550 1560	PA clásico
+#19	AnnotatorNotes T43	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T45	DISO 1573 1600	PA de las membranas mucosas
+#20	AnnotatorNotes T45	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T47	DISO 1605 1646	penfigoide cicatricial de Brunsting Perry
+T48	DISO 1651 1671	penfigoide anti-p200
+T49	DISO 1676 1709	epidermólisis ampollosa adquirida
+#22	AnnotatorNotes T49	C0079293; Epidermolysis Bullosa Acquisita; Disease or Syndrome
+T50	DISO 1715 1717	PA
+#23	AnnotatorNotes T50	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T51	DISO 1722 1736	pénfigo vulgar
+#24	AnnotatorNotes T51	C0030809; Pemphigus Vulgaris; Disease or Syndrome | C4303496; Pemphigus of vulva; Disease or Syndrome
+T52	LIVB 1755 1764	Pacientes
+#25	AnnotatorNotes T52	C0030705; Patients; Patient or Disabled Group
+T53	PROC 1786 1798	tratamientos
+#26	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	DISO 1825 1827	PA
+#27	AnnotatorNotes T54	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T55	CHEM 1837 1893	inhibidores de la enzima convertidora de la angiotensina
+#28	AnnotatorNotes T55	C0003015; Angiotensin-Converting Enzyme Inhibitors; Pharmacologic Substance
+T56	CHEM 1895 1907	penicilamina
+#29	AnnotatorNotes T56	C0030817; penicillamine; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T57	CHEM 1909 1919	furosemida
+#30	AnnotatorNotes T57	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T58	CHEM 1921 1931	fenacetina
+#31	AnnotatorNotes T58	C0031364; phenacetin; Hazardous or Poisonous Substance · Organic Chemical
+T59	CHEM 1934 1972	inhibidor de la dipeptidil peptidasa-4
+T60	Neg_cue 1978 1980	no
+T62	Negated 2001 2014	dosis estable
+T63	CHEM 2024 2036	medicamentos
+#32	AnnotatorNotes T63	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T64	Duration 2045 2067	un mínimo de 4 semanas
+T66	PROC 2133 2144	tratamiento
+#33	AnnotatorNotes T66	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T67	CHEM 2152 2185	antagonista de la IL-4 o la IL-13
+T68	CHEM 2192 2201	dupilumab
+#34	AnnotatorNotes T68	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T69	CHEM 2203 2215	tralokinumab
+T70	CHEM 2218 2230	lebrikizumab
+T71	PROC 2235 2246	Tratamiento
+T72	Duration 2288 2301	las 2 semanas
+T73	PROC 2318 2332	visita inicial
+T74	PROC 2337 2348	Tratamiento
+T75	Route 2371 2378	tópicos
+T76	CHEM 2406 2434	inhibidor de la calcineurina
+T77	Route 2435 2441	tópico
+T78	CHEM 2444 2455	crisaborole
+T79	Route 2456 2462	tópico
+T80	Duration 2471 2489	la semana anterior
+T82	PROC 2514 2525	Tratamiento
+#35	AnnotatorNotes T82	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T83	CHEM 2530 2547	inmunomoduladores
+#36	AnnotatorNotes T83	C1527392; Immunomodulators; Immunologic Factor · Pharmacologic Substance
+T84	CHEM 2548 2579	inmunodepresores no esteroideos
+T85	Neg_cue 2565 2567	no
+T86	Negated 2568 2579	esteroideos
+T87	CHEM 2589 2610	micofenolato mofetilo
+#37	AnnotatorNotes T87	C0209368; mycophenolate mofetil; Organic Chemical · Pharmacologic Substance
+T88	CHEM 2612 2623	azatioprina
+#38	AnnotatorNotes T88	C0004482; azathioprine; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T89	CHEM 2626 2637	metotrexato
+#39	AnnotatorNotes T89	C0025677; methotrexate; Organic Chemical · Pharmacologic Substance
+T90	Duration 2647 2660	las 4 semanas
+T92	PROC 2696 2707	Tratamiento
+#40	AnnotatorNotes T92	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T93	CHEM 2712 2723	biofármacos
+T94	DISO 2737 2739	PA
+#41	AnnotatorNotes T94	C0001339; Pancreatitis, Acute; Disease or Syndrome | C0162323; Polyarthritis; Disease or Syndrome
+T95	CHEM 2749 2770	fármaco citorreductor
+T96	CHEM 2794 2803	rituximab
+#42	AnnotatorNotes T96	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T97	Duration 2813 2825	los 12 meses
+T99	PROC 2872 2899	cifra de linfocitos y CD19+
+T100	Date 2944 2953	más tarde
+T101	CHEM 2963 2974	biofármacos
+T102	CHEM 2985 3004	inhibidores de IL-5
+T103	CHEM 3005 3017	benralizumab
+T104	CHEM 3020 3031	mepolizumab
+#43	AnnotatorNotes T104	C0969324; mepolizumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T105	Duration 3042 3057	las 5 semividas
+T106	Duration 3075 3089	las 16 semanas
+T108	CHEM 3151 3166	Inmunoglobulina
+#44	AnnotatorNotes T108	C0021027; Immunoglobulins; Amino Acid, Peptide, or Protein · Immunologic Factor
+T109	Route 3167 3178	intravenosa
+T110	Duration 3187 3201	las 16 semanas
+T112	PROC 3303 3312	protocolo
+#45	AnnotatorNotes T112	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T113	PROC 824 831	estudio
+T114	PROC 1051 1056	BPDAI
+T115	PROC 1058 1095	Bullous Pemphigoid Disease Area Index
+T116	CHEM 2251 2268	corticoesteroides
+T117	Route 2269 2279	sistémicos
+T118	CHEM 2353 2370	corticoesteroides
+T119	Dose 2382 2405	potencia media o mayor,
+T81	PROC 1009 1049	índice del área del penfigoide ampolloso
+T31	PROC 1164 1179	escala numérica
+T32	PROC 1104 1111	visitas
+T30	DISO 989 999	enfermedad
+T29	PROC 928 934	visita
+T44	Negated 1550 1560	PA clásico
+T121	Negated 1981 1996	hayan mantenido
+T61	Dose 2001 2014	dosis estable
+T65	PROC 2080 2086	visita
+T120	PROC 2495 2501	visita
+T91	PROC 2677 2683	visita
+T98	PROC 2842 2848	visita
+T107	PROC 3106 3112	visita
+T111	PROC 3218 3224	visita

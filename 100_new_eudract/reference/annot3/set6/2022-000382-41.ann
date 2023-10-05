@@ -1,0 +1,72 @@
+T2	CHEM 83 95	progesterona
+#1	AnnotatorNotes T2	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T3	PROC 99 138	procedimientos de reproducción asistida
+T8	PROC 372 375	FIV
+#4	AnnotatorNotes T8	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T15	PROC 633 636	FIV
+#8	AnnotatorNotes T15	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T19	PROC 810 830	estimulación ovárica
+T20	PROC 846 855	inducción
+#10	AnnotatorNotes T20	C0857127; Induction procedure; Therapeutic or Preventive Procedure
+T23	LIVB 968 975	Mujeres
+#12	AnnotatorNotes T23	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T24	Age 979 1009	más de 18 años y menores de 42
+T25	PROC 1057 1077	fecundación in vitro
+#13	AnnotatorNotes T25	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T26	PROC 1082 1122	transferencia diferida de un blastocisto
+T27	PROC 1128 1164	screening genético preimplantacional
+T28	ANAT 1203 1210	embrión
+#14	AnnotatorNotes T28	C0013935; Embryo; Embryonic Structure | C0013948; Embryonic Structures; Embryonic Structure | C1305370; Entire embryo; Embryonic Structure
+T29	Neg_cue 1234 1236	no
+T31	ANAT 1249 1258	embriones
+#15	AnnotatorNotes T31	C0013935; Embryo; Embryonic Structure | C0013948; Embryonic Structures; Embryonic Structure | C1305370; Entire embryo; Embryonic Structure
+T32	Spec_cue 1277 1285	posibles
+T33	Speculated 1286 1294	mosaicos
+T34	Neg_cue 1299 1310	Ausencia de
+T35	Negated 1311 1348	contraindicaciones médico-quirúrgicas
+T36	PROC 1358 1375	punción folicular
+T37	Contraindicated 1358 1375	punción folicular
+T38	PROC 1388 1391	FIV
+#16	AnnotatorNotes T38	C0015915; Fertilization in Vitro; Therapeutic or Preventive Procedure
+T39	Neg_cue 1395 1406	Ausencia de
+T40	DISO 1407 1422	miomas uterinos
+#17	AnnotatorNotes T40	C0042133; Uterine Fibroids; Neoplastic Process
+T41	Negated 1407 1422	miomas uterinos
+T42	DISO 1532 1547	miomas uterinos
+#18	AnnotatorNotes T42	C0042133; Uterine Fibroids; Neoplastic Process
+T44	PROC 1624 1639	cirugía uterina
+T45	DISO 1642 1659	Hipersensibilidad
+#19	AnnotatorNotes T45	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T46	DISO 1662 1674	intolerancia
+T48	CHEM 1706 1716	Estrógenos
+#20	AnnotatorNotes T48	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T49	CHEM 1719 1731	Progesterona
+#21	AnnotatorNotes T49	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T50	CHEM 1752 1763	excipientes
+#22	AnnotatorNotes T50	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T51	CHEM 1781 1791	medicación
+#23	AnnotatorNotes T51	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T54	CHEM 1846 1856	Estrógenos
+#24	AnnotatorNotes T54	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T55	Contraindicated 1846 1856	Estrógenos
+T56	CHEM 1859 1871	Progesterona
+#25	AnnotatorNotes T56	C0033308; progesterone; Hormone · Organic Chemical · Pharmacologic Substance
+T57	Contraindicated 1859 1871	Progesterona
+T58	PROC 46 73	Protección de la fase lútea
+T59	PROC 191 246	estudio de parámetros predictivos de éxito reproductivo
+T60	PROC 140 188	Comparación de diferentes vías de administración
+T5	PROC 271 370	Estudio comparativo de diferentes pautas de cobertura gestagénica en ciclos de fecundación in vitro
+T4	PROC 532 631	estudio comparativo de diferentes pautas de cobertura gestagénica en ciclos de fecundación in vitro
+T7	PROC 858 881	recuperación ovocitaria
+T9	PROC 1166 1171	PGT-A
+T13	Negated 1249 1258	embriones
+T1	PROC 1680 1694	administración
+T14	Contraindicated 1820 1834	administración
+T21	PROC 1820 1834	administración
+T10	DISO 1570 1601	pérdidas gestacionales precoces
+#2	AnnotatorNotes T10	Early Pregnancy Loss C3830362
+T12	DISO 1286 1294	mosaicos
+#3	AnnotatorNotes T12	Nodular embryo C0266649 
+T18	PROC 773 776	FIV
+T43	PROC 381 447	transferencia diferida de blastocistos genéticamente seleccionados
+T11	PROC 642 708	transferencia diferida de blastocistos genéticamente seleccionados

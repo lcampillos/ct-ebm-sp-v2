@@ -1,0 +1,92 @@
+T1	PROC 44 53	Protocolo
+#1	AnnotatorNotes T1	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T2	LIVB 81 90	pacientes
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T4	Neg_cue 169 171	no
+T5	Negated 172 181	resecable
+T6	DISO 184 195	metastásico
+#3	AnnotatorNotes T6	C4255448; Metastasis; Pathologic Function
+T7	PROC 217 275	Protocolo abierto, multifármaco, multicéntrico, de fase II
+T9	LIVB 389 398	pacientes
+#4	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T11	Neg_cue 465 467	no
+T12	Negated 468 477	resecable
+T13	DISO 480 491	metastásico
+#5	AnnotatorNotes T13	C4255448; Metastasis; Pathologic Function
+T14	DISO 532 577	cáncer gástrico o de la unión gastroesofágica
+T15	Neg_cue 582 584	no
+T21	Neg_cue 708 710	no
+T22	Negated 711 720	resecable
+T23	DISO 723 734	metastásico
+#9	AnnotatorNotes T23	C4255448; Metastasis; Pathologic Function
+T24	Age 763 776	18 años o más
+T25	PROC 811 824	Peso corporal
+T26	Neg_cue 836 838	No
+T27	PROC 845 852	tratado
+T28	Negated 845 852	tratado
+T29	DISO 873 926	adenocarcinoma gástrico o de la unión gastroesofágica
+T32	Neg_cue 927 929	no
+T33	Negated 930 939	resecable
+T34	DISO 942 953	metastásico
+#10	AnnotatorNotes T34	C4255448; Metastasis; Pathologic Function
+T35	DISO 967 987	lesión diana medible
+T36	LIVB 1004 1016	investigador
+#11	AnnotatorNotes T36	C0035173; Research Personnel; Professional or Occupational Group
+T37	Duration 1079 1098	al menos 12 semanas
+T38	ANAT 1122 1129	órganos
+#12	AnnotatorNotes T38	C0178784; Organ; Body Part, Organ, or Organ Component | C1280836; Entire body organ; Body Part, Organ, or Organ Component
+T39	ANAT 1132 1143	médula ósea
+#13	AnnotatorNotes T39	C0005953; Bone Marrow; Tissue
+T40	LIVB 1173 1186	Participantes
+T41	PROC 1191 1195	HER2
+T43	PROC 1227 1230	IHC
+T44	PROC 1246 1249	ISH
+T45	DISO 1253 1271	carcinoma gástrico
+#15	AnnotatorNotes T45	C0699791; Stomach Carcinoma; Neoplastic Process
+T46	DISO 1274 1277	GEJ
+T47	DISO 1295 1325	Enfermedad metastásica del SNC
+T48	Neg_cue 1339 1341	no
+T49	PROC 1342 1349	tratada
+T50	Negated 1342 1349	tratada
+T51	DISO 1361 1385	enfermedad leptomeníngea
+T52	DISO 1388 1406	compresión medular
+#16	AnnotatorNotes T52	C0037926; Compression of spinal cord; Disease or Syndrome
+T53	LIVB 1409 1422	Participantes
+T54	DISO 1427 1434	ascitis
+#17	AnnotatorNotes T54	C0003962; Ascites; Disease or Syndrome
+T55	Neg_cue 1439 1441	no
+T57	PROC 1465 1479	intervenciones
+#18	AnnotatorNotes T57	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T59	DISO 1533 1545	tuberculosis
+#20	AnnotatorNotes T59	C0041296; Tuberculosis; Disease or Syndrome | C0041327; Tuberculosis, Pulmonary; Disease or Syndrome
+T60	DISO 1547 1564	infección por VIH
+#21	AnnotatorNotes T60	C0019693; HIV Infections; Disease or Syndrome
+T61	DISO 1567 1582	hepatitis A/B/C
+T62	DISO 1586 1610	Enfermedad intercurrente
+#22	AnnotatorNotes T62	C0277557; Intercurrent disease; Disease or Syndrome
+T63	Neg_cue 1611 1613	no
+T64	Negated 1614 1624	controlada
+T66	PROC 1716 1737	tratamiento sistémico
+T67	CHEM 1742 1752	esteroides
+#23	AnnotatorNotes T67	C0038317; Steroids; Organic Chemical · Pharmacologic Substance
+T68	PROC 1760 1786	tratamiento inmunosupresor
+T69	DISO 1811 1837	neoplasia maligna primaria
+#24	AnnotatorNotes T69	C1306459; Primary malignant neoplasm; Neoplastic Process
+T70	PROC 1841 1852	Tratamiento
+#25	AnnotatorNotes T70	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T72	Date 12 16	2022
+T3	DISO 95 168	adenocarcinoma gástrico o de la unión gastroesofágica localmente avanzado
+T16	PROC 594 619	extirpar mediante cirugía
+T17	Negated 594 619	extirpar mediante cirugía
+T18	DISO 645 707	Adenocarcinoma de la unión gastroesofágica localmente avanzado
+T8	PROC 281 385	evaluar la eficacia, seguridad, tolerabilidad, farmacocinética e inmunogenicidad de nuevas combinaciones
+T10	DISO 403 464	adenocarcinoma gástrico o gastroesofágico localmente avanzado
+T19	PROC 804 807	ICF
+T20	PROC 1027 1037	RECIST 1.1
+T42	PROC 1213 1216	IHC
+T73	Spec_cue 1278 1291	indeterminado
+T65	DISO 1628 1666	Trastornos autoinmunes o inflamatorios
+T56	Negated 1451 1490	controlar con intervenciones apropiadas
+T58	DISO 1494 1518	Enfermedades infecciosas
+T74	Route 1728 1737	sistémico
+T71	PROC 1867 1891	agente inmuno-oncológico

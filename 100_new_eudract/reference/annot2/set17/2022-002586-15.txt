@@ -1,0 +1,32 @@
+EudraCT Nº: 2022-002586-15
+
+Título público: Erdafitinib (ERDA) solo o en combinación con cetrelimab (CET) como tratamiento neoadyuvante (antes de la cirugía) en sujetos con cáncer de vejiga músculo-invasivo cuyos tumores expresan alteraciones del gen FGFR y no son elegibles para recibir tratamiento con cisplatino
+
+Título científico: Estudio de fase 2, intervencionista, abierto, multicéntrico y multinacional, para evaluar la eficacia y la seguridad de erdafitinib (ERDA) en monoterapia y en combinación con cetrelimab (CET) como tratamiento neoadyuvante en pacientes que padecen cáncer de vejiga con invasión muscular cuyo tumor expresa alteraciones del gen FGFR y que no son aptos para el tratamiento con cisplatino.
+
+Indicación pública: Cáncer de vejiga que se propaga al musculo grueso
+
+Indicación científica: Cáncer de vejiga con invasión muscular
+
+Criterios de inclusión:
+
+1) Consentimiento informado por escrito donde se declare que el/la paciente comprende el propósito del estudio y los procedimientos del mismo y acepta participar en el estudio. 
+2) Diagnóstico de cáncer de vejiga con invasión muscular (MIBC, muscle-invasive bladder cancer) confirmado histológicamente (estadio T2-4a N0/N1 M0) obtenido mediante resección transuretral del tumor vesical (TURBT, transurethral resection of bladder tumor) diagnóstica o máxima, realizada no más de 3 meses antes de comenzar la visita de selección. 
+3) Histología pura o predominante (≥50%) de carcinoma urotelial (UC, urothelial carcinoma), según determinación en el centro local. 
+4) Edad ≥ 18 años. 
+5) Estado funcional del Eastern Cooperative Oncology Group (ECOG) de 0-1. 
+6) El paciente rechaza o no es elegible ("no apto") para quimioterapia a base de cisplatino; 
+7) Presencia de una determinada alteración del FGFR en el análisis de la biopsia tumoral 
+8) Función orgánica adecuada 
+9) Ausencia de otras neoplasias malignas 10)Disposición para evitar el embarazo o engendrar hijos 
+
+Criterios de exclusión:
+
+1) Evidencia clínica de tumor N2-N3 o cáncer de vejiga metastásico. 
+2) Tumor con cualquier componente neuroendocrino o microcelular. 
+3) Pacientes no considerados aptos para la cistectomía o que rechacen esta intervención. 4) Tratamiento sistémico previo dirigido al FGFR o antiPD1/PDL1. 
+5) No se permite la práctica previa de tratamiento sistémico, radioterapia o cirugía para el cáncer de vejiga
+
+
+
+

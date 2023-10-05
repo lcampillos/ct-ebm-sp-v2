@@ -1,0 +1,158 @@
+T1	PROC 83 115	reducción progresiva de la dosis
+T2	CHEM 119 129	filgotinib
+#1	AnnotatorNotes T2	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T3	LIVB 133 142	pacientes
+#2	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	DISO 147 163	colitis ulcerosa
+#3	AnnotatorNotes T4	C0009324; Ulcerative Colitis; Disease or Syndrome
+T5	PROC 198 259	Estudio aleatorizado, doble ciego, controlado y multicéntrico
+T6	PROC 265 299	evaluar la eficacia y la seguridad
+T7	PROC 306 338	reducción progresiva de la dosis
+T8	CHEM 342 352	filgotinib
+#4	AnnotatorNotes T8	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T9	PROC 353 378	administrado por vía oral
+T10	Route 370 378	vía oral
+T11	LIVB 382 391	pacientes
+#5	AnnotatorNotes T11	C0030705; Patients; Patient or Disabled Group
+T12	DISO 396 412	colitis ulcerosa
+#6	AnnotatorNotes T12	C0009324; Ulcerative Colitis; Disease or Syndrome
+T13	DISO 456 472	colitis ulcerosa
+#7	AnnotatorNotes T13	C0009324; Ulcerative Colitis; Disease or Syndrome
+T14	LIVB 505 514	pacientes
+#8	AnnotatorNotes T14	C0030705; Patients; Patient or Disabled Group
+T15	Date 578 589	actualmente
+T16	PROC 590 601	tratamiento
+#9	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	Dose 606 612	200 mg
+T18	CHEM 616 626	filgotinib
+#10	AnnotatorNotes T18	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T19	Dose 627 630	1 v
+T20	Frequency 630 632	/d
+T21	DISO 688 692	pMCS
+T22	PROC 727 734	visitas
+T23	Frequency 735 747	trimestrales
+T24	Frequency 748 760	consecutivas
+T25	Neg_cue 847 850	sin
+T26	CHEM 851 868	corticoesteroides
+#11	AnnotatorNotes T26	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T27	Negated 851 868	corticoesteroides
+T28	Duration 877 896	al menos 12 semanas
+T29	PROC 929 932	CPF
+T30	PROC 958 969	observación
+#12	AnnotatorNotes T30	C0302523; Observation in research; Research Activity | C0700325; Patient observation; Health Care Activity
+T31	PROC 973 975	PE
+#13	AnnotatorNotes T31	C0015260; Exercise stress test; Diagnostic Procedure
+T32	PROC 982 996	sigmoidoscopia
+#14	AnnotatorNotes T32	C0037075; Sigmoidoscopy (procedure); Diagnostic Procedure
+T33	LIVB 1048 1057	pacientes
+#15	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	PHYS 1075 1083	concebir
+#16	AnnotatorNotes T34	C0009637; Conception; Organism Function
+T35	Neg_cue 1109 1117	negativo
+T36	PROC 1125 1143	prueba de embarazo
+#17	AnnotatorNotes T36	C0032976; Pregnancy Tests; Diagnostic Procedure
+T37	Negated 1135 1143	embarazo
+T38	CHEM 1164 1208	gonadotropina coriónica humana beta en suero
+T39	Frequency 1257 1269	mensualmente
+T40	PROC 1276 1294	prueba de embarazo
+#18	AnnotatorNotes T40	C0032976; Pregnancy Tests; Diagnostic Procedure
+T41	Negated 1286 1294	embarazo
+T42	PROC 1299 1321	tira reactiva de orina
+T43	PROC 1333 1344	tratamiento
+#19	AnnotatorNotes T43	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T44	CHEM 1349 1359	filgotinib
+#20	AnnotatorNotes T44	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T45	LIVB 1367 1394	pacientes de sexo masculino
+T46	LIVB 1401 1427	pacientes de sexo femenino
+T47	PHYS 1445 1453	concebir
+#21	AnnotatorNotes T47	C0009637; Conception; Organism Function
+T48	PROC 1478 1501	métodos anticonceptivos
+#22	AnnotatorNotes T48	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T49	PROC 1549 1558	protocolo
+#23	AnnotatorNotes T49	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T50	Neg_cue 1579 1585	evitar
+T51	CHEM 1594 1648	vacunas elaboradas con microorganismos vivos atenuados
+T52	Negated 1594 1648	vacunas elaboradas con microorganismos vivos atenuados
+T53	Duration 1678 1688	12 semanas
+T54	CHEM 1713 1723	filgotinib
+#24	AnnotatorNotes T54	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T55	DISO 1843 1866	afección médica crónica
+T56	Duration 1859 1866	crónica
+T57	DISO 1881 1891	neumopatía
+#25	AnnotatorNotes T57	C0024115; Lung diseases; Disease or Syndrome
+T58	DISO 1894 1905	cardiopatía
+#26	AnnotatorNotes T58	C0018799; Heart Diseases; Disease or Syndrome
+T59	DISO 1907 1918	alcoholismo
+#27	AnnotatorNotes T59	C0001973; Alcoholic Intoxication, Chronic; Mental or Behavioral Dysfunction
+T60	DISO 1921 1933	drogadicción
+#28	AnnotatorNotes T60	C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T61	LIVB 1955 1967	investigador
+#29	AnnotatorNotes T61	C0035173; Research Personnel; Professional or Occupational Group
+T62	LIVB 1995 2003	paciente
+#30	AnnotatorNotes T62	C0030705; Patients; Patient or Disabled Group
+T63	Neg_cue 2004 2006	no
+T64	Negated 2011 2031	apto para el estudio
+T65	Neg_cue 2034 2040	impida
+T66	Negated 2044 2070	cumplimiento del protocolo
+T67	PROC 2061 2070	protocolo
+#31	AnnotatorNotes T67	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T68	LIVB 2087 2095	paciente
+#32	AnnotatorNotes T68	C0030705; Patients; Patient or Disabled Group
+T69	DISO 2102 2119	hipersensibilidad
+#33	AnnotatorNotes T69	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T70	CHEM 2135 2161	ingredientes de filgotinib
+T71	DISO 2184 2201	reacción alérgica
+#34	AnnotatorNotes T71	C0020517; Hypersensitivity; Pathologic Function | C1527304; Allergic Reaction; Pathologic Function
+T72	CHEM 2222 2248	ingredientes de filgotinib
+T73	LIVB 2277 2289	investigador
+#35	AnnotatorNotes T73	C0035173; Research Personnel; Professional or Occupational Group
+T74	LIVB 2293 2335	Mujer embarazada o en período de lactancia
+T75	PHYS 2379 2388	amamantar
+#36	AnnotatorNotes T75	C0006147; Breast Feeding; Organism Function
+T76	PROC 2429 2437	donación
+T77	PROC 2440 2460	extracción de óvulos
+T78	PHYS 2474 2485	fecundación
+#37	AnnotatorNotes T78	C0015914; Fertilization; Organism Function
+T79	Date 2486 2492	actual
+T80	Date 2495 2501	futura
+T81	LIVB 2552 2559	Hombres
+#38	AnnotatorNotes T81	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T82	Neg_cue 2564 2566	no
+T83	PROC 2586 2596	abstenerse
+T84	PROC 2600 2611	donar semen
+T85	Negated 2600 2611	donar semen
+T86	Duration 2620 2636	al menos 90 días
+T87	CHEM 2668 2693	producto en investigación
+T88	CHEM 2695 2698	PEI
+T89	LIVB 2706 2714	paciente
+#39	AnnotatorNotes T89	C0030705; Patients; Patient or Disabled Group
+T90	Neg_cue 2726 2728	no
+T91	Negated 2746 2775	cumplir con las restricciones
+T92	CHEM 2791 2801	medicación
+#40	AnnotatorNotes T92	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T93	PROC 2854 2863	protocolo
+#41	AnnotatorNotes T93	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T94	LIVB 2870 2878	paciente
+#42	AnnotatorNotes T94	C0030705; Patients; Patient or Disabled Group
+T95	PROC 2913 2953	prueba de tuberculosis (TB) QuantiFERON®
+T96	PROC 3006 3030	prueba de TB QuantiFERON
+T97	PROC 3049 3077	interrupción del tratamiento
+T98	CHEM 3085 3088	PEI
+T99	DISO 3108 3125	neoplasia maligna
+#43	AnnotatorNotes T99	C0006826; Malignant Neoplasms; Neoplastic Process | C1306459; Primary malignant neoplasm; Neoplastic Process
+T100	Neg_cue 3127 3134	excepto
+T101	LIVB 3135 3144	pacientes
+#44	AnnotatorNotes T101	C0030705; Patients; Patient or Disabled Group
+T102	Negated 3135 3144	pacientes
+T103	Negated 3145 3172	tratados satisfactoriamente
+T104	PROC 3145 3153	tratados
+T105	Negated 3181 3217	cáncer de piel distinto del melanoma
+T106	DISO 3181 3195	cáncer de piel
+#45	AnnotatorNotes T106	C0007114; Malignant neoplasm of skin; Neoplastic Process | C0699893; Skin carcinoma; Neoplastic Process
+T107	DISO 3209 3217	melanoma
+#46	AnnotatorNotes T107	C0025202; melanoma; Neoplastic Process
+T108	DISO 3223 3255	carcinoma cervicouterino in situ
+#47	AnnotatorNotes T108	C0851140; Carcinoma in situ of uterine cervix; Neoplastic Process
+T109	Negated 3223 3255	carcinoma cervicouterino in situ
+T110	LIVB 3262 3270	paciente
+#48	AnnotatorNotes T110	C0030705; Patients; Patient or Disabled Group

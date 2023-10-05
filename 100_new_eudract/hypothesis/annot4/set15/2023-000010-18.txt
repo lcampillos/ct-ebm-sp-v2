@@ -1,0 +1,35 @@
+EudraCT Nº: 2023-000010-18
+
+Título público: Solución salina normal frente a solución de Ringer lactato para la pancreatitis aguda
+
+Título científico: Efecto de fluidoterapia mediante suero fisiológico frente a solución de Ringer lactato en pacientes con pancreatitis, estudio abierto multicéntrico aleatorizado, estudio WATERLAND
+
+Indicación: Pancreatitis aguda
+
+Criterios de inclusión:
+
+1. Pacientes con 18 años o mayores 
+2. Diagnóstico de pancreatitis aguda según la Clasificación Revisada de Atlanta (Banks et al, Gut 2013), que requiere al menos dos de los siguientes tres criterios: 
+A) dolor abdominal típico, 
+B) aumento de los niveles séricos de amilasa o lipasa superior a tres veces el límite superior de normalidad, 
+C) signos de pancreatitis aguda en pruebas de imagen 
+3. Firma de consentimiento informado 
+
+Criterios de exclusión:
+
+1. Insuficiencia cardíaca clase II de la New York Heart Association (ligera limitación de la actividad física; fatiga, palpitaciones o disnea con la actividad física ordinaria) o mayor, o fracción de eyección <50% en la última ecocardiografía 
+2. Cirrosis descompensada (clase B o C de Child) 
+3. Hiper o hiponatremia (<135 o >145 mEq/L) 
+4. Hiperpotasemia (>5 mEq/L) 
+5. Hipercalcemia (albúmina o calcio corregido por proteínas >10,5 mg/dL) 
+6. Criterios para pancreatitis aguda moderada o grave (Clasificación Revisada de Atlanta, Banks et al, Gut 2013) en el momento del reclutamiento: cualquiera de los siguientes: 
+A) presencia de creatinina ≥1,9 mg/dl o ≥170 mmol/l, 
+B) PaO2/FiO2≤300, 
+C) presión arterial sistólica <90 mmHg a pesar de fluidoterapia, 
+D) presencia de complicaciones locales (colecciones peripancreáticas agudas, colección necrótica aguda, pseudoquiste, necrosis encapsulada, obstrucción al vaciado gástrico, trombosis venosa esplénica o portal, o necrosis colónica)
+E) exacerbación de comorbilidad previa como enfermedad isquémica coronaria o enfermedad pulmonar crónica, precipitada por la pancreatitis aguda 
+7. Signos de sobrecarga de volumen o insuficiencia cardiaca al reclutamiento (edema periférico, estertores pulmonares o aumento de la ingurgitación yugular a 45º) 
+8. Tiempo desde el inicio del dolor hasta la llegada a urgencias > 12 h 
+9. Tiempo desde la confirmación de la pancreatitis hasta la aleatorización > 8 h 
+10. Pancreatitis crónica definida por un conducto de Wirsung ≥ 4 mm y/o calcificaciones pancreáticas 
+11. Más de 1 episodio previo de pancreatitis aguda (solo se permiten 2 episodios de pancreatitis aguda, uno de ellos el episodio actual) 

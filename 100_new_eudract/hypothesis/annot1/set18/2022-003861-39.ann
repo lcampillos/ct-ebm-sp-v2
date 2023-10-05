@@ -1,0 +1,65 @@
+T1	PROC 44 55	Tratamiento
+#1	AnnotatorNotes T1	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T2	CHEM 60 76	glucocorticoides
+#2	AnnotatorNotes T2	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T3	LIVB 80 89	pacientes
+#3	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	PROC 105 152	implantación de la válvula aórtica transcatéter
+T5	PROC 154 158	TAVI
+#4	AnnotatorNotes T5	C3509486; Transcatheter Aortic Valve Replacement; Therapeutic or Preventive Procedure
+T6	DISO 190 218	bloqueo aurículo-ventricular
+#5	AnnotatorNotes T6	C0004245; Atrioventricular Block; Disease or Syndrome
+T7	PROC 224 246	implante de marcapasos
+T8	PROC 267 278	Tratamiento
+#6	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	CHEM 283 299	glucocorticoides
+#7	AnnotatorNotes T9	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T10	LIVB 303 312	pacientes
+#8	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	PROC 325 329	TAVI
+#9	AnnotatorNotes T11	C3509486; Transcatheter Aortic Valve Replacement; Therapeutic or Preventive Procedure
+T12	DISO 360 388	bloqueo aurículo-ventricular
+#10	AnnotatorNotes T12	C0004245; Atrioventricular Block; Disease or Syndrome
+T13	PROC 394 416	implante de marcapasos
+T14	DISO 441 458	estenosis aórtica
+#11	AnnotatorNotes T14	C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0345011; Stricture of aorta; Disease or Syndrome
+T15	DISO 466 476	enfermedad
+#12	AnnotatorNotes T15	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T16	ANAT 493 508	válvula aórtica
+#13	AnnotatorNotes T16	C0003501; Aortic valve structure; Body Part, Organ, or Organ Component | C1269005; Entire aortic valve; Body Part, Organ, or Organ Component
+T17	ANAT 536 542	sangre
+#14	AnnotatorNotes T17	C0005767; Blood; Body Substance
+T18	DISO 567 584	estenosis aórtica
+#15	AnnotatorNotes T18	C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0345011; Stricture of aorta; Disease or Syndrome
+T19	LIVB 615 624	Pacientes
+#16	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	PROC 638 654	implante de TAVI
+T21	Date 680 688	actuales
+T22	LIVB 779 788	Pacientes
+#17	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	DEVI 806 816	marcapasos
+#18	AnnotatorNotes T23	C0030163; Artificial cardiac pacemaker; Medical Device
+T24	LIVB 829 838	Pacientes
+#19	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	CHEM 875 891	glucocorticoides
+#20	AnnotatorNotes T25	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T26	Contraindicated 875 891	glucocorticoides
+T27	DISO 893 902	infección
+#21	AnnotatorNotes T27	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T28	DISO 911 928	hipersensibilidad
+#22	AnnotatorNotes T28	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T29	DISO 931 938	alergia
+#23	AnnotatorNotes T29	C0020517; Hypersensitivity; Pathologic Function
+T30	DISO 952 989	diabetes mellitus insulinodependiente
+#24	AnnotatorNotes T30	C0011854; Diabetes Mellitus, Insulin-Dependent; Disease or Syndrome
+T31	DISO 992 1014	insuficiencia cardiaca
+#25	AnnotatorNotes T31	C0018801; Heart failure; Disease or Syndrome
+T32	LIVB 1027 1036	Pacientes
+#26	AnnotatorNotes T32	C0030705; Patients; Patient or Disabled Group
+T33	PROC 1042 1061	tratamiento crónico
+T34	Duration 1054 1061	crónico
+T35	CHEM 1073 1089	glucocorticoides
+#27	AnnotatorNotes T35	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T36	PROC 1110 1126	implante de TAVI
+T37	ANAT 1140 1147	femoral
+#28	AnnotatorNotes T37	C0015801; Structure of femoral artery; Body Part, Organ, or Organ Component | C0015809; Femoral vein; Body Part, Organ, or Organ Component | C0015811; Femur; Body Part, Organ, or Organ Component | C1278852; Entire femoral nerve; Body Part, Organ, or Organ Component | C1281586; Entire thigh; Body Part, Organ, or Organ Component

@@ -1,0 +1,98 @@
+T1	PROC 47 136	Estudio aleatorizado, doble ciego, controlado con placebo, de dosis escalonadas múltiples
+T2	Dose 109 136	dosis escalonadas múltiples
+T3	PROC 142 234	evaluar la seguridad, la tolerabilidad, la farmacodinámica, la eficacia y la farmacocinética
+T4	CHEM 238 246	DYNE-251
+T5	LIVB 262 271	pacientes
+#1	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	DISO 276 306	distrofia muscular de Duchenne
+#2	AnnotatorNotes T6	C0013264; Muscular Dystrophy, Duchenne; Disease or Syndrome
+T7	Spec_cue 307 322	susceptibles de
+T8	Speculated 323 342	omisión del exón 51
+T9	DISO 367 386	Enfermedad muscular
+#3	AnnotatorNotes T9	C0026848; Myopathy; Disease or Syndrome
+T10	DISO 397 429	pérdida progresiva de la función
+T11	ANAT 434 480	músculo esquelético, pulmonar, cardíaco y liso
+T12	DISO 507 537	Distrofia muscular de Duchenne
+#4	AnnotatorNotes T12	C0013264; Muscular Dystrophy, Duchenne; Disease or Syndrome
+T13	Age 567 581	De 4 a 16 años
+T14	PROC 611 648	consentimiento/asentimiento informado
+T15	LIVB 652 657	Varón
+T16	DISO 666 674	mutación
+T17	DISO 675 678	DMD
+#5	AnnotatorNotes T17	C0013264; Muscular Dystrophy, Duchenne; Disease or Syndrome
+T18	CHEM 706 716	distrofina
+#6	AnnotatorNotes T18	C0079259; Dystrophin; Amino Acid, Peptide, or Protein · Biologically Active Substance
+T19	Spec_cue 759 773	susceptible de
+T20	Speculated 774 793	omisión del exón 51
+T21	ANAT 797 811	Grupo muscular
+T22	ANAT 818 837	extremidad superior
+#7	AnnotatorNotes T22	C1140618; Upper Extremity; Body Part, Organ, or Organ Component
+T23	Spec_cue 845 859	susceptible de
+T24	PROC 860 876	biopsia muscular
+T25	Speculated 860 876	biopsia muscular
+T26	ANAT 916 939	extremidades superiores
+#8	AnnotatorNotes T26	C1140618; Upper Extremity; Body Part, Organ, or Organ Component
+T27	Neg_cue 967 969	no
+T28	Negated 970 981	ambulatorio
+T29	LIVB 986 998	participante
+T30	Neg_cue 999 1001	no
+T31	Negated 1002 1013	ambulatorio
+T32	Neg_cue 1030 1032	no
+T33	Negated 1033 1044	ambulatorio
+T34	Duration 1053 1060	<2 años
+T35	Dose 1098 1115	una dosis estable
+T36	CHEM 1119 1135	glucocorticoides
+#9	AnnotatorNotes T36	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T37	Duration 1144 1163	al menos 12 semanas
+T38	PROC 1187 1213	administración del fármaco
+T39	PROC 1229 1274	Fracción de eyección del ventrículo izquierdo
+T40	PROC 1285 1299	ecocardiograma
+#10	AnnotatorNotes T40	C0013516; Echocardiography; Diagnostic Procedure
+T41	PROC 1312 1332	resonancia magnética
+#11	AnnotatorNotes T41	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T42	PROC 1333 1346	(RM) cardíaca
+T43	DISO 1376 1384	Síntomas
+#12	AnnotatorNotes T43	C1457887; Symptoms; Sign or Symptom
+T44	DISO 1387 1402	signos clínicos
+#13	AnnotatorNotes T44	C0037088; Signs and Symptoms; Sign or Symptom
+T45	Neg_cue 1403 1405	no
+T46	Negated 1406 1417	controlados
+T47	DISO 1421 1454	insuficiencia cardíaca congestiva
+#14	AnnotatorNotes T47	C0018802; Congestive heart failure; Disease or Syndrome
+T48	DISO 1456 1459	ICC
+#15	AnnotatorNotes T48	C0018802; Congestive heart failure; Disease or Syndrome
+T49	PROC 1487 1497	profilaxis
+#16	AnnotatorNotes T49	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T50	PROC 1498 1509	tratamiento
+#17	AnnotatorNotes T50	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T51	DISO 1515 1518	CHF
+T52	Duration 1529 1540	los 3 meses
+T53	PROC 1566 1577	tratamiento
+#18	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	PROC 1606 1636	procedimiento quirúrgico mayor
+T55	Duration 1647 1661	las 12 semanas
+T56	PROC 1689 1715	administración del fármaco
+T57	PROC 1748 1778	procedimiento quirúrgico mayor
+T58	PROC 1818 1838	respiración asistida
+#19	AnnotatorNotes T58	C0554804; Assisted breathing; Therapeutic or Preventive Procedure
+T59	Time 1839 1845	diurna
+T60	PROC 1872 1875	CVF
+T61	LIVB 1900 1913	participantes
+T62	Age 1917 1924	≥7 años
+T63	CHEM 1945 1955	eteplirsen
+T64	PROC 1959 1978	terapia alternativa
+T65	CHEM 1993 1997	exón
+#20	AnnotatorNotes T65	C0015295; Exons; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide
+T66	CHEM 2014 2024	distrofina
+#21	AnnotatorNotes T66	C0079259; Dystrophin; Amino Acid, Peptide, or Protein · Biologically Active Substance
+T67	Duration 2036 2050	las 12 semanas
+T68	PROC 2068 2082	aleatorización
+#22	AnnotatorNotes T68	C0034656; Randomization; Research Activity
+T69	CHEM 2097 2121	fármaco en investigación
+T70	Neg_cue 2122 2125	sin
+T71	Negated 2126 2141	omisión de exón
+T72	Duration 2145 2156	los 4 meses
+T73	PROC 2184 2210	administración del fármaco
+T74	PROC 2233 2247	terapia génica
+#23	AnnotatorNotes T74	C0017296; gene therapy; Therapeutic or Preventive Procedure
+T75	Date 2251 2268	cualquier momento

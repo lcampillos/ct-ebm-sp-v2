@@ -1,0 +1,62 @@
+T1	PROC 64 73	inyección
+#1	AnnotatorNotes T1	C1533685; Injection procedure; Therapeutic or Preventive Procedure
+T2	CHEM 77 96	toxina botulínica A
+#2	AnnotatorNotes T2	C0006050; botulinum toxin type A; Amino Acid, Peptide, or Protein · Hazardous or Poisonous Substance · Pharmacologic Substance | C0700702; Botox; Organic Chemical · Pharmacologic Substance
+T3	DISO 113 118	dolor
+#3	AnnotatorNotes T3	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T4	DISO 135 155	cicatrices dolorosas
+T5	PROC 178 213	Estudio para evaluar la efectividad
+T6	PROC 220 229	inyección
+#4	AnnotatorNotes T6	C1533685; Injection procedure; Therapeutic or Preventive Procedure
+T7	CHEM 233 252	toxina botulínica A
+#5	AnnotatorNotes T7	C0006050; botulinum toxin type A; Amino Acid, Peptide, or Protein · Hazardous or Poisonous Substance · Pharmacologic Substance | C0700702; Botox; Organic Chemical · Pharmacologic Substance
+T8	CHEM 254 273	incobotulinumtoxina
+#6	AnnotatorNotes T8	C2930113; incobotulinumtoxinA; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T9	DISO 291 296	dolor
+#7	AnnotatorNotes T9	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T10	DISO 313 333	cicatrices dolorosas
+T11	DISO 346 370	cicatrices hipertróficas
+#8	AnnotatorNotes T11	C0162810; Cicatrix, Hypertrophic; Acquired Abnormality
+T12	DISO 373 382	queloides
+#9	AnnotatorNotes T12	C0022548; Keloid; Acquired Abnormality
+T13	DISO 407 427	Cicatrices dolorosas
+T14	Age 456 474	Mayores de 18 años
+T15	DISO 483 513	cicatriz dolorosa hipertrófica
+T16	DISO 516 524	queloide
+#10	AnnotatorNotes T16	C0022548; Keloid; Acquired Abnormality
+T17	PROC 527 547	Valoración del dolor
+T18	LIVB 555 563	paciente
+#11	AnnotatorNotes T18	C0030705; Patients; Patient or Disabled Group
+T19	PROC 565 568	EVA
+#12	AnnotatorNotes T19	C3536884; Visual Analog Scale; Intellectual Product
+T20	DISO 579 610	Sintomatología clínica de dolor
+T21	Duration 619 632	3 meses o más
+T22	PROC 665 689	tratamientos analgésicos
+T23	PROC 704 740	Consentimiento informado por escrito
+T24	LIVB 748 757	pacientes
+#13	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	PROC 787 799	Infiltración
+#14	AnnotatorNotes T25	C0702249; Infiltration (procedure); Therapeutic or Preventive Procedure
+T26	CHEM 811 828	toxina botulínica
+#15	AnnotatorNotes T26	C0006055; Botulinum Toxins; Amino Acid, Peptide, or Protein · Hazardous or Poisonous Substance · Pharmacologic Substance
+T27	Duration 832 843	los 3 meses
+T28	LIVB 876 885	Pacientes
+#16	AnnotatorNotes T28	C0030705; Patients; Patient or Disabled Group
+T29	DISO 890 916	enfermedades psiquiátricas
+#17	AnnotatorNotes T29	C0004936; Mental disorders; Mental or Behavioral Dysfunction
+T30	DISO 919 928	demencias
+#18	AnnotatorNotes T30	C0497327; Dementia; Mental or Behavioral Dysfunction
+T31	Neg_cue 929 931	no
+T32	Negated 932 943	controladas
+T33	LIVB 946 955	Pacientes
+#19	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	DISO 960 983	enfermedades sistémicas
+#20	AnnotatorNotes T34	C0442893; Systemic disease; Disease or Syndrome
+T35	DISO 993 1002	infección
+#21	AnnotatorNotes T35	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T36	LIVB 1012 1021	Pacientes
+#22	AnnotatorNotes T36	C0030705; Patients; Patient or Disabled Group
+T37	CHEM 1063 1080	toxina botulínica
+#23	AnnotatorNotes T37	C0006055; Botulinum Toxins; Amino Acid, Peptide, or Protein · Hazardous or Poisonous Substance · Pharmacologic Substance
+T38	Contraindicated 1063 1080	toxina botulínica
+T39	LIVB 1107 1154	Pacientes embarazadas o en periodo de lactancia

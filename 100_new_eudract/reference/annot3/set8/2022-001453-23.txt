@@ -1,0 +1,22 @@
+EudraCT Nº: 2022-001453-23
+
+Título científico: Estudio piloto de seguridad de radioterapia neoadyuvante en pacientes con glioblastoma.
+
+Indicación: Glioblastoma
+
+Criterios de inclusión:
+· Edad entre 18 y 75 años.
+· Enfermedad unifocal.
+· Tumor unilobar.
+· Diagnóstico radiológico de glioma de alto grado supratentorial unicéntrico, candidato a resección macroscópicamente completa.
+· Diagnóstico histológico de glioblastoma multiforme. 
+
+Criterios de exclusión:
+· Tumor multilobar, extensión interhemisférica o infratentorial, o enfermedad multifocal
+· Desviación de línea media superior a 1 cm.
+· Clínica de hipertensión intracraneal que requiera tratamiento corticoideo.
+· Neoplasia sincrónica.
+· Cualquier contraindicación para la cirugía, radioterapia o tratamiento con TMZ.
+· Deterioro cognitivo.
+· Rechazo del consentimiento informado.
+· Imposibilidad para el seguimiento de 2 años.

@@ -1,0 +1,30 @@
+EudraCT Nº: 2019-003520-20
+
+Título público: Estudio para evaluar la eficacia y la seguridad de dupilumab en pacientes adultos con penfigoide ampolloso
+
+Título científico: Estudio multicéntrico, aleatorizado, con doble enmascaramiento, controlado con placebo y con grupos paralelos para evaluar la eficacia y la seguridad de dupilumab en pacientes adultos con penfigoide ampolloso
+
+Indicación pública: El penfigoide ampolloso es una afección cutánea autoinmunitaria, poco frecuente, que causa grandes ampollas llenas de líquido
+
+Indicación científica: Penfigoide ampolloso (PA)
+
+Criterios de inclusión:
+1. Los pacientes deben presentar manifestaciones clínicas de PA (p. ej., prurito, ampollas o placas eritematosas, eccematosas o urticarianas) en las visitas de selección e inicial.
+2. Se requiere que los participantes del estudio dispongan de confirmación histológica, inmunopatológica y serológica del PA en el momento de la visita inicial.
+3. Una puntuación >=24 en la actividad de la enfermedad según el índice del área del penfigoide ampolloso (BPDAI, Bullous Pemphigoid Disease Area Index) en las visitas de selección e inicial.
+4. Una puntuación >=4 en la escala numérica (NRS) para la intensidad máxima del prurito en el inicio.
+5. Personas de ambos sexos, de entre 18 y 90 años en la visita de selección.
+6. Una puntuación >=50 % en la valoración funcional de Karnofsky en la visita de selección.
+NOTA: se aplican también otros criterios de inclusión definidos en el protocolo.
+ 
+Criterios de exclusión:
+1. Tipos de penfigoide distintos al PA clásico (p. ej., el PA de las membranas mucosas, el penfigoide cicatricial de Brunsting Perry, el penfigoide anti-p200, la epidermólisis ampollosa adquirida o el PA con pénfigo vulgar concomitante). 2. Pacientes que estén recibiendo tratamientos que causan o exacerban el PA (p. ej., inhibidores de la enzima convertidora de la angiotensina, penicilamina, furosemida, fenacetina o inhibidor de la dipeptidil peptidasa-4) que no hayan mantenido una dosis estable de estos medicamentos durante un mínimo de 4 semanas antes de la visita de selección.
+3. Haber recibido anteriormente tratamiento con un antagonista de la IL-4 o la IL-13, como dupilumab, tralokinumab o lebrikizumab.
+4. Tratamiento con corticoesteroides sistémicos durante las 2 semanas anteriores a la visita inicial.
+5. Tratamiento con corticoesteroides tópicos de potencia media o mayor, inhibidor de la calcineurina tópico o crisaborole tópico durante la semana anterior a la visita inicial.
+6. Tratamiento con inmunomoduladores/inmunodepresores no esteroideos (p. ej., micofenolato mofetilo, azatioprina o metotrexato) durante las 4 semanas anteriores a la visita inicial.
+7. Tratamiento con biofármacos dirigidos al PA:
+a. Todo fármaco citorreductor incluido, entre otros, rituximab: durante los 12 meses anteriores a la visita inicial o hasta que la cifra de linfocitos y CD19+ retorne a la normalidad, lo que se produzca más tarde
+b. Otros biofármacos (como los inhibidores de IL-5 benralizumab o mepolizumab): durante las 5 semividas (si se conoce) o las 16 semanas anteriores a la visita inicial, lo que sea más prolongado
+c. Inmunoglobulina intravenosa durante las 16 semanas anteriores a la visita inicial
+NOTA: se aplican también otros criterios de exclusión definidos en el protocolo. 

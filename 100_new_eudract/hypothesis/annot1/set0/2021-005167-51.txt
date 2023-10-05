@@ -1,0 +1,36 @@
+Estudio exploratorio de fase Ib/IIa, multicéntrico, abierto, de combinación innovadora para evaluar la seguridad, farmacocinética, farmacodinámica y eficacia preliminar de CC-92480 (BMS-986348) en combinaciones terapéuticas innovadoras en participantes con mieloma múltiple recidivante o resistente
+
+Un ensayo para determinar la seguridad de CC-92480 cuando se combina con compuestos novedosos en personas con mieloma múltiple que no responde después del tratamiento o ha regresado después de un período de tratamiento
+
+Indicación científica: Mieloma múltiple recidivante o resistente (MMRR)
+
+Indicación pública: Cancer de células plasmáticas
+
+Criterios de inclusión
+
+Los participantes son elegibles para ser incluidos en el estudio solo si se aplican todos los siguientes criterios:
+1. Consentimiento informado por escrito firmado antes de cualquier procedimiento de estudio.
+2. ≥ 18 años cumplidos en el momento de la firma del ICF.
+3. El participante tiene antecedentes de MM con enfermedad recidivante o resistente y debe:
+a) Tener progresión de la enfermedad documentada en base a los criterios uniformes de respuesta del Grupo de Trabajo Internacional del Mieloma (International Myeloma Working Group, IMWG) durante o después de su último tratamiento para el mieloma
+b) Ser refractario, intolerante o no ser candidato para los tratamientos disponibles establecidos que se conoce que ofrecen beneficio clínico en MM.
+4. Los participantes deben tener enfermedad medible
+5. El participante presenta un estado funcional según el Grupo Oncológico Cooperativo del Este de Estados Unidos (Eastern Cooperative Oncology Group, ECOG) de 0 o 1.
+6. Aceptar seguir el Plan de Prevención de Embarazo (PPP) de CC-92480
+
+Criterios de exclusión
+
+1. Compromiso activo conocido o antecedentes de compromiso del sistema nervioso central (SNC) de MM.
+2. Leucemia de células plasmáticas; macroglobulinemia de Waldenstrom; síndrome de polineuropatía, organomegalia, endocrinopatía, proteína M y cambios en la piel (POEMS); o amiloidosis de cadena ligera clínicamente significativa.
+3. Deterioro de la función cardíaca o enfermedad cardíaca clínicamente significativa.
+4. El participante tiene una infección previa por SARS-CoV-2 dentro de los 14 días para infecciones asintomáticas o sintomáticas leves o 28 días para enfermedades graves/críticas antes del ciclo 1, día 1 (C1D1)
+5. Para la Parte 1: recibió terapia previa con CC-92480.
+6. Para la Parte 2: recibió tratamiento previo con CC-92480, tazemetostat, BMS-986158 o trametinib.
+7. Recibió previamente un alotrasplante de células madre en cualquier momento o recibió un autotrasplante de células madre dentro de las 12 semanas posteriores al inicio del tratamiento del estudio.
+8. Recibió cualquiera de los siguientes dentro de los 14 días anteriores al inicio del tratamiento del estudio:
+a) Plasmaféresis
+b) Cirujía importante
+c) Radioterapia distinta de la terapia local para lesiones óseas asociadas al mieloma
+d) Uso de cualquier tratamiento farmacológico antimieloma sistémico
+9. Usó cualquier agente en investigación dentro de los 28 días o 5 vidas medias (lo que sea más corto) antes de iniciar el tratamiento del estudio.
+10. Vacuna COVID-19 dentro de los 14 días anteriores a C1D1

@@ -1,0 +1,81 @@
+T1	PROC 47 75	Estudio de extensión abierto
+T2	PROC 107 153	evaluar la seguridad, tolerabilidad y eficacia
+T3	Date 154 167	a largo plazo
+T4	CHEM 171 183	efgartigimod
+T5	Route 189 191	SC
+T6	LIVB 195 216	participantes adultos
+T7	Age 209 216	adultos
+T8	DISO 221 241	penfigoide ampolloso
+#1	AnnotatorNotes T8	C0030805; Bullous pemphigoid; Disease or Syndrome
+T9	PROC 259 276	Estudio de fase 3
+T10	PROC 282 328	evaluar la seguridad, tolerabilidad y eficacia
+T11	CHEM 332 344	efgartigimod
+T12	Route 350 352	SC
+T13	LIVB 356 377	participantes adultos
+T14	Age 370 377	adultos
+T15	DISO 382 402	penfigoide ampolloso
+#2	AnnotatorNotes T15	C0030805; Bullous pemphigoid; Disease or Syndrome
+T16	DISO 424 445	Enfermedad autoinmune
+#3	AnnotatorNotes T16	C0004364; Autoimmune Diseases; Disease or Syndrome
+T17	DISO 458 475	ampollas cutáneas
+#4	AnnotatorNotes T17	C0005758; Bulla; Finding
+T18	DISO 478 485	prurito
+#5	AnnotatorNotes T18	C0033774; Pruritus; Sign or Symptom
+T19	DISO 510 530	Penfigoide ampolloso
+#6	AnnotatorNotes T19	C0030805; Bullous pemphigoid; Disease or Syndrome
+T20	PROC 579 585	visita
+T21	Date 589 601	la semana 36
+T22	PROC 659 683	consentimiento informado
+#7	AnnotatorNotes T22	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T23	PROC 729 738	protocolo
+#8	AnnotatorNotes T23	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T24	PROC 767 790	métodos anticonceptivos
+#9	AnnotatorNotes T24	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T25	LIVB 846 867	Varones participantes
+T26	PROC 872 893	método anticonceptivo
+#10	AnnotatorNotes T26	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T27	DEVI 910 916	condón
+#11	AnnotatorNotes T27	C0009653; Condoms, Male; Medical Device | C0677582; Condoms, Unspecified; Medical Device
+T28	LIVB 928 952	participantes masculinos
+T29	Neg_cue 953 955	no
+T30	PROC 956 969	esterilizados
+#12	AnnotatorNotes T30	C0038280; Sterilization for infection control; Health Care Activity | C0038288; Sexual sterilization; Therapeutic or Preventive Procedure
+T31	Negated 956 969	esterilizados
+T32	PROC 1016 1040	Consentimiento Informado
+#13	AnnotatorNotes T32	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T33	CHEM 1079 1082	PEI
+T34	LIVB 1092 1099	mujeres
+#14	AnnotatorNotes T34	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T35	PHYS 1104 1126	capacidad reproductiva
+T36	Neg_cue 1154 1162	negativo
+T37	PROC 1170 1197	prueba de embarazo en orina
+T38	Negated 1180 1188	embarazo
+T39	CHEM 1254 1257	PEI
+T40	LIVB 1263 1270	mujeres
+#15	AnnotatorNotes T40	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T41	PHYS 1275 1297	capacidad reproductiva
+T42	PROC 1324 1347	métodos anticonceptivos
+#16	AnnotatorNotes T42	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T43	PROC 1364 1373	protocolo
+#17	AnnotatorNotes T43	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T44	PROC 1393 1417	Consentimiento Informado
+#18	AnnotatorNotes T44	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T45	CHEM 1444 1447	PEI
+T46	DISO 1479 1489	Enfermedad
+#19	AnnotatorNotes T46	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T47	PROC 1518 1547	intervención de cirugía mayor
+T48	Date 1548 1556	reciente
+T49	Duration 1561 1572	los 3 meses
+T50	PROC 1630 1653	intervención quirúrgica
+#20	AnnotatorNotes T50	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T51	LIVB 1725 1737	investigador
+#21	AnnotatorNotes T51	C0035173; Research Personnel; Professional or Occupational Group
+T52	Spec_cue 1739 1744	pueda
+T53	Speculated 1745 1754	confundir
+T54	Speculated 1795 1801	riesgo
+T55	LIVB 1819 1831	participante
+T56	DISO 1837 1854	Hipersensibilidad
+#22	AnnotatorNotes T56	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T57	CHEM 1867 1870	PEI
+T58	CHEM 1889 1900	excipientes
+#23	AnnotatorNotes T58	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material

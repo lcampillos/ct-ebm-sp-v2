@@ -1,0 +1,26 @@
+T1	PROC 46 81	Estimulación ovárica doble continua
+T2	PROC 105 134	Estimulación ovárica continua
+T3	DISO 177 199	Baja respuesta ovárica
+T4	PROC 211 229	tratamiento de FIV
+T5	LIVB 257 266	Pacientes
+#1	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	DISO 298 320	baja respuesta ovárica
+T7	PROC 336 362	estimulación ovárica doble
+T8	LIVB 401 410	Pacientes
+#2	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
+T9	PROC 429 438	protocolo
+#3	AnnotatorNotes T9	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T10	Age 454 460	máxima
+T11	Age 461 468	43 años
+T12	Date 476 482	un día
+T13	Age 500 507	44 años
+T14	PROC 534 546	estimulación
+#4	AnnotatorNotes T14	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T15	PROC 592 601	protocolo
+#5	AnnotatorNotes T15	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T16	PROC 630 656	consentimiento por escrito
+T17	DISO 697 714	patología ovárica
+T18	PROC 742 754	estimulación
+#6	AnnotatorNotes T18	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T19	DISO 761 777	quistes ováricos
+#7	AnnotatorNotes T19	C0029927; Ovarian Cysts; Disease or Syndrome

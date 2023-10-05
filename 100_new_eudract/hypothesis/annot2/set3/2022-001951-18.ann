@@ -1,0 +1,103 @@
+T1	PROC 46 74	Estudio de extensión abierto
+T2	Date 95 108	a largo plazo
+T3	CHEM 112 134	treprostinil palmitilo
+T4	Form 135 148	en polvo para
+T5	Route 149 159	inhalación
+T6	LIVB 163 172	pacientes
+#1	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	DISO 177 207	hipertensión arterial pulmonar
+#2	AnnotatorNotes T7	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T8	PROC 230 258	Estudio de extensión abierto
+T9	PROC 264 310	evaluar la seguridad, tolerabilidad y eficacia
+T10	Date 319 332	a largo plazo
+T11	CHEM 336 358	treprostinil palmitilo
+T12	Form 359 372	en polvo para
+T13	Route 373 383	inhalación
+T14	LIVB 387 396	pacientes
+#3	AnnotatorNotes T14	C0030705; Patients; Patient or Disabled Group
+T15	DISO 401 431	hipertensión arterial pulmonar
+#4	AnnotatorNotes T15	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T16	LIVB 455 468	Participantes
+T17	DISO 473 502	tension sanguínea alta en las
+T18	ANAT 503 527	arterias de los pulmones
+T19	LIVB 554 567	Participantes
+T20	DISO 572 602	hipertensión arterial pulmonar
+#5	AnnotatorNotes T20	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T21	LIVB 632 645	Participantes
+T22	PROC 665 671	visita
+T23	PROC 682 693	tratamiento
+#6	AnnotatorNotes T23	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T24	PROC 777 781	TPPI
+T25	DISO 790 793	HAP
+#7	AnnotatorNotes T25	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T26	LIVB 799 812	participantes
+T27	Neg_cue 841 843	no
+T28	Negated 851 861	disponible
+T29	Date 903 915	preinclusión
+T30	Duration 958 964	un año
+T31	PROC 971 977	visita
+T32	PROC 988 999	tratamiento
+#8	AnnotatorNotes T32	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T33	Date 1015 1027	preinclusión
+T34	PROC 1033 1058	Evaluaciones de selección
+T35	Duration 1145 1159	más de 30 días
+T36	PROC 1169 1175	visita
+T37	Date 1269 1281	preinclusión
+T38	CHEM 1286 1290	TPPI
+T39	DISO 1299 1302	HAP
+#9	AnnotatorNotes T39	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T40	PROC 1328 1352	consentimiento informado
+#10	AnnotatorNotes T40	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T41	LIVB 1391 1404	Participantes
+T42	DISO 1434 1451	hipersensibilidad
+#11	AnnotatorNotes T42	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T43	DISO 1454 1485	reacción adversa al medicamento
+T44	PROC 1560 1564	TPPI
+T45	DISO 1573 1576	HAP
+#12	AnnotatorNotes T45	C2973725; Pulmonary arterial hypertension; Disease or Syndrome
+T46	LIVB 1601 1613	investigador
+#13	AnnotatorNotes T46	C0035173; Research Personnel; Professional or Occupational Group
+T47	Spec_cue 1615 1621	podría
+T48	PROC 1634 1658	continuar el tratamiento
+T49	CHEM 1663 1667	TPPI
+T50	Spec_cue 1668 1673	puede
+T51	Speculated 1687 1693	riesgo
+T52	Speculated 1694 1705	irrazonable
+T53	LIVB 1714 1726	participante
+T54	PROC 1744 1769	administración parenteral
+T55	Route 1759 1769	parenteral
+T56	CHEM 1773 1798	análogos de prostaciclina
+T57	CHEM 1813 1816	TRE
+T58	CHEM 1818 1830	epoprostenol
+#14	AnnotatorNotes T58	C0033567; epoprostenol; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
+T59	PROC 1915 1919	TPPI
+T60	CHEM 1945 1970	análogos de prostaciclina
+T61	Route 1971 1980	inhalados
+T62	PROC 1995 1998	TRE
+#15	AnnotatorNotes T62	C0014935; Estrogen Replacement Therapy; Therapeutic or Preventive Procedure
+T63	CHEM 2000 2006	Tyvaso
+T64	CHEM 2011 2019	iloprost
+#16	AnnotatorNotes T64	C0079594; iloprost; Organic Chemical · Pharmacologic Substance
+T65	CHEM 2023 2055	análogos orales de prostaciclina
+T66	Route 2032 2038	orales
+T67	PROC 2070 2073	TRE
+#17	AnnotatorNotes T67	C0014935; Estrogen Replacement Therapy; Therapeutic or Preventive Procedure
+T68	CHEM 2075 2084	Orenitram
+T69	CHEM 2090 2112	agonistas del receptor
+T70	CHEM 2127 2136	selexipag
+#18	AnnotatorNotes T70	C2000145; selexipag; Organic Chemical · Pharmacologic Substance
+T71	Duration 2154 2162	24 horas
+T72	PROC 2186 2212	administración del fármaco
+T73	PHYS 2229 2237	Embarazo
+#19	AnnotatorNotes T73	C0032961; Pregnancy; Organism Function
+T74	PHYS 2240 2249	lactancia
+#20	AnnotatorNotes T74	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T75	DISO 2264 2293	afección médica o psicológica
+T76	LIVB 2381 2393	investigador
+#21	AnnotatorNotes T76	C0035173; Research Personnel; Professional or Occupational Group
+T77	DISO 2407 2417	enfermedad
+#22	AnnotatorNotes T77	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T78	Spec_cue 2458 2463	pueda
+T79	Speculated 2477 2483	riesgo
+T80	Speculated 2484 2495	irrazonable
+T81	LIVB 2504 2516	participante

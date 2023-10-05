@@ -1,0 +1,67 @@
+T1	PROC 47 104	Ensayo en fase III, aleatorizado, abierto y multicéntrico
+T2	CHEM 108 120	domvanalimab
+T3	CHEM 122 134	zimberelimab
+T4	PROC 137 150	quimioterapia
+#1	AnnotatorNotes T4	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T5	CHEM 170 179	nivolumab
+#2	AnnotatorNotes T5	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T6	PROC 182 195	quimioterapia
+#3	AnnotatorNotes T6	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T7	LIVB 199 212	participantes
+T8	DISO 217 281	adenocarcinoma gástrico, de la unión gastroesofágica y esofágico
+T9	DISO 296 307	metastásico
+#4	AnnotatorNotes T9	C4255448; Metastasis; Pathologic Function
+T10	Neg_cue 332 334	no
+T11	PROC 343 350	tratado
+T12	Negated 343 350	tratado
+T13	DISO 388 409	Esofágico metastásico
+T14	DISO 412 427	Cáncer Gástrico
+#5	AnnotatorNotes T14	C0024623; Malignant neoplasm of stomach; Neoplastic Process
+T15	LIVB 456 469	Participantes
+T16	PROC 474 485	diagnóstico
+#6	AnnotatorNotes T16	C0011900; Diagnosis; Diagnostic Procedure
+T17	PROC 497 513	histológicamente
+T18	DISO 517 563	adenocarcinoma gástrico, esofágico o de la UGE
+T19	DISO 578 589	metastásico
+#7	AnnotatorNotes T19	C4255448; Metastasis; Pathologic Function
+T20	PROC 613 629	Estado funcional
+T21	DISO 723 729	lesión
+#8	AnnotatorNotes T21	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T22	PROC 777 787	evaluación
+#9	AnnotatorNotes T22	C1261322; Evaluation procedure; Health Care Activity
+T23	DISO 807 822	tumores sólidos
+#10	AnnotatorNotes T23	C0280100; Solid Neoplasm; Neoplastic Process
+T24	ANAT 884 891	órganos
+#11	AnnotatorNotes T24	C0178784; Organ; Body Part, Organ, or Organ Component | C1280836; Entire body organ; Body Part, Organ, or Organ Component
+T25	ANAT 897 908	médula ósea
+#12	AnnotatorNotes T25	C0005953; Bone Marrow; Tissue
+T26	ANAT 944 959	muestra tumoral
+T27	DISO 990 996	cáncer
+#13	AnnotatorNotes T27	C0006826; Malignant Neoplasms; Neoplastic Process
+T28	CHEM 1054 1107	ligando 1 de la proteína de muerte celular programada
+T29	CHEM 1109 1114	PD-L1
+#14	AnnotatorNotes T29	C0965245; CD274 protein, human; Amino Acid, Peptide, or Protein · Immunologic Factor
+T30	DISO 1144 1162	Afecciones médicas
+T31	DISO 1165 1189	trastornos psiquiátricos
+#15	AnnotatorNotes T31	C0004936; Mental disorders; Mental or Behavioral Dysfunction
+T32	LIVB 1222 1234	investigador
+#16	AnnotatorNotes T32	C0035173; Research Personnel; Professional or Occupational Group
+T33	PROC 1264 1294	administración del tratamiento
+T34	Contraindicated 1264 1278	administración
+T35	Contraindicated 1283 1294	tratamiento
+T36	DISO 1349 1354	tumor
+#17	AnnotatorNotes T36	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T37	PROC 1369 1373	HER2
+T38	DISO 1391 1461	metástasis en el sistema nervioso central (SNC o cerebro) sintomáticas
+T39	Neg_cue 1463 1466	sin
+T40	PROC 1467 1473	tratar
+T41	Negated 1467 1473	tratar
+T42	PROC 1513 1534	tratamiento sistémico
+T43	Route 1525 1534	sistémico
+T44	DISO 1550 1596	adenocarcinoma gástrico, esofágico o de la UGE
+T45	DISO 1611 1622	metastásico
+#18	AnnotatorNotes T45	C4255448; Metastasis; Pathologic Function
+T46	CHEM 1653 1680	vacunas con microbios vivos
+T47	Duration 1684 1695	los 28 días
+T48	PROC 1709 1723	aleatorización
+#19	AnnotatorNotes T48	C0034656; Randomization; Research Activity

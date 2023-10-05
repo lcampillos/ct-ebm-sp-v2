@@ -1,0 +1,36 @@
+EudraCT Nº:  2022-000493-26
+
+Título público:  Estudio de ceralasertib más durvalumab frente a docetaxel en pacientes con cáncer de pulmón no microcítico avanzado o metastásico 
+
+Título científico:  Estudio de fase III, abierto, aleatorizado y multicéntrico, de ceralasertib más durvalumab frente a docetaxel en pacientes con cáncer de pulmón no microcítico avanzado o metastásico sin alteraciones genómicas aprovechables terapéuticamente y cuya enfermedad haya progresado durante o después del tratamiento previo con anti-PD-(L)1 y quimioterapia basada en el platino: LATIFY 
+
+Indicación pública:  Cáncer de pulmón 
+
+Indicación científica:  Cáncer de pulmón no microcítico avanzado o metastásico 
+
+Criterios de inclusión:
+1. Participante con edad >/= 18 años en el momento de la selección. 
+2. Cáncer de pulmón no microcítico (non-small cell lung cancer, NSCLC), documentado histológica o citológicamente, localmente avanzado o metastásico según el Manual de Estadificación en Oncología Torácica de la IASLC, Versión 8.
+3. Estado de EGFR y ALK de tipo natural, documentado, según la determinación del laboratorio local. 
+4. Progresión de la enfermedad (progression of disease, PD) radiológica documentada durante o después de recibir el régimen de tratamiento más reciente. 
+5. Indicación de tratamiento de segunda o tercera línea y haber recibido tratamiento anti-PD-(L)1 y biquimioterapia con derivados del platino para NSCLC localmente avanzado o metastásico, ya sea por separado o en combinación. 
+6. Estado funcional del ECOG/WHO de 0 o 1.
+7. Funcionalidad orgánica y reserva medular adecuadas
+8. Esperanza de vida mínima de 12 semanas. 
+9. Peso corporal > 30 kg y sin caquexia neoplásica.
+10. Prueba de embarazo negativa (en suero) en las mujeres potencialmente fértiles. 
+
+Criterios de exclusión:
+1. Participante con histología mixta de carcinoma pulmonar microcítico y no microcítico.
+2. Antecedentes de otra neoplasia maligna primaria, excepto que haya sido tratada con intención curativa y no haya mostrado actividad de la enfermedad >/= 5 años antes de la primera dosis del tratamiento del estudio.
+3. Efectos tóxicos (de grado > 2 de los CTCAE) persistentes del tratamiento antineoplásico previo.
+4. Trastornos autoinmunitarios o inflamatorios activos o previos documentados.
+5. Participantes que hayan recibido más de una línea de anti-PD-(L)1 previa, ya sea sola o en combinación.
+6. Los participantes:
+(a) No deben haber presentado toxicidad que condujera a la suspensión permanente del tratamiento anti-PD(L)1 previo.
+(b) Deben mostrar resolución completa de todos los acontecimientos adversos (adverse events, AE) presentes durante el tratamiento anti-PD(L)1 previo. 
+(c) No deben haber presentado AE de origen inmunitario (immune-mediated adverse events, imAE) de grado >/= 3 ni AE neurológicos u oculares de tipo inmunitario de ningún grado durante el tratamiento anti-PD(L)1 previo.
+(d) No deben haber precisado inmunosupresión adicional distinta de corticosteroides para el tratamiento de un AE, no deben haber presentado reaparición de un AE en caso de reexposición y no deben precisar en la actualidad dosis de mantenimiento > 10 mg de prednisona o equivalente al día.
+7. Participantes que hayan recibido más de una línea previa de quimioterapia con derivados del platino para enfermedad metastásica.
+8. Participantes que hayan recibido un inhibidor de ATR previo. 
+

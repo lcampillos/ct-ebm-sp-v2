@@ -1,0 +1,25 @@
+EudraCT Nº: 2022-003024-41
+
+Título público: Estudio de fase 3 de extensión a largo plazo y abierto de apremilast en niños con úlceras bucales asociadas a la enfermedad de Behçet o con artritis psoriásica juvenil
+
+Título científico: Estudio de fase 3 de extensión a largo plazo, multicéntrico y abierto de apremilast en niños de 2 años o más con úlceras bucales asociadas a la enfermedad de Behçet o de 5 años o más con artritis psoriásica juvenil
+
+Indicación pública: EB: inflamación en los vasos sanguineos, se manifiestan ulceras bucales/genitales y lesiones en los ojos/piel. AIJ: inflamación de las articulaciones con desorden psoriasico que afecta a pts pediatricos
+
+Indicación científica: Sujetos con enfermedad de Behçet o artritis psoriásica juvenil activa 
+
+Criterios de inclusión:
+1. El representante legal autorizado del sujeto ha dado su consentimiento informado cuando el sujeto es legalmente demasiado joven para dar su consentimiento informado y el sujeto ha dado su asentimiento por escrito de acuerdo con las normativas y/o directrices locales antes de iniciar cualquier actividad/procedimiento específico del estudio.
+2. El sujeto debe haber completado la semana 52 (fase de tratamiento activo con apremilast) del estudio 20190529 (solo se aplica a los centros de Francia y Turquía) o del estudio 20190530 cuando el fármaco no esté disponible en el mercado de su país.
+3. El sujeto debe tener una edad y un índice de masa corporal (IMC) correspondiente a su sexo que no sea inferior al percentil 5 de la tabla de crecimiento de los Centros para el Control de Enfermedades (CDC) (apéndice 11.7) para niños y adolescentes (CDC, 2000) en el momento de la aleatorización.
+4. El sujeto está dispuesto a cumplir el calendario de visitas del estudio y otros requisitos del protocolo y es capaz de hacerlo.
+5. El sujeto debe presentar una relación beneficio-riesgo aceptable para continuar el tratamiento con apremilast.
+
+Criterios de exclusión:
+1. Respuesta afirmativa a cualquier pregunta de la escala Columbia para evaluar el riesgo de suicidio (C-SSRS) en la visita de la semana 52 del estudio 20190529 (solo se aplica a los sujetos de los centros de Francia y Turquía) o del estudio 20190530.
+2. Cirugía programada u otras intervenciones que requieran que el sujeto interrumpa su participación en el estudio.
+3. Mujeres en edad fértil (a efectos de este estudio, una mujer se considera en edad fértil si tiene ≥ 12 años o ha tenido la menarquia, lo que ocurra primero) que no estén dispuestas a utilizar un método anticonceptivo especificado en el protocolo (consulte el apéndice 5; apartado 11.5) durante el tratamiento y durante los 30 días posteriores a la administración de la última dosis del producto en investigación.
+4. Mujeres que planean quedarse embarazadas durante el estudio o en los 30 días posteriores a la última dosis del producto en investigación.
+5. Mujeres en edad fértil con una prueba de embarazo positiva, evaluada la semana 0 mediante una prueba de embarazo en suero u orina con un alto grado de sensibilidad.
+6. El sujeto presenta una sensibilidad conocida a alguno de los productos que se administrarán durante el tratamiento.
+7. Es probable que el sujeto no esté disponible para completar todas las visitas del estudio requeridas por el protocolo.

@@ -1,0 +1,131 @@
+T1	PROC 0 75	Estudio exploratorio de fase Ib/IIa, multicéntrico, abierto, de combinación
+T2	PROC 92 157	evaluar la seguridad, farmacocinética, farmacodinámica y eficacia
+T3	CHEM 172 180	CC-92480
+T4	CHEM 182 192	BMS-986348
+T5	PROC 197 223	combinaciones terapéuticas
+T6	LIVB 239 252	participantes
+T7	DISO 257 273	mieloma múltiple
+#1	AnnotatorNotes T7	C0026764; Multiple Myeloma; Neoplastic Process
+T8	PROC 303 338	ensayo para determinar la seguridad
+T9	CHEM 342 350	CC-92480
+T10	CHEM 373 383	compuestos
+#2	AnnotatorNotes T10	C0220806; Chemicals; Chemical
+T11	LIVB 397 405	personas
+#3	AnnotatorNotes T11	C0027361; Persons; Population Group
+T12	DISO 410 426	mieloma múltiple
+#4	AnnotatorNotes T12	C0026764; Multiple Myeloma; Neoplastic Process
+T13	Neg_cue 431 433	no
+T14	Negated 434 442	responde
+T15	PROC 455 466	tratamiento
+#5	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	PROC 507 518	tratamiento
+#6	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	DISO 543 559	Mieloma múltiple
+#7	AnnotatorNotes T17	C0026764; Multiple Myeloma; Neoplastic Process
+T18	DISO 586 590	MMRR
+T19	DISO 613 642	Cancer de células plasmáticas
+T20	LIVB 672 685	participantes
+T21	PROC 787 823	Consentimiento informado por escrito
+T22	PROC 851 864	procedimiento
+T23	Age 880 889	≥ 18 años
+T24	LIVB 941 953	participante
+T25	DISO 976 978	MM
+#8	AnnotatorNotes T25	C0026764; Multiple Myeloma; Neoplastic Process
+T26	DISO 983 993	enfermedad
+#9	AnnotatorNotes T26	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T27	DISO 1036 1063	progresión de la enfermedad
+#10	AnnotatorNotes T27	C0242656; Disease Progression; Pathologic Function
+T28	DISO 1162 1169	Mieloma
+#11	AnnotatorNotes T28	C0026764; Multiple Myeloma; Neoplastic Process | C0037930; Spinal Cord Neoplasms; Neoplastic Process
+T29	PROC 1245 1256	tratamiento
+#12	AnnotatorNotes T29	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T30	DISO 1265 1272	mieloma
+#13	AnnotatorNotes T30	C0026764; Multiple Myeloma; Neoplastic Process | C0037930; Spinal Cord Neoplasms; Neoplastic Process
+T31	DISO 1293 1304	intolerante
+T32	Neg_cue 1307 1309	no
+T33	Negated 1314 1323	candidato
+T34	PROC 1333 1345	tratamientos
+#14	AnnotatorNotes T34	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T35	DISO 1418 1420	MM
+#15	AnnotatorNotes T35	C0026764; Multiple Myeloma; Neoplastic Process
+T36	LIVB 1429 1442	participantes
+T37	DISO 1455 1473	enfermedad medible
+T38	LIVB 1480 1492	participante
+T39	PROC 1505 1521	estado funcional
+T40	PROC 1661 1691	Plan de Prevención de Embarazo
+T41	PROC 1693 1696	PPP
+T42	DISO 1738 1748	Compromiso
+T43	DISO 1783 1822	compromiso del sistema nervioso central
+T44	DISO 1824 1827	SNC
+T45	DISO 1832 1834	MM
+#16	AnnotatorNotes T45	C0026764; Multiple Myeloma; Neoplastic Process
+T46	DISO 1839 1870	Leucemia de células plasmáticas
+#17	AnnotatorNotes T46	C0023484; Leukemia, Plasma Cell; Neoplastic Process
+T47	DISO 1872 1904	macroglobulinemia de Waldenstrom
+#18	AnnotatorNotes T47	C0024419; Waldenstrom Macroglobulinemia; Neoplastic Process
+T48	DISO 1906 1932	síndrome de polineuropatía
+T49	DISO 1934 1947	organomegalia
+#19	AnnotatorNotes T49	C4054315; Organomegaly; Finding
+T50	DISO 1949 1963	endocrinopatía
+#20	AnnotatorNotes T50	C0014130; Endocrine System Diseases; Disease or Syndrome
+T51	DISO 1965 1977	proteína M y
+T52	DISO 1978 1996	cambios en la piel
+T53	DISO 1998 2003	POEMS
+#21	AnnotatorNotes T53	C0085404; POEMS Syndrome; Disease or Syndrome
+T54	DISO 2008 2036	amiloidosis de cadena ligera
+#22	AnnotatorNotes T54	C0268381; Primary amyloidosis; Neoplastic Process
+T55	DISO 2068 2100	Deterioro de la función cardíaca
+T56	DISO 2103 2122	enfermedad cardíaca
+#23	AnnotatorNotes T56	C0018799; Heart Diseases; Disease or Syndrome
+T57	LIVB 2157 2169	participante
+T58	DISO 2180 2211	infección previa por SARS-CoV-2
+T59	Duration 2222 2233	los 14 días
+T60	DISO 2239 2279	infecciones asintomáticas o sintomáticas
+T61	Negated 2251 2264	asintomáticas
+T62	Duration 2288 2295	28 días
+T63	DISO 2301 2313	enfermedades
+#24	AnnotatorNotes T63	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T64	Date 2349 2354	día 1
+T65	PROC 2390 2397	terapia
+#25	AnnotatorNotes T65	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T66	CHEM 2409 2417	CC-92480
+T67	PROC 2447 2458	tratamiento
+#26	AnnotatorNotes T67	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T68	CHEM 2470 2478	CC-92480
+T69	CHEM 2480 2492	tazemetostat
+#27	AnnotatorNotes T69	C4086895; tazemetostat; Organic Chemical · Pharmacologic Substance
+T70	CHEM 2494 2504	BMS-986158
+T71	CHEM 2507 2517	trametinib
+#28	AnnotatorNotes T71	C2697961; trametinib; Organic Chemical · Pharmacologic Substance
+T72	PROC 2545 2575	alotrasplante de células madre
+T73	Date 2579 2596	cualquier momento
+T74	PROC 2610 2641	autotrasplante de células madre
+T75	Duration 2652 2666	las 12 semanas
+T76	PROC 2693 2704	tratamiento
+#29	AnnotatorNotes T76	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T77	Duration 2768 2779	los 14 días
+T78	PROC 2805 2816	tratamiento
+#30	AnnotatorNotes T78	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T79	PROC 2833 2846	Plasmaféresis
+#31	AnnotatorNotes T79	C0032134; Plasmapheresis; Therapeutic or Preventive Procedure
+T80	PROC 2850 2857	Cirujía
+T81	PROC 2872 2884	Radioterapia
+#32	AnnotatorNotes T81	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T82	Neg_cue 2885 2896	distinta de
+T83	PROC 2900 2913	terapia local
+T84	Negated 2900 2913	terapia local
+T85	DISO 2919 2933	lesiones óseas
+#33	AnnotatorNotes T85	C0238792; Bone lesion; Disease or Syndrome
+T86	DISO 2947 2954	mieloma
+#34	AnnotatorNotes T86	C0026764; Multiple Myeloma; Neoplastic Process | C0037930; Spinal Cord Neoplasms; Neoplastic Process
+T87	PROC 2975 3000	tratamiento farmacológico
+#35	AnnotatorNotes T87	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure
+T88	DISO 3013 3022	sistémico
+T89	Route 3013 3022	sistémico
+T90	CHEM 3040 3063	agente en investigación
+T91	Duration 3074 3085	los 28 días
+T92	Duration 3088 3102	5 vidas medias
+T93	PROC 3146 3157	tratamiento
+#36	AnnotatorNotes T93	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T94	CHEM 3175 3190	Vacuna COVID-19
+T95	Duration 3201 3212	los 14 días

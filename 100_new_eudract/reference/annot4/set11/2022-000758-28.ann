@@ -1,0 +1,91 @@
+T1	PROC 81 92	tratamiento
+#1	AnnotatorNotes T1	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T2	CHEM 97 107	asundexian
+T3	CHEM 142 150	apixaban
+#2	AnnotatorNotes T3	C1831808; apixaban; Organic Chemical · Pharmacologic Substance
+T4	PROC 156 164	prevenir
+#3	AnnotatorNotes T4	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T5	DISO 168 173	ictus
+#4	AnnotatorNotes T5	C0038454; Cerebrovascular accident; Disease or Syndrome
+T6	DISO 179 196	embolia sistémica
+T7	LIVB 200 208	personas
+#5	AnnotatorNotes T7	C0027361; Persons; Population Group
+T9	DISO 263 284	fibrilación auricular
+#6	AnnotatorNotes T9	C0004238; Atrial Fibrillation; Disease or Syndrome
+T10	Spec_cue 292 301	riesgo de
+T11	DISO 302 307	ictus
+#7	AnnotatorNotes T11	C0038454; Cerebrovascular accident; Disease or Syndrome
+T12	Speculated 302 307	ictus
+T13	PROC 329 480	Ensayo fase III multicéntrico, internacional, aleatorizado, controlado con un comparador activo, doble ciego, con doble simulación y 2 grupos paralelos
+T14	PROC 487 522	comparar la eficacia y la seguridad
+T15	CHEM 527 560	inhibidor oral de FXIa asundexian
+T16	Route 537 541	oral
+T17	CHEM 562 573	BAY 2433334
+T18	CHEM 579 587	apixaban
+#8	AnnotatorNotes T18	C1831808; apixaban; Organic Chemical · Pharmacologic Substance
+T19	PROC 596 606	prevención
+#9	AnnotatorNotes T19	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T20	DISO 611 616	ictus
+#10	AnnotatorNotes T20	C0038454; Cerebrovascular accident; Disease or Syndrome
+T21	DISO 619 636	embolia sistémica
+T22	LIVB 640 676	participantes masculinos y femeninos
+T23	Age 680 693	18 años o más
+T24	DISO 698 719	fibrilación auricular
+#11	AnnotatorNotes T24	C0004238; Atrial Fibrillation; Disease or Syndrome
+T25	Spec_cue 722 731	riesgo de
+T26	DISO 732 737	ictus
+#12	AnnotatorNotes T26	C0038454; Cerebrovascular accident; Disease or Syndrome
+T27	Speculated 732 737	ictus
+T28	PROC 761 771	Prevención
+#13	AnnotatorNotes T28	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T29	DISO 775 780	ictus
+#14	AnnotatorNotes T29	C0038454; Cerebrovascular accident; Disease or Syndrome
+T30	ANAT 826 832	sangre
+#15	AnnotatorNotes T30	C0005767; Blood; Body Substance
+T31	ANAT 845 856	del cerebro
+T32	DISO 860 878	coágulos de sangre
+#16	AnnotatorNotes T32	C0087086; Thrombus; Pathologic Function | C0302148; Blood Clot; Pathologic Function
+T33	LIVB 883 891	personas
+#17	AnnotatorNotes T33	C0027361; Persons; Population Group
+T35	PROC 970 980	Prevención
+#18	AnnotatorNotes T35	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T36	DISO 985 990	ictus
+#19	AnnotatorNotes T36	C0038454; Cerebrovascular accident; Disease or Syndrome
+T37	DISO 996 1013	embolia sistémica
+T38	LIVB 1017 1026	pacientes
+#20	AnnotatorNotes T38	C0030705; Patients; Patient or Disabled Group
+T39	DISO 1031 1052	fibrilación auricular
+#21	AnnotatorNotes T39	C0004238; Atrial Fibrillation; Disease or Syndrome
+T40	Age 1082 1103	18 años de edad o más
+T41	Age 1108 1118	edad legal
+T42	PROC 1122 1136	consentimiento
+T43	PROC 1192 1216	consentimiento informado
+#22	AnnotatorNotes T43	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T44	DISO 1222 1243	Fibrilación auricular
+#23	AnnotatorNotes T44	C0004238; Atrial Fibrillation; Disease or Syndrome
+T45	PROC 1259 1262	ECG
+#24	AnnotatorNotes T45	C1623258; Electrocardiography; Diagnostic Procedure
+T46	PROC 1287 1309	tratamiento indefinido
+T47	CHEM 1317 1331	anticoagulante
+#25	AnnotatorNotes T47	C0003280; Anticoagulants; Pharmacologic Substance
+T48	Route 1332 1336	oral
+T49	PROC 1356 1368	CHA2DS2-VASc
+T50	LIVB 1379 1385	hombre
+#26	AnnotatorNotes T50	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T51	LIVB 1398 1403	mujer
+#27	AnnotatorNotes T51	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T52	PROC 1421 1433	CHA2DS2-VASc
+T53	LIVB 1445 1451	hombre
+#28	AnnotatorNotes T53	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T54	LIVB 1462 1467	mujer
+#29	AnnotatorNotes T54	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T55	DEVI 1529 1568	Prótesis valvulares cardíacas mecánicas
+T56	DISO 1574 1590	Estenosis mitral
+#30	AnnotatorNotes T56	C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T57	DISO 1660 1681	Fibrilación auricular
+#31	AnnotatorNotes T57	C0004238; Atrial Fibrillation; Disease or Syndrome
+T58	PROC 1725 1748	anticoagulación crónica
+T59	Duration 1741 1748	crónica
+T60	DISO 1784 1805	fibrilación auricular
+#32	AnnotatorNotes T60	C0004238; Atrial Fibrillation; Disease or Syndrome
+T61	PROC 113 122	seguridad

@@ -1,0 +1,134 @@
+T1	CHEM 62 87	Aceite enriquecido en CBD
+T2	PROC 94 105	tratamiento
+#1	AnnotatorNotes T2	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T3	DISO 109 141	epilepsia refractaria secundaria
+T4	DISO 153 181	complejo esclerosis tuberosa
+T5	DISO 183 186	CET
+T6	DISO 210 229	Esclerosis tuberosa
+#2	AnnotatorNotes T6	C0041341; Tuberous Sclerosis; Neoplastic Process
+T7	DISO 234 243	epilepsia
+#3	AnnotatorNotes T7	C0014544; Epilepsy; Disease or Syndrome
+T8	DISO 287 308	Epilepsia refractaria
+T9	DISO 312 343	Complejo de Esclerosis Tuberosa
+T10	PROC 372 383	Diagnóstico
+#4	AnnotatorNotes T10	C0011900; Diagnosis; Diagnostic Procedure
+T11	DISO 398 401	CET
+T12	PROC 430 446	estudio genético
+T13	DISO 450 471	Epilepsia refractaria
+T14	DISO 485 488	CET
+T15	Neg_cue 516 518	no
+T16	Negated 519 540	responde exitosamente
+T17	CHEM 543 547	FAEs
+T18	PROC 573 589	dieta cetogénica
+T19	CHEM 591 618	estimulador del nervio vago
+T20	Neg_cue 624 626	no
+T21	PROC 645 668	cirugía de la epilepsia
+T22	Negated 645 652	cirugía
+T23	DISO 685 691	crisis
+#5	AnnotatorNotes T23	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
+T24	PROC 712 735	intervención quirúrgica
+#6	AnnotatorNotes T24	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T25	DISO 763 769	crisis
+#7	AnnotatorNotes T25	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
+T26	Frequency 776 790	4 o más al mes
+T27	DISO 795 801	signos
+#8	AnnotatorNotes T27	C0311392; Physical findings; Finding
+T28	DISO 824 845	pérdida de conciencia
+#9	AnnotatorNotes T28	C0041657; Unconscious State; Finding
+T29	DISO 848 858	componente
+T30	CHEM 895 899	FAEs
+T31	Duration 903 916	las 4 semanas
+T32	PROC 930 942	intervención
+#10	AnnotatorNotes T32	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T33	CHEM 950 979	aceite enriquecido en CBD+THC
+T34	PROC 983 999	dieta cetogénica
+T35	DEVI 1017 1028	dispositivo
+#11	AnnotatorNotes T35	C1285539; Direct device; Medical Device
+T36	DEVI 1041 1068	estimulador del nervio vago
+T37	Neg_cue 1069 1072	sin
+T38	Negated 1073 1080	cambios
+T39	CHEM 1105 1113	fármacos
+#12	AnnotatorNotes T39	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T40	PROC 1144 1158	ensayo clínico
+#13	AnnotatorNotes T40	C0008976; Clinical Trials; Research Activity
+T41	LIVB 1194 1204	cuidadores
+#14	AnnotatorNotes T41	C0085537; Caregiver; Professional or Occupational Group | C1305660; Carer (occupation); Professional or Occupational Group
+T42	LIVB 1304 1313	Pacientes
+#15	AnnotatorNotes T42	C0030705; Patients; Patient or Disabled Group
+T43	PROC 1318 1329	diagnóstico
+#16	AnnotatorNotes T43	C0011900; Diagnosis; Diagnostic Procedure
+T44	Neg_cue 1330 1332	no
+T45	Negated 1333 1343	confirmado
+T46	CHEM 1357 1368	corticoides
+#17	AnnotatorNotes T46	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T47	Neg_cue 1374 1376	no
+T48	Negated 1377 1418	pasaron por las alternativas terapéuticas
+T49	Neg_cue 1429 1431	no
+T50	Negated 1432 1456	adhirieron correctamente
+T51	CHEM 1463 1467	FAEs
+T52	DISO 1507 1559	Insuficiencia cardíaca, renal, hepática, pancreática
+T53	DISO 1563 1586	disfunción hematológica
+T54	PROC 1629 1639	creatinina
+#18	AnnotatorNotes T54	C0201975; Creatinine measurement; Laboratory Procedure
+T55	PROC 1642 1646	urea
+#19	AnnotatorNotes T55	C0523961; Urea measurement; Laboratory Procedure
+T56	PROC 1684 1697	transaminasas
+#20	AnnotatorNotes T56	C0919834; Transaminase Assay; Laboratory Procedure
+T57	PROC 1699 1705	lipasa
+#21	AnnotatorNotes T57	C0373670; Lipase measurement; Laboratory Procedure
+T58	PROC 1708 1722	amilasa sérica
+#22	AnnotatorNotes T58	C0201885; Amylase measurement, serum (procedure); Laboratory Procedure
+T59	PROC 1724 1733	plaquetas
+T60	PROC 1749 1777	recuento de glóbulos blancos
+T61	DISO 1791 1807	Condición médica
+#23	AnnotatorNotes T61	C4745084; Medical Condition; Finding
+T62	Neg_cue 1815 1817	no
+T63	Negated 1818 1828	controlada
+T64	DISO 1835 1854	enfermedad hepática
+#24	AnnotatorNotes T64	C0023895; Liver diseases; Disease or Syndrome
+T65	DISO 1856 1864	cirrosis
+#25	AnnotatorNotes T65	C1623038; Cirrhosis; Disease or Syndrome
+T66	DISO 1866 1900	hepatitis crónica (hepatitis B o C
+T67	Duration 1876 1883	crónica
+T68	DISO 1903 1911	diabetes
+#26	AnnotatorNotes T68	C0011849; Diabetes Mellitus; Disease or Syndrome
+T69	Neg_cue 1912 1914	no
+T70	Negated 1915 1925	controlada
+T71	PROC 1941 1955	glucosa sérica
+#27	AnnotatorNotes T71	C0202041; Glucose measurement, serum; Laboratory Procedure
+T72	DISO 1967 1978	infecciones
+#28	AnnotatorNotes T72	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T73	DISO 2009 2020	infecciones
+#29	AnnotatorNotes T73	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T74	Neg_cue 2029 2031	no
+T75	Negated 2032 2043	controladas
+T76	DISO 2045 2054	sangrados
+#30	AnnotatorNotes T76	C0019080; Hemorrhage; Pathologic Function
+T77	LIVB 2066 2075	Pacientes
+#31	AnnotatorNotes T77	C0030705; Patients; Patient or Disabled Group
+T78	LIVB 2082 2090	familias
+#32	AnnotatorNotes T78	C0015576; Family; Family Group
+T79	Neg_cue 2091 2093	no
+T80	Negated 2104 2144	cumplir con los requerimientos y visitas
+T81	PROC 2137 2144	visitas
+T82	LIVB 2175 2190	médico tratante
+T83	Spec_cue 2206 2215	riesgo de
+T84	Speculated 2216 2244	incumplimiento del protocolo
+T85	PROC 2235 2244	protocolo
+#33	AnnotatorNotes T85	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T86	DISO 2248 2255	Alergia
+#34	AnnotatorNotes T86	C0020517; Hypersensitivity; Pathologic Function
+T87	CHEM 2288 2306	aceite de cannabis
+T88	DISO 2337 2350	esquizofrenia
+#35	AnnotatorNotes T88	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T89	DISO 2380 2399	intento de suicidio
+#36	AnnotatorNotes T89	C0038663; Suicide attempt; Injury or Poisoning | C0582496; Suicidal intent; Finding
+T90	LIVB 2403 2412	Pacientes
+#37	AnnotatorNotes T90	C0030705; Patients; Patient or Disabled Group
+T91	PROC 2417 2440	cambiaron la medicación
+T92	CHEM 2452 2456	FAEs
+T93	Duration 2465 2476	los 30 días
+T94	PROC 2509 2525	dieta cetogenica
+T95	CHEM 2528 2545	estimulador vagal
+T96	PHYS 2548 2556	Embarazo
+#38	AnnotatorNotes T96	C0032961; Pregnancy; Organism Function

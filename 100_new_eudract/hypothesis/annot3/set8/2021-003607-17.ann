@@ -1,0 +1,84 @@
+T1	PROC 48 78	Ensayo clínico abierto, fase I
+T2	PROC 84 104	evaluar la seguridad
+T3	PROC 131 154	infusión intra-arterial
+T4	Route 131 139	infusión
+T5	Route 140 154	intra-arterial
+T6	Dose 158 173	dosis repetidas
+T7	ANAT 177 198	células mesenquimales
+T8	LIVB 212 217	niños
+#1	AnnotatorNotes T8	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T9	Age 212 217	niños
+T10	LIVB 220 232	adolescentes
+#2	AnnotatorNotes T10	C0205653; Adolescent (age group); Age Group
+T11	Age 220 232	adolescentes
+T12	DISO 237 260	epilepsias refractarias
+T13	DISO 284 293	Epilepsia
+#3	AnnotatorNotes T13	C0014544; Epilepsy; Disease or Syndrome
+T14	DISO 318 339	Epilepsia refractaria
+T15	DISO 363 387	encefalitis de Rasmussen
+#4	AnnotatorNotes T15	C0393484; Rasmussen Syndrome; Disease or Syndrome
+T16	PROC 432 456	consentimiento informado
+#5	AnnotatorNotes T16	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T17	LIVB 461 481	Población pediátrica
+T18	Age 482 498	menor de 16 años
+T19	DISO 503 532	Epilepsia de etiología inmune
+T20	PROC 574 585	tratamiento
+#6	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T21	CHEM 587 611	fármacos antiepilépticos
+T22	PROC 614 638	terapia inmunomoduladora
+T23	DISO 679 708	deterioro motor y/o cognitivo
+T24	PROC 766 786	cirugía de epilepsia
+T25	DISO 809 833	Encefalitis de Rasmussen
+#7	AnnotatorNotes T25	C0393484; Rasmussen Syndrome; Disease or Syndrome
+T26	PROC 868 871	RMC
+#8	AnnotatorNotes T26	C0412692; Magnetic Resonance Imaging (MRI) of Heart; Diagnostic Procedure | C4028269; Nuclear magnetic resonance imaging brain; Diagnostic Procedure
+T27	PROC 873 900	pruebas electrofisiológicas
+T28	PROC 902 905	PET
+#9	AnnotatorNotes T28	C0032743; Positron-Emission Tomography; Diagnostic Procedure
+T29	PROC 908 938	evaluaciones neuropsicológicas
+T30	DISO 969 995	Enfermedades concomitantes
+T31	Spec_cue 1000 1006	pueden
+T32	Speculated 1007 1014	afectar
+T33	LIVB 1032 1040	paciente
+#10	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	DISO 1064 1104	Infecciones activas del SNC o sistémicas
+T35	DISO 1115 1120	Tumor
+#11	AnnotatorNotes T35	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T36	PROC 1130 1143	Quimioterapia
+#12	AnnotatorNotes T36	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T37	DISO 1153 1172	Enfermedad cardíaca
+#13	AnnotatorNotes T37	C0018799; Heart Diseases; Disease or Syndrome
+T38	DISO 1175 1183	Demencia
+#14	AnnotatorNotes T38	C0497327; Dementia; Mental or Behavioral Dysfunction
+T39	DISO 1191 1222	enfermedad degenerativa del SNC
+T40	PROC 1259 1291	cateterismo del sistema arterial
+T41	Contraindicated 1259 1291	cateterismo del sistema arterial
+T42	Neg_cue 1314 1316	no
+T43	Negated 1321 1329	factible
+T44	DISO 1343 1371	trastornos de comportamiento
+#15	AnnotatorNotes T44	C0004930; Behavior Disorders; Mental or Behavioral Dysfunction
+T45	Neg_cue 1376 1383	impiden
+T46	Negated 1388 1400	colaboración
+T47	Negated 1401 1409	adecuada
+T48	ANAT 1426 1434	arterial
+#16	AnnotatorNotes T48	C0003842; Arteries; Body Part, Organ, or Organ Component | C1285085; Entire artery; Body Part, Organ, or Organ Component
+T49	PROC 1437 1462	parámetros de coagulación
+T50	Neg_cue 1529 1531	no
+T51	CHEM 1554 1576	productos terapéuticos
+T52	Negated 1554 1576	productos terapéuticos
+T53	DISO 1602 1621	reacciones adversas
+#17	AnnotatorNotes T53	C0559546; Adverse reactions; Pathologic Function
+T54	DISO 1624 1654	complicaciones tromboembólicas
+T55	CHEM 1671 1695	componentes de la sangre
+T56	PHYS 1701 1709	Embarazo
+#18	AnnotatorNotes T56	C0032961; Pregnancy; Organism Function
+T57	PHYS 1723 1732	lactancia
+#19	AnnotatorNotes T57	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T58	Neg_cue 1737 1745	Negativa
+T59	LIVB 1750 1758	paciente
+#20	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
+T60	LIVB 1761 1771	familiares
+#21	AnnotatorNotes T60	C0080103; Relative (related person); Family Group
+T61	PROC 1777 1788	seguimiento
+#22	AnnotatorNotes T61	C0420316; Other follow-up; Health Care Activity
+T62	Negated 1777 1788	seguimiento

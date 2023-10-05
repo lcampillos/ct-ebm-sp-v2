@@ -1,0 +1,32 @@
+EudraCT Nº:  2022-000719-30
+
+Título público:  Estudio para evaluar el efecto de la reducción progresiva de la dosis de filgotinib en pacientes con colitis ulcerosa en remisión 
+
+Título científico:  Estudio aleatorizado, doble ciego, controlado y multicéntrico para evaluar la eficacia y la seguridad de la reducción progresiva de la dosis de filgotinib administrado por vía oral en pacientes con colitis ulcerosa en remisión clínica 
+
+Indicación pública:  colitis ulcerosa 
+
+Criterios de inclusión:
+- Los pacientes deben participar en el estudio SELECTION-LTE, estar recibiendo actualmente tratamiento con 200 mg de filgotinib 1 v/d y cumplir las siguientes condiciones:
+• remisión de la pMCS  durante un período de al menos 2 visitas trimestrales consecutivas en el estudio SELECTION-LTE antes de y en la propia selección del presente estudio;
+• sin corticoesteroides durante al menos 12 semanas antes del inicio (inclusive);
+• CPF <= 250 µg/g en la última observación;
+• PE de la sigmoidoscopia de 0 o 1 (puntuación local) en la selección.
+- Las pacientes con capacidad de concebir deben tener un resultado negativo en una prueba de embarazo altamente sensible (gonadotropina coriónica humana beta en suero) durante la selección y deben aceptar someterse mensualmente a una prueba de embarazo con tira reactiva de orina durante el tratamiento con filgotinib.
+- Los pacientes de sexo masculino y las pacientes de sexo femenino con capacidad de concebir deben aceptar el uso de métodos anticonceptivos altamente eficaces, tal y como se define en el protocolo.
+- Disposición para evitar recibir vacunas elaboradas con microorganismos vivos atenuados durante el estudio y durante 12 semanas tras la última dosis de filgotinib en el estudio.
+
+Esta lista sólo contiene los principales criterios de inclusión. 
+
+Criterios de exclusión:
+- Cualquier afección médica crónica (entre otras, neumopatía o cardiopatía, alcoholismo o drogadicción) que, en opinión del investigador o el promotor, haga que el paciente no sea apto para el estudio o impida el cumplimiento del protocolo del mismo.
+- El paciente tiene hipersensibilidad conocida a los ingredientes de filgotinib o antecedentes de una reacción alérgica significativa a los ingredientes de filgotinib según lo determinado por el investigador.
+- Mujer embarazada o en período de lactancia, con intención de quedarse embarazada o de amamantar, y/o que tenga previsto someterse a una donación o extracción de óvulos con fines de fecundación actual o futura, durante el estudio y hasta el final del mismo.
+- Hombres que no estén dispuestos a abstenerse de donar semen durante al menos 90 días después de la última dosis del producto en investigación (PEI).
+- El paciente no puede o no está dispuesto a cumplir con las restricciones relativas a la medicación previa y concomitante, tal y como se describe en el protocolo.
+- El paciente tiene un resultado positivo en la prueba de tuberculosis (TB) QuantiFERON® en la selección o 2 resultados indeterminados en la prueba de TB QuantiFERON® que requieren la interrupción del tratamiento con el PEI.
+- Antecedentes de neoplasia maligna, excepto pacientes tratados satisfactoriamente para un cáncer de piel distinto del melanoma o un carcinoma cervicouterino in situ.
+- El paciente cumple los criterios de interrupción del estudio SELECTION-LTE
+
+Esta lista sólo contiene los principales criterios de exclusión. 
+

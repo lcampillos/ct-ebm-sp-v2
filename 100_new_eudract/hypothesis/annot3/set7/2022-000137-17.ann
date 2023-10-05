@@ -1,0 +1,82 @@
+T1	CHEM 57 76	Ozuriftamab Vedotin
+T2	CHEM 78 84	BA3021
+T3	CHEM 112 121	Nivolumab
+#1	AnnotatorNotes T3	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T4	LIVB 125 134	pacientes
+#2	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	DISO 139 154	tumores sólidos
+#3	AnnotatorNotes T5	C0280100; Solid Neoplasm; Neoplastic Process
+T6	PROC 187 206	Estudio de fase 1/2
+T7	PROC 210 242	aumento y ampliación de la dosis
+T8	CHEM 246 265	ozuriftamab vedotin
+T9	CHEM 267 273	BA3021
+T10	PROC 278 289	monoterapia
+#4	AnnotatorNotes T10	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T11	CHEM 311 320	nivolumab
+#5	AnnotatorNotes T11	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T12	LIVB 324 333	pacientes
+#6	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	DISO 338 353	tumores sólidos
+#7	AnnotatorNotes T13	C0280100; Solid Neoplasm; Neoplastic Process
+T14	DISO 397 412	Tumores sólidos
+#8	AnnotatorNotes T14	C0280100; Solid Neoplasm; Neoplastic Process
+T15	LIVB 463 472	pacientes
+#9	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 492 523	cáncer de pulmón no microcítico
+#10	AnnotatorNotes T16	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T17	Neg_cue 509 511	no
+T18	Negated 512 523	microcítico
+T19	DISO 525 529	CPNM
+#11	AnnotatorNotes T19	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T20	DISO 533 541	melanoma
+#12	AnnotatorNotes T20	C0025202; melanoma; Neoplastic Process
+T21	DISO 577 588	metastásico
+#13	AnnotatorNotes T21	C4255448; Metastasis; Pathologic Function
+T22	PROC 601 630	histológica o citológicamente
+T23	Age 639 647	≥18 años
+T24	PHYS 651 664	Función renal
+#14	AnnotatorNotes T24	C0232804; Renal function; Organ or Tissue Function
+T25	PHYS 677 693	Función hepática
+T26	PHYS 706 726	Función hematológica
+T27	Duration 847 863	al menos 3 meses
+T28	DISO 892 903	Cardiopatía
+#15	AnnotatorNotes T28	C0018799; Heart Diseases; Disease or Syndrome
+T29	DISO 947 957	metástasis
+#16	AnnotatorNotes T29	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T30	Neg_cue 958 961	sin
+T31	Negated 962 1002	controlar en el sistema nervioso central
+T32	ANAT 978 1002	sistema nervioso central
+#17	AnnotatorNotes T32	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T33	PROC 1006 1017	Tratamiento
+#18	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T34	CHEM 1032 1058	derivado de la auristatina
+T35	Neg_cue 1072 1075	sin
+T36	Negated 1076 1084	conjugar
+T37	CHEM 1137 1142	vinca
+T38	DISO 1162 1182	reacciones alérgicas
+#19	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function | C1527304; Allergic Reaction; Pathologic Function
+T39	PROC 1198 1209	tratamiento
+#20	AnnotatorNotes T39	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T40	CHEM 1214 1217	AcM
+#21	AnnotatorNotes T40	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T41	Spec_cue 1240 1251	sospecha de
+T42	DISO 1252 1259	alergia
+#22	AnnotatorNotes T42	C0020517; Hypersensitivity; Pathologic Function
+T43	Speculated 1252 1259	alergia
+T44	DISO 1262 1274	intolerancia
+T45	Speculated 1262 1274	intolerancia
+T46	CHEM 1295 1307	medicamentos
+#23	AnnotatorNotes T46	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T47	PROC 1375 1404	intervención de cirugía mayor
+T48	Duration 1425 1438	las 4 semanas
+T49	PROC 1463 1477	administración
+#24	AnnotatorNotes T49	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T50	CHEM 1481 1487	BA3021
+T51	PROC 1531 1579	pruebas del virus de la inmunodeficiencia humana
+T52	DISO 1581 1584	VIH
+#25	AnnotatorNotes T52	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T53	DISO 1602 1641	síndrome de inmunodeficiencia adquirida
+#26	AnnotatorNotes T53	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T54	DISO 1643 1647	sida
+#27	AnnotatorNotes T54	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T55	LIVB 1652 1697	Mujeres embarazadas o en período de lactancia

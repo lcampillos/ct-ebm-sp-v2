@@ -1,0 +1,19 @@
+EudraCT Nº: 2021-005526-17
+
+Título científico: Ensayo de fase II/III, multicéntrico, aleatorizado, con enmascaramiento doble y controlado con placebo para evaluar la eficacia, la tolerabilidad y la seguridad a largo plazo de sibeprenlimab administrado por vía subcutánea a pacientes con nefropatía por inmunoglobulina A
+
+Indicación pública: Una enfermedad renal que ocurre cuando se acumulan depósitos de anticuerpos en los riñones
+
+Indicación científica: Nefropatía por inmunoglobulina A
+
+Criterios de inclusión:
+1) Sujetos que completaron el Ensayo 417-201-00007 (al menos 20 de las 26 dosis y la visita de final del ensayo) o el Ensayo VIS649-201 (al menos 9 de las 12 dosis y la visita de final del ensayo) sin problemas de seguridad y que, en opinión del investigador, podrían beneficiarse potencialmente del tratamiento con sibeprenlimab para la NIgA.
+2) El sujeto tiene una FGe ≥20 ml/min/1,73 m2., calculada mediante la fórmula de la Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI).
+3) Capacidad para proporcionar consentimiento informado por escrito antes del inicio de cualquier procedimiento específico del ensayo y capacidad, en opinión del investigador principal, para cumplir con todos los requisitos del ensayo.
+
+Criterios de exclusión:
+1) Sujetos que no hayan completado su participación en los Ensayos 417-201-00007 o VIS649-201.
+2) Sujetos con eventos adversos (EA) que limitarón el tratamiento durante los Ensayos 417-201-00007 o VIS649-201 y relacionados con IMP según el criterio del investigador que impediría la transferencia a este ensayo.
+3) Incumplimiento, debido a que el sujeto no cumplió repetidamente con los procedimientos del ensayo durante el curso de su participación en los Ensayos 417-201-00007 y VIS649-201 (p. ej., sujetos que se consideró que no cumplieron con el programa de visitas, las evaluaciones del ensayo o el régimen de tratamiento). Se debe contactar al monitor médico si el investigador no está seguro de la elegibilidad de un sujeto.
+4) Sujetos que tengan un resultado positivo en la prueba de embarazo antes de recibir IMP.
+5) Varones heterosexuales biológicamente activos o sujetos en edad fértil, o sus parejas, que no acepten cumplir con los requisitos anticonceptivos desde el momento del consentimiento hasta el final de la participación del sujeto en el ensayo y 90 días adicionales (sujetos biológicos masculinos) o 30 días (sujetos biológicos femeninos) a partir de entonces.

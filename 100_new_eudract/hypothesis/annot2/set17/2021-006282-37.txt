@@ -1,0 +1,23 @@
+EudraCT Nº: 2021-006282-37
+
+Título público: Eficacia, seguridad y farmacocinética del guselkumab en participantes pediátricos con enfermedad de Crohn activa de moderada a grave 
+
+Título científico: Estudio de plataforma en fase III, aleatorizado y multicéntrico sobre la inhibición de la vía de la IL-23 causada por el p19 para establecer la eficacia en la enfermedad de Crohn pediátrica
+
+Indicación: Enfermedad de Crohn moderada a gravemente activa 
+
+Criterios de inclusión:
+
+1. 2 a <18 años de edad, inclusive (en el momento del consentimiento para la detección).
+2. Médicamente estable según el examen físico, el historial médico y los signos vitales realizados en la selección. Médicamente estable según las pruebas de laboratorio clínico realizadas en la selección.
+3. Tener un diagnóstico de EC o CD fistulizante, con colitis activa, ileítis o ileocolitis, confirmado en cualquier momento en el pasado por criterios clínicos, endoscópicos e histológicos. También es aceptable el diagnóstico basado en la resección quirúrgica previa y la histología. Los hallazgos radiográficos pueden proporcionar evidencia de apoyo.
+4. Tener EC activa de moderada a grave (según lo definido por una puntuación PCDAI de detección> 30).
+5. Tener una endoscopia con evidencia de EC activa definida como puntuación SES-CD ≥6 (o ≥4 para participantes con enfermedad ileal aislada) dentro de las 4 semanas posteriores a recibir la intervención del estudio en la semana 0. Consulte el protocolo para conocer más criterios de exclusión. 
+
+Criterios de exclusión:
+
+1. Tiene complicaciones de la EC, como estenosis o estenosis sintomáticas, síndrome del intestino corto o cualquier otra manifestación que pueda anticiparse que requiera cirugía, que podría impedir el uso del PCDAI para evaluar la respuesta a la terapia o posiblemente confundiría la capacidad de evaluar el efecto del tratamiento. Cabe destacar que los procedimientos quirúrgicos relacionados con el tratamiento de la fístula no son necesariamente excluyentes; discutir con el monitor médico.
+2. Actualmente tiene o se sospecha que tiene un absceso. Los abscesos cutáneos y perianales recientes no son excluyentes si se drenaron y trataron adecuadamente al menos 3 semanas antes de la semana 0 u 8 semanas antes de la semana 0 para los abscesos intraabdominales, siempre que no haya necesidad anticipada de cirugía adicional.
+3. Ha tenido algún tipo de resección intestinal dentro de las 26 semanas o cualquier otra cirugía intraabdominal dentro de las 12 semanas anteriores.
+4. Presencia de estoma, bolsa ileoanal u ostomía.
+5. Tiene displasia de alto grado, antecedentes o evidencia actual de displasia polipoide o no polipoide, o cualquier adenoma que no se haya extirpado. Consulte el protocolo para conocer más criterios de exclusión.

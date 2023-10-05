@@ -1,0 +1,183 @@
+T1	CHEM 57 66	ibrutinib
+#1	AnnotatorNotes T1	C3501358; ibrutinib; Organic Chemical · Pharmacologic Substance
+T2	CHEM 86 95	rituximab
+#2	AnnotatorNotes T2	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T3	CHEM 105 117	lenalidomida
+#3	AnnotatorNotes T3	C1144149; lenalidomide; Organic Chemical · Pharmacologic Substance
+T4	CHEM 122 131	rituximab
+#4	AnnotatorNotes T4	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T5	CHEM 134 144	bortezomib
+#5	AnnotatorNotes T5	C1176309; bortezomib; Organic Chemical · Pharmacologic Substance
+T6	CHEM 149 158	rituximab
+#6	AnnotatorNotes T6	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T7	PROC 167 178	tratamiento
+#7	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	DISO 182 210	linfoma de células del manto
+#8	AnnotatorNotes T8	C4721414; Mantle cell lymphoma; Neoplastic Process
+T9	PROC 258 343	Estudio de fase 2/3 aleatorizado, controlado, abierto, multicéntrico e ininterrumpido
+T10	CHEM 347 356	ibrutinib
+#9	AnnotatorNotes T10	C3501358; ibrutinib; Organic Chemical · Pharmacologic Substance
+T11	CHEM 376 385	rituximab
+#10	AnnotatorNotes T11	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T12	CHEM 427 439	lenalidomida
+#11	AnnotatorNotes T12	C1144149; lenalidomide; Organic Chemical · Pharmacologic Substance
+T13	CHEM 444 453	rituximab
+#12	AnnotatorNotes T13	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T14	CHEM 456 466	bortezomib
+#13	AnnotatorNotes T14	C1176309; bortezomib; Organic Chemical · Pharmacologic Substance
+T15	CHEM 471 480	rituximab
+#14	AnnotatorNotes T15	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T16	LIVB 485 494	pacientes
+#15	AnnotatorNotes T16	C0030705; Patients; Patient or Disabled Group
+T17	DISO 499 527	linfoma de células del manto
+#16	AnnotatorNotes T17	C4721414; Mantle cell lymphoma; Neoplastic Process
+T18	DISO 577 593	Cáncer de sangre
+#17	AnnotatorNotes T18	C0376545; Hematologic Neoplasms; Neoplastic Process
+T19	DISO 620 648	Linfoma de células del manto
+#18	AnnotatorNotes T19	C4721414; Mantle cell lymphoma; Neoplastic Process
+T20	LIVB 703 720	Pacientes adultos
+T21	Age 713 720	adultos
+T22	DISO 725 728	LCM
+#19	AnnotatorNotes T22	C0023418; leukemia; Neoplastic Process | C4721414; Mantle cell lymphoma; Neoplastic Process
+T23	PROC 753 775	régimen de tratamiento
+T24	DISO 791 794	LCM
+#20	AnnotatorNotes T24	C0023418; leukemia; Neoplastic Process | C4721414; Mantle cell lymphoma; Neoplastic Process
+T25	Neg_cue 795 805	excluyendo
+T26	CHEM 806 810	BTKi
+T27	Negated 806 810	BTKi
+T28	DISO 813 840	Progresión de la enfermedad
+#21	AnnotatorNotes T28	C0242656; Disease Progression; Pathologic Function
+T29	DISO 843 850	recaída
+#22	AnnotatorNotes T29	C2825055; Recurrence (disease attribute); Pathologic Function
+T30	PROC 878 889	tratamiento
+#23	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	DISO 900 903	LCM
+#24	AnnotatorNotes T31	C0023418; leukemia; Neoplastic Process | C4721414; Mantle cell lymphoma; Neoplastic Process
+T32	DISO 907 936	Enfermedad ganglionar medible
+T33	PROC 949 965	Función orgánica
+T34	PROC 975 978	CNA
+T35	PROC 991 1000	Plaquetas
+T36	ANAT 1009 1016	células
+#25	AnnotatorNotes T36	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T37	PROC 1022 1033	Hemoglobina
+#26	AnnotatorNotes T37	C0518015; Hemoglobin measurement; Laboratory Procedure
+T38	PROC 1043 1046	ALT
+#27	AnnotatorNotes T38	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T39	PROC 1047 1050	AST
+#28	AnnotatorNotes T39	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T40	PROC 1060 1077	Bilirrubina total
+#29	AnnotatorNotes T40	C0201913; Bilirubin, total measurement; Laboratory Procedure
+T41	PROC 1089 1093	CrCl
+T42	PROC 1133 1140	Terapia
+#30	AnnotatorNotes T42	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T43	CHEM 1152 1156	BTKi
+T44	PROC 1159 1166	Terapia
+#31	AnnotatorNotes T44	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T45	CHEM 1178 1190	Lenalidomida
+#32	AnnotatorNotes T45	C1144149; lenalidomide; Organic Chemical · Pharmacologic Substance
+T46	CHEM 1193 1203	Bortezomib
+#33	AnnotatorNotes T46	C1176309; bortezomib; Organic Chemical · Pharmacologic Substance
+T47	PROC 1206 1219	Cirugía mayor
+#34	AnnotatorNotes T47	C0679637; major surgery; Therapeutic or Preventive Procedure
+T48	Duration 1235 1244	4 semanas
+T49	DISO 1259 1264	ictus
+#35	AnnotatorNotes T49	C0038454; Cerebrovascular accident; Disease or Syndrome
+T50	DISO 1267 1290	hemorragia intracraneal
+#36	AnnotatorNotes T50	C0151699; Intracranial Hemorrhage; Pathologic Function
+T51	Duration 1294 1305	los 6 meses
+T52	PROC 1322 1336	aleatorización
+#37	AnnotatorNotes T52	C0034656; Randomization; Research Activity
+T53	DISO 1339 1375	Linfoma del sistema nervioso central
+T54	DISO 1378 1399	Trastorno hemorrágico
+#38	AnnotatorNotes T54	C0019087; Hemorrhagic Disorders; Disease or Syndrome
+T55	DISO 1402 1427	Enfermedad cardiovascular
+#39	AnnotatorNotes T55	C0007222; Cardiovascular Diseases; Disease or Syndrome
+T56	DISO 1469 1477	arritmia
+#40	AnnotatorNotes T56	C0003811; Cardiac Arrhythmia; Disease or Syndrome
+T57	Neg_cue 1478 1480	no
+T58	Negated 1481 1491	controlada
+T59	DISO 1495 1528	insuficiencia cardíaca congestiva
+#41	AnnotatorNotes T59	C0018802; Congestive heart failure; Disease or Syndrome
+T61	DISO 1595 1615	infarto de miocardio
+#42	AnnotatorNotes T61	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T62	DISO 1617 1633	angina inestable
+#43	AnnotatorNotes T62	C0002965; Angina, Unstable; Disease or Syndrome
+T63	DISO 1636 1660	síndrome coronario agudo
+#44	AnnotatorNotes T63	C0948089; Acute Coronary Syndrome; Disease or Syndrome
+T64	Duration 1676 1681	1 año
+T65	PROC 1694 1708	aleatorización
+#45	AnnotatorNotes T65	C0034656; Randomization; Research Activity
+T66	Duration 1716 1732	superior a 1 año
+T67	PROC 1750 1771	consulta cardiológica
+T68	ANAT 1809 1816	corazón
+#46	AnnotatorNotes T68	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T69	DISO 1820 1823	HTA
+#47	AnnotatorNotes T69	C0020538; Hypertensive disease; Disease or Syndrome
+T70	Neg_cue 1824 1826	no
+T71	Negated 1827 1837	controlada
+T72	PROC 1843 1854	tratamiento
+#48	AnnotatorNotes T72	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T73	CHEM 1867 1891	medicamentos para la HTA
+T74	PROC 1893 1905	PA sistólica
+T75	PROC 1909 1916	cribado
+#49	AnnotatorNotes T75	C0220908; Screening procedure; Diagnostic Procedure | C1698960; research subject screening; Research Activity | C1710031; Disease Screening; Diagnostic Procedure
+T76	PROC 1930 1943	PA diastólica
+#50	AnnotatorNotes T76	C1305849; Diastolic blood pressure measurement; Diagnostic Procedure
+T77	PROC 1956 1980	Terapia contra el cáncer
+#51	AnnotatorNotes T77	C0920425; cancer treatment; Therapeutic or Preventive Procedure
+T78	PROC 1993 2006	quimioterapia
+#52	AnnotatorNotes T78	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T79	PROC 2008 2020	radioterapia
+#53	AnnotatorNotes T79	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T80	CHEM 2042 2054	monoclonales
+#54	AnnotatorNotes T80	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T82	CHEM 2079 2100	anticuerpo monoclonal
+#55	AnnotatorNotes T82	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T83	CHEM 2103 2127	agentes en investigación
+T84	Duration 2128 2136	≤21 días
+T86	CHEM 2168 2175	fármaco
+#56	AnnotatorNotes T86	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T88	DISO 2265 2284	Infección sistémica
+#57	AnnotatorNotes T88	C0243026; Sepsis; Disease or Syndrome
+T89	Neg_cue 2292 2294	no
+T90	Negated 2295 2305	controlada
+T91	DISO 2318 2328	enfermedad
+#58	AnnotatorNotes T91	Life threatening illness (C3846017)
+T92	DISO 2359 2369	enfermedad
+#59	AnnotatorNotes T92	Life threatening illness (C3846017)
+T93	DISO 2400 2416	condición médica
+#60	AnnotatorNotes T93	C4745084; Medical Condition; Finding
+T94	DISO 2419 2454	disfunción de un sistema de órganos
+T95	LIVB 2475 2487	investigador
+#61	AnnotatorNotes T95	C0035173; Research Personnel; Professional or Occupational Group
+T96	Spec_cue 2489 2494	pueda
+T97	Speculated 2495 2519	comprometer la seguridad
+T98	LIVB 2524 2536	participante
+T100	PHYS 2557 2566	absorción
+T102	PHYS 2590 2599	absorción
+T103	PHYS 2605 2616	metabolismo
+#62	AnnotatorNotes T103	C0025519; Metabolism; Organism Function
+T104	CHEM 2620 2629	ibrutinib
+#63	AnnotatorNotes T104	C3501358; ibrutinib; Organic Chemical · Pharmacologic Substance
+T105	DISO 2642 2659	diabetes mellitus
+#64	AnnotatorNotes T105	C0011849; Diabetes Mellitus; Disease or Syndrome | C1802373; Diabetes mellitus (incl subtypes); Disease or Syndrome
+T106	Neg_cue 2660 2662	no
+T107	Negated 2663 2673	controlada
+T108	PROC 2676 2681	HbA1C
+#65	AnnotatorNotes T108	C0202054; Glucohemoglobin measurement; Laboratory Procedure
+T109	DISO 2688 2691	VIH
+#66	AnnotatorNotes T109	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T110	DISO 2693 2731	infección activa por hepatitis B/C y E
+T81	LIVB 417 423	médico
+T118	Spec_cue 2539 2549	interferir
+T99	Speculated 2557 2566	absorción
+T119	Spec_cue 2572 2582	interferir
+T101	Speculated 2590 2599	absorción
+T120	Speculated 2605 2616	metabolismo
+T60	CHEM 2031 2040	moléculas
+T115	CHEM 2061 2069	molécula
+T121	Duration 2140 2163	al menos 5 vidas medias
+T87	PROC 2219 2249	administración del tratamiento
+#70	AnnotatorNotes T87	Administration of medication C3469597 
+#69	AnnotatorNotes T94	Organ dysfunction syndrome C0342953
+#72	AnnotatorNotes T67	Cardiovascular examination and evaluation C0436125

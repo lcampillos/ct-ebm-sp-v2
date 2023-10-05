@@ -1,0 +1,112 @@
+T1	PROC 47 126	Estudio en fase I/II de la seguridad, tolerabilidad, farmacocinética y eficacia
+T2	CHEM 141 151	relatlimab
+#1	AnnotatorNotes T2	C4724799; Relatlimab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T3	CHEM 156 165	nivolumab
+#2	AnnotatorNotes T3	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T4	LIVB 169 196	participantes pediátricos y
+T5	Age 183 194	pediátricos
+T6	LIVB 197 212	adultos jóvenes
+T7	Age 197 212	adultos jóvenes
+T8	DISO 217 243	linfoma de Hodgkin clásico
+#3	AnnotatorNotes T8	C1333064; Classical Hodgkin's Lymphoma; Neoplastic Process
+T9	DISO 246 264	linfoma no Hodgkin
+#4	AnnotatorNotes T9	C0024305; Lymphoma, Non-Hodgkin; Neoplastic Process
+T11	CHEM 323 332	nivolumab
+#6	AnnotatorNotes T11	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T12	LIVB 336 361	participantes pediátricos
+T13	Age 350 361	pediátricos
+T14	LIVB 364 379	adultos jóvenes
+T15	Age 364 379	adultos jóvenes
+T16	DISO 384 391	linfoma
+#7	AnnotatorNotes T16	C0024299; Lymphoma; Neoplastic Process
+T17	DISO 430 456	Linfoma de Hodgkin clásico
+#8	AnnotatorNotes T17	C1333064; Classical Hodgkin's Lymphoma; Neoplastic Process
+T18	DISO 459 477	linfoma no Hodgkin
+#9	AnnotatorNotes T18	C0024305; Lymphoma, Non-Hodgkin; Neoplastic Process
+T19	DISO 528 554	Linfoma de Hodgkin clásico
+#10	AnnotatorNotes T19	C1333064; Classical Hodgkin's Lymphoma; Neoplastic Process
+T20	DISO 557 575	linfoma no Hodgkin
+#11	AnnotatorNotes T20	C0024305; Lymphoma, Non-Hodgkin; Neoplastic Process
+T21	LIVB 604 632	Participantes de ambos sexos
+T22	Age 633 651	menores de 18 años
+T23	Age 685 711	igual o inferior a 30 años
+T24	DISO 726 729	LHc
+T25	LIVB 731 738	cohorte
+#12	AnnotatorNotes T25	C0599755; Cohort; Population Group
+T26	DISO 744 747	LNH
+#13	AnnotatorNotes T26	C0024305; Lymphoma, Non-Hodgkin; Neoplastic Process
+T27	LIVB 749 756	cohorte
+#14	AnnotatorNotes T27	C0599755; Cohort; Population Group
+T28	LIVB 767 780	Participantes
+T30	PROC 819 841	anatomopatológicamente
+T31	Neg_cue 854 865	ausencia de
+T32	Negated 866 875	respuesta
+T33	PROC 890 927	tratamiento estándar de primera línea
+T34	PROC 940 944	QTDA
+T35	PROC 948 952	TACM
+T36	LIVB 956 969	Participantes
+T38	PROC 1008 1030	anatomopatológicamente
+T39	Neg_cue 1042 1053	ausencia de
+T40	Negated 1054 1063	respuesta
+T41	PROC 1078 1106	tratamiento de primera línea
+#16	AnnotatorNotes T41	C1708063; First line treatment; Therapeutic or Preventive Procedure
+T42	LIVB 1113 1126	participantes
+T43	DISO 1139 1157	enfermedad medible
+T44	PROC 1173 1184	TEP-FDG-TAC
+T45	LIVB 1192 1200	cohortes
+#17	AnnotatorNotes T45	C0599755; Cohort; Population Group
+T46	DISO 1204 1207	LHc
+T47	DISO 1210 1213	LNH
+#18	AnnotatorNotes T47	C0024305; Lymphoma, Non-Hodgkin; Neoplastic Process
+T48	PROC 1243 1254	Tratamiento
+#19	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	CHEM 1269 1336	anticuerpo contra la proteína 4 asociada a linfocitos T citotóxicos
+T50	CHEM 1355 1365	anticuerpo
+#20	AnnotatorNotes T50	C0003241; Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T53	PROC 1504 1516	tratamientos
+#21	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	Negated 1504 1516	tratamientos
+T55	CHEM 1529 1536	PD(L)-1
+T56	PROC 1540 1551	Tratamiento
+#22	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	CHEM 1563 1571	fármacos
+#23	AnnotatorNotes T57	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T58	CHEM 1584 1589	LAG-3
+T59	LIVB 1593 1606	Participantes
+T60	PROC 1611 1647	trasplante autólogo de células madre
+T61	PROC 1649 1653	QTDA
+T62	PROC 1654 1658	TACM
+T63	LIVB 1670 1683	Participantes
+T64	PROC 1704 1732	alotrasplante de médula ósea
+T65	DISO 1735 1771	enfermedad de injerto contra huésped
+#24	AnnotatorNotes T65	C0018133; Graft-vs-Host Disease; Disease or Syndrome
+T66	DISO 1773 1777	EICH
+#25	AnnotatorNotes T66	C0018133; Graft-vs-Host Disease; Disease or Syndrome
+T67	DISO 1812 1816	EICH
+#26	AnnotatorNotes T67	C0018133; Graft-vs-Host Disease; Disease or Syndrome
+T68	LIVB 1832 1845	Participantes
+T69	DISO 1850 1873	enfermedades sistémicas
+#27	AnnotatorNotes T69	C0442893; Systemic disease; Disease or Syndrome
+T70	Neg_cue 1902 1904	no
+T71	Negated 1905 1917	relacionadas
+T72	DISO 1925 1931	cáncer
+#28	AnnotatorNotes T72	C0006826; Malignant Neoplasms; Neoplastic Process
+T73	LIVB 1957 1971	investigadores
+#29	AnnotatorNotes T73	C0035173; Research Personnel; Professional or Occupational Group
+T74	Spec_cue 1980 1993	comprometería
+T75	Speculated 1997 2006	capacidad
+T76	LIVB 2011 2023	participante
+T77	Speculated 2029 2036	tolerar
+T78	PROC 2040 2051	tratamiento
+#30	AnnotatorNotes T78	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T79	LIVB 2067 2080	Participantes
+T80	DISO 2085 2111	enfermedad autoinmunitaria
+#31	AnnotatorNotes T80	C0004364; Autoimmune Diseases; Disease or Syndrome
+T10	CHEM 308 318	Relatlimab
+T87	DISO 974 977	LNH
+T88	DISO 785 788	LHc
+T89	Neg_cue 1487 1499	excepción de
+#33	AnnotatorNotes T43	(C1513041 Measurable Disease)
+#34	AnnotatorNotes T60	 autologous blood donor, stem cells C3650129
+#35	AnnotatorNotes T64	Autologous bone marrow transplant C0194037
+T51	CHEM 1368 1478	fármaco dirigido específicamente a la coestimulación de los linfocitos T o a las vías de los puntos de control

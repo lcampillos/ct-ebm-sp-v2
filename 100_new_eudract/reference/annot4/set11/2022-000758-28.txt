@@ -1,0 +1,20 @@
+EudraCT Nº: 2022-000758-28
+
+Título público: Ensayo para conocer cómo funciona el tratamiento con asundexian y su seguridad en comparación con apixaban para prevenir el ictus o la embolia sistémica en personas con latidos cardíacos irregulares y a menudo rápidos (fibrilación auricular) y con riesgo de ictus.
+
+Título científico: Ensayo fase III multicéntrico, internacional, aleatorizado, controlado con un comparador activo, doble ciego, con doble simulación y 2 grupos paralelos, para comparar la eficacia y la seguridad del inhibidor oral de FXIa asundexian (BAY 2433334) con apixaban para la prevención del ictus o embolia sistémica en participantes masculinos y femeninos de 18 años o más con fibrilación auricular y riesgo de ictus. 
+
+Indicación pública: Prevención de ictus (causados ​​por el bloqueo del suministro de sangre a una parte del cerebro) y coágulos de sangre, en personas con latidos cardíacos irregulares y a menudo rápidos.
+
+Indicación científica: Prevención del ictus y la embolia sistémica en pacientes con fibrilación auricular.
+
+Criterios de inclusión:
+1. 18 años de edad o más (en edad legal de consentimiento según la legislación local) en el momento de firmar el consentimiento informado. 
+2. Fibrilación auricular confirmada por ECG con una indicación para tratamiento indefinido con un anticoagulante oral. 
+3. puntuación de CHA2DS2-VASc ≥ 3 si es hombre o ≥ 4 si es mujer, O puntuación de CHA2DS2-VASc de 2 si es hombre o 3 si es mujer y criterios de enriquecimiento. 
+
+Criterios de exclusión:
+1. Prótesis valvulares cardíacas mecánicas. 
+2. Estenosis mitral de moderada a grave en el momento de la inclusión en el estudio. 
+3. Fibrilación auricular solo de causa reversible. 
+4. Necesidad de anticoagulación crónica por una indicación diferente de la fibrilación auricular. 

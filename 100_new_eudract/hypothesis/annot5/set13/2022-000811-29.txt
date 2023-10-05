@@ -1,0 +1,22 @@
+EudraCT Nº: 2022-000811-29
+
+Título público: Estudio en fase III, aleatorizado y multicéntrico en la enfermedad de Crohn pediátrica (MACARONI-23) 
+
+Título científico: Estudio de plataforma en fase III, aleatorizado y multicéntrico sobre la inhibición de la vía de la IL-23 causada por el p19 para establecer la eficacia en la enfermedad de Crohn pediátrica (MACARONI-23)
+
+Indicación pública: Enfermedad de Crohn pediátrica
+
+Indicación científica: Estudio clínico para evaluar mirikizumab en la enfermedad de Crohn pediátrica
+
+Criterios de inclusión:
+
+1. Los participantes deben tener un diagnóstico de EC o CD fistulizante, con colitis activa, ileítis o ileocolitis, confirmado en cualquier momento en el pasado mediante criterios clínicos, endoscópicos e histológicos.
+2. Los participantes deben tener EC activa de moderada a grave (según lo definido por una puntuación PCDAI inicial >30).
+3. Los participantes deben someterse a una endoscopia con evidencia de EC activa definida como una puntuación SES-CD ≥6 (o ≥4 para participantes con enfermedad ileal aislada) durante la selección para este estudio.
+4. Los participantes deben tener un historial de medicación actual o anterior para la EC que incluya una respuesta inadecuada, pérdida de respuesta o falta de tolerancia al tratamiento actual con inmunomoduladores o con corticosteroides orales o intravenosos o haber recibido terapia biológica/inhibidor de JAK para el tratamiento de la EC y tener un historial documentado de respuesta inadecuada, pérdida de respuesta (LOR) o intolerancia a la terapia biológica/inhibidor de JAK.
+
+Criterios de exclusión:
+
+1. Los participantes no deben tener complicaciones de EC, como estenosis o estenosis sintomáticas, síndrome de intestino corto o cualquier otra manifestación que pueda anticiparse que requiera cirugía.
+2. Los participantes no deben tener un absceso.
+3. Los participantes no deben tener ningún tipo de resección intestinal dentro de las 26 semanas anteriores al inicio ni ninguna otra cirugía intraabdominal dentro de las 12 semanas anteriores al inicio 

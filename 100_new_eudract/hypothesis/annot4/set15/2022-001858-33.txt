@@ -1,0 +1,23 @@
+EudraCT Nº: 2022-001858-33
+
+Título público: Estudio aleatorizado y controlado en el que se comparan esquemas antibióticos convencionales frente a estrategias antimicrobianas guiadas por vigilancia epidemiológica en pacientes infectados con cirrosis.
+
+Título científico: Estidio controlado aleatorizado que compara estrategias antibióticas convencionales frente a regímenes guiados por la vigilancia epidemiológica en pacientes infectados con cirrosis.
+
+Indicación pública: Pacientes con cirrosis, agravada por el desarrollo de una infección bacteriana y que ha requirido ingreso en el hospital. 
+
+Indicación científica: Pacientes hospitalizados con cirrosis descompensada, diagnosticados de infección bacteriana de 48 horas o menos de evolución. 
+
+Criterios de inclusión:
+
+1. Pacientes cirróticos con descompensación aguda de edad ≥18 años.
+2. Confirmación o sospecha de infección bacteriana que requiera tratamiento antibiótico (el diagnóstico se establecerá según las directrices locales, Apéndice 1).
+3. Paciente, represente legal o familiares cercanos firmen el consentimiento informado. 
+
+Criterios de exclusión:
+
+1. Infección bacteriana de duración > 48 horas.
+2. Infección en un paciente cirrótico en estado crítico (ingreso en la UCI). En esta población, la vigilancia epidemiológica es una práctica clínica habitual.
+3. Evidencia de malignidad actual localmente avanzada o metastásica (pueden incluirse pacientes con carcinoma hepatocellular dentro de los criterios de Milan y cáncer de piel no melanocítico).
+4. Mujer embarazada y/o en período de lactancia
+5. Pacientes que no puedan dar el consentimiento informado previo y cuando haya pruebas documentadas de que el paciente no tiene un sustituto legal para tomar decisiones y parezca poco probable que el paciente recupere la conciencia o la capacidad suficiente para dar un consentimiento informado tardío. 

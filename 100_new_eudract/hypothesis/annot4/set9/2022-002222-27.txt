@@ -1,0 +1,19 @@
+EudraCT Nº: 2022-002222-27
+
+Título científico: Ensayo en fase III, aleatorizado, abierto y multicéntrico de domvanalimab, zimberelimab y quimioterapia en comparación con nivolumab y quimioterapia en participantes con adenocarcinoma gástrico, de la unión gastroesofágica y esofágico irresecable o metastásico localmente avanzado que no ha sido tratado previamente 
+
+Indicación científica: Esofágico metastásico o Cáncer Gástrico 
+
+Criterios de inclusión:
+• Participantes con diagnóstico confirmado histológicamente de adenocarcinoma gástrico, esofágico o de la UGE irresecable o metastásico localmente avanzado.
+• Estado funcional del Grupo Oncológico Cooperativo de la Costa Este (ECOG) de los EE. UU. de 0-1.
+• Mínimo una lesión indicadora medible conforme a los Criterios de evaluación de la respuesta en tumores sólidos, versión 1.1 (RECIST v1.1).
+• Funcionamiento adecuado de los órganos y la médula ósea.
+• Capacidad para proporcionar una muestra tumoral de archivo representativa del cáncer en Investigación y adecuada para el análisis central del ligando 1 de la proteína de muerte celular programada (PD-L1).
+
+Criterios de exclusión:
+• Afecciones médicas o trastornos psiquiátricos subyacentes que, en opinión del investigador o del promotor, hagan que la administración del tratamiento específico del estudio sea peligrosa.
+• Constancia de tumor positivo para HER2.
+• Constancia de metástasis en el sistema nervioso central (SNC o cerebro) sintomáticas, sin tratar o en progresión activa.
+• Recepción de tratamiento sistémico previo para el adenocarcinoma gástrico, esofágico o de la UGE irresecable o metastásico localmente avanzado.
+• Uso de vacunas con microbios vivos en los 28 días previos a la aleatorización. 

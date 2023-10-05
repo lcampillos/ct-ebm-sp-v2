@@ -1,0 +1,27 @@
+EudraCT Nº: 2021-001726-22
+
+Título científico: Balón de Cook versus dinoprostona vaginal para la inducción del parto a término en la restricción del crecimiento intrauterino (estudio COLIGROW). 
+
+Indicación pública: Inducción del parto a término en la restricción del crecimiento intrauterino. 
+
+Indicación científica: Inducción del parto a término en la restricción del crecimiento intrauterino. 
+
+Criterios de inclusión:
+- Gestación única
+- Edad ≥ 18 años
+- Edad gestacional datada por ecografía de primer trimestre ≥ 37+0 semanas
+- Presentación cefálica
+- Restricción del crecimiento intrauterino estadio I: presencia de al menos uno de estos dos criterios:
+1) Peso fetal estimado < percentil 3
+2) Peso fetal estimado < percentil 10 y al menos uno de los siguientes:
+- IP arteria umbilical > percentil 95 o
+- Índice cerebro-placentario < percentil 5
+- Puntuación de Bishop < 7
+- Bolsa amniótica íntegra
+- No cesárea anterior
+- No contraindicación para parto vaginal ni para la inducción del parto. 
+
+Criterios de exclusión:
+- Malformación fetal
+- Anomalía genética fetal
+- Infección congénita fetal 

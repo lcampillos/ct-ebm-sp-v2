@@ -1,0 +1,35 @@
+EudraCT Nº:  2022-000904-36
+
+Título público:  Ensayo clínico para evaluar la dosis y el tiempo de administración del verde de indocianina en la colangiografía fluorescente durante la colecistectomía laparoscópica. 
+
+Título científico:  Ensayo clínico aleatorizado para evaluar la dosis y el tiempo de administración del verde de indocianina en la colangiografía fluorescente por infrarrojo cercano durante la colecistectomía laparoscópica. 
+
+Indicación pública:  Colecistectomía laparoscópica 
+
+Criterios de inclusión:
+- Edad mayor a 18 años.
+- Autonomía, autosuficiencia e independencia. 
+- Indicación de CL programada: 
+- Colelitiasis sintomática: antecedentes de cólicos biliares, colecistitis aguda litiásica, coledocolitiasis, colangitis aguda ascendente de origen litiásico o pancreatitis aguda litiásica.
+- Pólipos vesiculares con indicación de cirugía laparoscópica. 
+- Adenomiomatosis vesicular con indicación de cirugía laparoscópica. 
+- Indicación de CL precoz (<72 horas de ingreso por colecistitis aguda litiásica/colecistitis aguda alitiásica/cólico biliar complicado).
+- Indicación de CL de urgencia diferida. 
+- Comprensión de la información.
+- Firma del consentimiento informado. 
+
+Criterios de exclusión:
+- Edad menor a 18 años.
+- Incapacidad. 
+- Embarazo o lactancia.
+- Enfermedad renal crónica (Estadio > IIIb).
+- Reacciones adversas o alergias previas al VI. 
+- Reacciones adversas o alergias previas a excipientes del VI.
+- Reacciones adversas o alergias confirmadas a contrastes iodados.
+- Patología tiroidea funcional (hipertiroidismo, tiroiditis, bocio multinodular tóxico, adenoma tiroideo funcionante). 
+- Cirugía urgente no diferible/emergente de la vesícula biliar. 
+- Cirugía inicial por vía laparotómica.
+- Sospecha previa de carcinoma de vesícula biliar.  
+- Incapacidad de comprender la información necesaria para participar en el estudio. 
+- Rechazo de inclusión dentro del protocolo del estudio. 
+

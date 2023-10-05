@@ -1,0 +1,69 @@
+T1	PROC 36 87	Ensayo clínico abierto, multicéntrico, aleatorizado
+T2	PROC 93 124	evaluar la eficacia y seguridad
+T3	CHEM 128 139	aripiprazol
+#1	AnnotatorNotes T3	C0299792; aripiprazole; Organic Chemical · Pharmacologic Substance
+T4	CHEM 143 155	paliperidona
+#2	AnnotatorNotes T4	C0753678; paliperidone; Organic Chemical · Pharmacologic Substance
+T5	CHEM 158 169	risperidona
+#3	AnnotatorNotes T5	C0073393; risperidone; Organic Chemical · Pharmacologic Substance
+T6	LIVB 201 210	pacientes
+#4	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	DISO 225 243	episodio psicótico
+#5	AnnotatorNotes T7	C0151836; Paranoid reaction; Mental or Behavioral Dysfunction
+T8	LIVB 258 267	Pacientes
+#6	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
+T9	DISO 282 300	episodio psicótico
+#7	AnnotatorNotes T9	C0151836; Paranoid reaction; Mental or Behavioral Dysfunction
+T10	LIVB 331 340	Pacientes
+#8	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	Age 362 380	entre 15 y 40 años
+T12	LIVB 386 395	Pacientes
+#9	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	LIVB 447 456	Pacientes
+#10	AnnotatorNotes T13	C0030705; Patients; Patient or Disabled Group
+T14	DISO 492 510	episodio psicótico
+#11	AnnotatorNotes T14	C0151836; Paranoid reaction; Mental or Behavioral Dysfunction
+T15	LIVB 516 525	Pacientes
+#12	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	PROC 530 542	diagnósticos
+#13	AnnotatorNotes T16	C0011900; Diagnosis; Diagnostic Procedure
+T17	DISO 562 575	esquizofrenia
+#14	AnnotatorNotes T17	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T18	DISO 589 616	trastorno esquizofreniforme
+T19	DISO 618 631	esquizofrenia
+#15	AnnotatorNotes T19	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T20	DISO 633 658	trastorno esquizoafectivo
+#16	AnnotatorNotes T20	C0036337; Schizoaffective Disorder; Mental or Behavioral Dysfunction
+T21	DISO 660 685	trastorno psicótico breve
+T22	DISO 688 723	trastorno psicótico no especificado
+T23	Neg_cue 708 710	no
+T24	Negated 711 723	especificado
+T25	PROC 773 798	tratamiento antipsicótico
+T26	Date 805 820	hace >6 semanas
+T27	PROC 841 855	aleatorización
+#17	AnnotatorNotes T27	C0034656; Randomization; Research Activity
+T28	CHEM 860 867	fármaco
+#18	AnnotatorNotes T28	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T29	LIVB 884 893	Pacientes
+#19	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	DISO 935 959	dependencia a sustancias
+T31	CHEM 973 979	tabaco
+#20	AnnotatorNotes T31	C0040329; Tobacco; Hazardous or Poisonous Substance · Organic Chemical
+T32	LIVB 982 990	cannabis
+#21	AnnotatorNotes T32	C0936079; Cannabis; Plant
+T33	LIVB 997 1006	Pacientes
+#22	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	DISO 1048 1072	discapacidad intelectual
+#23	AnnotatorNotes T34	C3714756; Intellectual Disability; Mental or Behavioral Dysfunction
+T35	LIVB 1078 1087	Pacientes
+#24	AnnotatorNotes T35	C0030705; Patients; Patient or Disabled Group
+T36	DISO 1108 1129	patología neurológica
+T37	DISO 1132 1160	traumatismo craneoencefálico
+#25	AnnotatorNotes T37	C0018674; Craniocerebral Trauma; Injury or Poisoning | C0876926; Traumatic Brain Injury; Injury or Poisoning
+T38	PROC 1187 1206	Tratamiento crónico
+T39	Duration 1199 1206	crónico
+T40	Duration 1207 1216	(>3 meses
+T41	PROC 1218 1240	con corticoides orales
+T42	Route 1234 1240	orales
+T43	Route 1243 1258	intramusculares
+T44	PROC 1261 1287	tratamiento inmunosupresor

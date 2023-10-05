@@ -1,0 +1,88 @@
+T1	PROC 49 95	estudio prospectivo, aleatorizado y controlado
+T2	PROC 138 149	tratamiento
+#1	AnnotatorNotes T2	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T3	CHEM 153 163	tacrolimus
+#2	AnnotatorNotes T3	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T4	PROC 169 184	inmunosupresión
+#3	AnnotatorNotes T4	C0021079; Therapeutic immunosuppression; Therapeutic or Preventive Procedure
+T5	CHEM 195 214	inhibidores de mTor
+#4	AnnotatorNotes T5	C2746052; MTOR Inhibitors; Pharmacologic Substance
+T6	CHEM 217 227	tacrolimus
+#5	AnnotatorNotes T6	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T7	PROC 272 296	serología del SARS-CoV-2
+T8	Dose 308 324	una cuarta dosis
+T9	CHEM 331 361	vacuna de ARNm contra COVID-19
+T10	LIVB 365 374	pacientes
+#6	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	PROC 389 416	trasplante de órgano sólido
+T12	Neg_cue 421 423	no
+T13	Negated 428 438	respondido
+T14	PROC 477 522	ensayo prospectivo, aleatorizado y controlado
+T15	CHEM 565 579	antimetabolito
+#7	AnnotatorNotes T15	C0003376; Antimetabolites; Pharmacologic Substance
+T16	CHEM 583 593	tacrolimus
+#8	AnnotatorNotes T16	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T17	CHEM 596 603	MMF/MPS
+T18	PROC 609 624	inmunosupresión
+#9	AnnotatorNotes T18	C0021079; Therapeutic immunosuppression; Therapeutic or Preventive Procedure
+T19	CHEM 635 645	tacrolimus
+#10	AnnotatorNotes T19	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T20	CHEM 648 667	inhibidores de mTor
+#11	AnnotatorNotes T20	C2746052; MTOR Inhibitors; Pharmacologic Substance
+T21	LIVB 715 725	SARS-CoV-2
+#12	AnnotatorNotes T21	C5203676; SARS-CoV-2; Virus
+T22	Dose 737 753	una cuarta dosis
+T23	CHEM 760 774	vacuna de ARNm
+T24	DISO 785 793	COVID-19
+#13	AnnotatorNotes T24	C5203670; COVID19 (disease); Disease or Syndrome
+T25	LIVB 797 806	pacientes
+#14	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
+T26	PROC 807 839	trasplantados de órganos sólidos
+T27	Neg_cue 844 846	no
+T28	Negated 851 873	respondido previamente
+T29	PROC 946 957	tratamiento
+#15	AnnotatorNotes T29	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T30	CHEM 961 971	tacrolimus
+#16	AnnotatorNotes T30	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T31	CHEM 974 984	tacrolimus
+#17	AnnotatorNotes T31	C0085149; tacrolimus; Organic Chemical · Pharmacologic Substance
+T32	CHEM 987 1004	inhibidor de mTOR
+#18	AnnotatorNotes T32	C2746052; MTOR Inhibitors; Pharmacologic Substance
+T33	LIVB 1012 1021	pacientes
+#19	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	PROC 1022 1052	trasplantados de órgano sólido
+T35	Neg_cue 1058 1060	no
+T36	Negated 1067 1103	respondido a las tres primeras dosis
+T37	CHEM 1110 1116	vacuna
+#20	AnnotatorNotes T37	C0042210; Vaccines; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T38	LIVB 1155 1163	paciente
+#21	AnnotatorNotes T38	C0030705; Patients; Patient or Disabled Group
+T39	Age 1164 1173	≥ 18 años
+T40	LIVB 1174 1184	2.Paciente
+T41	PROC 1185 1197	trasplantado
+#22	AnnotatorNotes T41	C0040732; Transplantation; Therapeutic or Preventive Procedure
+T42	Date 1198 1225	hace un año o más de un año
+T43	ANAT 1229 1242	órgano sólido
+T44	PHYS 1247 1263	Respuesta inmune
+#23	AnnotatorNotes T44	C0301872
+T45	Dose 1320 1327	3 dosis
+T46	CHEM 1335 1360	vacuna de ARNm SARS-CoV-2
+T47	PHYS 1364 1377	Función renal
+#24	AnnotatorNotes T47	C0232804; Renal function; Organ or Tissue Function
+T48	PROC 1390 1401	FG estimado
+T49	PROC 1434 1474	cociente de proteína/creatinina en orina
+T50	PROC 1495 1531	Consentimiento informado por escrito
+T51	PROC 1561 1572	Diagnóstico
+#25	AnnotatorNotes T51	C0011900; Diagnosis; Diagnostic Procedure
+T52	DISO 1583 1638	rechazo mediado por células T o mediado por anticuerpos
+T53	CHEM 1685 1712	vacuna contra el SARS-CoV-2
+T54	DISO 1717 1746	Infección previa por COVID-19
+T55	PROC 1763 1802	anticuerpos específicos del donante HLA
+T56	DISO 1806 1812	Cáncer
+#26	AnnotatorNotes T56	C0006826; Malignant Neoplasms; Neoplastic Process
+T57	Neg_cue 1820 1830	excluyendo
+T58	DISO 1834 1860	cáncer de piel no melanoma
+#27	AnnotatorNotes T58	C0699893; Skin carcinoma; Neoplastic Process
+T59	Negated 1834 1860	cáncer de piel no melanoma
+T60	PHYS 1864 1872	Embarazo
+#28	AnnotatorNotes T60	C0032961; Pregnancy; Organism Function

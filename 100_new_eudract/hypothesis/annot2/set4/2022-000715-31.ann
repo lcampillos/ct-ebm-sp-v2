@@ -1,0 +1,229 @@
+T1	PROC 46 55	Protocolo
+#1	AnnotatorNotes T1	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T2	PROC 69 85	ensayos clínicos
+#2	AnnotatorNotes T2	C0008976; Clinical Trials; Research Activity
+T3	DISO 97 111	macrotrombosis
+T4	DISO 113 133	microinmunotrombosis
+T5	DISO 135 160	hiperinflamación vascular
+T6	DISO 163 182	hipercoagulabilidad
+#3	AnnotatorNotes T6	C0398623; Thrombophilia; Disease or Syndrome
+T7	ANAT 188 227	sistema renina-angiotensina-aldosterona
+#4	AnnotatorNotes T7	C0086907; Renin-Angiotensin-Aldosterone System; Body System
+T8	ANAT 229 233	SRAA
+#5	AnnotatorNotes T8	C0086907; Renin-Angiotensin-Aldosterone System; Body System | C0228062; Reticular activating system; Body System
+T9	LIVB 238 247	pacientes
+#6	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	PROC 248 262	hospitalizados
+#7	AnnotatorNotes T10	C0019993; Hospitalization; Health Care Activity
+T11	DISO 267 275	COVID-19
+#8	AnnotatorNotes T11	C5203670; COVID19 (disease); Disease or Syndrome
+T12	DISO 299 330	Infección por el virus COVID-19
+T13	PROC 360 375	Hospitalización
+#9	AnnotatorNotes T13	C0019993; Hospitalization; Health Care Activity
+T14	DISO 380 388	COVID-19
+#10	AnnotatorNotes T14	C5203670; COVID19 (disease); Disease or Syndrome
+T15	Age 392 400	≥18 años
+T16	DISO 412 436	Infección por SARS-CoV-2
+#11	AnnotatorNotes T16	C5203670; COVID19 (disease); Disease or Syndrome
+T17	PROC 462 486	prueba de ácido nucleico
+#12	AnnotatorNotes T17	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T18	PROC 488 491	NAT
+#13	AnnotatorNotes T18	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T19	Duration 519 529	los 3 días
+T20	PROC 546 560	aleatorización
+#14	AnnotatorNotes T20	C0034656; Randomization; Research Activity
+T21	PROC 585 588	NAT
+#15	AnnotatorNotes T21	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T22	PROC 591 598	pruebas
+#16	AnnotatorNotes T22	C1510438; Assay; Laboratory Procedure
+T23	Duration 612 625	más de 3 días
+T24	PROC 638 652	aleatorización
+#17	AnnotatorNotes T24	C0034656; Randomization; Research Activity
+T25	DISO 655 676	enfermedad progresiva
+T26	DISO 689 713	infección por SARS-CoV-2
+#18	AnnotatorNotes T26	C5203670; COVID19 (disease); Disease or Syndrome
+T27	Date 714 722	en curso
+T28	LIVB 732 756	investigador responsable
+T29	PROC 767 774	pruebas
+#19	AnnotatorNotes T29	C1510438; Assay; Laboratory Procedure
+T30	PROC 789 792	NAT
+#20	AnnotatorNotes T30	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T31	PROC 874 877	NAT
+#21	AnnotatorNotes T31	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T32	PROC 896 905	protocolo
+#22	AnnotatorNotes T32	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T33	PROC 961 968	pruebas
+#23	AnnotatorNotes T33	C1510438; Assay; Laboratory Procedure
+T34	Neg_cue 969 978	distintas
+T35	PROC 983 986	NAT
+#24	AnnotatorNotes T35	C0200932; Nucleic Acid Amplification Tests; Laboratory Procedure
+T36	DISO 1003 1012	Hipoxemia
+#25	AnnotatorNotes T36	C0700292; Hypoxemia; Finding
+T37	PROC 1028 1032	SpO2
+T38	CHEM 1078 1085	oxígeno
+#26	AnnotatorNotes T38	C0030054; oxygen; Biologically Active Substance · Element, Ion, or Isotope · Pharmacologic Substance
+T39	PROC 1086 1099	suplementario
+T40	PROC 1117 1121	SpO2
+T41	CHEM 1142 1149	oxígeno
+#27	AnnotatorNotes T41	C0030054; oxygen; Biologically Active Substance · Element, Ion, or Isotope · Pharmacologic Substance
+T42	PROC 1150 1163	suplementario
+T43	PROC 1181 1185	SpO2
+T44	LIVB 1200 1208	paciente
+#28	AnnotatorNotes T44	C0030705; Patients; Patient or Disabled Group
+T45	PROC 1213 1244	tratamiento crónico con oxígeno
+T46	Duration 1225 1232	crónico
+T47	DISO 1248 1256	Síntomas
+#29	AnnotatorNotes T47	C1457887; Symptoms; Sign or Symptom
+T48	DISO 1259 1265	signos
+#30	AnnotatorNotes T48	C0311392; Physical findings; Finding
+T49	DISO 1269 1277	COVID-19
+#31	AnnotatorNotes T49	C5203670; COVID19 (disease); Disease or Syndrome
+T50	DISO 1332 1335	tos
+#32	AnnotatorNotes T50	C0010200; Coughing; Sign or Symptom
+T51	PROC 1339 1359	temperatura corporal
+T52	DISO 1419 1425	fatiga
+#33	AnnotatorNotes T52	C0015672; Fatigue; Sign or Symptom
+T53	DISO 1427 1433	disnea
+#34	AnnotatorNotes T53	C0013404; Dyspnea; Sign or Symptom
+T54	DISO 1436 1452	falta de aliento
+#35	AnnotatorNotes T54	C0013404; Dyspnea; Sign or Symptom
+T55	DISO 1457 1471	dolor torácico
+#36	AnnotatorNotes T55	C0008031; Chest Pain; Sign or Symptom
+T56	DISO 1475 1486	infiltrados
+#37	AnnotatorNotes T56	C0332448; Infiltration; Pathologic Function
+T57	PROC 1494 1511	imágenes de tórax
+T58	PROC 1513 1524	radiografía
+#38	AnnotatorNotes T58	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T59	PROC 1526 1529	TAC
+#39	AnnotatorNotes T59	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T60	PROC 1531 1549	ecografía pulmonar
+T61	DISO 1597 1617	síntomas de COVID-19
+T62	Duration 1618 1626	>14 días
+T63	PROC 1639 1653	aleatorización
+#40	AnnotatorNotes T63	C0034656; Randomization; Research Activity
+T64	PROC 1657 1670	Hospitalizado
+#41	AnnotatorNotes T64	C0019993; Hospitalization; Health Care Activity
+T65	Duration 1679 1688	>72 horas
+T66	PROC 1701 1715	aleatorización
+#42	AnnotatorNotes T66	C0034656; Randomization; Research Activity
+T67	PHYS 1719 1727	Embarazo
+#43	AnnotatorNotes T67	C0032961; Pregnancy; Organism Function
+T68	PHYS 1731 1740	Lactancia
+#44	AnnotatorNotes T68	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T69	LIVB 1744 1755	Prisioneros
+T70	DISO 1759 1784	Enfermedad renal terminal
+#45	AnnotatorNotes T70	C0022661; Kidney Failure, Chronic; Disease or Syndrome
+T71	DISO 1786 1789	ERT
+T72	PROC 1794 1802	diálisis
+#46	AnnotatorNotes T72	C4551529; Renal Dialysis; Therapeutic or Preventive Procedure
+T73	LIVB 1809 1817	paciente
+#47	AnnotatorNotes T73	C0030705; Patients; Patient or Disabled Group
+T74	Neg_cue 1840 1842	no
+T75	PROC 1863 1881	tratamiento médico
+#48	AnnotatorNotes T75	C0418981; Medical therapy; Therapeutic or Preventive Procedure
+T76	Negated 1863 1881	tratamiento médico
+T77	Negated 1882 1890	completo
+T78	LIVB 1898 1906	paciente
+#49	AnnotatorNotes T78	C0030705; Patients; Patient or Disabled Group
+T79	Neg_cue 1925 1927	No
+T80	PROC 1928 1936	reanimar
+#50	AnnotatorNotes T80	C0035273; Resuscitation procedure; Therapeutic or Preventive Procedure
+T81	Negated 1928 1936	reanimar
+T82	Neg_cue 1941 1947	impida
+T83	PROC 1952 1974	compresiones del tórax
+T84	Negated 1952 1974	compresiones del tórax
+T85	DISO 1986 2001	parada cardiaca
+#51	AnnotatorNotes T85	C0018790; Cardiac Arrest; Disease or Syndrome
+T86	PROC 2040 2058	tratamiento médico
+#52	AnnotatorNotes T86	C0418981; Medical therapy; Therapeutic or Preventive Procedure
+T87	LIVB 2102 2120	médico responsable
+T88	PROC 2125 2136	tratamiento
+#53	AnnotatorNotes T88	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T89	Neg_cue 2149 2165	incapacidad para
+T90	Negated 2166 2198	participar en los procedimientos
+T91	PROC 2184 2198	procedimientos
+T92	Negated 2216 2229	participación
+T93	Neg_cue 2230 2232	no
+T94	Negated 2239 2244	mejor
+T95	LIVB 2253 2261	paciente
+#54	AnnotatorNotes T95	C0030705; Patients; Patient or Disabled Group
+T96	CHEM 2311 2323	fostamatinib
+T97	PROC 2328 2340	Aleatorizado
+#55	AnnotatorNotes T97	C0034656; Randomization; Research Activity
+T98	CHEM 2367 2379	fostamatinib
+T99	Duration 2383 2405	los 30 días anteriores
+T100	CHEM 2454 2466	fostamatinib
+T101	Duration 2485 2497	las 24 horas
+T102	PROC 2511 2525	aleatorización
+#56	AnnotatorNotes T102	C0034656; Randomization; Research Activity
+T103	PROC 2530 2533	AST
+#57	AnnotatorNotes T103	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T104	PROC 2536 2539	ALT
+#58	AnnotatorNotes T104	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T105	PROC 2587 2590	ALT
+#59	AnnotatorNotes T105	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T106	PROC 2593 2596	AST
+#60	AnnotatorNotes T106	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T107	PROC 2609 2626	bilirrubina total
+#61	AnnotatorNotes T107	C0201913; Bilirubin, total measurement; Laboratory Procedure
+T108	PROC 2640 2643	PAS
+#62	AnnotatorNotes T108	C0031067; Periodic Acid-Schiff Reaction; Laboratory Procedure | C1306620; Systolic blood pressure measurement; Diagnostic Procedure
+T109	PROC 2657 2660	PAD
+#63	AnnotatorNotes T109	C1305849; Diastolic blood pressure measurement; Diagnostic Procedure
+T110	PROC 2707 2721	aleatorización
+#64	AnnotatorNotes T110	C0034656; Randomization; Research Activity
+T111	PROC 2725 2728	RAN
+#65	AnnotatorNotes T111	C0948762; Absolute neutrophil count; Laboratory Procedure
+T112	LIVB 2745 2753	paciente
+#66	AnnotatorNotes T112	C0030705; Patients; Patient or Disabled Group
+T113	CHEM 2773 2802	moduladores potentes de CYP3A
+T114	CHEM 2825 2839	claritromicina
+#67	AnnotatorNotes T114	C0055856; clarithromycin; Antibiotic · Organic Chemical
+T115	CHEM 2841 2850	indinavir
+#68	AnnotatorNotes T115	C0376637; indinavir; Organic Chemical · Pharmacologic Substance
+T116	CHEM 2852 2863	itraconazol
+#69	AnnotatorNotes T116	C0064113; itraconazole; Organic Chemical · Pharmacologic Substance
+T117	CHEM 2865 2876	ketoconazol
+#70	AnnotatorNotes T117	C0022625; ketoconazole; Organic Chemical · Pharmacologic Substance
+T118	CHEM 2878 2888	nefazodona
+#71	AnnotatorNotes T118	C0068485; nefazodone; Organic Chemical · Pharmacologic Substance
+T119	CHEM 2890 2900	nelfinavir
+#72	AnnotatorNotes T119	C0525005; nelfinavir; Organic Chemical · Pharmacologic Substance
+T120	CHEM 2902 2911	ritonavir
+#73	AnnotatorNotes T120	C0292818; ritonavir; Organic Chemical · Pharmacologic Substance
+T121	CHEM 2913 2923	saquinavir
+#74	AnnotatorNotes T121	C0286738; saquinavir; Organic Chemical · Pharmacologic Substance
+T122	CHEM 2925 2938	telitromicina
+#75	AnnotatorNotes T122	C0907410; telithromycin; Antibiotic · Organic Chemical
+T123	CHEM 2940 2955	troleandomicina
+#76	AnnotatorNotes T123	C0041165; troleandomycin; Antibiotic · Organic Chemical
+T124	CHEM 2957 2970	carbamazepina
+#77	AnnotatorNotes T124	C0006949; carbamazepine; Organic Chemical · Pharmacologic Substance
+T125	CHEM 2972 2981	efavirenz
+#78	AnnotatorNotes T125	C0674428; efavirenz; Organic Chemical · Pharmacologic Substance
+T126	CHEM 2983 2995	enzalutamida
+#79	AnnotatorNotes T126	C3496793; enzalutamide; Organic Chemical · Pharmacologic Substance
+T127	CHEM 2997 3007	modafinilo
+#80	AnnotatorNotes T127	C0066677; modafinil; Organic Chemical · Pharmacologic Substance
+T128	CHEM 3009 3019	nevirapina
+#81	AnnotatorNotes T128	C0132326; nevirapine; Organic Chemical · Pharmacologic Substance
+T129	CHEM 3021 3034	oxcarbazepina
+#82	AnnotatorNotes T129	C0069751; oxcarbazepine; Organic Chemical · Pharmacologic Substance
+T130	CHEM 3036 3048	fenobarbital
+#83	AnnotatorNotes T130	C0031412; phenobarbital; Organic Chemical · Pharmacologic Substance
+T131	CHEM 3050 3059	fenitoína
+#84	AnnotatorNotes T131	C0031507; phenytoin; Organic Chemical · Pharmacologic Substance
+T132	CHEM 3061 3071	rifabutina
+#85	AnnotatorNotes T132	C0140575; rifabutin; Antibiotic · Organic Chemical
+T133	CHEM 3074 3085	rifampicina
+#86	AnnotatorNotes T133	C0035608; rifampin; Antibiotic · Organic Chemical
+T134	CHEM 3087 3105	hierba de San Juan
+T135	CHEM 3108 3120	troglitazona
+#87	AnnotatorNotes T135	C0245514; troglitazone; Organic Chemical · Pharmacologic Substance
+T136	LIVB 3129 3137	paciente
+#88	AnnotatorNotes T136	C0030705; Patients; Patient or Disabled Group
+T137	Neg_cue 3138 3140	no
+T138	Negated 3141 3157	puede participar
+T139	Neg_cue 3160 3167	rechaza
+T140	Negated 3168 3178	participar
+T141	CHEM 3194 3206	fostamatinib

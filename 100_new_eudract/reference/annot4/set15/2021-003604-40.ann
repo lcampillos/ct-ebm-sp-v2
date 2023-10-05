@@ -1,0 +1,174 @@
+T2	Form 90 95	crema
+T3	CHEM 99 109	rapamicina
+#1	AnnotatorNotes T3	C0072980; sirolimus; Antibiotic · Organic Chemical
+T4	PROC 110 130	aplicada tópicamente
+T5	Route 119 130	tópicamente
+T6	LIVB 133 142	pacientes
+#2	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	PROC 143 157	diagnosticados
+#3	AnnotatorNotes T7	C0011900; Diagnosis; Diagnostic Procedure
+T8	DISO 162 187	manchas en vino de Oporto
+#4	AnnotatorNotes T8	C0235752; Port-Wine Stain; Congenital Abnormality
+T10	CHEM 251 261	rapamicina
+#5	AnnotatorNotes T10	C0072980; sirolimus; Antibiotic · Organic Chemical
+T11	PROC 263 417	Estudio preliminar de la eficacia (dosis-respuesta) de fase II, con enmascaramiento doble, comparativo con un placebo, aleatorizado y con grupos paralelos
+T12	Form 489 494	crema
+T13	CHEM 498 508	rapamicina
+#6	AnnotatorNotes T13	C0072980; sirolimus; Antibiotic · Organic Chemical
+T14	PROC 509 529	aplicada tópicamente
+T15	Route 518 529	tópicamente
+T16	LIVB 532 541	pacientes
+#7	AnnotatorNotes T16	C0030705; Patients; Patient or Disabled Group
+T17	PROC 542 556	diagnosticados
+#8	AnnotatorNotes T17	C0011900; Diagnosis; Diagnostic Procedure
+T18	DISO 561 586	manchas en vino de Oporto
+#9	AnnotatorNotes T18	C0235752; Port-Wine Stain; Congenital Abnormality
+T19	LIVB 608 617	Pacientes
+#10	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	PROC 618 632	diagnosticados
+#11	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	DISO 637 662	manchas en vino de Oporto
+#12	AnnotatorNotes T21	C0235752; Port-Wine Stain; Congenital Abnormality
+T24	LIVB 742 766	Pacientes de ambos sexos
+T25	Age 770 789	≥3 meses y ≤18 años
+T26	PROC 826 850	consentimiento informado
+#14	AnnotatorNotes T26	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T27	LIVB 856 865	Pacientes
+#15	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	DISO 880 905	manchas en vino de Oporto
+#16	AnnotatorNotes T28	C0235752; Port-Wine Stain; Congenital Abnormality
+T29	ANAT 912 916	cara
+#17	AnnotatorNotes T29	C0015450; Face; Body Location or Region | C1281591; Entire face; Body Location or Region
+T30	ANAT 921 927	cuello
+#18	AnnotatorNotes T30	C0007874; Cervix Uteri; Body Part, Organ, or Organ Component | C0027530; Neck; Body Location or Region | C1281592; Entire neck; Body Part, Organ, or Organ Component
+T31	ANAT 932 938	tronco
+#19	AnnotatorNotes T31	C0460005; Trunk structure; Body Location or Region | C1280632; Entire trunk; Body Part, Organ, or Organ Component
+T32	ANAT 945 951	brazos
+#20	AnnotatorNotes T32	C0446516; Upper arm; Body Location or Region | C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269612; Entire upper arm; Body Part, Organ, or Organ Component
+T33	DISO 971 996	manchas en vino de Oporto
+#21	AnnotatorNotes T33	C0235752; Port-Wine Stain; Congenital Abnormality
+T34	LIVB 1063 1072	pacientes
+#22	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
+T35	LIVB 1080 1102	representantes legales
+T36	PHYS 1119 1129	comprender
+T37	PROC 1149 1164	estudio clínico
+#23	AnnotatorNotes T37	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T38	PROC 1184 1220	consentimiento informado por escrito
+T39	LIVB 1252 1261	pacientes
+#24	AnnotatorNotes T39	C0030705; Patients; Patient or Disabled Group
+T40	LIVB 1269 1291	representantes legales
+T41	LIVB 1327 1335	paciente
+#25	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	PROC 1350 1363	instrucciones
+#26	AnnotatorNotes T42	C0220931; Training; Educational Activity
+T43	LIVB 1368 1380	investigador
+#27	AnnotatorNotes T43	C0035173; Research Personnel; Professional or Occupational Group
+T44	LIVB 1387 1411	investigador colaborador
+T45	LIVB 1421 1430	pacientes
+#28	AnnotatorNotes T45	C0030705; Patients; Patient or Disabled Group
+T47	Form 1498 1503	crema
+T50	ANAT 1570 1574	piel
+#31	AnnotatorNotes T50	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T51	LIVB 1652 1661	Pacientes
+#32	AnnotatorNotes T51	C0030705; Patients; Patient or Disabled Group
+T52	PROC 1690 1701	tratamiento
+#33	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	DISO 1705 1708	LCP
+#34	AnnotatorNotes T53	C0023484; Leukemia, Plasma Cell; Neoplastic Process
+T54	PROC 1724 1735	tratamiento
+#35	AnnotatorNotes T54	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T55	ANAT 1773 1777	piel
+#36	AnnotatorNotes T55	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T56	LIVB 1843 1852	Pacientes
+#37	AnnotatorNotes T56	C0030705; Patients; Patient or Disabled Group
+T57	DISO 1857 1860	MVO
+T58	ANAT 1868 1889	extremidades distales
+T59	ANAT 1901 1913	partes acras
+T60	LIVB 1918 1927	Pacientes
+#38	AnnotatorNotes T60	C0030705; Patients; Patient or Disabled Group
+T63	Neg_cue 1954 1956	no
+T65	PROC 1974 1990	plan terapéutico
+T66	PROC 2006 2033	evaluaciones de seguimiento
+T67	Negated 2006 2033	evaluaciones de seguimiento
+T68	LIVB 2039 2048	Pacientes
+#39	AnnotatorNotes T68	C0030705; Patients; Patient or Disabled Group
+T69	DISO 2053 2070	lesiones cutáneas
+#40	AnnotatorNotes T69	C0037284; Skin lesion; Disease or Syndrome | C3241942; Sore on skin; Finding
+T70	DISO 2084 2093	erosiones
+#41	AnnotatorNotes T70	C0015256; Excoriation; Injury or Poisoning | C0040436; Tooth Erosion; Disease or Syndrome | C0333307; Superficial ulcer; Acquired Abnormality | C3887524; Skin Erosion; Disease or Syndrome
+T71	DISO 2096 2103	úlceras
+#42	AnnotatorNotes T71	C0041582; Ulcer; Pathologic Function
+T72	LIVB 2109 2118	Pacientes
+#43	AnnotatorNotes T72	C0030705; Patients; Patient or Disabled Group
+T73	DISO 2123 2140	hipersensibilidad
+#44	AnnotatorNotes T73	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T74	LIVB 2203 2212	Pacientes
+#45	AnnotatorNotes T74	C0030705; Patients; Patient or Disabled Group
+T75	PROC 2232 2253	tratamiento sistémico
+T76	CHEM 2258 2268	rapamicina
+#46	AnnotatorNotes T76	C0072980; sirolimus; Antibiotic · Organic Chemical
+T77	CHEM 2269 2278	sirólimus
+#47	AnnotatorNotes T77	C0072980; sirolimus; Antibiotic · Organic Chemical
+T78	CHEM 2280 2290	everólimus
+#48	AnnotatorNotes T78	C0541315; everolimus; Organic Chemical · Pharmacologic Substance
+T79	CHEM 2293 2305	temsirólimus
+#49	AnnotatorNotes T79	C1707080; temsirolimus; Organic Chemical · Pharmacologic Substance
+T80	Duration 2326 2337	los 3 meses
+T81	PROC 2352 2365	reclutamiento
+#50	AnnotatorNotes T81	C0242800; Patient Recruitment; Research Activity
+T82	LIVB 2371 2380	Pacientes
+#51	AnnotatorNotes T82	C0030705; Patients; Patient or Disabled Group
+T83	PROC 2400 2421	tratamiento con láser
+T84	PROC 2448 2471	intervención quirúrgica
+#52	AnnotatorNotes T84	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T85	PROC 2477 2483	tratar
+T86	DISO 2487 2511	mancha en vino de Oporto
+#53	AnnotatorNotes T86	C0235752; Port-Wine Stain; Congenital Abnormality
+T87	Duration 2532 2543	los 3 meses
+T88	PROC 2558 2571	reclutamiento
+#54	AnnotatorNotes T88	C0242800; Patient Recruitment; Research Activity
+T89	LIVB 2591 2600	Pacientes
+#55	AnnotatorNotes T89	C0030705; Patients; Patient or Disabled Group
+T90	PROC 2631 2646	estudio clínico
+#56	AnnotatorNotes T90	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T91	Duration 2667 2678	los 3 meses
+T92	PROC 2700 2713	reclutamiento
+#57	AnnotatorNotes T92	C0242800; Patient Recruitment; Research Activity
+T93	LIVB 2719 2728	Pacientes
+#58	AnnotatorNotes T93	C0030705; Patients; Patient or Disabled Group
+T94	LIVB 2736 2748	investigador
+#59	AnnotatorNotes T94	C0035173; Research Personnel; Professional or Occupational Group
+T95	LIVB 2754 2778	investigador colaborador
+T98	PROC 2833 2848	estudio clínico
+#60	AnnotatorNotes T98	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T100	LIVB 2907 2914	Mujeres
+#61	AnnotatorNotes T100	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T101	Neg_cue 2980 2982	no
+T102	PROC 2992 3015	métodos anticonceptivos
+#62	AnnotatorNotes T102	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T103	Negated 2992 3015	métodos anticonceptivos
+T104	LIVB 3029 3036	varones
+T105	Neg_cue 3061 3063	no
+T106	PROC 3073 3096	métodos anticonceptivos
+#63	AnnotatorNotes T106	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T107	Negated 3073 3096	métodos anticonceptivos
+T108	LIVB 3113 3122	Pacientes
+#64	AnnotatorNotes T108	C0030705; Patients; Patient or Disabled Group
+T109	DISO 3127 3161	disfunción del sistema inmunitario
+T110	PROC 3194 3220	tratamiento inmunodepresor
+T1	PROC 44 83	Estudio de eficacia y búsqueda de dosis
+T9	PROC 208 247	Estudio de eficacia y búsqueda de dosis
+T22	DISO 687 712	Manchas en vino de Oporto
+T23	PROC 1485 1503	aplicarse la crema
+T46	DISO 1529 1553	mancha en vino de Oporto
+T48	PROC 1628 1646	escala Fitzpatrick
+T49	PROC 1819 1837	escala Fitzpatrick
+T61	Negated 1974 1990	plan terapéutico
+T111	PROC 1300 1322	cumplimentar el diario
+T99	LIVB 2855 2874	Mujeres embarazadas
+T112	PHYS 2891 2900	lactancia
+T62	CHEM 2161 2185	componentes del producto
+T64	Spec_cue 2919 2925	puedan
+T113	PHYS 2935 2946	embarazadas
+T114	Speculated 2935 2946	embarazadas
+T96	Route 2244 2253	sistémico

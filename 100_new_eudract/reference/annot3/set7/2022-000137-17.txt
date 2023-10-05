@@ -1,0 +1,27 @@
+EudraCT Nº:  2022-000137-17
+
+Título público:  Estudio de Ozuriftamab Vedotin (BA3021) solo y en combinación con Nivolumab en pacientes con tumores sólidos avanzados 
+
+Título científico:  Estudio de fase 1/2 de aumento y ampliación de la dosis de ozuriftamab vedotin (BA3021) en monoterapia y en combinación con nivolumab en pacientes con tumores sólidos en estadio avanzado 
+
+Indicación pública:  Tumores sólidos en estadio avanzado 
+
+Criterios de inclusión:
+Los pacientes deben:
+- Presentar cáncer de pulmón no microcítico (CPNM) o melanoma localmente avanzado, irresecable o metastásico, confirmado histológica o citológicamente.
+- Edad ≥18 años.
+- Función renal adecuada;
+- Función hepática adecuada;
+- Función hematológica adecuada;
+- Tener un Categoría funcional del Eastern Cooperative Oncology Group (ECOG) de 0 o 1;
+- Esperanza de vida de al menos 3 meses 
+
+Criterios de exclusión:
+- Cardiopatía clínicamente significativa;
+- Presencia de metástasis sin controlar en el sistema nervioso central;
+- Tratamiento previo con un derivado de la auristatina (conjugado o sin conjugar) / una carga activa dirigida al sitio de unión a la vinca;
+- Antecedentes de reacciones alérgicas de grado ≥3 al tratamiento con AcM, así como presencia o sospecha de alergia o intolerancia a cualquiera de los medicamentos que se administrarán durante este studio;
+- Haberse sometido a una intervención de cirugía mayor en el transcurso de las 4 semanas anteriores a la primera administración de BA3021;
+- Antecedentes de resultados positivos en pruebas del virus de la inmunodeficiencia humana (VIH) o presencia del síndrome de inmunodeficiencia adquirida (sida);
+- Mujeres embarazadas o en período de lactancia 
+

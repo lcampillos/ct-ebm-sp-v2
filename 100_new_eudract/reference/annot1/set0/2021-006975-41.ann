@@ -1,0 +1,121 @@
+T1	PROC 0 34	Terapia de deprivación androgénica
+T2	Duration 35 60	de corta ó larga duración
+T3	PROC 80 103	radioterapia de rescate
+T4	LIVB 107 116	pacientes
+#1	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	DISO 121 139	cáncer de próstata
+#2	AnnotatorNotes T5	C0376358; Malignant neoplasm of prostate; Neoplastic Process
+T6	DISO 144 163	recidiva bioquímica
+#3	AnnotatorNotes T6	C2825055; Recurrence (disease attribute); Pathologic Function
+T7	PROC 169 176	cirugía
+#4	AnnotatorNotes T7	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T8	PROC 181 236	ensayo fase III aleatorizado, controlado, multicéntrico
+T9	PROC 261 295	Terapia de deprivación androgénica
+T10	Duration 296 321	de corta ó larga duración
+T11	PROC 341 364	radioterapia de rescate
+T12	LIVB 368 377	pacientes
+#5	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	DISO 382 400	cáncer de próstata
+T14	DISO 405 424	recidiva bioquímica
+#6	AnnotatorNotes T14	C2825055; Recurrence (disease attribute); Pathologic Function
+T15	PROC 430 437	cirugía
+#7	AnnotatorNotes T15	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T16	DISO 459 477	cáncer de próstata
+#8	AnnotatorNotes T16	C0376358; Malignant neoplasm of prostate; Neoplastic Process
+T17	DISO 506 524	Cáncer de próstata
+#9	AnnotatorNotes T17	C0376358; Malignant neoplasm of prostate; Neoplastic Process
+T18	PROC 536 552	histológicamente
+T20	PROC 566 588	prostatectomía radical
+#10	AnnotatorNotes T20	C0194810; Radical prostatectomy; Therapeutic or Preventive Procedure
+T21	PROC 590 592	PR
+#11	AnnotatorNotes T21	C0337380; Endoscopic retrograde pancreatography; Diagnostic Procedure
+T22	LIVB 614 623	pacientes
+#12	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	Neg_cue 624 627	sin
+T24	PROC 628 643	linfadenectomía
+#13	AnnotatorNotes T24	C0024203; Lymph node excision; Therapeutic or Preventive Procedure
+T25	Negated 628 643	linfadenectomía
+T26	DISO 648 667	Recidiva bioquímica
+#14	AnnotatorNotes T26	C2825055; Recurrence (disease attribute); Pathologic Function
+T27	PROC 672 675	PSA
+#15	AnnotatorNotes T27	C0201544; Prostate specific antigen measurement; Laboratory Procedure
+T28	PROC 681 695	prostatectomía
+#16	AnnotatorNotes T28	C0033573; Prostatectomy; Therapeutic or Preventive Procedure
+T29	Duration 777 788	≥ 2 semanas
+T30	PROC 793 805	nivel de PSA
+T31	PROC 850 857	Gleason
+T32	PROC 903 906	PSA
+#17	AnnotatorNotes T32	C0201544; Prostate specific antigen measurement; Laboratory Procedure
+T33	PROC 928 940	nivel de PSA
+T34	PROC 970 990	estudio de extensión
+T35	PROC 1001 1027	pruebas de imagen avanzada
+T36	PROC 1033 1036	PET
+#18	AnnotatorNotes T36	C0032743; Positron-Emission Tomography; Diagnostic Procedure
+T37	PROC 1044 1050	Colina
+T38	PROC 1082 1085	TAC
+#19	AnnotatorNotes T38	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T39	PROC 1088 1104	gammagrafía ósea
+#20	AnnotatorNotes T39	C0203668; Radioisotope scan of bone; Diagnostic Procedure | C3889015; Bone scintigraphy; Diagnostic Procedure
+T40	PROC 1113 1125	nivel de PSA
+T41	Neg_cue 1152 1154	no
+T42	PROC 1171 1185	estadificación
+T43	Negated 1171 1185	estadificación
+T44	DISO 1205 1215	metástasis
+#21	AnnotatorNotes T44	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T45	LIVB 1267 1276	Pacientes
+#22	AnnotatorNotes T45	C0030705; Patients; Patient or Disabled Group
+T46	PROC 1421 1430	protocolo
+#23	AnnotatorNotes T46	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T47	PROC 1444 1465	Nivel de testosterona
+#24	AnnotatorNotes T47	C0523912; Testosterone measurement; Laboratory Procedure
+T48	LIVB 1523 1532	pacientes
+#25	AnnotatorNotes T48	C0030705; Patients; Patient or Disabled Group
+T49	Duration 1566 1574	> 5 años
+T50	PROC 1578 1602	Consentimiento informado
+#26	AnnotatorNotes T50	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T51	DISO 1654 1668	enfermedad pN1
+T52	ANAT 1675 1693	muestra quirúrgica
+T53	DISO 1719 1742	enfermedad macroscópica
+T55	PROC 1771 1783	nivel de PSA
+T56	PROC 1787 1798	diagnóstico
+#27	AnnotatorNotes T56	C0011900; Diagnosis; Diagnostic Procedure
+T57	PROC 1840 1857	pruebas de imagen
+T58	PROC 1859 1862	TAC
+#28	AnnotatorNotes T58	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T59	PROC 1865 1881	gammagrafía ósea
+#29	AnnotatorNotes T59	C0203668; Radioisotope scan of bone; Diagnostic Procedure | C3889015; Bone scintigraphy; Diagnostic Procedure
+T60	PROC 1886 1889	PET
+#30	AnnotatorNotes T60	C0032743; Positron-Emission Tomography; Diagnostic Procedure
+T61	PROC 1890 1892	TC
+#31	AnnotatorNotes T61	C0018823; Heart Transplantation; Therapeutic or Preventive Procedure | C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T62	PROC 1894 1901	RM Body
+T63	PROC 1907 1910	PSA
+#32	AnnotatorNotes T63	C0201544; Prostate specific antigen measurement; Laboratory Procedure
+T64	PROC 1979 2001	prostatectomía radical
+#33	AnnotatorNotes T64	C0194810; Radical prostatectomy; Therapeutic or Preventive Procedure
+T65	PROC 2006 2016	RT pélvica
+T66	PROC 2067 2078	irradiación
+T67	Contraindicated 2067 2078	irradiación
+T68	PROC 2082 2108	Tratamiento activo con TDA
+#34	AnnotatorNotes T68	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T70	CHEM 2111 2139	fármacos moduladores del PSA
+T71	CHEM 2154 2165	finasterida
+#35	AnnotatorNotes T71	C0060389; finasteride; Hormone · Organic Chemical · Pharmacologic Substance
+T72	CHEM 2167 2178	dutasterida
+#36	AnnotatorNotes T72	C0754659; dutasteride; Organic Chemical · Pharmacologic Substance
+T73	CHEM 2180 2190	esteroides
+#37	AnnotatorNotes T73	C0038317; Steroids; Organic Chemical · Pharmacologic Substance
+T74	Dose 2194 2205	dosis altas
+T75	Neg_cue 2210 2212	No
+T76	PHYS 2219 2229	comprender
+T77	Negated 2219 2229	comprender
+T78	PROC 2233 2257	protocolo de tratamiento
+#38	AnnotatorNotes T78	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T80	Neg_cue 2258 2260	ni
+T81	PROC 2271 2295	consentimiento informado
+#40	AnnotatorNotes T81	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T82	Negated 2271 2295	consentimiento informado
+T54	PROC 1746 1763	pruebas de imagen
+T85	PROC 1037 1041	PSMA
+T86	PROC 1062 1081	imagen convencional
+T19	PROC 1537 1541	ECOG

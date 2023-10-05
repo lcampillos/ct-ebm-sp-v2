@@ -1,0 +1,54 @@
+T1	PROC 46 60	Ensayo clínico
+#1	AnnotatorNotes T1	C0008976; Clinical Trials; Research Activity
+T2	LIVB 64 73	pacientes
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	DISO 78 84	Sepsis
+#3	AnnotatorNotes T3	C0243026; Sepsis; Disease or Syndrome
+T4	PROC 90 121	evaluar la seguridad y eficacia
+T5	CHEM 158 167	Linezolid
+#4	AnnotatorNotes T5	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T6	PROC 207 274	Ensayo clínico pragmático, multicéntrico, aleatorizado y controlado
+T7	LIVB 278 287	pacientes
+#5	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
+T8	DISO 292 298	Sepsis
+#6	AnnotatorNotes T8	C0243026; Sepsis; Disease or Syndrome
+T9	PROC 304 335	evaluar la seguridad y eficacia
+T10	CHEM 369 371	Pk
+#7	AnnotatorNotes T10	C0034348; Pyruvate Kinase; Amino Acid, Peptide, or Protein · Enzyme
+T11	PROC 372 374	Pd
+T12	CHEM 407 416	LINezolid
+#8	AnnotatorNotes T12	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T13	DISO 440 446	Sepsis
+#9	AnnotatorNotes T13	C0243026; Sepsis; Disease or Syndrome
+T14	LIVB 476 493	Pacientes adultos
+T15	Age 486 493	adultos
+T16	Age 495 508	18 años o más
+T17	PROC 512 523	tratamiento
+#10	AnnotatorNotes T17	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T18	CHEM 528 537	linezolid
+#11	AnnotatorNotes T18	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T19	PROC 543 554	Diagnóstico
+#12	AnnotatorNotes T19	C0011900; Diagnosis; Diagnostic Procedure
+T20	DISO 558 564	sepsis
+#13	AnnotatorNotes T20	C0243026; Sepsis; Disease or Syndrome
+T21	PROC 573 577	SOFA
+T22	DISO 602 629	disfunción orgánica crónica
+T23	Duration 622 629	crónica
+T24	PROC 707 730	tratamiento antibiótico
+T25	CHEM 735 744	linezolid
+#14	AnnotatorNotes T25	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T26	PROC 751 767	práctica clínica
+T27	PROC 807 835	Interrupción del tratamiento
+T28	PROC 856 873	muestra de sangre
+T29	LIVB 878 923	Mujeres embarazadas o en periodo de lactancia
+T30	DISO 929 936	Alergia
+#15	AnnotatorNotes T30	C0020517; Hypersensitivity; Pathologic Function
+T31	DISO 939 956	hipersensibilidad
+#16	AnnotatorNotes T31	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T32	CHEM 968 977	linezolid
+#17	AnnotatorNotes T32	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T33	LIVB 987 996	pacientes
+#18	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	Negated 987 996	pacientes
+T35	Neg_cue 1003 1012	excluidos
+T36	PROC 1043 1065	ensayo de intervención

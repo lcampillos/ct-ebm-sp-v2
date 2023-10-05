@@ -1,0 +1,54 @@
+T1	PROC 47 75	Estudio abierto de extensión
+T2	PROC 81 127	evaluar la seguridad, tolerabilidad y eficacia
+T4	PROC 146 167	tratamiento combinado
+T5	CHEM 171 180	pozelimab
+T6	CHEM 183 193	cemdisirán
+T7	LIVB 197 206	pacientes
+#1	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
+T8	DISO 211 246	hemoglobinuria paroxística nocturna
+#2	AnnotatorNotes T8	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T9	DISO 261 296	hemoglobinuria paroxística nocturna
+#3	AnnotatorNotes T9	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T11	DISO 298 301	HPN
+#4	AnnotatorNotes T11	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T12	LIVB 332 341	Pacientes
+#5	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	DISO 346 349	HPN
+#6	AnnotatorNotes T13	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T14	Neg_cue 370 373	sin
+T15	PROC 374 397	interrupción permanente
+T16	Negated 374 386	interrupción
+T17	Negated 387 397	permanente
+T18	PROC 402 413	tratamiento
+#7	AnnotatorNotes T18	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T19	PROC 610 619	protocolo
+#8	AnnotatorNotes T19	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T20	PROC 682 691	protocolo
+#9	AnnotatorNotes T20	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T21	LIVB 737 749	investigador
+#10	AnnotatorNotes T21	C0035173; Research Personnel; Professional or Occupational Group
+T22	Spec_cue 789 799	afectarían
+T23	LIVB 847 855	paciente
+#11	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	PROC 902 932	administración del medicamento
+T25	LIVB 947 955	paciente
+#12	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
+T26	DISO 971 981	enfermedad
+#13	AnnotatorNotes T26	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T27	DISO 1011 1021	enfermedad
+#14	AnnotatorNotes T27	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T28	LIVB 1052 1064	investigador
+#15	AnnotatorNotes T28	C0035173; Research Personnel; Professional or Occupational Group
+T29	LIVB 1078 1086	paciente
+#16	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	Neg_cue 1087 1089	no
+T31	Negated 1094 1118	adecuado para participar
+T32	Spec_cue 1121 1126	pueda
+T33	Speculated 1127 1137	interferir
+T34	LIVB 1159 1167	paciente
+#17	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
+T35	PROC 1264 1273	protocolo
+#18	AnnotatorNotes T35	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T40	Speculated 833 855	seguridad del paciente
+T3	PROC 449 467	estudios de origen
+T10	Speculated 804 825	objetivos del estudio

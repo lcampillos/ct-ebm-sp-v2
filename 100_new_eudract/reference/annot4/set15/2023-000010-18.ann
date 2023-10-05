@@ -1,0 +1,119 @@
+T1	CHEM 44 66	Solución salina normal
+#1	AnnotatorNotes T1	C0445115; Normal saline; Inorganic Chemical · Pharmacologic Substance
+T2	Form 44 52	Solución
+T3	CHEM 76 102	solución de Ringer lactato
+#2	AnnotatorNotes T3	C0073385; Lactated Ringer's Solution; Organic Chemical · Pharmacologic Substance
+T4	Form 76 84	solución
+T5	DISO 111 129	pancreatitis aguda
+#3	AnnotatorNotes T5	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T7	CHEM 183 200	suero fisiológico
+T8	CHEM 210 236	solución de Ringer lactato
+#4	AnnotatorNotes T8	C0073385; Lactated Ringer's Solution; Organic Chemical · Pharmacologic Substance
+T9	Form 210 218	solución
+T10	LIVB 240 249	pacientes
+#5	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 254 266	pancreatitis
+#6	AnnotatorNotes T11	C0030305; Pancreatitis; Disease or Syndrome
+T12	PROC 268 310	estudio abierto multicéntrico aleatorizado
+T13	DISO 343 361	Pancreatitis aguda
+#7	AnnotatorNotes T13	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T14	LIVB 391 400	Pacientes
+#8	AnnotatorNotes T14	C0030705; Patients; Patient or Disabled Group
+T15	Age 405 422	18 años o mayores
+T16	PROC 427 438	Diagnóstico
+#9	AnnotatorNotes T16	C0011900; Diagnosis; Diagnostic Procedure
+T17	DISO 442 460	pancreatitis aguda
+#10	AnnotatorNotes T17	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T18	Date 522 526	2013
+T19	DISO 593 608	dolor abdominal
+#11	AnnotatorNotes T19	C0000737; Abdominal Pain; Sign or Symptom
+T23	PROC 764 781	pruebas de imagen
+T24	PROC 795 819	consentimiento informado
+#15	AnnotatorNotes T24	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T25	DISO 850 872	Insuficiencia cardíaca
+#16	AnnotatorNotes T25	C0018801; Heart failure; Disease or Syndrome
+T26	PROC 888 914	New York Heart Association
+T27	DISO 958 964	fatiga
+#17	AnnotatorNotes T27	C0015672; Fatigue; Sign or Symptom
+T28	DISO 966 979	palpitaciones
+#18	AnnotatorNotes T28	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T29	DISO 982 988	disnea
+#19	AnnotatorNotes T29	C0013404; Dyspnea; Sign or Symptom
+T30	PROC 1035 1055	fracción de eyección
+#20	AnnotatorNotes T30	C0489482; Ejection fraction (procedure); Diagnostic Procedure
+T31	PROC 1074 1089	ecocardiografía
+#21	AnnotatorNotes T31	C0013516; Echocardiography; Diagnostic Procedure
+T32	DISO 1094 1116	Cirrosis descompensada
+T33	PROC 1133 1138	Child
+T34	DISO 1144 1164	Hiper o hiponatremia
+T35	DISO 1189 1203	Hiperpotasemia
+#22	AnnotatorNotes T35	C0020461; Hyperkalemia; Finding
+T36	DISO 1219 1232	Hipercalcemia
+#23	AnnotatorNotes T36	C0020437; Hypercalcemia; Disease or Syndrome
+T38	PROC 1245 1275	calcio corregido por proteínas
+T39	DISO 1308 1326	pancreatitis aguda
+#25	AnnotatorNotes T39	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T40	Date 1397 1401	2013
+T41	PROC 1421 1434	reclutamiento
+#26	AnnotatorNotes T41	C0242800; Patient Recruitment; Research Activity
+T42	PROC 1483 1493	creatinina
+#27	AnnotatorNotes T42	C0201975; Creatinine measurement; Laboratory Procedure
+T43	PROC 1524 1533	PaO2/FiO2
+T44	PROC 1543 1569	presión arterial sistólica
+#28	AnnotatorNotes T44	C1306620; Systolic blood pressure measurement; Diagnostic Procedure
+T45	PROC 1590 1603	fluidoterapia
+T46	DISO 1622 1644	complicaciones locales
+T47	DISO 1646 1674	colecciones peripancreáticas
+T48	DISO 1683 1708	colección necrótica aguda
+T49	DISO 1710 1722	pseudoquiste
+#29	AnnotatorNotes T49	C0333161; Pseudocyst; Acquired Abnormality
+T50	DISO 1724 1744	necrosis encapsulada
+T51	DISO 1746 1777	obstrucción al vaciado gástrico
+T52	DISO 1779 1814	trombosis venosa esplénica o portal
+T53	DISO 1818 1835	necrosis colónica
+T54	DISO 1840 1868	exacerbación de comorbilidad
+T55	DISO 1881 1911	enfermedad isquémica coronaria
+T56	DISO 1914 1941	enfermedad pulmonar crónica
+#30	AnnotatorNotes T56	C0746102; Chronic lung disease; Disease or Syndrome
+T57	Duration 1934 1941	crónica
+T58	DISO 1962 1980	pancreatitis aguda
+#31	AnnotatorNotes T58	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T61	DISO 2019 2041	insuficiencia cardiaca
+#34	AnnotatorNotes T61	C0018801; Heart failure; Disease or Syndrome
+T63	DISO 2060 2076	edema periférico
+#36	AnnotatorNotes T63	C0085649; Peripheral edema; Pathologic Function
+T64	DISO 2078 2099	estertores pulmonares
+T65	DISO 2116 2137	ingurgitación yugular
+#37	AnnotatorNotes T65	C0425687; Jugular venous engorgement; Finding
+T66	DISO 2176 2181	dolor
+#38	AnnotatorNotes T66	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T67	Duration 2211 2217	> 12 h
+T68	DISO 2257 2269	pancreatitis
+#39	AnnotatorNotes T68	C0030305; Pancreatitis; Disease or Syndrome
+T69	PROC 2279 2293	aleatorización
+#40	AnnotatorNotes T69	C0034656; Randomization; Research Activity
+T70	Duration 2294 2299	> 8 h
+T71	DISO 2305 2325	Pancreatitis crónica
+#41	AnnotatorNotes T71	C0149521; Pancreatitis, Chronic; Disease or Syndrome
+T72	Duration 2318 2325	crónica
+T73	ANAT 2342 2361	conducto de Wirsung
+#42	AnnotatorNotes T73	C0030288; Pancreatic duct; Body Part, Organ, or Organ Component | C0447557; Main pancreatic duct; Body Part, Organ, or Organ Component | C1305309; Entire duct of Wirsung; Body Part, Organ, or Organ Component
+T74	DISO 2373 2401	calcificaciones pancreáticas
+T75	DISO 2435 2453	pancreatitis aguda
+#43	AnnotatorNotes T75	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T76	DISO 2487 2505	pancreatitis aguda
+#44	AnnotatorNotes T76	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T77	Date 2532 2538	actual
+T6	PROC 470 503	Clasificación Revisada de Atlanta
+T79	CHEM 655 662	amilasa
+T80	PROC 665 671	lipasa
+T20	DISO 923 956	limitación de la actividad física
+T21	PHYS 940 956	actividad física
+T81	PHYS 996 1012	actividad física
+T82	PROC 1234 1242	albúmina
+T37	PROC 1345 1378	Clasificación Revisada de Atlanta
+T59	DISO 1985 2016	Signos de sobrecarga de volumen
+T60	DISO 732 760	signos de pancreatitis aguda
+T22	PROC 2045 2058	reclutamiento
+T62	PROC 160 173	fluidoterapia
+T78	PROC 636 662	niveles séricos de amilasa
