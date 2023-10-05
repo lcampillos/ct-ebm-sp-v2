@@ -35,9 +35,17 @@ A companion annotated guideline is available in this repository.
 
 [//]: <> ()
 
+# Data for human evaluation of the medical entity recognizer (MedSpaNER)
+This repository includes the data used for the human evaluation:
+
+- 100 clinical trial announcements from [EudraCT](https://www.clinicaltrialsregister.eu/) not used for system development: we provide files with the system's annotations (```Hypothesis``` folder) and the revised version (```Reference``` folder)
+- 100 clinical cases with Creative Commons license: we provide files with the system's annotations (```Hypothesis``` folder) and the revised version (```Reference``` folder). Data come from:
+  - [Urgencias Bidasoa](https://urgenciasbidasoa.wordpress.com/casos-clinicos-3/)
+  - [Hipocampo.org](https://www.hipocampo.org/)
+  - Cases published by [Sociedad Andaluza de Medicina Familiar y Comunitaria (SAMFyC)](https://www.samfyc.es/): we are greatly thankful for giving us permission to use these cases and we acknowledge that the copyright belongs to the authors' contents. Clinical cases were extracted from [books published from 2016 to 2022](https://www.samfyc.es/tipos-publicacion/publicaciones/).
+
 
 ## How to cite
-
 The article describing the first version of the corpus is [available here](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01395-z).
 
 If you use this second version of the corpus, please cite the reference as follows:
