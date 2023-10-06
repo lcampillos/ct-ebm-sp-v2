@@ -52,8 +52,8 @@ If you use this second version of the corpus, please cite the reference as follo
 
 ```
 @article{medspaner,
-  title={Hybrid tool for semantic annotation and concept extraction of medical texts in Spanish},
-  author={Anonymized},
+  title={Hybrid tool for semantic annotation of medical texts in Spanish},
+  author={L. Campillos-Llanos, A. Valverde-Mateos and A. Capllonch-Carrión},
   title={Under review}
 }
 ```
