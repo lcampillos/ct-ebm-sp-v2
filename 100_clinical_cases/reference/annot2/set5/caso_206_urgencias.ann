@@ -1,0 +1,127 @@
+T1	DISO 22 37	Dolor abdominal
+#1	AnnotatorNotes T1	C0000737; Abdominal Pain; Sign or Symptom
+T2	DISO 39 46	náuseas
+#2	AnnotatorNotes T2	C0027497; Nausea; Sign or Symptom
+T3	DISO 49 56	vómitos
+#3	AnnotatorNotes T3	C0042963; Vomiting; Sign or Symptom
+T4	LIVB 79 84	Varón
+T5	Age 88 95	71 años
+T6	PROC 128 141	Diagnosticado
+#4	AnnotatorNotes T6	C0011900; Diagnosis; Diagnostic Procedure
+T7	Date 142 154	hace 7 meses
+T8	DISO 158 178	hepatitis autoinmune
+#5	AnnotatorNotes T8	C0241910; Autoimmune Chronic Hepatitis; Disease or Syndrome
+T9	PROC 182 185	tto
+#6	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 190 201	Azatioprina
+#7	AnnotatorNotes T10	C0004482; azathioprine; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T11	CHEM 203 209	Imurel
+#8	AnnotatorNotes T11	C0699280; Imurel; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T12	CHEM 214 224	Prednisona
+#9	AnnotatorNotes T12	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T13	DISO 229 239	Enfermedad
+#10	AnnotatorNotes T13	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T14	Date 240 246	actual
+T16	ANAT 312 326	ambos costados
+T17	DISO 342 359	náuseas y vómitos
+#11	AnnotatorNotes T17	C0027498; Nausea and vomiting; Sign or Symptom
+T18	Duration 363 371	10 horas
+T19	Neg_cue 388 390	No
+T20	DISO 399 423	transgresión alimentaria
+T21	Negated 399 431	transgresión alimentaria (grasas
+T22	CHEM 425 431	grasas
+#12	AnnotatorNotes T22	C0015677; Fatty acid glycerol esters; Organic Chemical · Pharmacologic Substance
+T23	Neg_cue 433 435	ni
+T24	PHYS 436 443	ingesta
+T25	Negated 436 454	ingesta de alcohol
+T26	PROC 469 487	Exploración física
+#13	AnnotatorNotes T26	C0031809; Physical Examination; Health Care Activity
+T28	DISO 507 512	dolor
+#15	AnnotatorNotes T28	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T29	PROC 516 518	PA
+T30	PROC 532 534	Fc
+T31	PROC 543 545	Tª
+T32	PROC 554 559	SatO2
+#16	AnnotatorNotes T32	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T33	DISO 567 587	Dolor a la palpación
+#17	AnnotatorNotes T33	C0234233; Sore to touch; Sign or Symptom
+T34	ANAT 591 601	epigastrio
+#18	AnnotatorNotes T34	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T35	ANAT 604 625	hipocondrio izquierdo
+#19	AnnotatorNotes T35	C0738591; Left hypochondriac region structure; Body Location or Region
+T36	DISO 630 646	defensa muscular
+T37	Neg_cue 647 650	sin
+T39	DISO 667 678	peritonismo
+#20	AnnotatorNotes T39	C0348746; Other peritonitis; Disease or Syndrome
+T40	PROC 683 706	Pruebas complementarias
+#21	AnnotatorNotes T40	C1515980; Ancillary Study; Research Activity
+T41	PROC 710 716	Lipasa
+#22	AnnotatorNotes T41	C0373670; Lipase measurement; Laboratory Procedure
+T42	PROC 724 735	Bilirrubina
+#23	AnnotatorNotes T42	C0863174; Blood bilirubin measurement; Laboratory Procedure
+T43	PROC 737 740	GPT
+#24	AnnotatorNotes T43	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T44	PROC 742 745	GOT
+#25	AnnotatorNotes T44	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T45	PROC 747 750	GGT
+#26	AnnotatorNotes T45	C0202035; Gamma glutamyl transferase measurement; Laboratory Procedure
+T46	PROC 753 755	FA
+#27	AnnotatorNotes T46	C0201850; Alkaline phosphatase measurement; Laboratory Procedure
+T47	PROC 768 778	Leucocitos
+T48	PROC 790 797	fórmula
+T49	PROC 808 818	Serie roja
+T50	PROC 821 830	plaquetas
+T51	PROC 843 862	Ecografía abdominal
+#28	AnnotatorNotes T51	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T52	DISO 864 876	colelitiasis
+#29	AnnotatorNotes T52	C0008350; Cholelithiasis; Disease or Syndrome
+T53	Neg_cue 877 880	sin
+T55	Negated 881 903	signos de colecistitis
+T57	Neg_cue 905 907	No
+T58	DISO 908 932	dilatación de vía biliar
+#32	AnnotatorNotes T58	C0585008; Cholangiectasis; Disease or Syndrome
+T59	Negated 908 932	dilatación de vía biliar
+T60	ANAT 934 942	Páncreas
+#33	AnnotatorNotes T60	C0030274; Pancreas; Body Part, Organ, or Organ Component | C1278931; Entire pancreas; Body Part, Organ, or Organ Component
+T61	Neg_cue 943 945	no
+T62	Negated 946 957	visualizado
+T63	PROC 961 973	TC Abdominal
+#34	AnnotatorNotes T63	C0412620; CT of abdomen; Diagnostic Procedure
+T64	DISO 975 987	Colelitiasis
+#35	AnnotatorNotes T64	C0008350; Cholelithiasis; Disease or Syndrome
+T66	Neg_cue 1000 1002	no
+T67	Negated 1003 1011	dilatada
+T68	ANAT 1013 1021	Páncreas
+#36	AnnotatorNotes T68	C0030274; Pancreas; Body Part, Organ, or Organ Component | C1278931; Entire pancreas; Body Part, Organ, or Organ Component
+T69	DISO 1026 1046	signos inflamatorios
+T70	PROC 1049 1060	DIAGNÓSTICO
+#37	AnnotatorNotes T70	C0011900; Diagnosis; Diagnostic Procedure
+T71	DISO 1073 1091	Pancreatitis aguda
+#38	AnnotatorNotes T71	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T72	PROC 1094 1105	TRATAMIENTO
+#39	AnnotatorNotes T72	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T73	PROC 1136 1148	analgesia IV
+T74	Route 1146 1148	IV
+T75	PROC 1151 1167	fluidoterapia IV
+T76	Route 1165 1167	IV
+T77	DISO 1179 1184	dolor
+#40	AnnotatorNotes T77	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T78	Duration 1220 1230	una semana
+T79	PROC 1234 1246	dado de alta
+#41	AnnotatorNotes T79	C0030685; Patient Discharge; Health Care Activity
+T80	PROC 1271 1286	colecistectomía
+#42	AnnotatorNotes T80	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T81	PROC 1309 1325	biopsia hepática
+#43	AnnotatorNotes T81	C0193388; Biopsy of liver (procedure); Diagnostic Procedure
+T82	PROC 1335 1350	acto quirúrgico
+T83	PROC 1370 1381	diagnóstico
+#44	AnnotatorNotes T83	C0011900; Diagnosis; Diagnostic Procedure
+T84	DISO 1398 1418	hepatitis autoinmune
+#45	AnnotatorNotes T84	C0241910; Autoimmune Chronic Hepatitis; Disease or Syndrome
+T15	DISO 272 309	dolor abdominal irradiado en cinturón
+T27	Negated 667 678	peritonismo
+T38	DISO 881 903	signos de colecistitis
+T56	ANAT 989 999	Vía biliar
+T65	DISO 1003 1011	dilatada
+T85	DISO 491 499	Afectado
+T86	PROC 458 464	EXAMEN

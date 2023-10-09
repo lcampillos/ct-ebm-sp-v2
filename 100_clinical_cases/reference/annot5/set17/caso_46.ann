@@ -1,0 +1,109 @@
+T1	DISO 21 26	Dolor
+#1	AnnotatorNotes T1	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T2	DISO 29 40	incapacidad
+#2	AnnotatorNotes T2	C0231172; handicapping condition; Finding
+T3	ANAT 44 70	miembro superior izquierdo
+T4	LIVB 93 99	Hombre
+#3	AnnotatorNotes T4	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T5	Age 103 110	41 años
+T6	LIVB 124 129	madre
+#4	AnnotatorNotes T6	C0026591; Mother (person); Family Group
+T7	DISO 167 177	Enfermedad
+#5	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	Date 178 184	actual
+T9	DISO 227 232	dolor
+#6	AnnotatorNotes T9	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T10	DISO 235 255	impotencia funcional
+#7	AnnotatorNotes T10	C4062321; Functional impairment; Finding
+T12	Duration 292 304	unas semanas
+T13	DISO 334 345	traumatismo
+#8	AnnotatorNotes T13	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T14	ANAT 354 361	miembro
+#9	AnnotatorNotes T14	C0015385; Limb structure; Body Part, Organ, or Organ Component
+T15	DISO 381 389	síntomas
+#10	AnnotatorNotes T15	C1457887; Symptoms; Sign or Symptom
+T16	ANAT 422 429	miembro
+#11	AnnotatorNotes T16	C0015385; Limb structure; Body Part, Organ, or Organ Component
+T17	Frequency 452 458	diaria
+T18	PHYS 467 472	sueño
+#12	AnnotatorNotes T18	C0013117; Dreams; Mental Process | C0037313; Sleep; Organism Function | C2830004; Somnolence; Mental or Behavioral Dysfunction
+T19	Neg_cue 474 476	no
+T20	Negated 491 515	capacitado para trabajar
+T21	CHEM 578 583	AINEs
+#13	AnnotatorNotes T21	C0003211; Anti-Inflammatory Agents, Non-Steroidal; Pharmacologic Substance
+T22	Route 584 588	i.m.
+T23	CHEM 609 619	relajantes
+#14	AnnotatorNotes T23	C0358430; Muscle relaxants; Pharmacologic Substance
+T24	Neg_cue 621 629	obviando
+T25	Negated 630 644	otros estudios
+T26	PROC 652 669	Atención Primaria
+#15	AnnotatorNotes T26	C0033137; Primary Health Care; Health Care Activity
+T27	PROC 670 681	consultamos
+#16	AnnotatorNotes T27	C0009818; Consultation; Health Care Activity
+T28	DISO 747 772	Trastorno de personalidad
+#17	AnnotatorNotes T28	C0031212; Personality Disorders; Mental or Behavioral Dysfunction
+T29	DISO 777 794	rasgos psicóticos
+T30	DISO 797 806	epilepsia
+#18	AnnotatorNotes T30	C0014544; Epilepsy; Disease or Syndrome
+T31	CHEM 846 854	zolpidem
+#19	AnnotatorNotes T31	C0078839; zolpidem; Organic Chemical · Pharmacologic Substance
+T32	Dose 855 874	10 mg 3 comprimidos
+T33	Frequency 875 881	al día
+T34	CHEM 883 896	carbamazepina
+#20	AnnotatorNotes T34	C0006949; carbamazepine; Organic Chemical · Pharmacologic Substance
+T35	Dose 908 915	1200 mg
+T36	Frequency 915 919	/día
+T37	CHEM 921 930	trazodona
+#21	AnnotatorNotes T37	C0040805; trazodone; Organic Chemical · Pharmacologic Substance
+T38	Dose 931 937	100 mg
+T39	Time 941 946	noche
+T40	Neg_cue 956 972	incapacidad para
+T41	Negated 973 1010	centrarse en ninguna actividad mental
+T42	DISO 1015 1037	sensación de confusión
+T43	PROC 1052 1075	Pruebas complementarias
+#22	AnnotatorNotes T43	C1515980; Ancillary Study; Research Activity
+T44	PROC 1077 1088	Radiografía
+#23	AnnotatorNotes T44	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T45	DISO 1113 1121	fractura
+#24	AnnotatorNotes T45	C0016658; Fracture; Injury or Poisoning
+T47	DISO 1172 1179	secuela
+#25	AnnotatorNotes T47	C0543419; Sequela of disorder; Pathologic Function
+T48	DISO 1186 1206	accidente de tráfico
+#26	AnnotatorNotes T48	C0000932; Traffic accidents; Injury or Poisoning
+T49	DISO 1225 1242	crisis epiléptica
+#27	AnnotatorNotes T49	C0014544; Epilepsy; Disease or Syndrome | C4317109; Epileptic Seizures; Disease or Syndrome
+T50	PROC 1244 1264	Resonancia magnética
+#28	AnnotatorNotes T50	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T51	Neg_cue 1266 1269	sin
+T52	DISO 1270 1293	alteraciones vasculares
+T53	Negated 1270 1293	alteraciones vasculares
+T54	DEVI 1311 1324	pletismógrafo
+#29	AnnotatorNotes T54	C0182319; Plethysmograph; Medical Device
+T55	ANAT 1347 1352	brazo
+#30	AnnotatorNotes T55	C0446516; Upper arm; Body Location or Region | C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269612; Entire upper arm; Body Part, Organ, or Organ Component
+T56	PROC 1356 1372	tensión arterial
+T57	ANAT 1383 1405	miembro superior izqdo
+T58	PROC 1409 1420	TRATAMIENTO
+#31	AnnotatorNotes T58	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T59	PROC 1460 1481	tratamiento hipnótico
+T60	Dose 1488 1492	5 mg
+T61	CHEM 1496 1504	zolpidem
+#32	AnnotatorNotes T61	C0078839; zolpidem; Organic Chemical · Pharmacologic Substance
+T62	Date 1505 1521	en la actualidad
+T63	CHEM 1524 1535	pregabalina
+#33	AnnotatorNotes T63	C0657912; pregabalin; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T64	Dose 1547 1552	75 mg
+T65	Frequency 1553 1566	cada 12 horas
+T66	DISO 1590 1598	insomnio
+#34	AnnotatorNotes T66	C0917801; Sleeplessness; Sign or Symptom
+T67	PHYS 1614 1640	capacidad de concentración
+T68	LIVB 1732 1740	paciente
+#35	AnnotatorNotes T68	C0030705; Patients; Patient or Disabled Group
+T69	PROC 1754 1775	valoración quirúrgica
+T70	DISO 1823 1853	Síndrome del opérculo torácico
+#36	AnnotatorNotes T70	C0039984; Thoracic Outlet Syndrome; Disease or Syndrome
+T46	ANAT 1125 1160	tercio central externo de clavícula
+T71	ANAT 259 285	miembro superior izquierdo
+T11	PROC 1041 1047	EXAMEN
+T72	PROC 1799 1810	DIAGNÓSTICO
+T73	PROC 1691 1702	tratamiento

@@ -1,0 +1,94 @@
+T1	LIVB 21 29	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T2	PROC 45 53	consulta
+#2	AnnotatorNotes T2	C0009818; Consultation; Health Care Activity
+T4	PROC 80 87	control
+#4	AnnotatorNotes T4	C1522577; follow-up; Health Care Activity
+T5	DISO 101 111	patologías
+#5	AnnotatorNotes T5	C0677042; Pathology processes; Pathologic Function
+T6	LIVB 133 138	Varón
+T7	Age 142 149	55 años
+T8	DISO 151 166	pluripatológico
+T9	DISO 198 222	diabetes mellitus tipo 2
+#6	AnnotatorNotes T9	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T10	Duration 226 232	8 años
+T11	DISO 248 269	hipertensión arterial
+#7	AnnotatorNotes T11	C0020538; Hypertensive disease; Disease or Syndrome
+T12	Duration 273 287	más de 10 años
+T13	DISO 303 313	dislipemia
+#8	AnnotatorNotes T13	C0242339; Dyslipidemias; Disease or Syndrome
+T14	DISO 316 341	isquemia arterial crónica
+T15	Duration 334 341	crónica
+T16	PROC 351 362	Tratamiento
+T17	CHEM 388 398	metformina
+#9	AnnotatorNotes T17	C0025598; metformin; Organic Chemical · Pharmacologic Substance
+T18	Dose 399 404	850mg
+T19	CHEM 407 417	gliclazida
+#10	AnnotatorNotes T19	C0017631; gliclazide; Organic Chemical · Pharmacologic Substance
+T20	Dose 418 422	30mg
+T21	CHEM 425 434	enalapril
+#11	AnnotatorNotes T21	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T22	CHEM 435 452	hidroclorotiazida
+#12	AnnotatorNotes T22	C0020261; hydrochlorothiazide; Organic Chemical · Pharmacologic Substance
+T23	Dose 453 462	20/12,5mg
+T24	CHEM 465 487	ácido acetilsalicílico
+#13	AnnotatorNotes T24	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T25	Dose 488 493	100mg
+T26	CHEM 496 506	cilostazol
+#14	AnnotatorNotes T26	C0055729; cilostazol; Organic Chemical · Pharmacologic Substance
+T27	Dose 507 511	10mg
+T28	Neg_cue 542 544	No
+T29	Negated 545 552	refiere
+T30	PROC 567 585	Exploración física
+#15	AnnotatorNotes T30	C0031809; Physical Examination; Health Care Activity
+T31	PHYS 610 620	consciente
+#16	AnnotatorNotes T31	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T32	PHYS 623 632	orientado
+T33	ANAT 670 681	mucocutánea
+#17	AnnotatorNotes T33	C4516595; Entire skin and mucous membrane; Body System
+T34	PROC 684 686	TA
+T35	PROC 701 706	Talla
+T36	PROC 715 719	Peso
+T37	PROC 728 731	IMC
+T38	PROC 740 763	Pruebas complementarias
+#18	AnnotatorNotes T38	C1515980; Ancillary Study; Research Activity
+T39	PROC 765 774	Hemograma
+#19	AnnotatorNotes T39	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T40	PROC 777 787	bioquímica
+#20	AnnotatorNotes T40	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T41	PROC 813 820	Glucosa
+T42	PROC 833 849	colesterol total
+#21	AnnotatorNotes T42	C1445957; Serum total cholesterol measurement; Laboratory Procedure
+T43	PROC 861 875	colesterol LDL
+#22	AnnotatorNotes T43	C0202117; Low density lipoprotein cholesterol measurement; Laboratory Procedure
+T44	Neg_cue 876 878	no
+T45	Negated 879 889	calculable
+T46	PROC 892 906	colesterol HDL
+#23	AnnotatorNotes T46	C0392885; High density lipoprotein measurement; Laboratory Procedure
+T47	PROC 917 930	triglicéridos
+#24	AnnotatorNotes T47	C0202236; Triglycerides measurement; Laboratory Procedure
+T48	PROC 942 965	Hemoglobina glicosilada
+#25	AnnotatorNotes T48	C0202054; Glucohemoglobin measurement; Laboratory Procedure
+T49	Neg_cue 979 982	sin
+T50	DISO 983 995	alteraciones
+#26	AnnotatorNotes T50	C0012634; Disease; Disease or Syndrome
+T51	Negated 983 995	alteraciones
+T52	PROC 1009 1020	TRATAMIENTO
+#27	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	PROC 1038 1056	ajusta tratamiento
+T54	CHEM 1070 1081	dulaglutida
+#28	AnnotatorNotes T54	C3179549; dulaglutide; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T55	CHEM 1100 1107	fármaco
+#29	AnnotatorNotes T55	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T56	LIVB 1111 1119	paciente
+#30	AnnotatorNotes T56	C0030705; Patients; Patient or Disabled Group
+T58	Neg_cue 1206 1214	abandona
+T59	Negated 1215 1222	tóxicos
+T60	Frequency 1263 1269	diaria
+T61	DISO 1297 1348	Diabetes Mellitus tipo 2 con mal control metabólico
+#32	AnnotatorNotes T61	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T63	DISO 1350 1369	Síndrome metabólico
+#33	AnnotatorNotes T63	C0524620; Metabolic Syndrome X; Disease or Syndrome
+T3	Frequency 88 93	anual
+T64	PROC 556 562	EXAMEN
+T65	PROC 1273 1284	DIAGNÓSTICO

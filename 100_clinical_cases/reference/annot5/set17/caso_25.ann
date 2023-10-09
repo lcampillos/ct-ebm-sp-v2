@@ -1,0 +1,105 @@
+T1	DISO 21 38	Lumbalgia crónica
+#1	AnnotatorNotes T1	C0457949; Chronic low back pain; Disease or Syndrome
+T2	Duration 31 38	crónica
+T3	LIVB 61 66	Varón
+T4	Age 68 75	64 años
+T5	Neg_cue 77 79	no
+T6	DISO 80 103	alergias medicamentosas
+#2	AnnotatorNotes T6	C0013182; Drug Allergy; Pathologic Function
+T7	Negated 80 113	alergias medicamentosas conocidas
+T8	DISO 143 164	Hipertensión arterial
+#3	AnnotatorNotes T8	C0020538; Hypertensive disease; Disease or Syndrome
+T9	PROC 166 177	Tratamiento
+#4	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 179 187	Losartan
+#5	AnnotatorNotes T10	C0126174; losartan; Organic Chemical · Pharmacologic Substance
+T11	Dose 188 195	100 mg.
+T12	DISO 196 235	Enfermedad Pulmonar Obstructiva Crónica
+#6	AnnotatorNotes T12	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T13	Duration 228 235	Crónica
+T14	Frequency 285 291	diaria
+T15	LIVB 330 336	esposa
+#7	AnnotatorNotes T15	C0162409; spouse; Family Group | C0242665; wife; Family Group
+T16	DISO 391 401	Enfermedad
+#8	AnnotatorNotes T16	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T17	Date 402 408	actual
+T18	DISO 410 427	Lumbalgia crónica
+#9	AnnotatorNotes T18	C0457949; Chronic low back pain; Disease or Syndrome
+T19	Duration 420 427	crónica
+T20	ANAT 440 452	ambos muslos
+T21	Duration 456 462	5 años
+T22	PROC 486 494	consulta
+#10	AnnotatorNotes T22	C0009818; Consultation; Health Care Activity
+T23	LIVB 501 518	médico de familia
+#11	AnnotatorNotes T23	C1704221; Physicians, Family; Professional or Occupational Group
+T24	DISO 539 548	lumbalgia
+#12	AnnotatorNotes T24	C0024031; Low Back Pain; Sign or Symptom | C0235632; Loin pain; Sign or Symptom
+T25	CHEM 578 583	AINES
+#13	AnnotatorNotes T25	C0003211; Anti-Inflammatory Agents, Non-Steroidal; Pharmacologic Substance
+T26	ANAT 597 622	ambos miembros inferiores
+T27	DISO 638 661	sintomatología afectiva
+T28	DISO 681 686	dolor
+#14	AnnotatorNotes T28	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T29	Date 724 728	2014
+T30	PROC 730 742	Dado de alta
+#15	AnnotatorNotes T30	C0030685; Patient Discharge; Health Care Activity
+T31	PROC 765 788	tratamiento conservador
+#16	AnnotatorNotes T31	C0459914; Conservative Treatment; Therapeutic or Preventive Procedure
+T32	PROC 796 802	visita
+T33	Date 806 810	2016
+T34	PROC 821 832	diagnóstico
+#17	AnnotatorNotes T34	C0011900; Diagnosis; Diagnostic Procedure
+T35	PROC 836 842	EXAMEN
+#18	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	PROC 863 874	exploración
+#19	AnnotatorNotes T36	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T42	PROC 905 931	Radiografía columna lumbar
+T43	DISO 933 953	pinzamiento de L5-S1
+T44	PROC 956 989	Resonancia Magnética (RMN) lumbar
+T45	DISO 991 1019	hipertrofia facetaria lumbar
+T46	PROC 1090 1108	Exploración física
+#20	AnnotatorNotes T46	C0031809; Physical Examination; Health Care Activity
+T48	PROC 1136 1145	Analítica
+#21	AnnotatorNotes T48	C0002778; Analysis of substances; Laboratory Procedure
+T55	PROC 1177 1180	PCR
+#23	AnnotatorNotes T55	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T56	PROC 1191 1207	Rx sacroiliaacas
+T57	DISO 1209 1230	esclerosis subcondral
+#24	AnnotatorNotes T57	C0029464; Osteosclerosis; Disease or Syndrome
+T58	PROC 1232 1255	RMN lumbar y lumbosacra
+T59	DISO 1257 1275	síndrome facetario
+T60	ANAT 1276 1278	L4
+#25	AnnotatorNotes T60	C0223537; Fourth lumbar vertebra; Body Part, Organ, or Organ Component | C0459940; Entire L4 vertebra; Body Part, Organ, or Organ Component
+T61	ANAT 1279 1281	L5
+#26	AnnotatorNotes T61	C0223552; Fifth lumbar vertebra; Body Part, Organ, or Organ Component | C1305617; Entire L5 vertebra; Body Part, Organ, or Organ Component
+T62	ANAT 1283 1307	Articulación sacroiliaca
+#27	AnnotatorNotes T62	C1269070; Entire sacroiliac joint; Body Space or Junction
+T63	DISO 1319 1328	erosiones
+#28	AnnotatorNotes T63	C0015256; Excoriation; Injury or Poisoning | C0040436; Tooth Erosion; Disease or Syndrome | C0333307; Superficial ulcer; Acquired Abnormality | C3887524; Skin Erosion; Disease or Syndrome
+T64	DISO 1330 1348	edema óseo medular
+T65	Spec_cue 1366 1381	compatibles con
+T66	DISO 1382 1394	sacroileitis
+#29	AnnotatorNotes T66	C0574960; Sacroiliitis; Disease or Syndrome
+T67	Speculated 1382 1394	sacroileitis
+T68	DISO 1423 1449	Lumbalgia crónica mecánica
+T69	Duration 1433 1440	crónica
+T70	DISO 1451 1468	Espondiloartrosis
+#30	AnnotatorNotes T70	C0263852; Spinal arthritis deformans; Disease or Syndrome | C0949691; Spondylarthropathies; Disease or Syndrome
+T71	DISO 1470 1488	Síndrome facetario
+T72	DISO 1490 1510	Hernia discal lumbar
+#31	AnnotatorNotes T72	C0281899; Prolapsed lumbar disc; Acquired Abnormality
+T73	DISO 1512 1531	Espondiloartropatía
+#32	AnnotatorNotes T73	C0949691; Spondylarthropathies; Disease or Syndrome
+T74	PROC 1535 1546	TRATAMIENTO
+#33	AnnotatorNotes T74	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T75	PROC 1549 1560	Tratamiento
+#34	AnnotatorNotes T75	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T76	CHEM 1565 1576	Sekukinumab
+#35	AnnotatorNotes T76	C3179547; secukinumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T77	LIVB 378 386	familiar
+T40	PROC 1399 1410	DIAGNÓSTICO
+T41	DISO 1110 1134	signo de Fabere positivo
+T47	PROC 1147 1149	FR
+T49	PROC 1160 1166	HLA27B
+T50	PROC 875 883	Lassegue
+T51	PROC 886 893	Bragard

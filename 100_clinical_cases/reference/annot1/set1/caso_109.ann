@@ -1,0 +1,166 @@
+T1	PROC 21 56	Consulta en urgencias hospitalarias
+T2	DISO 61 72	parestesias
+#1	AnnotatorNotes T2	C0030554; Paresthesia; Disease or Syndrome
+T3	LIVB 95 100	Mujer
+#2	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 104 111	65 años
+T5	DISO 144 156	Hipertensión
+#3	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	DISO 160 186	Síndrome ansioso depresivo
+#4	AnnotatorNotes T6	C0338908; Mixed anxiety and depressive disorder; Mental or Behavioral Dysfunction
+T7	PROC 190 216	Intervención de la columna
+T8	DISO 221 232	traumatismo
+#5	AnnotatorNotes T8	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T9	Age 236 244	juventud
+T10	DISO 248 256	Fumadora
+#6	AnnotatorNotes T10	C0337664; Smoker; Finding
+T11	Frequency 278 284	al día
+T12	DISO 289 299	Enfermedad
+#7	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Date 300 306	actual
+T14	DISO 320 331	parestesias
+#8	AnnotatorNotes T14	C0030554; Paresthesia; Disease or Syndrome
+T15	Date 338 350	hace 50 días
+T16	DISO 368 385	pérdida de fuerza
+#9	AnnotatorNotes T16	C3714552; Weakness; Sign or Symptom
+T17	ANAT 389 408	miembros superiores
+#10	AnnotatorNotes T17	C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269078; Entire upper limb; Body Part, Organ, or Organ Component
+T18	ANAT 410 414	MMSS
+#11	AnnotatorNotes T18	C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269078; Entire upper limb; Body Part, Organ, or Organ Component
+T19	ANAT 416 428	e inferiores
+T20	ANAT 430 434	MMII
+#12	AnnotatorNotes T20	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T21	DISO 437 459	mialgias generalizadas
+T22	DISO 462 468	caídas
+#13	AnnotatorNotes T22	C0085639; Falls; Finding
+T23	DISO 508 516	tos seca
+#14	AnnotatorNotes T23	C0850149; Dry cough; Sign or Symptom
+T24	DISO 518 538	sensación distérmica
+T25	DISO 541 563	incontinencia urinaria
+#15	AnnotatorNotes T25	C0042024; Urinary Incontinence; Pathologic Function
+T26	DISO 576 592	pérdida de 10 kg
+T27	Duration 596 603	3 meses
+T28	DISO 606 614	anorexia
+#16	AnnotatorNotes T28	C0003123; Anorexia; Disease or Syndrome | C1971624; Loss of appetite (finding); Finding
+T29	PROC 629 647	Exploración física
+#17	AnnotatorNotes T29	C0031809; Physical Examination; Health Care Activity
+T30	PHYS 651 661	Consciente
+#18	AnnotatorNotes T30	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T31	PHYS 663 672	orientada
+T32	PHYS 688 696	lenguaje
+T33	PHYS 699 715	motilidad ocular
+T34	DISO 727 743	Atrofia muscular
+#19	AnnotatorNotes T34	C0026846; Muscular Atrophy; Pathologic Function
+T35	ANAT 747 751	MMII
+#20	AnnotatorNotes T35	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T36	ANAT 754 758	MMSS
+#21	AnnotatorNotes T36	C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269078; Entire upper limb; Body Part, Organ, or Organ Component
+T37	PHYS 763 787	Reflejos osteotendinosos
+#22	AnnotatorNotes T37	C0034942; Reflex, Stretch; Organ or Tissue Function
+T38	ANAT 800 804	MMII
+#23	AnnotatorNotes T38	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T39	ANAT 821 825	MMSS
+#24	AnnotatorNotes T39	C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269078; Entire upper limb; Body Part, Organ, or Organ Component
+T40	PHYS 829 855	Sensibilidad termoalgésica
+#25	AnnotatorNotes T40	C0039478; Thermosensing; Organism Function
+T41	PROC 873 897	exploración de la marcha
+T42	Neg_cue 898 900	no
+T43	Negated 904 911	posible
+T44	Neg_cue 921 930	imposible
+T45	PHYS 934 947	bipedestación
+T46	Negated 934 947	bipedestación
+T47	DISO 951 985	Adenopatía supraclavicular derecha
+T48	PROC 1028 1040	Auscultación
+#26	AnnotatorNotes T48	C0004339; Auscultation; Diagnostic Procedure
+T49	DISO 1042 1053	crepitantes
+#27	AnnotatorNotes T49	C0034642; Rales; Finding
+T50	ANAT 1057 1080	base pulmonar izquierda
+T51	Neg_cue 1081 1084	sin
+T52	Negated 1085 1100	otros hallazgos
+T53	PROC 1106 1129	Pruebas complementarias
+#28	AnnotatorNotes T53	C1515980; Ancillary Study; Research Activity
+T54	PROC 1133 1142	Analítica
+#29	AnnotatorNotes T54	C0002778; Analysis of substances; Laboratory Procedure
+T55	DISO 1165 1177	leucocitosis
+#30	AnnotatorNotes T55	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T56	PROC 1179 1182	PCR
+#31	AnnotatorNotes T56	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T57	PROC 1195 1215	Radiografía de tórax
+#32	AnnotatorNotes T57	C0039985; Plain chest X-ray; Diagnostic Procedure
+T58	ANAT 1242 1257	hilio izquierdo
+T59	Spec_cue 1260 1266	dudosa
+T60	DISO 1267 1279	condensación
+#33	AnnotatorNotes T60	C0333119; Inspissation; Pathologic Function | C0596312; chemical condensation; Phenomenon or Process
+T61	Speculated 1267 1308	condensación en lóbulo inferior izquierdo
+T62	ANAT 1283 1308	lóbulo inferior izquierdo
+T63	PROC 1312 1315	ECG
+#34	AnnotatorNotes T63	C1623258; Electrocardiography; Diagnostic Procedure
+T64	PROC 1326 1333	Ingreso
+#35	AnnotatorNotes T64	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T65	PROC 1391 1403	TAC torácico
+#36	AnnotatorNotes T65	C0202823; Chest CT; Diagnostic Procedure
+T66	DISO 1424 1454	masa pulmonar hiliar izquierda
+T67	Spec_cue 1455 1467	sugerente de
+T68	DISO 1468 1486	proceso neoplásico
+#37	AnnotatorNotes T68	C0027671; Neoplastic Processes; Neoplastic Process
+T69	Speculated 1468 1495	proceso neoplásico primario
+T70	DISO 1498 1524	adenomegalias metastásicas
+T71	PROC 1538 1578	Resonancia magnética de cráneo y columna
+T72	DISO 1580 1610	cavidad siringomiélica central
+T73	ANAT 1611 1617	dorsal
+#38	AnnotatorNotes T73	C0004600; Back; Body Location or Region
+T74	ANAT 1624 1626	T5
+#39	AnnotatorNotes T74	C0459950; Bone structure of T5; Body Part, Organ, or Organ Component
+T75	ANAT 1633 1635	T8
+#40	AnnotatorNotes T75	C0459953; Bone structure of T8; Body Part, Organ, or Organ Component
+T76	Spec_cue 1637 1649	posiblemente
+T77	Speculated 1650 1660	secundaria
+T78	DISO 1663 1679	golpe en columna
+T79	PROC 1690 1701	intervenida
+#41	AnnotatorNotes T79	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T80	DISO 1706 1723	pérdida de fuerza
+#42	AnnotatorNotes T80	C3714552; Weakness; Sign or Symptom
+T81	PROC 1727 1736	Analítica
+#43	AnnotatorNotes T81	C0002778; Analysis of substances; Laboratory Procedure
+T82	PROC 1741 1761	marcadores tumorales
+#44	AnnotatorNotes T82	C0474700; Tumor marker measurement; Laboratory Procedure
+T83	PROC 1763 1790	Antígeno Carcinoembrionario
+#45	AnnotatorNotes T83	C0201933; Carcinoembryonic antigen measurement; Laboratory Procedure
+T84	DISO 1802 1809	sífilis
+#46	AnnotatorNotes T84	C0039128; Syphilis; Disease or Syndrome
+T85	PROC 1838 1860	Ac (IgG) antinucleares
+T86	PROC 1872 1896	Ac (IgG) Antineuronal-Hu
+T87	PROC 1910 1925	Electromiograma
+#47	AnnotatorNotes T87	C0013839; Electromyography; Diagnostic Procedure
+T88	PROC 1927 1930	EMG
+#48	AnnotatorNotes T88	C0013839; Electromyography; Diagnostic Procedure
+T89	DISO 1933 1979	Polineuropatia sensitivo motora de tipo axonal
+T90	PROC 1983 1990	Biopsia
+#49	AnnotatorNotes T90	C0005558; Biopsy; Diagnostic Procedure
+T91	DISO 1994 2013	tumoración pulmonar
+T92	PROC 2015 2026	diagnóstico
+#50	AnnotatorNotes T92	C0011900; Diagnosis; Diagnostic Procedure
+T93	DISO 2030 2059	Carcinoma de células pequeñas
+#51	AnnotatorNotes T93	C0262584; Carcinoma, Small Cell; Neoplastic Process
+T94	PROC 2063 2074	TRATAMIENTO
+#52	AnnotatorNotes T94	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T95	PROC 2139 2152	quimioterapia
+#53	AnnotatorNotes T95	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T96	CHEM 2157 2167	Cisplatino
+#54	AnnotatorNotes T96	C0008838; cisplatin; Inorganic Chemical · Pharmacologic Substance
+T97	CHEM 2170 2180	Ectopósido
+T98	Date 2184 2195	Actualmente
+T99	PROC 2232 2261	tratamiento con quimioterapia
+T100	DISO 2289 2320	Carcinoma microcítico de pulmón
+#55	AnnotatorNotes T100	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T101	DISO 2336 2359	Síndrome Paraneoplasico
+#56	AnnotatorNotes T101	C0030472; Paraneoplastic Syndromes; Neoplastic Process
+T102	DISO 2361 2364	SLE
+T103	DISO 2367 2380	siringomielia
+#57	AnnotatorNotes T103	C0039144; Syringomyelia; Disease or Syndrome | C1861301; Syringomyelia, Isolated; Disease or Syndrome
+T105	DISO 1220 1237	aumento de tamaño
+T106	Neg_cue 1811 1819	negativo
+T107	Negated 1802 1809	sífilis
+T108	PROC 1823 1836	autominunidad
+T104	PROC 618 624	EXAMEN
+T109	PROC 2265 2276	DIAGNÓSTICO

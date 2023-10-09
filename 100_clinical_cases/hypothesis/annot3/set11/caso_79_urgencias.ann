@@ -1,0 +1,110 @@
+T1	LIVB 22 27	Varón
+T2	Age 31 38	56 años
+T3	DISO 65 81	malestar general
+#1	AnnotatorNotes T3	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T4	DISO 84 96	dolor lumbar
+#2	AnnotatorNotes T4	C0024031; Low Back Pain; Sign or Symptom
+T5	DISO 146 161	Hernia de hiato
+#3	AnnotatorNotes T5	C3489393; Hiatal Hernia; Disease or Syndrome
+T6	DISO 164 174	esofagitis
+#4	AnnotatorNotes T6	C0014868; Esophagitis; Disease or Syndrome
+T7	PROC 186 189	tto
+#5	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	CHEM 194 205	Pantoprazol
+#6	AnnotatorNotes T8	C0081876; pantoprazole; Organic Chemical · Pharmacologic Substance
+T9	DISO 211 221	Enfermedad
+#7	AnnotatorNotes T9	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	Date 222 228	actual
+T11	Date 245 259	hace 2 semanas
+T12	DISO 270 286	malestar general
+#8	AnnotatorNotes T12	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T13	DISO 301 321	sensación distérmica
+T14	DISO 326 337	escalofríos
+#9	AnnotatorNotes T14	C0085593; Chills; Sign or Symptom | C0424790; Rigor - Temperature-associated observation; Sign or Symptom
+T15	Spec_cue 338 341	sin
+T16	DISO 342 362	focalidad infecciosa
+T17	Speculated 342 362	focalidad infecciosa
+T18	Spec_cue 363 371	aparente
+T19	PROC 396 416	se pauta tratamiento
+T20	CHEM 421 431	Cefuroxima
+#10	AnnotatorNotes T20	C0007562; cefuroxime; Antibiotic · Organic Chemical
+T21	DISO 453 465	leucocituria
+#11	AnnotatorNotes T21	C0555120; Urine microscopy leukocytes present finding; Finding
+T22	DISO 499 511	leucocituria
+#12	AnnotatorNotes T22	C0555120; Urine microscopy leukocytes present finding; Finding
+T23	Neg_cue 513 516	sin
+T24	DISO 517 534	clínica miccional
+T25	Negated 517 534	clínica miccional
+T26	DISO 537 553	malestar general
+#13	AnnotatorNotes T26	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T27	DISO 556 578	dolor lumbar izquierdo
+#14	AnnotatorNotes T27	C2168111; left-sided low back pain; Sign or Symptom
+T28	PROC 581 587	EXAMEN
+#15	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T29	PROC 590 609	Exploración general
+T30	PROC 611 613	Tª
+T31	PROC 622 624	TA
+T32	PROC 639 641	Fc
+T33	PROC 671 700	Puñopercusión renal izquierda
+T34	DISO 713 721	dolorosa
+#16	AnnotatorNotes T34	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T35	Neg_cue 729 732	sin
+T36	DISO 733 745	alteraciones
+#17	AnnotatorNotes T36	C0012634; Disease; Disease or Syndrome
+T37	Negated 733 745	alteraciones
+T38	PROC 759 782	PRUEBAS COMPLEMENTARIAS
+#18	AnnotatorNotes T38	C1515980; Ancillary Study; Research Activity
+T39	PROC 787 796	Analitica
+#19	AnnotatorNotes T39	C0002778; Analysis of substances; Laboratory Procedure
+T40	PROC 798 807	Cratinina
+T41	PROC 813 817	Urea
+#20	AnnotatorNotes T41	C0523961; Urea measurement; Laboratory Procedure
+T42	PROC 821 831	Leucocitos
+T43	PROC 839 852	Tira de orina
+T44	PROC 858 868	Leucocitos
+T45	PROC 869 877	Nitritos
+T46	Negated 869 877	Nitritos
+T47	Neg_cue 878 881	(-)
+T48	PROC 885 893	Hematies
+T49	PROC 897 905	Rx Tórax
+#21	AnnotatorNotes T49	C0039985; Plain chest X-ray; Diagnostic Procedure
+T50	PROC 917 930	Rx de Abdomen
+T51	PROC 933 952	Ecografía Abdominal
+#22	AnnotatorNotes T51	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T52	DISO 963 987	dilatación pielocalicial
+#23	AnnotatorNotes T52	C4313419; Pyelocalyceal dilatation; Finding
+T53	ANAT 993 1018	uréter proximal izquierdo
+T54	DISO 1023 1043	litiasis obstructiva
+T55	ANAT 1064 1072	proximal
+T56	ANAT 1076 1082	uréter
+#24	AnnotatorNotes T56	C0041951; Ureter; Body Part, Organ, or Organ Component | C0555807; Ureter NEC; Body Part, Organ, or Organ Component | C1281572; Entire ureter; Body Part, Organ, or Organ Component
+T57	ANAT 1087 1113	grupo calicial inferior de
+T58	ANAT 1114 1129	riñón izquierdo
+T59	DISO 1146 1154	litiasis
+#25	AnnotatorNotes T59	C0023869; Lithiasis; Pathologic Function
+T60	ANAT 1173 1186	Riñón derecho
+T61	Neg_cue 1187 1190	sin
+T62	DISO 1191 1203	alteraciones
+#26	AnnotatorNotes T62	C0012634; Disease; Disease or Syndrome
+T63	Negated 1191 1203	alteraciones
+T64	PROC 1233 1242	Ingresado
+#27	AnnotatorNotes T64	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T65	PROC 1264 1291	se coloca DOBLE J izquierdo
+T66	PROC 1310 1314	Alta
+#28	AnnotatorNotes T66	C0030685; Patient Discharge; Health Care Activity
+T67	PROC 1326 1336	Litotricia
+#29	AnnotatorNotes T67	C0023878; Lithotripsy; Therapeutic or Preventive Procedure
+T68	PROC 1339 1350	DIAGNÓSTICO
+#30	AnnotatorNotes T68	C0011900; Diagnosis; Diagnostic Procedure
+T69	DISO 1363 1375	Cólico renal
+#31	AnnotatorNotes T69	C0152169; Renal Colic; Sign or Symptom
+T70	PROC 1389 1400	TRATAMIENTO
+#32	AnnotatorNotes T70	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T71	CHEM 1403 1417	Ciprofloxacino
+#33	AnnotatorNotes T71	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T72	Dose 1418 1424	400 mg
+T73	Route 1425 1428	IV.
+T74	PROC 1453 1465	hemocultivos
+#34	AnnotatorNotes T74	C0200949; Blood culture; Laboratory Procedure
+T75	PROC 1468 1478	Urocultivo
+#35	AnnotatorNotes T75	C0430404; Urine culture; Laboratory Procedure

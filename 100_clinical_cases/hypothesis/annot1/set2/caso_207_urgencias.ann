@@ -1,0 +1,121 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	75 años
+T3	DISO 73 78	mareo
+#2	AnnotatorNotes T3	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T4	Duration 82 90	24 horas
+T5	Duration 108 127	las últimas 4 horas
+T6	DISO 198 201	HTA
+#3	AnnotatorNotes T6	C0020538; Hypertensive disease; Disease or Syndrome
+T7	DISO 205 238	Fibrilación auricular paroxística
+#4	AnnotatorNotes T7	C0235480; Paroxysmal atrial fibrillation; Disease or Syndrome
+T8	PROC 240 243	TTO
+#5	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	PROC 245 258	Anticoagulada
+#6	AnnotatorNotes T9	C0003281; Anticoagulation Therapy; Therapeutic or Preventive Procedure
+T10	CHEM 263 275	Acenocumarol
+#7	AnnotatorNotes T10	C0000956; acenocoumarol; Organic Chemical · Pharmacologic Substance
+T11	CHEM 276 283	Sintrom
+#8	AnnotatorNotes T11	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T12	CHEM 287 297	Torasemida
+#9	AnnotatorNotes T12	C0076840; torsemide; Organic Chemical · Pharmacologic Substance
+T13	Dose 298 302	5 mg
+T14	Frequency 302 311	/24 horas
+T15	CHEM 313 323	Carvedilol
+#10	AnnotatorNotes T15	C0054836; carvedilol; Organic Chemical · Pharmacologic Substance
+T16	Dose 324 331	6,25 mg
+T17	Frequency 331 340	/12 horas
+T18	DISO 345 355	Enfermedad
+#11	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 356 362	actual
+T20	DISO 379 385	mareos
+#12	AnnotatorNotes T20	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T21	DISO 398 414	malestar general
+#13	AnnotatorNotes T21	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T22	DISO 419 437	sensación de calor
+#14	AnnotatorNotes T22	C0600142; Hot flushes; Sign or Symptom
+T23	ANAT 444 450	cabeza
+#15	AnnotatorNotes T23	C0018670; Head; Body Location or Region | C1281590; Entire head; Body Part, Organ, or Organ Component
+T24	Duration 455 463	segundos
+T25	PHYS 478 490	recuperación
+#16	AnnotatorNotes T25	C0679061; Retrieval of memory; Mental Process | C2004454; Recovery - healing process; Organism Function
+T26	Neg_cue 502 504	No
+T27	DISO 513 538	sensación de giro objetos
+T28	Negated 513 538	sensación de giro objetos
+T29	DISO 540 547	nauseas
+#17	AnnotatorNotes T29	C0027497; Nausea; Sign or Symptom
+T30	Negated 540 547	nauseas
+T31	Neg_cue 548 550	ni
+T32	DISO 551 558	vómitos
+#18	AnnotatorNotes T32	C0042963; Vomiting; Sign or Symptom
+T33	Negated 551 558	vómitos
+T34	Neg_cue 560 562	no
+T35	Negated 563 594	relación con cambios posturales
+T36	Neg_cue 598 604	Ningún
+T37	DISO 605 624	déficit neurológico
+#19	AnnotatorNotes T37	C0521654; Neurologic Deficits; Finding
+T38	Negated 605 624	déficit neurológico
+T39	DISO 631 659	sensación de desvanecimiento
+T40	DISO 671 676	mareo
+#20	AnnotatorNotes T40	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T41	PROC 691 709	Exploración física
+#21	AnnotatorNotes T41	C0031809; Physical Examination; Health Care Activity
+T42	PROC 713 715	PA
+T43	PROC 729 731	Fc
+T44	PROC 741 745	Temp
+T45	PROC 752 757	SatO2
+#22	AnnotatorNotes T45	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T46	PHYS 788 798	Consciente
+#23	AnnotatorNotes T46	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T47	PHYS 801 810	orientada
+T48	Neg_cue 853 855	No
+T49	DISO 856 858	IY
+T50	Negated 856 858	IY
+T51	PROC 862 864	AP
+T52	PROC 876 878	AC
+T53	PROC 911 934	Pruebas complementarias
+#24	AnnotatorNotes T53	C1515980; Ancillary Study; Research Activity
+T54	PROC 938 946	Rx Tórax
+#25	AnnotatorNotes T54	C0039985; Plain chest X-ray; Diagnostic Procedure
+T55	DISO 948 961	Cardiomegalia
+#26	AnnotatorNotes T55	C0018800; Cardiomegaly; Finding
+T56	Neg_cue 962 965	sin
+T57	DISO 966 972	signos
+#27	AnnotatorNotes T57	C0311392; Physical findings; Finding
+T58	Negated 966 978	signos de IC
+T59	DISO 976 978	IC
+#28	AnnotatorNotes T59	C0542052; Coronary artery insufficiency; Disease or Syndrome
+T60	PROC 982 991	Analítica
+#29	AnnotatorNotes T60	C0002778; Analysis of substances; Laboratory Procedure
+T61	PROC 993 996	INR
+#30	AnnotatorNotes T61	C0525032; International Normalized Ratio; Laboratory Procedure
+T62	PROC 1018 1021	ECG
+#31	AnnotatorNotes T62	C1623258; Electrocardiography; Diagnostic Procedure
+T63	DISO 1023 1058	taquicardia rítmica de QRS estrecho
+T64	Spec_cue 1097 1104	dudosas
+T65	Speculated 1105 1112	ondas F
+T66	DISO 1114 1131	Flutter auricular
+#32	AnnotatorNotes T66	C0004239; Atrial Flutter; Pathologic Function
+T67	Speculated 1114 1138	Flutter auricular 2:1?).
+T68	PROC 1152 1164	monitorizada
+#33	AnnotatorNotes T68	C1283169; Monitoring - action; Activity
+T69	Duration 1174 1186	unos minutos
+T70	PROC 1204 1207	ECG
+#34	AnnotatorNotes T70	C1623258; Electrocardiography; Diagnostic Procedure
+T71	ANAT 1215 1222	sinusal
+#35	AnnotatorNotes T71	C0030471; Nasal sinus; Body Space or Junction
+T72	PROC 1246 1249	ECG
+#36	AnnotatorNotes T72	C1623258; Electrocardiography; Diagnostic Procedure
+T73	DISO 1258 1269	bigeminismo
+#37	AnnotatorNotes T73	C3714585; Bigeminy; Finding
+T74	PROC 1280 1283	ECG
+#38	AnnotatorNotes T74	C1623258; Electrocardiography; Diagnostic Procedure
+T75	DISO 1285 1326	Flutter auricular con conducción variable
+T76	PROC 1330 1341	TRATAMIENTO
+#39	AnnotatorNotes T76	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T77	CHEM 1358 1366	Atropina
+#40	AnnotatorNotes T77	C0004259; atropine; Organic Chemical · Pharmacologic Substance
+T78	Dose 1367 1371	1 mg
+T79	Route 1372 1375	IV.
+T80	DEVI 1394 1417	ambulancia medicalizada
+T81	PROC 1426 1440	traslado a UCI

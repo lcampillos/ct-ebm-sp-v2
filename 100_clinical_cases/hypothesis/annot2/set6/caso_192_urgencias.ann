@@ -1,0 +1,88 @@
+T1	LIVB 22 27	Varón
+T2	Age 31 38	55 años
+T3	DISO 49 69	dolor en la garganta
+T4	Neg_cue 121 124	Sin
+T5	Negated 125 132	interés
+T6	DISO 138 148	Enfermedad
+#1	AnnotatorNotes T6	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T7	Date 149 155	actual
+T8	DISO 159 179	Dolor en la garganta
+T9	Date 186 197	hace 4 días
+T10	PHYS 203 210	ingesta
+T11	Date 251 262	hace 2 días
+T12	Neg_cue 288 291	sin
+T13	DISO 304 318	cuerpo extraño
+#2	AnnotatorNotes T13	C0016542; Foreign Bodies; Injury or Poisoning
+T14	Negated 304 318	cuerpo extraño
+T15	DISO 341 346	dolor
+#3	AnnotatorNotes T15	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T16	ANAT 393 429	región inferior izquierda del cuello
+T17	PHYS 450 459	deglución
+#4	AnnotatorNotes T17	C0011167; Deglutition; Organism Function
+T18	Neg_cue 463 465	No
+T19	DISO 466 472	fiebre
+#5	AnnotatorNotes T19	C0015967; Fever; Sign or Symptom
+T20	Negated 466 472	fiebre
+T21	PROC 475 481	EXAMEN
+#6	AnnotatorNotes T21	C0031809; Physical Examination; Health Care Activity
+T22	PROC 486 504	Exploración física
+#7	AnnotatorNotes T22	C0031809; Physical Examination; Health Care Activity
+T23	ANAT 530 540	Orofaringe
+#8	AnnotatorNotes T23	C0521367; Oropharyngeal; Body Location or Region | C1280659; Entire oropharynx; Body Part, Organ, or Organ Component
+T24	PROC 549 582	Laringoscopia directa e indirecta
+T25	Neg_cue 584 586	no
+T26	DISO 599 613	cuerpo extraño
+#9	AnnotatorNotes T26	C0016542; Foreign Bodies; Injury or Poisoning
+T27	Negated 599 613	cuerpo extraño
+T28	PROC 618 641	Pruebas complementarias
+#10	AnnotatorNotes T28	C1515980; Ancillary Study; Research Activity
+T29	PROC 645 657	Consulta ORL
+T30	PROC 659 677	Fibrolaringoscopia
+T31	PROC 700 725	endoscopia digestiva alta
+#11	AnnotatorNotes T31	C0079304; Esophagogastroduodenoscopy; Diagnostic Procedure
+T32	PROC 729 749	Esofago-gastroscopia
+#12	AnnotatorNotes T32	C0192466; Esophagogastroscopy; Diagnostic Procedure
+T33	ANAT 754 770	esófago proximal
+T34	DISO 778 787	erosiones
+#13	AnnotatorNotes T34	C0015256; Excoriation; Injury or Poisoning | C0040436; Tooth Erosion; Disease or Syndrome | C0333307; Superficial ulcer; Acquired Abnormality | C3887524; Skin Erosion; Disease or Syndrome
+T35	Neg_cue 823 825	no
+T36	DISO 837 851	cuerpo extraño
+#14	AnnotatorNotes T36	C0016542; Foreign Bodies; Injury or Poisoning
+T37	Negated 837 851	cuerpo extraño
+T38	PROC 855 867	TC de cuello
+#15	AnnotatorNotes T38	C0412604; Computed Tomography (CT) of Neck; Diagnostic Procedure
+T39	DISO 882 896	cuerpo extraño
+#16	AnnotatorNotes T39	C0016542; Foreign Bodies; Injury or Poisoning
+T40	ANAT 970 993	pared lateral izquierda
+T41	ANAT 1000 1016	porción superior
+T42	ANAT 1021 1037	esófago cervical
+T43	ANAT 1054 1059	C6-C7
+T44	DISO 1061 1073	perforándola
+#17	AnnotatorNotes T44	C0549099; Perforation (observation); Finding
+T45	ANAT 1157 1189	arteria carótida común izquierda
+T46	ANAT 1245 1264	grasa paraesofágica
+T47	DISO 1279 1293	cuerpo extraño
+#18	AnnotatorNotes T47	C0016542; Foreign Bodies; Injury or Poisoning
+T48	Spec_cue 1294 1308	compatible con
+T49	DISO 1309 1314	edema
+#19	AnnotatorNotes T49	C0013604; Edema; Pathologic Function
+T50	Speculated 1309 1314	edema
+T51	DISO 1317 1323	flemón
+#20	AnnotatorNotes T51	C0031557; Phlegmon; Pathologic Function | C0149892; Parulis; Disease or Syndrome
+T52	Speculated 1317 1323	flemón
+T53	DISO 1351 1372	Espina en la garganta
+T54	PROC 1376 1387	TRATAMIENTO
+#21	AnnotatorNotes T54	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T55	PROC 1415 1427	cervicotomía
+#22	AnnotatorNotes T55	C0195331; Cervicectomy; Therapeutic or Preventive Procedure
+T56	PROC 1429 1457	extracción de cuerpo extraño
+T57	PROC 1459 1466	drenaje
+#23	AnnotatorNotes T57	C0013103; Drainage procedure; Therapeutic or Preventive Procedure
+T58	DISO 1471 1478	absceso
+#24	AnnotatorNotes T58	C0000833; Abscess; Disease or Syndrome
+T59	PROC 1480 1487	cultivo
+#25	AnnotatorNotes T59	C0430400; Laboratory culture; Laboratory Procedure
+T60	LIVB 1499 1523	Streptococcus pneumoniae
+#26	AnnotatorNotes T60	C0038410; Streptococcus pneumoniae; Bacterium
+T61	LIVB 1526 1547	Streptococcus milleri
+#27	AnnotatorNotes T61	C1136015; Streptococcus milleri; Bacterium

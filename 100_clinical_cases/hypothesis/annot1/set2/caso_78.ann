@@ -1,0 +1,124 @@
+T1	LIVB 21 29	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T2	DISO 44 51	temblor
+#2	AnnotatorNotes T2	C0040822; Tremor; Sign or Symptom | C0040823; Tremor NEC in MDR; Sign or Symptom | C0234369; Trembling; Sign or Symptom
+T3	DISO 53 61	insomnio
+#3	AnnotatorNotes T3	C0917801; Sleeplessness; Sign or Symptom
+T4	DISO 64 79	pérdida de peso
+#4	AnnotatorNotes T4	C1262477; Weight decreased; Finding
+T5	LIVB 102 107	Varón
+T6	Age 111 118	42 años
+T7	Neg_cue 151 154	Sin
+T8	Negated 155 162	interés
+T9	LIVB 194 199	Madre
+#5	AnnotatorNotes T9	C0026591; Mother (person); Family Group
+T10	DISO 204 229	hipotiroidismo autoinmune
+#6	AnnotatorNotes T10	C0342158; Hypothyroidism, Autoimmune; Disease or Syndrome
+T11	DISO 234 244	Enfermedad
+#7	AnnotatorNotes T11	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T12	Date 245 251	actual
+T13	DISO 279 288	irritable
+#8	AnnotatorNotes T13	C0022107; Irritable Mood; Finding
+T14	DISO 291 299	inquieto
+#9	AnnotatorNotes T14	C3887612; Psychomotor Agitation; Finding
+T15	Neg_cue 301 303	no
+T16	DISO 314 327	palpitaciones
+#10	AnnotatorNotes T16	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T17	Negated 314 327	palpitaciones
+T18	Neg_cue 329 331	ni
+T19	DISO 342 356	dolor torácico
+#11	AnnotatorNotes T19	C0008031; Chest Pain; Sign or Symptom
+T20	Negated 342 356	dolor torácico
+T21	DISO 358 364	disnea
+#12	AnnotatorNotes T21	C0013404; Dyspnea; Sign or Symptom
+T22	Negated 358 364	disnea
+T23	DISO 367 392	intolerancia al ejercicio
+T24	Negated 367 392	intolerancia al ejercicio
+T25	Neg_cue 396 398	No
+T26	PROC 412 442	restricción en la alimentación
+T27	Negated 412 442	restricción en la alimentación
+T28	DISO 468 483	pérdida de peso
+#13	AnnotatorNotes T28	C1262477; Weight decreased; Finding
+T29	Neg_cue 485 487	ni
+T30	DISO 502 508	estrés
+#14	AnnotatorNotes T30	C0038435; Stress; Finding
+T31	Negated 502 538	estrés en su familia o en el trabajo
+T32	Neg_cue 542 544	No
+T33	DISO 545 566	clínica oftalmológica
+T34	Negated 545 566	clínica oftalmológica
+T35	Neg_cue 568 570	ni
+T36	DISO 571 604	aumento en el diámetro del cuello
+T37	Negated 571 604	aumento en el diámetro del cuello
+T38	PROC 619 637	Exploración física
+#15	AnnotatorNotes T38	C0031809; Physical Examination; Health Care Activity
+T39	DISO 641 652	Taquicardia
+#16	AnnotatorNotes T39	C0039231; Tachycardia; Finding
+T40	PROC 666 668	TA
+T41	PROC 683 689	Sat O2
+#17	AnnotatorNotes T41	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T42	PROC 697 718	Auscultación cardiaca
+#18	AnnotatorNotes T42	C0018793; Heart Auscultation; Diagnostic Procedure
+T43	Neg_cue 760 763	sin
+T44	DISO 764 770	soplos
+#19	AnnotatorNotes T44	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T45	Negated 764 779	soplos audibles
+T46	PROC 783 804	Auscultación pulmonar
+#20	AnnotatorNotes T46	C2230255; auscultation of lungs; Diagnostic Procedure
+T47	Neg_cue 839 842	sin
+T48	DISO 843 863	ruidos sobreañadidos
+T49	Negated 843 863	ruidos sobreañadidos
+T50	PROC 868 888	Palpación del cuello
+T51	DISO 890 902	bocio difuso
+#21	AnnotatorNotes T51	C0342114; Diffuse goiter; Disease or Syndrome
+T52	Neg_cue 904 907	sin
+T53	PHYS 908 917	palpación
+T54	DISO 921 928	nódulos
+#22	AnnotatorNotes T54	C0028259; Nodule; Acquired Abnormality
+T55	Negated 921 928	nódulos
+T56	Neg_cue 929 931	ni
+T57	DISO 932 943	adenopatías
+#23	AnnotatorNotes T57	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T58	Negated 932 943	adenopatías
+T59	PROC 949 972	Pruebas complementarias
+#24	AnnotatorNotes T59	C1515980; Ancillary Study; Research Activity
+T60	PROC 976 985	Analítica
+#25	AnnotatorNotes T60	C0002778; Analysis of substances; Laboratory Procedure
+T61	PROC 995 1010	perfil tiroideo
+T62	PROC 1023 1034	Tirotropina
+#26	AnnotatorNotes T62	C0202230; Thyroid stimulating hormone measurement; Laboratory Procedure
+T63	PROC 1042 1056	Tiroxina libre
+#27	AnnotatorNotes T63	C0202225; T4 free measurement; Laboratory Procedure
+T64	PROC 1069 1091	Tiroyodotironina libre
+T65	PROC 1105 1137	Anticuerpos antirreceptor de TSH
+T66	PROC 1150 1168	Electrocardiograma
+#28	AnnotatorNotes T66	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T67	PROC 1171 1191	Radiografía de tórax
+#29	AnnotatorNotes T67	C0039985; Plain chest X-ray; Diagnostic Procedure
+T68	PROC 1205 1216	TRATAMIENTO
+#30	AnnotatorNotes T68	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T69	CHEM 1264 1274	Propanolol
+#31	AnnotatorNotes T69	C0033497; propranolol; Organic Chemical · Pharmacologic Substance
+T70	Dose 1275 1280	10 mg
+T71	Frequency 1281 1293	cada 8 horas
+T72	CHEM 1296 1306	Carbimazol
+#32	AnnotatorNotes T72	C0006983; carbimazole; Organic Chemical · Pharmacologic Substance
+T73	Dose 1307 1325	5 mg 6 comprimidos
+T74	Frequency 1326 1333	diarios
+T75	PROC 1340 1350	analíticas
+#33	AnnotatorNotes T75	C0002778; Analysis of substances; Laboratory Procedure
+T76	PHYS 1379 1395	función tiroidea
+T77	PROC 1410 1428	ecografía tiroidea
+T78	DISO 1446 1484	aumento difuso de la glándula tiroidea
+T79	DISO 1486 1502	hipoecogenicidad
+#34	AnnotatorNotes T79	C3829578; Hypoechoic Focus; Finding
+T80	DISO 1505 1531	aumento de vascularización
+T81	DISO 1565 1573	síntomas
+#35	AnnotatorNotes T81	C1457887; Symptoms; Sign or Symptom
+T82	DISO 1575 1587	asintomático
+#36	AnnotatorNotes T82	C0231221; Asymptomatic (finding); Finding
+T83	Negated 1575 1587	asintomático
+T84	PROC 1591 1601	revisiones
+#37	AnnotatorNotes T84	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T85	DISO 1641 1665	Hipertiroidismo primario
+T86	DISO 1704 1732	enfermedad de Graves-Basedow
+#38	AnnotatorNotes T86	C0018213; Graves Disease; Disease or Syndrome

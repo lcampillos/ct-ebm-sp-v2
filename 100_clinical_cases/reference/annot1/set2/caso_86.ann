@@ -1,0 +1,167 @@
+T1	DISO 21 26	Dolor
+#1	AnnotatorNotes T1	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T2	DISO 29 40	inflamación
+#2	AnnotatorNotes T2	C0021368; Inflammation; Pathologic Function
+T3	ANAT 44 70	miembro inferior izquierdo
+#3	AnnotatorNotes T3	C0230416; Left lower extremity; Body Part, Organ, or Organ Component
+T4	DISO 73 79	disnea
+#4	AnnotatorNotes T4	C0013404; Dyspnea; Sign or Symptom
+T5	LIVB 102 110	Paciente
+#5	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	Age 114 121	42 años
+T7	LIVB 139 148	camionero
+T8	DISO 180 217	Varices en miembro inferior izquierdo
+T9	DISO 222 251	Síndrome de Klippel-Trenaunay
+#6	AnnotatorNotes T9	C0022739; Klippel-Trenaunay-Weber Syndrome; Disease or Syndrome
+T10	Neg_cue 255 257	No
+T11	DISO 258 273	hábitos tóxicos
+T12	Negated 258 273	hábitos tóxicos
+T13	DISO 278 288	Enfermedad
+#7	AnnotatorNotes T13	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T14	Date 289 295	actual
+T15	DISO 321 326	dolor
+#8	AnnotatorNotes T15	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T16	DISO 329 340	inflamación
+#9	AnnotatorNotes T16	C0021368; Inflammation; Pathologic Function
+T17	ANAT 344 370	miembro inferior izquierdo
+#10	AnnotatorNotes T17	C0230416; Left lower extremity; Body Part, Organ, or Organ Component
+T18	Duration 374 386	varias horas
+T19	Neg_cue 401 403	No
+T20	DISO 404 415	traumatismo
+#11	AnnotatorNotes T20	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T21	Negated 404 415	traumatismo
+T22	DISO 424 431	Afebril
+#12	AnnotatorNotes T22	C0277797; Apyrexial; Finding
+T23	Negated 424 431	Afebril
+T24	DISO 433 457	Dificultad para respirar
+#13	AnnotatorNotes T24	C0013404; Dyspnea; Sign or Symptom
+T25	Date 482 496	hace dos meses
+T26	Neg_cue 497 500	sin
+T29	PROC 530 548	Exploración física
+#14	AnnotatorNotes T29	C0031809; Physical Examination; Health Care Activity
+T30	Neg_cue 582 585	sin
+T31	PROC 586 600	oxigenoterapia
+#15	AnnotatorNotes T31	C0184633; Oxygen Therapy Care; Therapeutic or Preventive Procedure
+T32	Negated 586 600	oxigenoterapia
+T33	PROC 602 607	SatO2
+#16	AnnotatorNotes T33	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T34	PROC 613 615	FC
+T35	PROC 625 646	Auscultación cardiaca
+#17	AnnotatorNotes T35	C0018793; Heart Auscultation; Diagnostic Procedure
+T36	Neg_cue 657 659	no
+T37	DISO 660 666	soplos
+#18	AnnotatorNotes T37	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T38	Negated 660 666	soplos
+T39	Neg_cue 667 669	ni
+T40	DISO 670 680	extratonos
+T41	Negated 670 680	extratonos
+T42	PROC 684 705	Auscultación pulmonar
+#19	AnnotatorNotes T42	C2230255; auscultation of lungs; Diagnostic Procedure
+T43	DISO 743 770	crepitantes finos bibasales
+T44	ANAT 774 800	Miembro inferior izquierdo
+#20	AnnotatorNotes T44	C0230416; Left lower extremity; Body Part, Organ, or Organ Component
+T45	PHYS 802 816	pulso femoral,
+T46	ANAT 817 826	poplíteo,
+T47	ANAT 827 843	tibial posterior
+T48	ANAT 846 851	pedio
+#21	AnnotatorNotes T48	C0016504; Foot; Body Part, Organ, or Organ Component | C0224465; Structure of extensor digitorum brevis muscle of foot; Body Part, Organ, or Organ Component
+T49	Neg_cue 862 865	Sin
+T50	DISO 866 887	empastamiento gemelar
+T51	Negated 866 887	empastamiento gemelar
+T52	DISO 889 914	Venas varicosas dilatadas
+T53	ANAT 918 923	muslo
+#22	AnnotatorNotes T53	C0039866; Thigh structure; Body Location or Region | C1281586; Entire thigh; Body Part, Organ, or Organ Component
+T54	ANAT 926 932	pierna
+#23	AnnotatorNotes T54	C1140621; Leg; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region
+T55	Neg_cue 947 954	excepto
+T56	ANAT 965 991	cara anterior de la pierna
+T58	Neg_cue 996 998	no
+T59	Negated 1003 1015	compresibles
+T60	DISO 1028 1037	dolorosas
+#24	AnnotatorNotes T60	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T61	DISO 1040 1049	induradas
+#25	AnnotatorNotes T61	C0332534; Induration; Pathologic Function
+T62	PROC 1054 1077	Pruebas complementarias
+#26	AnnotatorNotes T62	C1515980; Ancillary Study; Research Activity
+T63	PROC 1081 1090	Hemograma
+#27	AnnotatorNotes T63	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T64	PROC 1092 1102	leucocitos
+T65	PROC 1109 1120	Hemoglobina
+#28	AnnotatorNotes T65	C0518015; Hemoglobin measurement; Laboratory Procedure
+T66	PROC 1127 1136	plaquetas
+T67	PROC 1147 1158	Coagulación
+#29	AnnotatorNotes T67	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T68	PROC 1160 1163	INR
+#30	AnnotatorNotes T68	C0525032; International Normalized Ratio; Laboratory Procedure
+T69	PROC 1170 1179	Dimeros D
+T70	PROC 1188 1198	Bioquímica
+#31	AnnotatorNotes T70	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T71	PROC 1200 1204	urea
+#32	AnnotatorNotes T71	C0523961; Urea measurement; Laboratory Procedure
+T72	PROC 1209 1219	creatinina
+#33	AnnotatorNotes T72	C0201975; Creatinine measurement; Laboratory Procedure
+T73	PROC 1226 1231	sodio
+#34	AnnotatorNotes T73	C0337443; Sodium measurement; Laboratory Procedure
+T74	PROC 1237 1244	potasio
+#35	AnnotatorNotes T74	C0202194; Potassium measurement; Laboratory Procedure
+T75	PROC 1250 1267	bilirrubina total
+#36	AnnotatorNotes T75	C0201913; Bilirubin, total measurement; Laboratory Procedure
+T76	PROC 1273 1277	ASAT
+#37	AnnotatorNotes T76	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T77	PROC 1282 1285	PCR
+#38	AnnotatorNotes T77	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T78	PROC 1293 1313	Radiografía de tórax
+#39	AnnotatorNotes T78	C0039985; Plain chest X-ray; Diagnostic Procedure
+T79	Neg_cue 1314 1317	sin
+T80	Negated 1318 1339	hallazgos patológicos
+T81	PROC 1342 1345	ECG
+#40	AnnotatorNotes T81	C1623258; Electrocardiography; Diagnostic Procedure
+T83	PROC 1483 1501	Eco doppler venoso
+T84	ANAT 1505 1531	miembro inferior izquierdo
+#42	AnnotatorNotes T84	C0230416; Left lower extremity; Body Part, Organ, or Organ Component
+T85	DISO 1544 1556	trombo mixto
+T86	DISO 1560 1573	vena varicosa
+#43	AnnotatorNotes T86	C0042345; Varicosity; Disease or Syndrome
+T87	ANAT 1577 1613	cara anterior de la pierna izquierda
+T89	PROC 1617 1625	AngioTAC
+#45	AnnotatorNotes T89	C1536105; Computed Tomography Angiography; Diagnostic Procedure
+T90	PROC 1627 1641	se diagnostica
+T91	DISO 1642 1651	TEP agudo
+T92	DISO 1667 1690	tromboembolismo crónico
+T93	Duration 1683 1690	crónico
+T94	DISO 1695 1723	signos de sobrecarga derecha
+T95	DISO 1726 1747	hipertensión pulmonar
+#46	AnnotatorNotes T95	C0020542; Pulmonary Hypertension; Pathologic Function
+T96	PROC 1751 1762	TRATAMIENTO
+#47	AnnotatorNotes T96	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T97	PROC 1779 1786	Ingreso
+#48	AnnotatorNotes T97	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T98	PROC 1818 1829	tratamiento
+#49	AnnotatorNotes T98	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T99	CHEM 1834 1845	Enoxaparina
+#50	AnnotatorNotes T99	C0206460; enoxaparin; Organic Chemical · Pharmacologic Substance
+T100	Dose 1846 1850	80mg
+T101	Frequency 1851 1864	cada 12 horas
+T102	PROC 1871 1875	alta
+#51	AnnotatorNotes T102	C0030685; Patient Discharge; Health Care Activity
+T103	PROC 1886 1906	anticoagulación oral
+T104	Route 1902 1906	oral
+T105	CHEM 1911 1918	Sintrom
+#52	AnnotatorNotes T105	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T106	Dose 1919 1922	4mg
+T107	DISO 1970 2000	Tromboembolismo pulmonar agudo
+T108	DISO 2016 2039	tromboembolismo crónico
+T109	Duration 2032 2039	crónico
+T110	DISO 2044 2072	signos de sobrecarga derecha
+T111	DISO 2075 2096	Hipertensión pulmonar
+#53	AnnotatorNotes T111	C0020542; Pulmonary Hypertension; Pathologic Function
+T112	DISO 2099 2113	Tromboflebitis
+#54	AnnotatorNotes T112	C0040046; Thrombophlebitis; Pathologic Function
+T113	ANAT 2117 2153	cara anterior de la pierna izquierda
+T115	LIVB 2157 2165	paciente
+#56	AnnotatorNotes T115	C0030705; Patients; Patient or Disabled Group
+T116	DISO 2170 2199	Síndrome de Klippel-Trenaunay
+#57	AnnotatorNotes T116	C0022739; Klippel-Trenaunay-Weber Syndrome; Disease or Syndrome
+T27	Negated 501 515	causa aparente
+T28	PROC 1946 1957	DIAGNÓSTICO
+T57	PROC 519 525	EXAMEN

@@ -1,0 +1,138 @@
+T1	DISO 21 45	Enfermedad neuromuscular
+#1	AnnotatorNotes T1	C0027868; Neuromuscular Diseases; Disease or Syndrome
+T2	PHYS 97 105	Embarazo
+#2	AnnotatorNotes T2	C0032961; Pregnancy; Organism Function
+T3	PHYS 108 113	parto
+#3	AnnotatorNotes T3	C0005615; Birth; Organism Function | C1148523; Childbirth; Organism Function
+T4	Neg_cue 124 126	No
+T5	DISO 127 135	alergias
+#4	AnnotatorNotes T5	C0020517; Hypersensitivity; Pathologic Function
+T6	Negated 127 145	alergias conocidas
+T7	PROC 150 157	Ingresó
+#5	AnnotatorNotes T7	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T8	Duration 164 170	4 años
+T9	DISO 175 209	neumonía adquirida en la comunidad
+#6	AnnotatorNotes T9	C0694549; Community acquired pneumonia; Disease or Syndrome
+T10	PROC 211 218	tratada
+T11	CHEM 223 233	salbutamol
+#7	AnnotatorNotes T11	C0001927; albuterol; Organic Chemical · Pharmacologic Substance
+T12	Route 234 244	nebulizado
+T13	CHEM 246 262	glucocorticoides
+#8	AnnotatorNotes T13	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T14	Route 263 269	orales
+T15	PROC 272 286	antibioterapia
+#9	AnnotatorNotes T15	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T16	PROC 291 305	Inmunizaciones
+#10	AnnotatorNotes T16	C0020971; Immunization; Therapeutic or Preventive Procedure
+T17	CHEM 327 373	vacunas antigripal y antineumocócica conjugada
+T18	DISO 378 388	Enfermedad
+#11	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 389 395	actual
+T20	LIVB 399 403	Niño
+#12	AnnotatorNotes T20	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T22	Age 407 414	10 años
+T23	PROC 423 436	diagnosticado
+#13	AnnotatorNotes T23	C0011900; Diagnosis; Diagnostic Procedure
+T24	DISO 440 470	distrofia muscular de Duchenne
+#14	AnnotatorNotes T24	C0013264; Muscular Dystrophy, Duchenne; Disease or Syndrome
+T25	Age 477 483	4 años
+T26	DISO 489 513	escoliosis tóraco-lumbar
+T27	DISO 524 549	infecciones respiratorias
+#15	AnnotatorNotes T27	C0035243; Respiratory Tract Infections; Disease or Syndrome
+T28	Frequency 550 561	ocasionales
+T29	PROC 580 591	tratamiento
+#16	AnnotatorNotes T29	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T30	CHEM 596 606	salbutamol
+#17	AnnotatorNotes T30	C0001927; albuterol; Organic Chemical · Pharmacologic Substance
+T31	Route 607 615	inhalado
+T32	CHEM 617 633	glucocorticoides
+#18	AnnotatorNotes T32	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T33	Route 634 640	orales
+T34	PROC 643 657	antibioterapia
+#19	AnnotatorNotes T34	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T35	Neg_cue 661 663	No
+T36	DISO 664 670	disnea
+#20	AnnotatorNotes T36	C0013404; Dyspnea; Sign or Symptom
+T37	Negated 664 670	disnea
+T38	Neg_cue 671 673	ni
+T39	DISO 674 686	tos nocturna
+T40	Negated 674 686	tos nocturna
+T41	Time 678 686	nocturna
+T42	DISO 690 716	Pérdida de la deambulación
+T46	Date 759 775	en la actualidad
+T47	PROC 790 808	Exploración física
+#21	AnnotatorNotes T47	C0031809; Physical Examination; Health Care Activity
+T48	PROC 812 816	Peso
+T49	PROC 832 837	Talla
+T50	PROC 854 857	IMC
+T51	PROC 865 867	FR
+#22	AnnotatorNotes T51	C0201660; Rheumatoid Factor Measurement; Laboratory Procedure
+T52	PROC 877 882	SatO2
+#23	AnnotatorNotes T52	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T53	PROC 890 893	ACP
+#24	AnnotatorNotes T53	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T54	Neg_cue 928 930	No
+T55	DISO 931 937	tiraje
+#25	AnnotatorNotes T55	C0425469; Indrawing of ribs during respiration; Finding
+T56	Negated 931 937	tiraje
+T57	Neg_cue 939 941	No
+T58	DISO 942 950	polipnea
+#26	AnnotatorNotes T58	C0220854; Hyperpnea; Finding
+T59	Negated 942 950	polipnea
+T60	DISO 954 978	Escoliosis tóraco-lumbar
+T61	PROC 992 1015	Pruebas complementarias
+#27	AnnotatorNotes T61	C1515980; Ancillary Study; Research Activity
+T62	PROC 1019 1039	Radiografía de tórax
+#28	AnnotatorNotes T62	C0039985; Plain chest X-ray; Diagnostic Procedure
+T63	DISO 1041 1065	Escoliosis tóraco-lumbar
+T64	DISO 1091 1116	Refuerzo hiliar bilateral
+T65	PROC 1120 1140	Espirometría forzada
+#29	AnnotatorNotes T65	C4701192; forced expiratory flow (FEF); Diagnostic Procedure
+T67	PROC 1204 1207	FVC
+T70	PROC 1257 1277	Espirometría forzada
+#30	AnnotatorNotes T70	C4701192; forced expiratory flow (FEF); Diagnostic Procedure
+T71	PROC 1280 1306	prueba de broncodilatación
+T72	DISO 1337 1340	tos
+#31	AnnotatorNotes T72	C0010200; Coughing; Sign or Symptom
+T73	PROC 1342 1345	PCF
+T74	PROC 1362 1373	TRATAMIENTO
+#32	AnnotatorNotes T74	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T75	PROC 1390 1412	Tratamiento de soporte
+T76	ANAT 1438 1450	respiratorio
+#33	AnnotatorNotes T76	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
+T77	PROC 1454 1472	Tratamiento precoz
+T78	DISO 1480 1505	infecciones respiratorias
+#34	AnnotatorNotes T78	C0035243; Respiratory Tract Infections; Disease or Syndrome
+T79	PROC 1510 1524	antibioterapia
+#35	AnnotatorNotes T79	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T80	CHEM 1540 1550	salbutamol
+#36	AnnotatorNotes T80	C0001927; albuterol; Organic Chemical · Pharmacologic Substance
+T81	Route 1551 1559	inhalado
+T82	PROC 1563 1595	Ventilación mecánica no invasiva
+#37	AnnotatorNotes T82	C1868982; Noninvasive mechanical ventilation; Therapeutic or Preventive Procedure
+T83	Neg_cue 1584 1586	no
+T84	Negated 1587 1595	invasiva
+T85	Time 1596 1604	nocturna
+T86	PROC 1608 1622	Inmunizaciones
+#38	AnnotatorNotes T86	C0020971; Immunization; Therapeutic or Preventive Procedure
+T87	CHEM 1633 1643	antigripal
+T88	CHEM 1646 1654	VANC-13v
+T89	PROC 1659 1684	Fisioterapia respiratoria
+T90	PROC 1686 1719	Insuflación y exuflación mecánica
+T91	Frequency 1734 1740	diario
+T92	DISO 1769 1799	Distrofia muscular de Duchenne
+#39	AnnotatorNotes T92	C0013264; Muscular Dystrophy, Duchenne; Disease or Syndrome
+T93	DISO 1801 1838	Patrón funcional pulmonar restrictivo
+T94	DISO 1840 1864	Escoliosis tóraco-lumbar
+T95	PROC 1878 1901	intervención quirúrgica
+#40	AnnotatorNotes T95	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T98	Age 723 729	6 años
+T99	PROC 779 785	EXAMEN
+T102	ANAT 1076 1089	neuromuscular
+T44	PROC 1229 1246	cociente FEV1/FVC
+T45	PROC 1745 1756	DIAGNÓSTICO
+T68	Age 399 403	Niño
+T43	Neg_cue 731 749	Imposibilidad para
+T69	Negated 750 758	la misma
+T66	DISO 1153 1181	patrón funcional restrictivo
+T96	DEVI 1720 1732	Cough-Assist

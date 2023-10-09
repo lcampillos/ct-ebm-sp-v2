@@ -1,0 +1,96 @@
+T1	LIVB 21 27	Hombre
+#1	AnnotatorNotes T1	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T2	Age 31 38	59 años
+T3	DISO 49 55	disnea
+#2	AnnotatorNotes T3	C0013404; Dyspnea; Sign or Symptom
+T4	DISO 65 98	dolor torácico de tipo pleurítico
+T5	DISO 150 153	HTA
+#3	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	PROC 157 160	tto
+#4	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	CHEM 165 175	olmesartan
+#5	AnnotatorNotes T7	C1098320; olmesartan; Organic Chemical · Pharmacologic Substance
+T8	Dose 176 181	20 mg
+T9	Frequency 181 185	/dia
+T10	DISO 189 196	Fumador
+#6	AnnotatorNotes T10	C0337664; Smoker; Finding
+T11	Frequency 216 220	/dia
+T12	Date 227 244	hace unos 25 años
+T13	DISO 248 265	EPOC enfisematoso
+T14	PROC 269 272	tto
+#7	AnnotatorNotes T14	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T15	CHEM 277 294	broncodilatadores
+#8	AnnotatorNotes T15	C0006280; Bronchodilator Agents; Pharmacologic Substance
+T16	CHEM 296 306	Vilanterol
+#9	AnnotatorNotes T16	C2935023; vilanterol; Organic Chemical · Pharmacologic Substance
+T17	CHEM 307 318	umeclidinio
+T18	DISO 323 333	Enfermedad
+#10	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 334 340	actual
+T20	DISO 354 360	disnea
+#11	AnnotatorNotes T20	C0013404; Dyspnea; Sign or Symptom
+T21	Date 389 399	esta noche
+T22	DISO 402 428	dolor en hemitórax derecho
+#12	AnnotatorNotes T22	C0563275; Right sided chest pain; Sign or Symptom
+T23	PHYS 452 463	movimientos
+#13	AnnotatorNotes T23	C0026649; Movement; Organism Function
+T24	PHYS 464 477	respiratorios
+#14	AnnotatorNotes T24	C0035203; Respiration; Physiologic Function
+T25	PROC 492 510	Exploración física
+#15	AnnotatorNotes T25	C0031809; Physical Examination; Health Care Activity
+T26	PROC 514 516	PA
+T27	PROC 526 528	FC
+T28	PROC 533 538	SatO2
+#16	AnnotatorNotes T28	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T29	DISO 546 554	Afectado
+#17	AnnotatorNotes T29	C2945640; compromise; Finding
+T30	DISO 562 567	dolor
+#18	AnnotatorNotes T30	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T31	DISO 571 580	Taquipnea
+#19	AnnotatorNotes T31	C0231835; Tachypnea; Finding
+T32	Neg_cue 581 584	sin
+T33	DISO 585 591	tiraje
+#20	AnnotatorNotes T33	C0425469; Indrawing of ribs during respiration; Finding
+T34	Negated 585 591	tiraje
+T35	ANAT 633 644	mucocutánea
+#21	AnnotatorNotes T35	C4516595; Entire skin and mucous membrane; Body System
+T36	Neg_cue 655 657	No
+T37	DISO 658 679	ingurgitación yugular
+#22	AnnotatorNotes T37	C0425687; Jugular venous engorgement; Finding
+T38	Negated 658 679	ingurgitación yugular
+T39	PROC 683 685	AC
+T40	Neg_cue 694 697	sin
+T41	DISO 698 704	soplos
+#23	AnnotatorNotes T41	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T42	Negated 698 704	soplos
+T43	PROC 708 710	AP
+T44	DISO 712 727	hipoventilación
+#24	AnnotatorNotes T44	C3203358; Hypoventilation; Pathologic Function
+T45	ANAT 731 748	hemicampo derecho
+T46	PROC 768 791	Pruebas complementarias
+#25	AnnotatorNotes T46	C1515980; Ancillary Study; Research Activity
+T47	PROC 795 798	ECG
+#26	AnnotatorNotes T47	C1623258; Electrocardiography; Diagnostic Procedure
+T48	ANAT 807 814	sinusal
+#27	AnnotatorNotes T48	C0030471; Nasal sinus; Body Space or Junction
+T49	Neg_cue 825 828	sin
+T50	DISO 829 841	alteraciones
+#28	AnnotatorNotes T50	C0012634; Disease; Disease or Syndrome
+T51	Negated 829 841	alteraciones
+T52	PROC 860 868	Rx Tórax
+#29	AnnotatorNotes T52	C0039985; Plain chest X-ray; Diagnostic Procedure
+T53	DISO 870 888	neumotórax derecho
+T54	PROC 893 905	TAC torácica
+#30	AnnotatorNotes T54	C0202823; Chest CT; Diagnostic Procedure
+T55	DISO 907 923	enfisema bulloso
+T56	DISO 925 936	Bulla en LM
+T57	PROC 940 951	TRATAMIENTO
+#31	AnnotatorNotes T57	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T58	PROC 979 1003	drenaje con catéter fino
+T59	DEVI 1005 1015	Pleurecath
+T60	PROC 1031 1042	bullectomía
+T61	PROC 1045 1066	pleurectomía parietal
+T62	PROC 1071 1075	VATS
+T63	DISO 1103 1124	Neumotórax espontáneo
+#32	AnnotatorNotes T63	C0149781; Spontaneous pneumothorax; Disease or Syndrome
+T64	DISO 1129 1145	rotura una bulla

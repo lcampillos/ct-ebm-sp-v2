@@ -1,0 +1,135 @@
+T1	DISO 22 44	Dolor en ambos hombros
+T2	ANAT 61 74	ambas muñecas
+T3	LIVB 97 102	Mujer
+#1	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 106 113	72 años
+T5	DISO 146 149	HTA
+#2	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	DISO 153 172	Hipercolesterolemia
+#3	AnnotatorNotes T6	C0020443; Hypercholesterolemia; Disease or Syndrome
+T7	DISO 176 197	Cardiopatía Isquémica
+#4	AnnotatorNotes T7	C0151744; Myocardial Ischemia; Disease or Syndrome
+T8	DISO 199 202	IAM
+#5	AnnotatorNotes T8	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T9	Date 206 210	1996
+T10	Date 213 217	2010
+T11	PROC 221 225	Tto.
+T12	CHEM 236 247	Pantoprazol
+#6	AnnotatorNotes T12	C0081876; pantoprazole; Organic Chemical · Pharmacologic Substance
+T13	Dose 248 253	20 mg
+T14	Frequency 253 257	/24h
+T15	CHEM 259 262	AAS
+#7	AnnotatorNotes T15	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T16	Dose 263 269	100 mg
+T17	Frequency 269 273	/24h
+T18	CHEM 275 299	Isosorbida 5-mononitrato
+T19	Dose 300 305	60 mg
+T20	Frequency 305 309	/24h
+T21	CHEM 311 321	Bisoprolol
+#8	AnnotatorNotes T21	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T22	Dose 322 326	5 mg
+T23	Frequency 326 330	/24h
+T24	CHEM 332 343	Nisoldipino
+#9	AnnotatorNotes T24	C0028116; nisoldipine; Organic Chemical · Pharmacologic Substance
+T25	Dose 344 349	10 mg
+T26	Frequency 349 353	/24h
+T27	CHEM 355 363	Ramipril
+#10	AnnotatorNotes T27	C0072973; ramipril; Organic Chemical · Pharmacologic Substance
+T28	Dose 364 370	2,5 mg
+T29	Frequency 370 374	/24h
+T30	CHEM 376 389	Rosuvastatina
+#11	AnnotatorNotes T30	C0965129; rosuvastatin; Organic Chemical · Pharmacologic Substance
+T31	Dose 390 395	20 mg
+T32	Frequency 395 399	/24h
+T33	DISO 405 415	Enfermedad
+#12	AnnotatorNotes T33	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T34	Date 416 422	actual
+T35	DISO 426 448	Dolor en ambos hombros
+T36	ANAT 465 478	ambas muñecas
+T37	Duration 482 488	un día
+T38	Neg_cue 505 507	No
+T39	DISO 508 514	disnea
+#13	AnnotatorNotes T39	C0013404; Dyspnea; Sign or Symptom
+T40	Negated 508 514	disnea
+T41	Neg_cue 516 518	no
+T42	DISO 519 533	dolor torácico
+#14	AnnotatorNotes T42	C0008031; Chest Pain; Sign or Symptom
+T43	Negated 519 533	dolor torácico
+T44	Neg_cue 534 544	ni ninguna
+T45	Negated 545 564	otra sintomatología
+T46	DISO 550 564	sintomatología
+#15	AnnotatorNotes T46	C3540840; Sign or Symptom; Finding
+T47	Neg_cue 568 570	No
+T48	Negated 571 593	antecedente traumático
+T49	Neg_cue 594 596	ni
+T50	Negated 597 610	sobreesfuerzo
+T51	Dose 635 642	un puff
+T52	CHEM 646 657	solinitrina
+T53	Date 661 675	el día de ayer
+T54	DISO 696 701	dolor
+#16	AnnotatorNotes T54	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T55	PROC 716 734	Exploración física
+#17	AnnotatorNotes T55	C0031809; Physical Examination; Health Care Activity
+T56	PROC 738 740	TA
+T57	PROC 755 757	FC
+T58	PROC 767 769	Tª
+T59	PROC 779 783	SpO2
+T60	PHYS 813 823	Consciente
+#18	AnnotatorNotes T60	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T61	PHYS 826 835	orientada
+T62	DISO 877 884	afebril
+#19	AnnotatorNotes T62	C0277797; Apyrexial; Finding
+T63	Negated 877 884	afebril
+T64	Neg_cue 888 890	No
+T65	DISO 891 913	puntos óseos dolorosos
+T66	Negated 891 929	puntos óseos dolorosos en extremidades
+T67	ANAT 917 929	extremidades
+#20	AnnotatorNotes T67	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T68	PROC 933 935	AC
+T69	Neg_cue 946 948	no
+T70	DISO 954 960	soplos
+#21	AnnotatorNotes T70	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T71	Negated 954 960	soplos
+T72	PROC 964 966	AP
+T73	Neg_cue 973 975	no
+T74	DISO 981 1001	ruidos sobreañadidos
+T75	Negated 981 1001	ruidos sobreañadidos
+T76	PROC 1006 1029	Pruebas complementarias
+#22	AnnotatorNotes T76	C1515980; Ancillary Study; Research Activity
+T77	PROC 1033 1036	ECG
+#23	AnnotatorNotes T77	C1623258; Electrocardiography; Diagnostic Procedure
+T78	DISO 1051 1056	BRIHH
+T79	Neg_cue 1078 1080	No
+T80	DISO 1081 1114	alteraciones de la repolarización
+T81	Negated 1081 1114	alteraciones de la repolarización
+T82	PROC 1118 1126	Rx tórax
+#24	AnnotatorNotes T82	C0039985; Plain chest X-ray; Diagnostic Procedure
+T83	DISO 1128 1166	Pinzamiento del seno costofrénico izdo
+T84	PROC 1170 1179	Analítica
+#25	AnnotatorNotes T84	C0002778; Analysis of substances; Laboratory Procedure
+T85	PROC 1181 1188	Glucosa
+T86	PROC 1194 1197	TnT
+T87	PROC 1205 1210	CK-MB
+T88	PROC 1218 1228	Leucocitos
+T89	Neg_cue 1251 1254	sin
+T90	DISO 1255 1267	alteraciones
+#26	AnnotatorNotes T90	C0012634; Disease; Disease or Syndrome
+T91	Negated 1255 1267	alteraciones
+T92	DISO 1295 1302	SCASEST
+#27	AnnotatorNotes T92	C4255010; Non-ST Elevated Myocardial Infarction; Disease or Syndrome
+T93	DISO 1304 1311	IAM noQ
+T94	Neg_cue 1308 1311	noQ
+T95	PROC 1314 1325	TRATAMIENTO
+#28	AnnotatorNotes T95	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T96	Dose 1342 1349	2 puffs
+T97	CHEM 1353 1364	solinitrina
+T98	CHEM 1368 1379	Clopidogrel
+#29	AnnotatorNotes T98	C0070166; clopidogrel; Organic Chemical · Pharmacologic Substance
+T99	Dose 1380 1384	75mg
+T100	Route 1385 1388	vo.
+T101	LIVB 1394 1402	paciente
+#30	AnnotatorNotes T101	C0030705; Patients; Patient or Disabled Group
+T102	DISO 1427 1432	dolor
+#31	AnnotatorNotes T102	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T103	LIVB 1494 1502	paciente
+#32	AnnotatorNotes T103	C0030705; Patients; Patient or Disabled Group

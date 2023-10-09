@@ -1,0 +1,107 @@
+T1	DISO 21 49	Heridas ulcerosas en el pene
+T2	LIVB 72 77	Varón
+T3	Age 81 88	21 años
+T4	Neg_cue 111 114	sin
+T5	LIVB 115 128	pareja sexual
+T6	Negated 115 136	pareja sexual estable
+T7	Neg_cue 168 173	Niega
+T8	DISO 174 197	alergias medicamentosas
+#1	AnnotatorNotes T8	C0013182; Drug Allergy; Pathologic Function
+T9	Negated 174 197	alergias medicamentosas
+T10	Neg_cue 201 203	No
+T11	Negated 204 234	antecedentes medicoquirúrgicos
+T12	Neg_cue 238 240	No
+T13	PROC 249 260	tratamiento
+#2	AnnotatorNotes T13	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T14	Negated 249 260	tratamiento
+T15	DISO 274 284	Enfermedad
+#3	AnnotatorNotes T15	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T17	DISO 305 346	lesiones ulcerosas en glande pruriginosas
+T18	Neg_cue 349 351	no
+T19	DISO 352 361	dolorosas
+#4	AnnotatorNotes T19	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T20	Negated 352 361	dolorosas
+T21	DISO 363 370	afebril
+#5	AnnotatorNotes T21	C0277797; Apyrexial; Finding
+T22	Negated 363 370	afebril
+T23	Date 386 398	hace 2 meses
+T24	PHYS 407 422	relación sexual
+#6	AnnotatorNotes T24	C0009253; Coitus; Organism Function
+T25	Neg_cue 423 426	sin
+T26	Negated 427 448	barrera de protección
+T27	PROC 463 481	Exploración física
+#7	AnnotatorNotes T27	C0031809; Physical Examination; Health Care Activity
+T30	PROC 609 628	Exploración genital
+T31	DISO 630 640	Adenopatía
+#9	AnnotatorNotes T31	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T32	ANAT 669 685	inguinal derecha
+T33	DISO 694 702	lesiones
+#10	AnnotatorNotes T33	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T34	ANAT 722 737	base del glande
+T35	DISO 744 769	granulomatosas, ulceradas
+T36	Neg_cue 805 807	no
+T37	DISO 808 816	dolorosa
+#11	AnnotatorNotes T37	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T38	Negated 808 834	dolorosa a la manipulación
+T39	PROC 822 834	manipulación
+#12	AnnotatorNotes T39	C0947647; Manipulation procedure; Therapeutic or Preventive Procedure
+T40	PROC 839 862	Pruebas complementarias
+#13	AnnotatorNotes T40	C1515980; Ancillary Study; Research Activity
+T41	PROC 866 875	Analítica
+#14	AnnotatorNotes T41	C0002778; Analysis of substances; Laboratory Procedure
+T42	PROC 897 913	líneas celulares
+#15	AnnotatorNotes T42	C0007600; Cultured Cell Line; Cell
+T43	PROC 922 932	bioquímica
+#16	AnnotatorNotes T43	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T44	PROC 944 957	función renal
+#17	AnnotatorNotes T44	C0232804; Renal function; Organ or Tissue Function
+T45	PROC 960 979	proteína C reactiva
+#18	AnnotatorNotes T45	C0201657; C-reactive protein measurement; Laboratory Procedure
+T46	PROC 983 992	Serología
+#19	AnnotatorNotes T46	C0036743; Serologic tests; Laboratory Procedure
+T47	DISO 1008 1015	sífilis
+#20	AnnotatorNotes T47	C0039128; Syphilis; Disease or Syndrome
+T48	DISO 1018 1026	gonorrea
+#21	AnnotatorNotes T48	C0018081; Gonorrhea; Disease or Syndrome
+T49	Spec_cue 1030 1037	posible
+T50	DISO 1038 1059	infección hepatitis B
+T51	Speculated 1038 1059	infección hepatitis B
+T52	PROC 1061 1072	anticuerpos
+T53	PROC 1084 1093	antígenos
+T54	PROC 1127 1145	serología para VIH
+T57	PROC 1189 1198	serología
+#22	AnnotatorNotes T57	C0036743; Serologic tests; Laboratory Procedure
+T58	DISO 1201 1212	hepatitis C
+#23	AnnotatorNotes T58	C0019196; Hepatitis C; Disease or Syndrome
+T59	Negated 1201 1212	hepatitis C
+T60	Neg_cue 1213 1221	negativa
+T61	PROC 1225 1236	TRATAMIENTO
+#24	AnnotatorNotes T61	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T63	Route 1295 1308	intramuscular
+T64	PROC 1390 1401	tratamiento
+#25	AnnotatorNotes T64	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T65	DISO 1429 1436	Sífilis
+#26	AnnotatorNotes T65	C0039128; Syphilis; Disease or Syndrome
+T66	DISO 1439 1447	gonorrea
+#27	AnnotatorNotes T66	C0018081; Gonorrhea; Disease or Syndrome
+T67	Spec_cue 1449 1456	Posible
+T68	DISO 1457 1468	hepatitis B
+#28	AnnotatorNotes T68	C0019163; Hepatitis B; Disease or Syndrome
+T69	Speculated 1457 1468	hepatitis B
+T70	PROC 1470 1476	Ac VHB
+T73	PROC 1517 1523	Ag VHB
+T74	PROC 1534 1566	serología para infección por VIH
+T77	PROC 1619 1628	serología
+#29	AnnotatorNotes T77	C0036743; Serologic tests; Laboratory Procedure
+T78	Duration 1639 1646	6 meses
+T79	PROC 452 458	EXAMEN
+T80	PROC 1405 1416	DIAGNÓSTICO
+#8	AnnotatorNotes T1	Ulcer of penis (C0240698)
+#30	AnnotatorNotes T17	SKIN LESION PRURITIC (C0748813)
+T28	DEVI 427 448	barrera de protección
+#31	AnnotatorNotes T28	Condoms, Male (C0009653)
+T16	PROC 1380 1387	estudio
+T82	Dose 1267 1282	2.4 millones UI
+T56	Date 285 291	actual
+T62	PHYS 506 516	consciente
+T81	PHYS 518 527	orientado

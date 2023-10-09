@@ -1,0 +1,196 @@
+T1	Date 22 37	El día 30/01/10
+T2	Time 40 49	las 10:38
+T3	DEVI 60 70	ambulancia
+#1	AnnotatorNotes T3	C0002422; Ambulances; Medical Device
+T4	LIVB 75 80	varón
+T5	Age 84 91	77 años
+T6	DISO 96 113	episodio sincopal
+#2	AnnotatorNotes T6	C0039070; Syncope; Sign or Symptom
+T7	DISO 166 169	HTA
+#3	AnnotatorNotes T7	C0020538; Hypertensive disease; Disease or Syndrome
+T8	PROC 173 176	tto
+#4	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	DISO 180 195	AC x FA crónica
+T10	Duration 188 195	crónica
+T11	PROC 196 209	anticoagulado
+#5	AnnotatorNotes T11	C0003281; Anticoagulation Therapy; Therapeutic or Preventive Procedure
+T12	CHEM 214 221	Sintrom
+#6	AnnotatorNotes T12	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T13	DEVI 225 235	MARCAPASOS
+#7	AnnotatorNotes T13	C0030163; Artificial cardiac pacemaker; Medical Device
+T14	PROC 236 246	implantado
+#8	AnnotatorNotes T14	C0021107; Implantation procedure; Therapeutic or Preventive Procedure
+T15	Date 250 260	Octubre-09
+T16	DISO 265 271	mareos
+#9	AnnotatorNotes T16	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T17	DISO 273 275	FA
+#10	AnnotatorNotes T17	C0004238; Atrial Fibrillation; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T18	DISO 280 286	pausas
+T19	Duration 290 297	2,2 seg
+T20	PROC 303 306	TTO
+#11	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T21	CHEM 308 315	Sintrom
+#12	AnnotatorNotes T21	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T22	CHEM 317 326	Lidaltrin
+T23	CHEM 332 340	Digoxina
+#13	AnnotatorNotes T23	C0012265; digoxin; Organic Chemical · Pharmacologic Substance
+T24	Dose 341 347	1 comp
+T25	Frequency 347 351	/día
+T26	Frequency 354 359	S y D
+T27	DISO 365 375	Enfermedad
+#14	AnnotatorNotes T27	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T28	Date 376 382	actual
+T29	Date 384 387	Hoy
+T30	Time 390 398	las 9:40
+T31	DISO 429 434	mareo
+#15	AnnotatorNotes T31	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T32	DISO 436 454	sudoración profusa
+#16	AnnotatorNotes T32	C0700590; Increased sweating; Finding
+T33	Duration 467 479	unos minutos
+T35	DISO 506 529	pérdida de conocimiento
+#17	AnnotatorNotes T35	C0039070; Syncope; Sign or Symptom | C0041657; Unconscious State; Finding
+T36	Negated 506 529	pérdida de conocimiento
+T37	PHYS 534 542	recupera
+#18	AnnotatorNotes T37	C2004454; Recovery - healing process; Organism Function
+T39	Negated 567 599	molestia centrotorácica opresiva
+T40	Neg_cue 604 613	ha cedido
+T41	Neg_cue 614 617	sin
+T42	PROC 618 621	tto
+#19	AnnotatorNotes T42	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T43	Negated 618 621	tto
+T44	Duration 625 637	unos 10 min.
+T45	Neg_cue 638 640	No
+T46	DISO 641 647	disnea
+#20	AnnotatorNotes T46	C0013404; Dyspnea; Sign or Symptom
+T47	Negated 641 647	disnea
+T48	Date 649 653	Ayer
+T49	DISO 682 687	mareo
+#21	AnnotatorNotes T49	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T50	Neg_cue 689 692	sin
+T51	DISO 702 724	perder el conocimiento
+T52	Negated 702 724	perder el conocimiento
+T53	Duration 729 743	corta duración
+T54	PROC 746 752	EXAMEN
+#22	AnnotatorNotes T54	C0031809; Physical Examination; Health Care Activity
+T55	PROC 791 794	ECG
+#23	AnnotatorNotes T55	C1623258; Electrocardiography; Diagnostic Procedure
+T56	PROC 797 816	Exploración general
+T57	PROC 821 823	TA
+T58	PROC 839 841	Fc
+T59	PROC 853 858	SatO2
+#24	AnnotatorNotes T59	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T62	ANAT 962 973	mucocutanea
+#26	AnnotatorNotes T62	C4516595; Entire skin and mucous membrane; Body System
+T63	DISO 993 1002	contusión
+#27	AnnotatorNotes T63	C0009938; Contusions; Injury or Poisoning | C0043253; Nonpenetrating Wounds; Injury or Poisoning
+T64	ANAT 1006 1022	región occipital
+T65	Neg_cue 1024 1026	No
+T66	DISO 1027 1029	IY
+T67	Negated 1027 1029	IY
+T68	Neg_cue 1031 1033	No
+T69	DISO 1034 1049	rigidez de nuca
+#28	AnnotatorNotes T69	C1320474; Nuchal Rigidity; Finding
+T70	Negated 1034 1049	rigidez de nuca
+T71	PROC 1054 1056	AC
+T72	DISO 1058 1067	arrítmica
+#29	AnnotatorNotes T72	C0003811; Cardiac Arrhythmia; Disease or Syndrome
+T73	PROC 1088 1090	AP
+T74	ANAT 1100 1107	Abdomen
+#30	AnnotatorNotes T74	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T75	ANAT 1110 1114	EEII
+#31	AnnotatorNotes T75	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T76	Neg_cue 1116 1119	sin
+T77	DISO 1120 1132	alteraciones
+#32	AnnotatorNotes T77	C0012634; Disease; Disease or Syndrome
+T78	Negated 1120 1132	alteraciones
+T79	Neg_cue 1145 1147	no
+T80	DISO 1148 1154	edemas
+#33	AnnotatorNotes T80	C0013604; Edema; Pathologic Function
+T81	Negated 1148 1154	edemas
+T82	Neg_cue 1155 1157	ni
+T83	DISO 1158 1171	signos de TVP
+T84	Negated 1158 1171	signos de TVP
+T85	ANAT 1176 1179	SNC
+#34	AnnotatorNotes T85	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T86	PHYS 1180 1200	funciones corticales
+T87	Neg_cue 1214 1216	no
+T88	DISO 1217 1238	focalidad neurológica
+#35	AnnotatorNotes T88	C1848821; Focal neurologic signs; Finding
+T89	Negated 1217 1238	focalidad neurológica
+T90	PROC 1241 1264	PRUEBAS COMPLEMENTARIAS
+#36	AnnotatorNotes T90	C1515980; Ancillary Study; Research Activity
+T91	PROC 1269 1278	Analítica
+#37	AnnotatorNotes T91	C0002778; Analysis of substances; Laboratory Procedure
+T92	PROC 1280 1287	Glucosa
+T93	PROC 1292 1302	Creatinina
+#38	AnnotatorNotes T93	C0201975; Creatinine measurement; Laboratory Procedure
+T94	PROC 1308 1312	Urea
+#39	AnnotatorNotes T94	C0523961; Urea measurement; Laboratory Procedure
+T95	PROC 1316 1325	Troponina
+#40	AnnotatorNotes T95	C0523952; Troponin measurement; Laboratory Procedure
+T96	PROC 1331 1334	INR
+#41	AnnotatorNotes T96	C0525032; International Normalized Ratio; Laboratory Procedure
+T97	PROC 1340 1349	Hemograma
+#42	AnnotatorNotes T97	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T98	PROC 1360 1368	Rx Tórax
+#43	AnnotatorNotes T98	C0039985; Plain chest X-ray; Diagnostic Procedure
+T99	DEVI 1370 1392	marcapasos monocameral
+T100	DEVI 1397 1406	electrodo
+#44	AnnotatorNotes T100	C0013812; electrode; Manufactured Object | C1283126; Neurostimulator electrode; Manufactured Object
+T101	ANAT 1410 1414	apex
+T102	ANAT 1418 1420	VD
+#45	AnnotatorNotes T102	C0225883; Right ventricular structure; Body Part, Organ, or Organ Component | C1269891; Entire right ventricle; Body Part, Organ, or Organ Component
+T103	Neg_cue 1422 1424	No
+T104	DISO 1425 1431	signos
+#46	AnnotatorNotes T104	C0311392; Physical findings; Finding
+T105	Negated 1425 1438	signos de IVI
+T106	DISO 1435 1438	IVI
+#47	AnnotatorNotes T106	C0023212; Left-Sided Heart Failure; Disease or Syndrome
+T107	Neg_cue 1439 1441	ni
+T108	Negated 1442 1460	otras alteraciones
+T109	DISO 1448 1460	alteraciones
+#48	AnnotatorNotes T109	C0012634; Disease; Disease or Syndrome
+T110	PROC 1485 1488	ECG
+#49	AnnotatorNotes T110	C1623258; Electrocardiography; Diagnostic Procedure
+T111	DEVI 1537 1546	bacinilla
+T112	PHYS 1561 1571	deposición
+T113	DEVI 1596 1603	camilla
+#50	AnnotatorNotes T113	C0150789; Patient Holding Stretchers; Medical Device
+T114	DISO 1623 1628	mareo
+#51	AnnotatorNotes T114	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T115	DISO 1630 1648	sudoración profusa
+#52	AnnotatorNotes T115	C0700590; Increased sweating; Finding
+T116	DISO 1650 1657	palidez
+#53	AnnotatorNotes T116	C0030232; Pallor; Finding | C0678215; Patient observed to be pale; Finding | C0948786; Blanching; Sign or Symptom
+T117	Neg_cue 1659 1662	sin
+T118	DISO 1663 1677	dolor torácico
+#54	AnnotatorNotes T118	C0008031; Chest Pain; Sign or Symptom
+T119	Negated 1663 1677	dolor torácico
+T120	Neg_cue 1678 1680	ni
+T121	DISO 1681 1687	disnea
+#55	AnnotatorNotes T121	C0013404; Dyspnea; Sign or Symptom
+T122	Negated 1681 1687	disnea
+T123	PHYS 1689 1700	Se recupera
+#56	AnnotatorNotes T123	C2004454; Recovery - healing process; Organism Function
+T124	Duration 1704 1716	unos minutos
+T125	PROC 1727 1739	monitorizado
+#57	AnnotatorNotes T125	C1283169; Monitoring - action; Activity
+T126	DISO 1755 1767	asintomático
+#58	AnnotatorNotes T126	C0231221; Asymptomatic (finding); Finding
+T127	Negated 1755 1767	asintomático
+T128	PROC 1806 1809	ECG
+#59	AnnotatorNotes T128	C1623258; Electrocardiography; Diagnostic Procedure
+T129	PROC 1811 1821	Trasladado
+T130	PROC 1836 1847	DIAGNÓSTICO
+#60	AnnotatorNotes T130	C0011900; Diagnosis; Diagnostic Procedure
+T131	DISO 1860 1867	Síncope
+#61	AnnotatorNotes T131	C0039070; Syncope; Sign or Symptom
+T132	DEVI 1872 1882	marcapasos
+#62	AnnotatorNotes T132	C0030163; Artificial cardiac pacemaker; Medical Device
+T133	PROC 1885 1896	TRATAMIENTO
+#63	AnnotatorNotes T133	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T134	PROC 1899 1914	Implante de DAI
+T34	DISO 487 492	caída
+T38	DISO 567 599	molestia centrotorácica opresiva
+T60	Neg_cue 353 354	-
+T61	Negated 354 359	S y D

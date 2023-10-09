@@ -1,0 +1,154 @@
+T1	DISO 21 30	Cansancio
+#1	AnnotatorNotes T1	C0015672; Fatigue; Sign or Symptom
+T2	LIVB 53 61	Paciente
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	Age 65 72	43 años
+T4	DISO 104 112	Fumadora
+#3	AnnotatorNotes T4	C0337664; Smoker; Finding
+T5	Date 137 147	marzo 2019
+T6	Frequency 177 181	/año
+T7	DISO 197 220	riesgo cardiovasculares
+T8	DISO 222 225	HTA
+#4	AnnotatorNotes T8	C0020538; Hypertensive disease; Disease or Syndrome
+T9	DISO 245 254	sobrepeso
+#5	AnnotatorNotes T9	C0497406; Overweight; Finding
+T10	DISO 258 268	Bronquitis
+#6	AnnotatorNotes T10	C0006277; Bronchitis; Disease or Syndrome
+T11	DISO 308 321	Fallecimiento
+#7	AnnotatorNotes T11	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T12	LIVB 325 330	madre
+#8	AnnotatorNotes T12	C0026591; Mother (person); Family Group
+T13	Age 337 344	49 años
+T14	DISO 349 368	problemas cardiacos
+T15	DISO 372 382	Enfermedad
+#9	AnnotatorNotes T15	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T16	Date 383 389	actual
+T17	PROC 391 397	Visita
+T18	PROC 411 419	consulta
+#10	AnnotatorNotes T18	C0009818; Consultation; Health Care Activity
+T19	Date 423 428	junio
+T20	DISO 444 453	cansancio
+#11	AnnotatorNotes T20	C0015672; Fatigue; Sign or Symptom
+T21	DISO 455 483	disnea a moderados esfuerzos
+T22	DISO 487 523	autoescucha" de ruidos respiratorios
+T23	DISO 534 537	tos
+#12	AnnotatorNotes T23	C0010200; Coughing; Sign or Symptom
+T24	Time 538 546	nocturna
+T25	Neg_cue 550 555	Niega
+T26	DISO 556 570	dolor torácico
+#13	AnnotatorNotes T26	C0008031; Chest Pain; Sign or Symptom
+T27	Negated 556 570	dolor torácico
+T28	Neg_cue 571 573	ni
+T29	DISO 574 587	palpitaciones
+#14	AnnotatorNotes T29	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T30	Negated 574 587	palpitaciones
+T31	PROC 589 595	Visita
+T32	Neg_cue 609 611	no
+T33	Negated 618 640	mejorado de la clínica
+T34	DISO 657 663	disnea
+#15	AnnotatorNotes T34	C0013404; Dyspnea; Sign or Symptom
+T35	PHYS 725 730	andar
+T36	PROC 742 748	EXAMEN
+#16	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	PROC 753 771	Exploración física
+#17	AnnotatorNotes T37	C0031809; Physical Examination; Health Care Activity
+T38	PROC 773 779	Visita
+T39	PROC 785 812	Auscultación cardiopulmonar
+T40	Neg_cue 821 824	sin
+T41	DISO 825 831	soplos
+#18	AnnotatorNotes T41	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T42	Negated 825 831	soplos
+T43	Neg_cue 832 834	ni
+T44	DISO 835 845	extratonos
+T45	Negated 835 845	extratonos
+T46	PROC 894 910	Saturación de O2
+#19	AnnotatorNotes T46	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T47	PROC 923 942	frecuencia cardiaca
+T48	Neg_cue 955 957	No
+T49	DISO 958 977	palidez mucocutánea
+T50	Negated 958 977	palidez mucocutánea
+T51	Neg_cue 979 981	Ni
+T52	DISO 982 1003	ingurgitación yugular
+#20	AnnotatorNotes T52	C0425687; Jugular venous engorgement; Finding
+T53	Negated 982 1003	ingurgitación yugular
+T54	Neg_cue 1004 1006	ni
+T55	DISO 1007 1021	edemas en mmii
+#21	AnnotatorNotes T55	C0239340; Edema of lower extremity; Pathologic Function
+T56	Negated 1007 1021	edemas en mmii
+T57	PROC 1024 1030	Visita
+T58	Neg_cue 1036 1038	No
+T59	DISO 1039 1053	dolor torácico
+#22	AnnotatorNotes T59	C0008031; Chest Pain; Sign or Symptom
+T60	Negated 1039 1053	dolor torácico
+T61	DISO 1058 1069	Taquicardia
+#23	AnnotatorNotes T61	C0039231; Tachycardia; Finding
+T62	DISO 1083 1098	soplo sistólico
+#24	AnnotatorNotes T62	C0232257; Systolic Murmurs; Finding
+T64	DISO 1121 1155	disminución del murmullo vesicular
+T65	PROC 1178 1201	Pruebas complementarias
+#26	AnnotatorNotes T65	C1515980; Ancillary Study; Research Activity
+T66	PROC 1203 1209	Visita
+T67	PROC 1214 1229	hospitalización
+#27	AnnotatorNotes T67	C0019993; Hospitalization; Health Care Activity
+T68	PROC 1233 1236	EKG
+#28	AnnotatorNotes T68	C1623258; Electrocardiography; Diagnostic Procedure
+T69	ANAT 1244 1251	sinusal
+#29	AnnotatorNotes T69	C0030471; Nasal sinus; Body Space or Junction
+T70	Negated 1302 1309	ondas T
+T71	DISO 1347 1365	infradesnivelación
+T72	PROC 1400 1420	Radiografía de tórax
+#30	AnnotatorNotes T72	C0039985; Plain chest X-ray; Diagnostic Procedure
+T73	DISO 1422 1435	ICT aumentado
+T74	PROC 1439 1451	TAC de tórax
+#31	AnnotatorNotes T74	C0202823; Chest CT; Diagnostic Procedure
+T75	DISO 1453 1485	derrame pleural mínimo izquierdo
+T76	PROC 1489 1504	Ecocardiografía
+#32	AnnotatorNotes T76	C0013516; Echocardiography; Diagnostic Procedure
+T77	DISO 1506 1547	ventrículo izquierdo severamente dilatado
+T78	DISO 1552 1598	función sistólica global severamente deprimida
+T79	PROC 1600 1603	FEV
+#33	AnnotatorNotes T79	C1306036; Forced expiratory volume procedure; Diagnostic Procedure
+T80	PROC 1612 1627	Coronariografía
+#34	AnnotatorNotes T80	C0085532; Coronary angiography; Diagnostic Procedure
+T81	Neg_cue 1629 1632	sin
+T82	DISO 1633 1655	lesiones angiográficas
+T83	Negated 1633 1655	lesiones angiográficas
+T84	PROC 1659 1670	TRATAMIENTO
+#35	AnnotatorNotes T84	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T85	PROC 1687 1693	Visita
+T86	Spec_cue 1705 1716	sospecha de
+T87	Speculated 1717 1757	cuadro de sibilancias de perfil asmático
+T88	DISO 1727 1738	sibilancias
+#36	AnnotatorNotes T88	C0043144; Wheezing; Sign or Symptom | C0425483; Whistling respiration; Finding
+T89	DISO 1749 1757	asmático
+#37	AnnotatorNotes T89	C0004096; Asthma; Disease or Syndrome
+T90	PROC 1759 1767	se pauta
+T91	CHEM 1768 1789	bromuro de ipratropio
+#38	AnnotatorNotes T91	C0700580; ipratropium bromide; Organic Chemical · Pharmacologic Substance
+T92	PROC 1792 1801	se revisa
+T93	Duration 1805 1815	una semana
+T94	PROC 1819 1825	Visita
+T95	PROC 1841 1863	tratamiento deplectivo
+T96	DISO 1888 1899	hipotensión
+#39	AnnotatorNotes T96	C0020649; Hypotension; Finding
+T97	PROC 1906 1920	estabilización
+#40	AnnotatorNotes T97	C1293130; Stabilization; Therapeutic or Preventive Procedure
+T98	CHEM 1947 1957	diuréticos
+#41	AnnotatorNotes T98	C0012798; Diuretics; Pharmacologic Substance
+T99	CHEM 1959 1969	bisoprolol
+#42	AnnotatorNotes T99	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T100	CHEM 1971 1981	ivabradina
+#43	AnnotatorNotes T100	C0257190; ivabradine; Organic Chemical · Pharmacologic Substance
+T101	CHEM 1983 1993	eplerenona
+#44	AnnotatorNotes T101	C0961485; eplerenone; Organic Chemical · Pharmacologic Substance
+T102	CHEM 1995 2006	sacubitrilo
+#45	AnnotatorNotes T102	C4033447; sacubitril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T103	CHEM 2007 2016	valsartan
+#46	AnnotatorNotes T103	C0216784; valsartan; Organic Chemical · Pharmacologic Substance
+T104	DISO 2044 2080	Miocardiopatía dilatada no isquémica
+T105	Neg_cue 2068 2070	no
+T106	Negated 2071 2080	isquémica
+T107	DISO 2085 2107	insuficiencia cardiaca
+#47	AnnotatorNotes T107	C0018801; Heart failure; Disease or Syndrome
+T109	ANAT 1102 1113	foco mitral
+T63	PROC 2020 2031	DIAGNÓSTICO

@@ -1,0 +1,114 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	30 años
+T4	DISO 55 76	tumoración en espalda
+T5	Duration 80 92	unos 5 meses
+T6	DISO 157 169	Intolerancia
+T7	CHEM 172 186	Claritromicina
+#3	AnnotatorNotes T7	C0055856; clarithromycin; Antibiotic · Organic Chemical
+T8	DISO 192 205	epigastralgia
+#4	AnnotatorNotes T8	C0232493; Epigastric pain; Sign or Symptom
+T9	Neg_cue 209 211	No
+T10	DISO 212 243	enfermedades médico-quirúrgicas
+T11	Negated 212 243	enfermedades médico-quirúrgicas
+T12	Neg_cue 258 263	Niega
+T13	DISO 264 282	consumo de tóxicos
+T14	Negated 264 282	consumo de tóxicos
+T15	Neg_cue 286 288	No
+T16	PROC 289 300	tratamiento
+#5	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	Negated 289 300	tratamiento
+T18	DISO 314 324	Enfermedad
+#6	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 325 331	actual
+T20	Date 341 358	hace unos 5 meses
+T21	DISO 371 395	tumoración en la espalda
+T22	Neg_cue 397 399	no
+T23	DISO 400 421	dolorosa la palpación
+T24	Negated 400 448	dolorosa la palpación ni movilización de columna
+T25	PHYS 425 437	movilización
+T26	ANAT 441 448	columna
+#7	AnnotatorNotes T26	C1185738; Column (anatomic); Body Part, Organ, or Organ Component
+T29	Neg_cue 488 493	Niega
+T31	Negated 494 524	lumbalgia con signos de alarma
+T32	DISO 526 549	síndrome constitucional
+T33	Negated 526 549	síndrome constitucional
+T34	DISO 551 557	fiebre
+#9	AnnotatorNotes T34	C0015967; Fever; Sign or Symptom
+T35	Negated 551 557	fiebre
+T36	Negated 560 579	otra sintomatología
+T37	DISO 565 579	sintomatología
+#10	AnnotatorNotes T37	C3540840; Sign or Symptom; Finding
+T38	PROC 607 625	Exploración física
+#11	AnnotatorNotes T38	C0031809; Physical Examination; Health Care Activity
+T39	DISO 629 639	Tumoración
+#12	AnnotatorNotes T39	C0577559; Mass of body structure; Finding
+T40	ANAT 651 694	últimos arcos costales posteriores derechos
+T41	DISO 720 742	molesta a la palpación
+T42	PROC 795 818	Pruebas complementarias
+#13	AnnotatorNotes T42	C1515980; Ancillary Study; Research Activity
+T43	PROC 822 856	Radiografía de columna dorsolumbar
+T44	Neg_cue 858 860	no
+T45	DISO 873 887	lesiones óseas
+#14	AnnotatorNotes T45	C0238792; Bone lesion; Disease or Syndrome
+T46	Negated 873 887	lesiones óseas
+T47	PROC 891 918	Ecografía de partes blandas
+#15	AnnotatorNotes T47	C2584991; Ultrasonography of soft tissue; Diagnostic Procedure
+T48	DISO 920 940	lesión hipoecogénica
+T49	Neg_cue 959 962	sin
+T50	PHYS 963 978	vascularización
+T51	Negated 963 978	vascularización
+T52	PROC 983 990	Doppler
+#16	AnnotatorNotes T52	C0162481; Doppler Ultrasound (procedure); Diagnostic Procedure
+T55	PROC 1010 1038	Resonancia Magnética Nuclear
+#17	AnnotatorNotes T55	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T56	PROC 1040 1043	RMN
+#18	AnnotatorNotes T56	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T57	ANAT 1048 1075	columna dorsal y lumbosacra
+T58	DISO 1093 1103	mielopatía
+#19	AnnotatorNotes T58	C0005956; Bone Marrow Diseases; Disease or Syndrome | C0037928; Spinal Cord Diseases; Disease or Syndrome
+T59	DISO 1104 1142	ectasia focal del conducto ependimario
+T60	ANAT 1146 1164	médula dorsal alta
+T61	DISO 1167 1205	masa paravertebral derecha dorsolumbar
+T62	Spec_cue 1206 1220	compatible con
+T63	DISO 1221 1245	neoformación mesenquimal
+#20	AnnotatorNotes T63	C1334699; Mesenchymal Cell Neoplasm; Neoplastic Process
+T64	Speculated 1221 1245	neoformación mesenquimal
+T65	PROC 1249 1256	Body-TC
+T66	ANAT 1269 1274	tórax
+#21	AnnotatorNotes T66	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T67	DISO 1283 1301	nódulos pulmonares
+#22	AnnotatorNotes T67	C0034079; Nodule of lung; Finding | C0235896; Pulmonary Infiltrate; Finding | C2350019; Solitary Pulmonary Nodule; Neoplastic Process
+T68	Spec_cue 1302 1317	compatibles con
+T69	DISO 1318 1328	metástasis
+#23	AnnotatorNotes T69	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T70	Speculated 1318 1328	metástasis
+T71	ANAT 1341 1348	abdomen
+#24	AnnotatorNotes T71	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T72	DISO 1383 1393	tumoración
+#25	AnnotatorNotes T72	C0577559; Mass of body structure; Finding
+T73	PROC 1397 1400	BAG
+T74	PROC 1402 1421	anatomía patológica
+T75	DISO 1437 1443	lesión
+#26	AnnotatorNotes T75	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T76	Spec_cue 1444 1458	compatible con
+T77	DISO 1459 1484	sarcoma de partes blandas
+#27	AnnotatorNotes T77	C0334492; Malignant mesenchymal tumor; Neoplastic Process
+T78	Speculated 1459 1484	sarcoma de partes blandas
+T79	PROC 1487 1498	TRATAMIENTO
+#28	AnnotatorNotes T79	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T80	PROC 1515 1541	Tratamiento quimioterápico
+T81	CHEM 1546 1559	Antraciclinas
+#29	AnnotatorNotes T81	C0003234; Anthracycline Antibiotics; Antibiotic · Organic Chemical
+T82	PROC 1579 1602	intervención quirúrgica
+#30	AnnotatorNotes T82	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T83	PROC 1609 1620	tratamiento
+#31	AnnotatorNotes T83	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T84	Date 1621 1627	actual
+T85	DISO 1671 1696	Sarcoma de partes blandas
+#32	AnnotatorNotes T85	C0334492; Malignant mesenchymal tumor; Neoplastic Process
+T27	DISO 494 524	lumbalgia con signos de alarma
+T28	DISO 747 766	consistencia pétrea
+T30	DISO 769 789	bordes mal definidos
+T53	PROC 596 602	EXAMEN
+T54	PROC 1647 1658	DIAGNÓSTICO

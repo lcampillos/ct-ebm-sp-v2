@@ -1,0 +1,120 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	34 años
+T3	DEVI 54 64	ambulancia
+#2	AnnotatorNotes T3	C0002422; Ambulances; Medical Device
+T4	DISO 69 76	cefalea
+#3	AnnotatorNotes T4	C0018681; Headache; Sign or Symptom
+T5	Duration 80 86	5 días
+T8	DISO 169 179	Enfermedad
+#4	AnnotatorNotes T8	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	DEVI 206 216	ambulancia
+#5	AnnotatorNotes T10	C0002422; Ambulances; Medical Device
+T11	DISO 221 228	cefalea
+#6	AnnotatorNotes T11	C0018681; Headache; Sign or Symptom
+T12	Duration 232 238	5 días
+T13	Neg_cue 256 258	no
+T16	CHEM 290 301	Paracetamol
+#7	AnnotatorNotes T16	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T18	CHEM 304 314	Ibuprofeno
+#8	AnnotatorNotes T18	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T20	DISO 325 344	cefalea holocraneal
+T21	DISO 346 355	fotofobia
+#9	AnnotatorNotes T21	C0085636; Photophobia; Sign or Symptom
+T22	DISO 358 365	nauseas
+#10	AnnotatorNotes T22	C0027497; Nausea; Sign or Symptom
+T23	Neg_cue 366 369	sin
+T24	DISO 379 386	vomitar
+#11	AnnotatorNotes T24	C0042963; Vomiting; Sign or Symptom
+T25	Negated 379 386	vomitar
+T26	PROC 401 419	Exploración física
+#12	AnnotatorNotes T26	C0031809; Physical Examination; Health Care Activity
+T27	PROC 423 425	PA
+T28	PROC 434 436	Fc
+T29	PROC 441 443	Tª
+T30	PROC 451 456	SatO2
+#13	AnnotatorNotes T30	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T33	PROC 488 495	Glasgow
+T34	DISO 526 534	agobiada
+#15	AnnotatorNotes T34	C0235107; Anxiety-ridden; Finding
+T35	ANAT 543 547	ojos
+#16	AnnotatorNotes T35	C0015392; Eye; Body Part, Organ, or Organ Component | C1280202; Entire eye; Body Part, Organ, or Organ Component
+T36	DISO 578 586	nauseosa
+#17	AnnotatorNotes T36	C0027497; Nausea; Sign or Symptom
+T37	DISO 590 595	Dolor
+#18	AnnotatorNotes T37	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T38	Spec_cue 603 616	impresiona de
+T39	Speculated 623 633	exagerando
+T40	PROC 650 661	exploración
+#19	AnnotatorNotes T40	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T41	PROC 679 702	exploración neurológica
+T42	PROC 707 730	Pruebas complementarias
+#20	AnnotatorNotes T42	C1515980; Ancillary Study; Research Activity
+T43	PROC 734 737	ECG
+#21	AnnotatorNotes T43	C1623258; Electrocardiography; Diagnostic Procedure
+T44	PROC 739 747	Rx Tórax
+#22	AnnotatorNotes T44	C0039985; Plain chest X-ray; Diagnostic Procedure
+T45	PROC 750 759	analítica
+#23	AnnotatorNotes T45	C0002778; Analysis of substances; Laboratory Procedure
+T46	PROC 772 782	TC craneal
+#24	AnnotatorNotes T46	C0412603; CT of skull; Diagnostic Procedure
+T47	Neg_cue 784 787	sin
+T48	CHEM 788 791	CIV
+T49	Negated 788 791	CIV
+T50	Spec_cue 794 808	compatible con
+T51	DISO 809 821	HSA subaguda
+T52	Speculated 809 821	HSA subaguda
+T53	PROC 825 842	AngioTAC cerebral
+T54	DISO 844 864	Aneurisma bilobulado
+T55	ANAT 876 907	carótida supraclinoidea derecha
+T56	PROC 911 922	TRATAMIENTO
+#25	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	CHEM 939 947	Diazepam
+#26	AnnotatorNotes T57	C0012010; diazepam; Organic Chemical · Pharmacologic Substance
+T58	Dose 948 952	5 mg
+T59	CHEM 954 968	Metoclopramida
+#27	AnnotatorNotes T59	C0025853; metoclopramide; Organic Chemical · Pharmacologic Substance
+T60	Dose 969 974	10 mg
+T61	CHEM 976 987	Paracetamol
+#28	AnnotatorNotes T61	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T62	Dose 988 990	1g
+T63	CHEM 992 1006	Dexketoprofeno
+#29	AnnotatorNotes T63	C0772505; dexketoprofen; Organic Chemical · Pharmacologic Substance
+T64	Dose 1007 1012	50 mg
+T65	CHEM 1014 1023	Metamizol
+#30	AnnotatorNotes T65	C0012586; dipyrone; Organic Chemical · Pharmacologic Substance
+T66	Dose 1024 1027	2g.
+T67	Neg_cue 1028 1031	Sin
+T68	DISO 1032 1037	dolor
+#31	AnnotatorNotes T68	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T69	Negated 1032 1037	dolor
+T70	DISO 1083 1101	vómito alimenticio
+T71	CHEM 1120 1131	Ondansetron
+#32	AnnotatorNotes T71	C0061851; ondansetron; Organic Chemical · Pharmacologic Substance
+T72	Dose 1132 1136	8 mg
+T73	Route 1137 1140	IV.
+T74	PROC 1153 1178	embolización intracraneal
+T75	PROC 1185 1202	anestesia general
+#33	AnnotatorNotes T75	C0002915; General Anesthesia; Therapeutic or Preventive Procedure
+T76	Neg_cue 1225 1228	sin
+T77	Negated 1229 1239	incidentes
+T78	Neg_cue 1240 1242	ni
+T79	DISO 1243 1257	complicaciones
+#34	AnnotatorNotes T79	C0009566; Complication; Pathologic Function
+T80	Negated 1243 1257	complicaciones
+T81	PROC 1261 1275	Traslado a UCI
+T82	DISO 1323 1347	Hemorragia subaracnoidea
+#35	AnnotatorNotes T82	C0038525; Subarachnoid Hemorrhage; Disease or Syndrome
+T83	DISO 1349 1393	Aneurisma en carótida supraclinoidea derecha
+T84	PROC 1395 1417	Embolización con coils
+T6	DISO 505 520	Poco colaborada
+#36	AnnotatorNotes T6	Uncooperative character (C0564544)
+T7	DISO 561 575	molesta la luz
+#37	AnnotatorNotes T7	Photophobia (C0085636)
+#38	AnnotatorNotes T70	Vomit contains food (C0577085)
+T17	PROC 390 396	EXAMEN
+T19	PROC 1299 1310	DIAGNÓSTICO
+T9	Date 180 186	actual
+T31	PHYS 464 474	Consciente
+T32	PHYS 477 486	orientada
+T14	Negated 259 288	cede a tratamiento analgésico

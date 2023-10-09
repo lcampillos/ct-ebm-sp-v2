@@ -1,0 +1,107 @@
+T1	DISO 21 33	Dolor lumbar
+#1	AnnotatorNotes T1	C0024031; Low Back Pain; Sign or Symptom
+T2	ANAT 52 71	miembros inferiores
+#2	AnnotatorNotes T2	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T3	ANAT 73 77	MMII
+#3	AnnotatorNotes T3	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T4	DISO 106 115	debilidad
+#4	AnnotatorNotes T4	C0424594; Frailty; Finding | C3714552; Weakness; Sign or Symptom
+T5	DISO 118 133	dolor abdominal
+#5	AnnotatorNotes T5	C0000737; Abdominal Pain; Sign or Symptom
+T6	LIVB 156 161	Varón
+T7	Age 165 172	46 años
+T8	Neg_cue 182 185	sin
+T9	LIVB 186 191	hijos
+T10	Negated 186 191	hijos
+T11	Neg_cue 194 197	Sin
+T12	DISO 198 213	hábitos tóxicos
+T13	Negated 198 214	hábitos tóxicos,
+T14	DISO 215 232	patología de base
+T15	Negated 215 232	patología de base
+T16	Neg_cue 233 235	ni
+T17	CHEM 236 246	medicación
+#6	AnnotatorNotes T17	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T18	Negated 236 255	medicación habitual
+T19	DISO 275 289	sintomatología
+#7	AnnotatorNotes T19	C3540840; Sign or Symptom; Finding
+T20	LIVB 330 347	Médico de Familia
+#8	AnnotatorNotes T20	C1704221; Physicians, Family; Professional or Occupational Group
+T21	PROC 372 395	exploración neurológica
+T22	DISO 412 429	pérdida de fuerza
+#9	AnnotatorNotes T22	C3714552; Weakness; Sign or Symptom
+T23	ANAT 433 437	MMII
+#10	AnnotatorNotes T23	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T24	DISO 469 474	dolor
+#11	AnnotatorNotes T24	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T25	PROC 543 563	Radiografía de tórax
+#12	AnnotatorNotes T25	C0039985; Plain chest X-ray; Diagnostic Procedure
+T26	PROC 566 583	analítica general
+T27	PROC 596 611	Electromiograma
+#13	AnnotatorNotes T27	C0013839; Electromyography; Diagnostic Procedure
+T28	PROC 614 634	Electroencefalograma
+#14	AnnotatorNotes T28	C0013819; Electroencephalography; Diagnostic Procedure
+T29	PROC 647 670	TC craneal y de columna
+T30	PROC 683 714	Resonancia Magnética de Columna
+T31	DISO 716 737	fístula dural espinal
+T32	ANAT 746 748	D4
+#15	AnnotatorNotes T32	C0223251; Entire T4 vertebra; Body Part, Organ, or Organ Component | C0459951; Bone structure of T4; Body Part, Organ, or Organ Component
+T33	ANAT 749 751	D6
+#16	AnnotatorNotes T33	C0223281; Entire T6 vertebra; Body Part, Organ, or Organ Component | C0459949; Bone structure of T6; Body Part, Organ, or Organ Component
+T34	PROC 755 765	Serologías
+#17	AnnotatorNotes T34	C0036743; Serologic tests; Laboratory Procedure
+T35	DISO 771 777	HTLV-1
+T36	Negated 771 777	HTLV-1
+T37	DISO 779 785	Dengue
+#18	AnnotatorNotes T37	C0011311; Dengue Fever; Disease or Syndrome | C0019100; Severe Dengue; Disease or Syndrome
+T38	Negated 779 785	Dengue
+T39	DISO 787 791	Zika
+#19	AnnotatorNotes T39	C0276289; Zika Virus Infection; Disease or Syndrome
+T40	Negated 787 791	Zika
+T41	DISO 793 804	Chikungunya
+#20	AnnotatorNotes T41	C0008055; Chikungunya Fever; Disease or Syndrome
+T42	Negated 793 804	Chikungunya
+T43	DISO 806 810	lúes
+#21	AnnotatorNotes T43	C0039128; Syphilis; Disease or Syndrome
+T44	Negated 806 810	lúes
+T45	DISO 812 815	VIH
+#22	AnnotatorNotes T45	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T46	Negated 812 815	VIH
+T47	Neg_cue 816 825	negativas
+T48	PROC 829 842	Arteriografía
+#23	AnnotatorNotes T48	C0003844; Arteriography; Diagnostic Procedure | C0918037; Arteriogram; Diagnostic Procedure
+T49	DISO 844 880	fístula arterio venosa dural medular
+T50	ANAT 881 883	D4
+#24	AnnotatorNotes T50	C0223251; Entire T4 vertebra; Body Part, Organ, or Organ Component | C0459951; Bone structure of T4; Body Part, Organ, or Organ Component
+T51	ANAT 884 886	D7
+#25	AnnotatorNotes T51	C0223296; Entire T7 vertebra; Body Part, Organ, or Organ Component | C0459947; Bone structure of T7; Body Part, Organ, or Organ Component
+T52	PROC 890 901	TRATAMIENTO
+#26	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	PROC 916 928	Embolización
+#27	AnnotatorNotes T53	C0013931; Embolization, Therapeutic; Therapeutic or Preventive Procedure
+T54	DISO 935 941	lesión
+#28	AnnotatorNotes T54	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T55	PROC 963 974	cateterismo
+#29	AnnotatorNotes T55	C0007430; Catheterization; Therapeutic or Preventive Procedure
+T56	Spec_cue 994 1001	posible
+T57	PROC 1002 1025	intervención quirúrgica
+#30	AnnotatorNotes T57	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T58	Speculated 1002 1025	intervención quirúrgica
+T59	Date 1161 1172	Actualmente
+T60	DISO 1192 1219	limitación sensitivo-motora
+T61	DISO 1253 1270	pérdida de fuerza
+#31	AnnotatorNotes T61	C3714552; Weakness; Sign or Symptom
+T62	ANAT 1274 1278	MMII
+#32	AnnotatorNotes T62	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T63	Frequency 1287 1299	semanalmente
+T64	PROC 1300 1314	rehabilitación
+#33	AnnotatorNotes T64	C0034991; Rehabilitation therapy; Therapeutic or Preventive Procedure
+T65	PROC 1320 1327	seguido
+T66	LIVB 1353 1356	MdF
+T67	DISO 1384 1397	Fístula dural
+T68	ANAT 1398 1400	D4
+#34	AnnotatorNotes T68	C0223251; Entire T4 vertebra; Body Part, Organ, or Organ Component | C0459951; Bone structure of T4; Body Part, Organ, or Organ Component
+T69	ANAT 1401 1403	D7
+#35	AnnotatorNotes T69	C0223296; Entire T7 vertebra; Body Part, Organ, or Organ Component | C0459947; Bone structure of T7; Body Part, Organ, or Organ Component
+T70	DISO 1405 1435	Lesión medular sensitivo-motor
+T71	ANAT 1436 1446	T7 derecho
+T72	ANAT 1449 1462	T12 izquierdo

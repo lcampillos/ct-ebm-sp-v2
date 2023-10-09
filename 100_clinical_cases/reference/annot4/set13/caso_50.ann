@@ -1,0 +1,113 @@
+T1	DISO 21 31	Hiperfagia
+#1	AnnotatorNotes T1	C0020505; Hyperphagia; Finding
+T2	DISO 34 42	insomnio
+#2	AnnotatorNotes T2	C0917801; Sleeplessness; Sign or Symptom
+T3	LIVB 65 70	Mujer
+#3	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 74 81	67 años
+T5	LIVB 91 96	hijos
+T6	LIVB 110 116	pareja
+#4	AnnotatorNotes T6	C0682323; Partner in relationship; Family Group
+T7	LIVB 182 187	hijos
+T8	DISO 199 208	frustrada
+T9	DISO 256 266	Enfermedad
+#5	AnnotatorNotes T9	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	Date 267 273	actual
+T11	DISO 283 291	insomnio
+#6	AnnotatorNotes T11	C0917801; Sleeplessness; Sign or Symptom
+T12	DISO 293 325	hinchazón de miembros inferiores
+T13	DISO 328 339	nerviosismo
+#7	AnnotatorNotes T13	C0027769; Nervousness; Sign or Symptom | C0849963; Feeling nervous; Sign or Symptom
+T14	DISO 359 381	conductas hiperfágicas
+T15	DISO 396 404	ansiedad
+#8	AnnotatorNotes T15	C0003467; Anxiety; Mental or Behavioral Dysfunction
+T16	DISO 407 416	depresión
+#9	AnnotatorNotes T16	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T17	PROC 422 433	tratamiento
+#10	AnnotatorNotes T17	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T18	Negated 422 448	tratamiento con fluoxetina
+T19	CHEM 438 448	fluoxetina
+#11	AnnotatorNotes T19	C0016365; fluoxetine; Organic Chemical · Pharmacologic Substance
+T20	Neg_cue 453 464	interrumpió
+T21	PROC 483 501	quimioterapia oral
+#12	AnnotatorNotes T21	C0419073; Oral chemotherapy; Therapeutic or Preventive Procedure
+T22	Route 497 501	oral
+T23	DISO 506 514	recidiva
+#13	AnnotatorNotes T23	C2825055; Recurrence (disease attribute); Pathologic Function
+T24	DISO 518 532	cáncer de mama
+#14	AnnotatorNotes T24	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T25	PROC 533 544	intervenido
+#15	AnnotatorNotes T25	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T26	Date 545 555	hace 1 año
+T27	DISO 580 586	muerte
+#16	AnnotatorNotes T27	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T28	LIVB 593 598	madre
+#17	AnnotatorNotes T28	C0026591; Mother (person); Family Group
+T29	PROC 603 614	diagnóstico
+#18	AnnotatorNotes T29	C0011900; Diagnosis; Diagnostic Procedure
+T30	PROC 617 628	tratamiento
+#19	AnnotatorNotes T30	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T31	DISO 633 647	cáncer de mama
+#20	AnnotatorNotes T31	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T32	DISO 652 660	recidiva
+#21	AnnotatorNotes T32	C2825055; Recurrence (disease attribute); Pathologic Function
+T33	DISO 665 679	cáncer de mama
+#22	AnnotatorNotes T33	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T34	LIVB 705 710	nuera
+T35	LIVB 730 737	familia
+#23	AnnotatorNotes T35	C0015576; Family; Family Group
+T36	DISO 769 783	Cáncer de mama
+#24	AnnotatorNotes T36	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T37	PROC 784 795	intervenido
+#25	AnnotatorNotes T37	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T38	Date 799 803	2000
+T39	DISO 807 815	Recidiva
+#26	AnnotatorNotes T39	C2825055; Recurrence (disease attribute); Pathologic Function
+T40	ANAT 819 837	mama contralateral
+T41	PROC 838 849	intervenido
+#27	AnnotatorNotes T41	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T42	Date 853 857	2014
+T43	DISO 861 888	Trastorno ansioso-depresivo
+T44	DISO 892 902	Hiperfagia
+#28	AnnotatorNotes T44	C0020505; Hyperphagia; Finding
+T45	PROC 917 935	Exploración física
+#29	AnnotatorNotes T45	C0031809; Physical Examination; Health Care Activity
+T47	PROC 969 972	ACR
+#30	AnnotatorNotes T47	C0584615; Urine microalbumin/creatinine ratio measurement; Laboratory Procedure
+T48	DISO 981 984	HTA
+#31	AnnotatorNotes T48	C0020538; Hypertensive disease; Disease or Syndrome
+T49	PROC 993 998	Talla
+T50	PROC 1006 1010	Peso
+T51	PROC 1017 1020	IMC
+T52	DISO 1027 1057	Edemas en maléolos pretibiales
+T53	PROC 1079 1102	Pruebas complementarias
+#32	AnnotatorNotes T53	C1515980; Ancillary Study; Research Activity
+T54	PROC 1106 1125	Analítica de sangre
+T55	PROC 1129 1139	Control TA
+T56	PROC 1143 1154	TRATAMIENTO
+#33	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	PROC 1183 1193	control TA
+T58	PROC 1195 1212	Consejo dietético
+T59	ANAT 1227 1234	piernas
+#34	AnnotatorNotes T59	C1140621; Leg; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region
+T60	Frequency 1262 1268	diaria
+T61	DISO 1321 1331	hiperfagia
+#35	AnnotatorNotes T61	C0020505; Hyperphagia; Finding
+T62	Frequency 1352 1359	diarias
+T63	LIVB 1398 1415	trabajador social
+T64	PROC 1485 1496	tratamiento
+#36	AnnotatorNotes T64	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T65	CHEM 1501 1511	Fluoxetina
+#37	AnnotatorNotes T65	C0016365; fluoxetine; Organic Chemical · Pharmacologic Substance
+T66	PROC 1527 1534	visitas
+T67	PHYS 1561 1567	duerme
+#38	AnnotatorNotes T67	C0037313; Sleep; Organism Function
+T68	PROC 1598 1623	tratamiento farmacológico
+#39	AnnotatorNotes T68	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure
+T69	PHYS 1629 1635	dormir
+#40	AnnotatorNotes T69	C0037313; Sleep; Organism Function
+T70	DISO 1663 1683	Colitis inespecífica
+T78	LIVB 1386 1395	psicólogo
+T79	PROC 1372 1382	derivación
+T71	PROC 906 912	EXAMEN
+T46	PROC 1639 1650	DIAGNÓSTICO

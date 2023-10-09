@@ -1,0 +1,138 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	65 años
+T3	DISO 52 60	erupción
+#2	AnnotatorNotes T3	C0015230; Exanthema; Sign or Symptom | C0302295; Eruptions; Pathologic Function
+T4	Neg_cue 65 67	no
+T5	Negated 68 78	desaparece
+T6	Neg_cue 130 132	No
+T7	DISO 133 156	alergias medicamentosas
+#3	AnnotatorNotes T7	C0013182; Drug Allergy; Pathologic Function
+T8	Negated 133 166	alergias medicamentosas conocidas
+T9	DISO 170 182	Intolerancia
+T10	CHEM 185 196	clavulánico
+T11	DISO 198 205	diarrea
+#4	AnnotatorNotes T11	C0011991; Diarrhea; Sign or Symptom
+T12	CHEM 209 218	enalapril
+#5	AnnotatorNotes T12	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T13	DISO 220 223	tos
+#6	AnnotatorNotes T13	C0010200; Coughing; Sign or Symptom
+T14	DISO 228 238	Exfumadora
+#7	AnnotatorNotes T14	C0337671; Former smoker; Finding
+T15	Frequency 257 263	al día
+T16	Duration 272 279	40 años
+T17	Frequency 292 296	/año
+T18	Neg_cue 301 303	No
+T19	DISO 304 323	bebedora de alcohol
+T20	Negated 304 323	bebedora de alcohol
+T21	DISO 327 335	Obesidad
+#8	AnnotatorNotes T21	C0028754; Obesity; Disease or Syndrome
+T22	PROC 354 357	IMC
+T23	DISO 366 387	Hipertensión arterial
+#9	AnnotatorNotes T23	C0020538; Hypertensive disease; Disease or Syndrome
+T24	DISO 391 403	Enfermedades
+#10	AnnotatorNotes T24	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T25	DISO 413 422	neurolúes
+T26	DISO 424 443	vasculitis cerebral
+T27	DISO 457 482	trombosis venosa superior
+T28	DISO 487 514	afectación del área macular
+T29	DISO 516 527	gonartrosis
+#11	AnnotatorNotes T29	C0877389; Gonarthrosis; Disease or Syndrome
+T30	PROC 531 557	Intervenciones quirúrgicas
+#12	AnnotatorNotes T30	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T31	PROC 559 573	apendicectomía
+#13	AnnotatorNotes T31	C0003611; Appendectomy; Therapeutic or Preventive Procedure
+T32	PROC 575 582	cesárea
+#14	AnnotatorNotes T32	C0007876; Cesarean section; Therapeutic or Preventive Procedure
+T33	PROC 584 597	histerectomía
+#15	AnnotatorNotes T33	C0020699; Hysterectomy; Therapeutic or Preventive Procedure
+T34	Date 599 603	1999
+T35	PROC 606 620	cirugía ocular
+#16	AnnotatorNotes T35	C0395020; Surgical procedure on eye proper; Therapeutic or Preventive Procedure
+T36	DISO 622 643	carcinoma basocelular
+#17	AnnotatorNotes T36	C0007117; Basal cell carcinoma; Neoplastic Process
+T37	ANAT 644 665	región axilar derecha
+T38	Date 667 671	2015
+T39	PROC 676 700	Tratamiento domiciliario
+T40	CHEM 702 710	Losartán
+#18	AnnotatorNotes T40	C0126174; losartan; Organic Chemical · Pharmacologic Substance
+T41	Dose 711 731	100 mg (1 comprimido
+T42	Frequency 732 745	cada 24 horas
+T43	DISO 751 761	Enfermedad
+#19	AnnotatorNotes T43	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T44	Date 762 768	actual
+T45	DISO 791 819	erupción cutánea pruriginosa
+T46	ANAT 826 832	tronco
+#20	AnnotatorNotes T46	C0460005; Trunk structure; Body Location or Region | C1280632; Entire trunk; Body Part, Organ, or Organ Component
+T47	Duration 836 841	meses
+T48	Neg_cue 856 858	No
+T49	Negated 878 910	cambios en los productos de aseo
+T50	Neg_cue 912 914	No
+T51	Negated 915 934	otra sintomatología
+T52	DISO 920 934	sintomatología
+#21	AnnotatorNotes T52	C3540840; Sign or Symptom; Finding
+T53	PROC 961 979	Exploración física
+#22	AnnotatorNotes T53	C0031809; Physical Examination; Health Care Activity
+T54	PROC 1006 1032	Exploración cardiopulmonar
+T55	DISO 1043 1081	Lesiones eritematosas de color intenso
+T56	DISO 1140 1151	descamación
+#23	AnnotatorNotes T56	C0237849; Peeling of skin; Finding
+T57	DISO 1166 1172	placas
+#24	AnnotatorNotes T57	C0011389; Dental Plaque; Disease or Syndrome | C0332461; Plaque (lesion); Finding
+T58	ANAT 1238 1258	pliegue suprapubiano
+T59	ANAT 1260 1278	pliegue submamario
+T60	ANAT 1282 1301	región sacrocoxígea
+T61	Neg_cue 1305 1307	No
+T62	DISO 1321 1339	lesiones satélites
+T63	Negated 1321 1339	lesiones satélites
+T64	ANAT 1353 1357	piel
+#25	AnnotatorNotes T64	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T65	ANAT 1360 1366	anejos
+T66	Neg_cue 1367 1369	no
+T67	DISO 1380 1392	alteraciones
+#26	AnnotatorNotes T67	C0012634; Disease; Disease or Syndrome
+T68	Negated 1380 1392	alteraciones
+T69	PROC 1396 1407	TRATAMIENTO
+#27	AnnotatorNotes T69	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T70	PROC 1424 1442	Tratamiento tópico
+T71	Route 1436 1442	tópico
+T72	Dose 1480 1494	una aplicación
+T73	Frequency 1495 1501	al día
+T75	Duration 1536 1547	dos semanas
+T76	DISO 1568 1576	lesiones
+#28	AnnotatorNotes T76	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T77	Neg_cue 1582 1585	sin
+T78	Negated 1586 1605	resolución completa
+T79	PROC 1614 1626	teleconsulta
+#29	AnnotatorNotes T79	C0282675; Teleconsultation; Diagnostic Procedure
+T80	PROC 1654 1672	tratamiento tópico
+T81	Route 1666 1672	tópico
+T82	CHEM 1677 1687	corticoide
+#30	AnnotatorNotes T82	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T83	CHEM 1706 1716	clobetasol
+#31	AnnotatorNotes T83	C0008992; clobetasol; Organic Chemical · Pharmacologic Substance
+T84	Dose 1722 1741	una sola aplicación
+T85	Frequency 1742 1748	diaria
+T86	Duration 1757 1771	cuatro semanas
+T87	DISO 1823 1833	dermatosis
+#32	AnnotatorNotes T87	C0037274; Dermatologic disorders; Disease or Syndrome | C0178298; Skin and subcutaneous tissue disorders; Disease or Syndrome
+T88	PROC 1837 1861	Terapia de mantenimiento
+#33	AnnotatorNotes T88	C0677908; Maintenance therapy; Therapeutic or Preventive Procedure
+T89	PROC 1863 1881	tratamiento tópico
+T90	Route 1875 1881	tópico
+T91	CHEM 1889 1917	inhibidor de la calcineurina
+T92	CHEM 1919 1931	pimecrolimús
+#34	AnnotatorNotes T92	C1099414; pimecrolimus; Organic Chemical · Pharmacologic Substance
+T93	Frequency 1952 1958	al día
+T94	Duration 1967 1973	un mes
+T95	Frequency 1992 2012	dos veces por semana
+T96	Neg_cue 2014 2017	sin
+T97	DISO 2018 2027	recidivas
+#35	AnnotatorNotes T97	C2825055; Recurrence (disease attribute); Pathologic Function
+T98	Negated 2018 2027	recidivas
+T99	Date 2034 2051	el momento actual
+T100	DISO 2079 2098	Psoriasis invertida
+T103	CHEM 1447 1457	corticoide
+T104	Dose 1937 1951	una aplicación
+T74	PROC 950 956	EXAMEN
+T101	PROC 2055 2066	DIAGNÓSTICO

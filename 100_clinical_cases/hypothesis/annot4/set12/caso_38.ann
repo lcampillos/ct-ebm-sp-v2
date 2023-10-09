@@ -1,0 +1,189 @@
+T1	LIVB 21 28	Anciana
+#1	AnnotatorNotes T1	C0001792; Elderly (population group); Population Group
+T2	PROC 41 58	Atención Primaria
+#2	AnnotatorNotes T2	C0033137; Primary Health Care; Health Care Activity
+T3	DISO 76 93	pérdida de visión
+#3	AnnotatorNotes T3	C3665346; Unspecified visual loss; Sign or Symptom
+T4	DISO 96 115	destellos luminosos
+T5	DISO 120 143	claudicación mandibular
+#4	AnnotatorNotes T5	C0239064; Jaw claudication; Finding
+T6	LIVB 166 171	Mujer
+#5	AnnotatorNotes T6	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T7	Age 175 182	78 años
+T8	DISO 199 209	Enfermedad
+#6	AnnotatorNotes T8	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T9	Date 210 216	actual
+T10	PROC 241 258	Atención Primaria
+#7	AnnotatorNotes T10	C0033137; Primary Health Care; Health Care Activity
+T11	Date 269 284	el día anterior
+T12	DISO 310 327	pérdida de visión
+#8	AnnotatorNotes T12	C3665346; Unspecified visual loss; Sign or Symptom
+T13	DISO 330 349	destellos luminosos
+T14	ANAT 356 369	ojo izquierdo
+#9	AnnotatorNotes T14	C0229090; Left eye structure; Body Part, Organ, or Organ Component
+T15	Duration 397 412	unos 10 minutos
+T16	Duration 438 447	5 minutos
+T17	LIVB 477 485	paciente
+#10	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
+T18	DISO 537 542	dolor
+#11	AnnotatorNotes T18	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T19	PHYS 546 564	mover la mandíbula
+T20	PHYS 580 588	bostezar
+T21	PHYS 591 596	comer
+#12	AnnotatorNotes T21	C0013470; Eating; Organism Function
+T22	DISO 598 621	claudicación mandibular
+#13	AnnotatorNotes T22	C0239064; Jaw claudication; Finding
+T23	Date 632 649	hace algunos días
+T24	DISO 665 677	hiperestesia
+#14	AnnotatorNotes T24	C0020453; Hyperesthesia; Sign or Symptom
+T25	ANAT 681 706	región temporal izquierda
+T26	PROC 728 736	consulta
+#15	AnnotatorNotes T26	C0009818; Consultation; Health Care Activity
+T27	DISO 767 779	hiperestesia
+#16	AnnotatorNotes T27	C0020453; Hyperesthesia; Sign or Symptom
+T28	DISO 811 818	Alergia
+#17	AnnotatorNotes T28	C0020517; Hypersensitivity; Pathologic Function
+T29	CHEM 821 830	metamizol
+#18	AnnotatorNotes T29	C0012586; dipyrone; Organic Chemical · Pharmacologic Substance
+T30	DISO 834 856	Pinzamiento lumbosacro
+T31	DISO 859 880	Hipertensión arterial
+#19	AnnotatorNotes T31	C0020538; Hypertensive disease; Disease or Syndrome
+T32	DISO 883 908	Diabetes Mellitus tipo II
+#20	AnnotatorNotes T32	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T33	DISO 911 930	Hipercolesterolemia
+#21	AnnotatorNotes T33	C0020443; Hypercholesterolemia; Disease or Syndrome
+T34	PROC 933 945	Polipectomía
+#22	AnnotatorNotes T34	C0521210; Resection of polyp; Therapeutic or Preventive Procedure
+T35	DISO 948 969	Ictericia obstructiva
+#23	AnnotatorNotes T35	C0022354; Jaundice, Obstructive; Disease or Syndrome
+T36	DISO 974 986	pancreatitis
+#24	AnnotatorNotes T36	C0030305; Pancreatitis; Disease or Syndrome
+T37	PROC 989 1008	Tiroidectomía total
+#25	AnnotatorNotes T37	C0193788; Total thyroidectomy (procedure); Therapeutic or Preventive Procedure
+T38	PROC 1012 1023	Tratamiento
+#26	AnnotatorNotes T38	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T39	CHEM 1034 1041	Eutirox
+#27	AnnotatorNotes T39	C0720313; Euthyrox; Hormone · Organic Chemical · Pharmacologic Substance
+T40	Dose 1042 1048	100mcg
+T41	CHEM 1050 1072	ácido acetilsalicílico
+#28	AnnotatorNotes T41	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T42	Dose 1073 1078	100mg
+T43	CHEM 1080 1089	Omeprazol
+#29	AnnotatorNotes T43	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T44	Dose 1090 1094	20mg
+T45	CHEM 1096 1113	ácido alendrónico
+#30	AnnotatorNotes T45	C0771311; alendronic acid; Organic Chemical · Pharmacologic Substance
+T46	Dose 1114 1118	70mg
+T47	CHEM 1121 1135	Colecalciferol
+#31	AnnotatorNotes T47	C0008318; cholecalciferol; Organic Chemical · Pharmacologic Substance · Vitamin
+T48	Dose 1136 1148	2,80miles UI
+T49	CHEM 1150 1162	Simvastatina
+#32	AnnotatorNotes T49	C0074554; simvastatin; Organic Chemical · Pharmacologic Substance
+T50	Dose 1163 1168	20mg.
+T51	PROC 1182 1200	Exploración física
+#33	AnnotatorNotes T51	C0031809; Physical Examination; Health Care Activity
+T52	DISO 1224 1239	palidez cutánea
+#34	AnnotatorNotes T52	C0241137; Pallor of skin; Finding
+T53	PHYS 1241 1251	consciente
+#35	AnnotatorNotes T53	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T54	PHYS 1254 1263	orientada
+T55	Neg_cue 1265 1268	sin
+T56	DISO 1269 1290	focalidad neurológica
+#36	AnnotatorNotes T56	C1848821; Focal neurologic signs; Finding
+T57	Negated 1269 1290	focalidad neurológica
+T58	PROC 1292 1299	Glasgow
+T59	PROC 1307 1328	Auscultación cardiaca
+#37	AnnotatorNotes T59	C0018793; Heart Auscultation; Diagnostic Procedure
+T60	Neg_cue 1346 1349	sin
+T61	DISO 1350 1356	soplos
+#38	AnnotatorNotes T61	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T62	Negated 1350 1362	soplos roces
+T63	DISO 1357 1362	roces
+#39	AnnotatorNotes T63	C0006318; Bruit; Finding | C0043242; Superficial abrasion; Injury or Poisoning
+T64	Neg_cue 1363 1365	ni
+T65	DISO 1366 1376	extratonos
+T66	Negated 1366 1376	extratonos
+T67	PROC 1378 1399	Auscultación pulmonar
+#40	AnnotatorNotes T67	C2230255; auscultation of lungs; Diagnostic Procedure
+T68	Neg_cue 1432 1435	sin
+T69	DISO 1436 1468	ruidos patológicos sobreañadidos
+T70	Negated 1436 1468	ruidos patológicos sobreañadidos
+T71	DISO 1470 1503	Engrosamiento de ambas temporales
+T72	PROC 1531 1543	fondo de ojo
+#41	AnnotatorNotes T72	C0029090; Ophthalmoscopy; Diagnostic Procedure
+T73	LIVB 1684 1695	oftalmólogo
+#42	AnnotatorNotes T73	C1704292; Ophthalmologist (occupation); Professional or Occupational Group
+T74	PROC 1724 1736	fondo de ojo
+#43	AnnotatorNotes T74	C0029090; Ophthalmoscopy; Diagnostic Procedure
+T75	ANAT 1744 1761	pupila midriática
+T76	ANAT 1775 1781	papila
+#44	AnnotatorNotes T76	C3714556; Papilla; Body Part, Organ, or Organ Component
+T77	ANAT 1784 1790	mácula
+#45	AnnotatorNotes T77	C1284755; Entire macula lutea; Body Part, Organ, or Organ Component
+T78	ANAT 1825 1835	ambos ojos
+T79	ANAT 1841 1847	retina
+#46	AnnotatorNotes T79	C0035298; Retina; Body Part, Organ, or Organ Component | C1278894; Entire retina; Body Part, Organ, or Organ Component
+T80	PROC 1930 1939	analítica
+#47	AnnotatorNotes T80	C0002778; Analysis of substances; Laboratory Procedure
+T81	PROC 1942 1953	TAC craneal
+#48	AnnotatorNotes T81	C0412603; CT of skull; Diagnostic Procedure
+T82	PROC 1957 1966	Analítica
+#49	AnnotatorNotes T82	C0002778; Analysis of substances; Laboratory Procedure
+T83	PROC 1968 1977	Hemograma
+#50	AnnotatorNotes T83	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T84	PROC 1980 1990	bioquímica
+#51	AnnotatorNotes T84	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T85	Neg_cue 1991 1994	sin
+T86	Negated 1995 2016	hallazgos destacables
+T87	PROC 2018 2021	VSG
+#52	AnnotatorNotes T87	C1176468; Erythrocyte sedimentation rate measurement; Laboratory Procedure
+T88	PROC 2026 2029	PCR
+#53	AnnotatorNotes T88	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T89	PROC 2037 2048	TAC craneal
+#54	AnnotatorNotes T89	C0412603; CT of skull; Diagnostic Procedure
+T90	Neg_cue 2050 2053	Sin
+T91	Negated 2054 2075	hallazgos patológicos
+T92	PROC 2114 2120	prueba
+#55	AnnotatorNotes T92	C1510438; Assay; Laboratory Procedure
+T93	PROC 2124 2135	TRATAMIENTO
+#56	AnnotatorNotes T93	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T94	PROC 2161 2168	ingreso
+#57	AnnotatorNotes T94	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T95	PROC 2184 2201	Ecodoppler de TSA
+T96	DISO 2217 2246	ateromatosis leve bicarotídea
+T97	Neg_cue 2247 2250	sin
+T98	Negated 2251 2270	signos de estenosis
+T99	DISO 2261 2270	estenosis
+#58	AnnotatorNotes T99	C1261287; Stenosis; Pathologic Function
+T100	PROC 2292 2332	biopsia de la arteria temporal izquierda
+T101	PROC 2355 2366	diagnóstico
+#59	AnnotatorNotes T101	C0011900; Diagnosis; Diagnostic Procedure
+T102	DISO 2370 2394	arteritis de la temporal
+#60	AnnotatorNotes T102	C1956391; Temporal Arteritis; Disease or Syndrome
+T103	PROC 2402 2413	tratamiento
+#61	AnnotatorNotes T103	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T104	CHEM 2425 2435	Prednisona
+#62	AnnotatorNotes T104	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T105	Dose 2436 2440	30mg
+T106	Dose 2442 2455	2 comprimidos
+T107	Time 2456 2469	por la mañana
+T108	CHEM 2472 2481	Omeprazol
+#63	AnnotatorNotes T108	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T109	Dose 2482 2486	20mg
+T110	Dose 2488 2500	1 comprimido
+T111	Frequency 2501 2507	al día
+T112	PROC 2517 2525	revisión
+#64	AnnotatorNotes T112	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T113	LIVB 2540 2549	neurólogo
+#65	AnnotatorNotes T113	C0237426; Neurologists; Professional or Occupational Group
+T114	PROC 2568 2587	visita a Neurología
+T115	PROC 2591 2594	PCR
+#66	AnnotatorNotes T115	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T116	PROC 2625 2628	VSG
+#67	AnnotatorNotes T116	C1176468; Erythrocyte sedimentation rate measurement; Laboratory Procedure
+T117	Date 2650 2661	Actualmente
+T118	DISO 2675 2687	asintomática
+#68	AnnotatorNotes T118	C0231221; Asymptomatic (finding); Finding
+T119	Negated 2675 2687	asintomática
+T120	DISO 2715 2739	Arteritis de la temporal
+#69	AnnotatorNotes T120	C1956391; Temporal Arteritis; Disease or Syndrome

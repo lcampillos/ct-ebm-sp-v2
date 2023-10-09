@@ -1,0 +1,103 @@
+T1	DISO 22 32	Odinofagía
+T2	DISO 35 46	voz gangosa
+T3	Duration 50 56	2 días
+T4	LIVB 92 97	Varón
+T5	Age 101 108	80 años
+T6	DISO 141 144	HTA
+#1	AnnotatorNotes T6	C0020538; Hypertensive disease; Disease or Syndrome
+T7	DISO 148 167	Hipercolesterolemia
+#2	AnnotatorNotes T7	C0020443; Hypercholesterolemia; Disease or Syndrome
+T8	DISO 171 197	Adenocarcinoma de próstata
+#3	AnnotatorNotes T8	C0007112; Adenocarcinoma of prostate; Neoplastic Process | C0376358; Malignant neoplasm of prostate; Neoplastic Process
+T9	PROC 198 211	diagnosticado
+#4	AnnotatorNotes T9	C0011900; Diagnosis; Diagnostic Procedure
+T10	Date 215 219	2008
+T11	Neg_cue 223 228	Nunca
+T12	Negated 229 238	ha fumado
+T13	DISO 232 238	fumado
+#5	AnnotatorNotes T13	C0556394; Smokes drugs; Finding
+T14	Frequency 291 297	diaria
+T15	PROC 301 305	Tto.
+T16	CHEM 316 326	Doxazosina
+#6	AnnotatorNotes T16	C0114873; doxazosin; Organic Chemical · Pharmacologic Substance
+T17	Dose 327 330	4 g
+T18	CHEM 332 341	Amilorida
+#7	AnnotatorNotes T18	C0002502; amiloride; Organic Chemical · Pharmacologic Substance
+T19	CHEM 342 359	Hidroclorotiazida
+#8	AnnotatorNotes T19	C0020261; hydrochlorothiazide; Organic Chemical · Pharmacologic Substance
+T20	Dose 360 367	5/50 mg
+T21	CHEM 369 379	Verapamilo
+#9	AnnotatorNotes T21	C0042523; verapamil; Organic Chemical · Pharmacologic Substance
+T22	Dose 380 386	240 mg
+T23	CHEM 388 400	Fluvastatina
+#10	AnnotatorNotes T23	C0082608; fluvastatin; Organic Chemical · Pharmacologic Substance
+T24	Dose 401 407	40 mg.
+T25	DISO 412 422	Enfermedad
+#11	AnnotatorNotes T25	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T26	Date 423 429	actual
+T27	DISO 441 458	dolor de garganta
+#12	AnnotatorNotes T27	C0242429; Sore Throat; Sign or Symptom
+T28	Duration 462 472	una semana
+T29	Neg_cue 486 489	sin
+T30	DISO 490 493	tos
+#13	AnnotatorNotes T30	C0010200; Coughing; Sign or Symptom
+T31	Negated 490 493	tos
+T32	Neg_cue 494 496	ni
+T33	DISO 497 510	expectoración
+T34	Negated 497 510	expectoración
+T35	Neg_cue 514 517	Sin
+T36	DISO 518 524	fiebre
+#14	AnnotatorNotes T36	C0015967; Fever; Sign or Symptom
+T37	Negated 518 524	fiebre
+T38	Neg_cue 525 527	ni
+T39	Negated 528 559	otra sintomatología acompañante
+T40	DISO 533 547	sintomatología
+#15	AnnotatorNotes T40	C3540840; Sign or Symptom; Finding
+T41	PROC 562 568	EXAMEN
+#16	AnnotatorNotes T41	C0031809; Physical Examination; Health Care Activity
+T42	PROC 573 591	Exploración física
+#17	AnnotatorNotes T42	C0031809; Physical Examination; Health Care Activity
+T43	PROC 595 597	PA
+T44	PROC 611 613	FC
+T45	PROC 622 624	Tª
+T46	PROC 633 636	SO2
+T47	PROC 645 668	Exploración orofaríngea
+T48	DISO 681 714	edema de paladar blando izquierdo
+T49	DISO 716 727	hipertrofía
+T50	DISO 730 749	hiperemia amigdalar
+T51	ANAT 751 756	úvula
+#18	AnnotatorNotes T51	C0042173; Uvula of palate; Body Part, Organ, or Organ Component
+T52	DISO 767 806	Adenopatías submandibulares bilaterales
+T53	Neg_cue 808 811	sin
+T54	DISO 812 853	adenopatías supraclaviculares ni axilares
+T55	Negated 812 853	adenopatías supraclaviculares ni axilares
+T56	PROC 857 889	Auscultación cardíaca y pulmonar
+T57	ANAT 900 907	Abdomen
+#19	AnnotatorNotes T57	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T58	PROC 920 943	Pruebas complementarias
+#20	AnnotatorNotes T58	C1515980; Ancillary Study; Research Activity
+T59	DISO 978 1028	inflamación lateral izquierda y retrofaringea alta
+T60	PROC 1032 1044	TC de cuello
+#21	AnnotatorNotes T60	C0412604; Computed Tomography (CT) of Neck; Diagnostic Procedure
+T61	Spec_cue 1053 1065	sugestiva de
+T62	DISO 1066 1088	absceso periamigdalino
+#22	AnnotatorNotes T62	C0031157; Peritonsillar Abscess; Disease or Syndrome
+T63	Speculated 1066 1119	absceso periamigdalino con abscesificación incipiente
+T64	DISO 1093 1108	abscesificación
+#23	AnnotatorNotes T64	C4014106; Abscess formation; Finding
+T65	DISO 1147 1168	Flemón periamigdalino
+T66	PROC 1171 1182	TRATAMIENTO
+#24	AnnotatorNotes T66	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T67	PROC 1198 1207	Ingresado
+#25	AnnotatorNotes T67	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T68	PROC 1213 1233	control de evolución
+T69	PROC 1244 1278	tratamiento antibiótico endovenoso
+T70	Route 1268 1278	endovenoso
+T71	CHEM 1283 1306	Amoxilicila-Clavulanico
+T72	CHEM 1309 1321	Metronidazol
+#26	AnnotatorNotes T72	C0025872; metronidazole; Organic Chemical · Pharmacologic Substance
+T73	PROC 1357 1361	alta
+#27	AnnotatorNotes T73	C0030685; Patient Discharge; Health Care Activity
+T74	Duration 1365 1371	4 días
+T75	PROC 947 955	valorado
+T76	PROC 1123 1134	DIAGNÓSTICO

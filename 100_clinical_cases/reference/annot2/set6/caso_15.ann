@@ -1,0 +1,146 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	55 años
+T4	LIVB 82 86	hijo
+T5	Neg_cue 108 111	Sin
+T6	Negated 112 124	antecedentes
+T7	LIVB 218 223	madre
+#3	AnnotatorNotes T7	C0026591; Mother (person); Family Group
+T8	LIVB 230 238	paciente
+#4	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
+T9	Duration 259 275	los últimos años
+T10	PROC 276 313	internada en un hospital psiquiátrico
+T11	DISO 322 342	proceso demenciativo
+T12	DISO 370 395	alteraciones conductuales
+T13	DISO 408 419	agresividad
+#5	AnnotatorNotes T13	C0557883; Feeling aggressive; Finding
+T14	DISO 422 435	alucinaciones
+#6	AnnotatorNotes T14	C0018524; Hallucinations; Mental or Behavioral Dysfunction
+T15	DISO 478 498	alteraciones motoras
+T16	Duration 527 538	varios años
+T17	DISO 539 547	encamada
+#7	AnnotatorNotes T17	C0741453; Bedridden; Finding
+T18	DISO 560 573	fallecimiento
+#8	AnnotatorNotes T18	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T19	Neg_cue 575 577	No
+T20	Negated 588 604	informes médicos
+T21	LIVB 671 678	hermana
+#9	AnnotatorNotes T21	C0037047; Sibling; Family Group
+T22	LIVB 685 693	paciente
+#10	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	DISO 708 717	fallecido
+#11	AnnotatorNotes T23	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T24	Date 718 728	hacía años
+T25	DISO 736 756	problemas de nervios
+T26	DISO 768 793	trastornos del movimiento
+T27	Neg_cue 801 816	imposibilitaban
+T28	PHYS 820 826	marcha
+T29	Negated 820 826	marcha
+T30	LIVB 832 840	paciente
+#12	AnnotatorNotes T30	C0030705; Patients; Patient or Disabled Group
+T31	Duration 853 870	los últimos meses
+T32	DISO 871 898	cambios del estado de ánimo
+#13	AnnotatorNotes T32	C0085633; Mood swings; Mental or Behavioral Dysfunction
+T33	DISO 912 919	apática
+#14	AnnotatorNotes T33	C0085632; Apathy; Mental or Behavioral Dysfunction
+T34	Frequency 977 984	diarias
+T35	DISO 1003 1009	llanto
+#15	AnnotatorNotes T35	C0424109; Weepiness; Finding
+T36	PROC 1072 1083	tratamiento
+#16	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	CHEM 1097 1120	fármacos antidepresivos
+#17	AnnotatorNotes T37	C0973506; Other antidepressant drugs; Pharmacologic Substance
+T38	DISO 1175 1184	irritable
+#18	AnnotatorNotes T38	C0022107; Irritable Mood; Finding
+T39	DISO 1198 1217	conductas agresivas
+T40	DISO 1301 1310	temblores
+#19	AnnotatorNotes T40	C0040822; Tremor; Sign or Symptom | C0040823; Tremor NEC in MDR; Sign or Symptom | C0234369; Trembling; Sign or Symptom
+T41	DISO 1315 1324	inquietud
+#20	AnnotatorNotes T41	C0549209; Feeling jittery; Sign or Symptom | C3887612; Psychomotor Agitation; Finding
+T42	ANAT 1337 1343	cuerpo
+#21	AnnotatorNotes T42	C0229960; Entire body as a whole; Fully Formed Anatomical Structure | C1268086; Body structure; Anatomical Structure
+T43	PROC 1347 1379	EXAMEN FÍSICO Y NEUROPSICOLÓGICO
+T44	PROC 1385 1395	entrevista
+T45	DISO 1438 1475	reducción en la fluencia del lenguaje
+T47	PHYS 1554 1564	nominación
+T48	PROC 1591 1595	MMSE
+#22	AnnotatorNotes T48	C0451306; Mini-mental state examination; Diagnostic Procedure
+T49	PROC 1597 1626	Mini-Mental State Examination
+T50	DISO 1637 1693	fallos en la orientación temporal y en el cálculo mental
+T51	Neg_cue 1751 1753	No
+T52	DISO 1760 1776	signos meníngeos
+T53	Negated 1760 1776	signos meníngeos
+T54	ANAT 1782 1789	pupilas
+#23	AnnotatorNotes T54	C0034121; Pupil; Body Part, Organ, or Organ Component | C1305618; Entire pupil; Body Part, Organ, or Organ Component
+T55	PHYS 1795 1810	oculomotricidad
+T56	ANAT 1857 1872	pares craneales
+#24	AnnotatorNotes T56	C0010268; Cranial Nerves; Body Part, Organ, or Organ Component | C1269897; Entire cranial nerve; Body Part, Organ, or Organ Component
+T57	Neg_cue 1874 1876	No
+T58	DISO 1891 1922	déficit de fuerza ni sensitivos
+T59	Negated 1891 1922	déficit de fuerza ni sensitivos
+T60	PHYS 1928 1961	reflejos de estiramiento muscular
+T61	PHYS 1983 2009	reflejos cutáneo-plantares
+T62	PHYS 2066 2072	marcha
+T63	DISO 2098 2125	movimientos coreodistónicos
+T64	ANAT 2129 2148	miembros superiores
+#25	AnnotatorNotes T64	C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269078; Entire upper limb; Body Part, Organ, or Organ Component
+T65	ANAT 2191 2206	cervicocefálico
+T66	ANAT 2209 2218	peribucal
+T67	DISO 2224 2242	protrusión lingual
+T68	DISO 2259 2266	rigidez
+#26	AnnotatorNotes T68	C0026837; Muscle Rigidity; Sign or Symptom | C0427008; Stiffness; Sign or Symptom
+T69	ANAT 2284 2308	miembro superior derecho
+T70	PHYS 2326 2338	movilización
+T71	DISO 2361 2377	signo de Froment
+#27	AnnotatorNotes T71	C1290999; Froment's sign; Sign or Symptom
+T72	PROC 2384 2398	examen general
+T73	Neg_cue 2399 2401	no
+T74	DISO 2409 2418	anomalías
+#28	AnnotatorNotes T74	C1704258; Abnormality; Finding
+T75	Negated 2409 2418	anomalías
+T76	PROC 2421 2444	PRUEBAS COMPLEMENTARIAS
+#29	AnnotatorNotes T76	C1515980; Ancillary Study; Research Activity
+T77	PROC 2451 2480	estudios analíticos en sangre
+T78	PROC 2482 2491	hemograma
+#30	AnnotatorNotes T78	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T79	PROC 2493 2528	velocidad de sedimentación glubular
+T80	PROC 2530 2556	perfil bioquímico completo
+T81	PROC 2558 2561	ANA
+#31	AnnotatorNotes T81	C0587178; Anti-nuclear antibody measurement; Laboratory Procedure
+T82	PROC 2563 2588	anticuerpos antinucleares
+#32	AnnotatorNotes T82	C0587178; Anti-nuclear antibody measurement; Laboratory Procedure
+T83	PROC 2591 2618	estudio de función tiroidea
+T84	PROC 2620 2625	cobre
+#33	AnnotatorNotes T84	C0373587; Copper measurement; Laboratory Procedure
+T85	PROC 2628 2642	ceruloplasmina
+#34	AnnotatorNotes T85	C0373573; Ceruloplasmin measurement; Laboratory Procedure
+T86	PROC 2644 2661	serología de lúes
+T87	PROC 2695 2715	radiografía de tórax
+#35	AnnotatorNotes T87	C0039985; Plain chest X-ray; Diagnostic Procedure
+T88	PROC 2735 2780	RMN (resonancia magnética nuclear) encefálica
+T89	DISO 2794 2830	atrofia bilateral del núcleo caudado
+T90	PROC 2833 2844	DIAGNÓSTICO
+#36	AnnotatorNotes T90	C0011900; Diagnosis; Diagnostic Procedure
+T91	DISO 2857 2880	Síndrome coreodistónico
+T92	DISO 2892 2930	alteraciones cognitivas y conductuales
+T93	PROC 2996 3007	diagnóstico
+#37	AnnotatorNotes T93	C0011900; Diagnosis; Diagnostic Procedure
+T94	PROC 3045 3061	estudio genético
+T95	CHEM 3146 3172	citosina-adenosina-guanina
+T96	LIVB 3196 3204	paciente
+#38	AnnotatorNotes T96	C0030705; Patients; Patient or Disabled Group
+T97	PROC 3209 3222	diagnosticada
+#39	AnnotatorNotes T97	C0011900; Diagnosis; Diagnostic Procedure
+T98	DISO 3226 3245	Corea de Huntington
+#40	AnnotatorNotes T98	C0020179; Huntington Disease; Disease or Syndrome
+T99	PROC 3248 3259	TRATAMIENTO
+#41	AnnotatorNotes T99	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T100	PROC 3273 3284	tratamiento
+#42	AnnotatorNotes T100	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T101	CHEM 3289 3332	inhibidores de la recaptación de serotonina
+#43	AnnotatorNotes T101	C0162758; Serotonin Uptake Inhibitors; Pharmacologic Substance
+T102	CHEM 3344 3355	risperidona
+#44	AnnotatorNotes T102	C0073393; risperidone; Organic Chemical · Pharmacologic Substance
+T3	DISO 150 167	cambios afectivos
+T46	DISO 1490 1504	mal articulado
+T103	DISO 1523 1549	transformaciones fonémicas

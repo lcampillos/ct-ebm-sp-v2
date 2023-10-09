@@ -1,0 +1,245 @@
+T1	DISO 21 34	Alucinaciones
+#1	AnnotatorNotes T1	C0018524; Hallucinations; Mental or Behavioral Dysfunction
+T2	LIVB 56 64	Paciente
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	Age 68 75	81 años
+T4	DISO 125 127	FA
+#3	AnnotatorNotes T4	C0004238; Atrial Fibrillation; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T5	DISO 130 135	DM-II
+#4	AnnotatorNotes T5	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T6	DISO 138 141	HTA
+#5	AnnotatorNotes T6	C0020538; Hypertensive disease; Disease or Syndrome
+T7	DISO 144 148	DLPM
+T8	DISO 151 165	hipotiroidismo
+#6	AnnotatorNotes T8	C0020676; Hypothyroidism; Disease or Syndrome
+T9	PROC 168 179	Tratamiento
+#7	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 181 188	sintrom
+#8	AnnotatorNotes T10	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T11	Dose 189 193	4 mg
+T12	CHEM 195 204	enalapril
+#9	AnnotatorNotes T12	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T13	Dose 205 210	20 mg
+T14	CHEM 211 228	hidroclorotiazida
+#10	AnnotatorNotes T14	C0020261; hydrochlorothiazide; Organic Chemical · Pharmacologic Substance
+T15	Dose 229 236	12.5 mg
+T16	Frequency 236 240	/12h
+T17	CHEM 242 254	simvastatina
+#11	AnnotatorNotes T17	C0074554; simvastatin; Organic Chemical · Pharmacologic Substance
+T18	Dose 255 260	20 mg
+T19	CHEM 262 269	Eutirox
+#12	AnnotatorNotes T19	C0720313; Euthyrox; Hormone · Organic Chemical · Pharmacologic Substance
+T20	Dose 270 277	100 mcg
+T21	CHEM 279 288	omeprazol
+#13	AnnotatorNotes T21	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T22	Dose 289 294	20 mg
+T23	CHEM 296 306	carvedilol
+#14	AnnotatorNotes T23	C0054836; carvedilol; Organic Chemical · Pharmacologic Substance
+T24	Dose 307 314	6.25 mg
+T25	Frequency 314 318	/12h
+T26	CHEM 320 330	gliclazida
+#15	AnnotatorNotes T26	C0017631; gliclazide; Organic Chemical · Pharmacologic Substance
+T27	Dose 331 338	30 mg 2
+T28	Frequency 337 342	2/24h
+T29	CHEM 344 353	Lorazepam
+#16	AnnotatorNotes T29	C0024002; lorazepam; Organic Chemical · Pharmacologic Substance
+T30	Dose 354 358	1 mg
+T31	Frequency 358 362	/24h
+T32	PROC 366 384	Colecistectomizada
+#17	AnnotatorNotes T32	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T33	DISO 388 398	Enfermedad
+#18	AnnotatorNotes T33	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T34	Date 399 405	actual
+T35	PROC 432 449	atención primaria
+#19	AnnotatorNotes T35	C0033137; Primary Health Care; Health Care Activity
+T36	LIVB 468 472	hijo
+T37	DISO 474 482	nerviosa
+#20	AnnotatorNotes T37	C0027769; Nervousness; Sign or Symptom | C0860604; Jumpy; Finding | C1862915; Easily excitable; Finding
+T38	DISO 485 495	angustiada
+T39	Date 518 533	hace una semana
+T40	DISO 543 565	alucinaciones visuales
+#21	AnnotatorNotes T40	C0233763; Hallucinations, Visual; Sign or Symptom
+T41	Time 566 575	nocturnas
+T42	PROC 597 605	consulta
+#22	AnnotatorNotes T42	C0009818; Consultation; Health Care Activity
+T43	CHEM 622 629	sintrom
+#23	AnnotatorNotes T43	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T44	DISO 649 659	patologías
+#24	AnnotatorNotes T44	C0677042; Pathology processes; Pathologic Function
+T45	DISO 720 733	alucinaciones
+#25	AnnotatorNotes T45	C0018524; Hallucinations; Mental or Behavioral Dysfunction
+T46	Neg_cue 841 843	no
+T47	Negated 847 851	real
+T48	PHYS 887 893	dormir
+#26	AnnotatorNotes T48	C0037313; Sleep; Organism Function
+T49	Date 936 948	hace semanas
+T50	PHYS 961 966	sueño
+#27	AnnotatorNotes T50	C0013117; Dreams; Mental Process | C0037313; Sleep; Organism Function | C2830004; Somnolence; Mental or Behavioral Dysfunction
+T51	Time 987 995	la noche
+T52	DISO 1007 1014	disuria
+#28	AnnotatorNotes T52	C0013428; Dysuria; Sign or Symptom | C0241705; Difficulty passing urine; Sign or Symptom
+T53	DISO 1016 1024	poliuria
+#29	AnnotatorNotes T53	C0032617; Polyuria; Sign or Symptom
+T54	DISO 1027 1042	tenesmo vesical
+#30	AnnotatorNotes T54	C0423735; Painful bladder spasm; Sign or Symptom
+T55	DISO 1053 1073	sensación distérmica
+T56	Neg_cue 1074 1077	sin
+T57	DEVI 1096 1106	termómetro
+#31	AnnotatorNotes T57	C0039818; Thermometer, device; Medical Device
+T58	Negated 1096 1106	termómetro
+T59	Neg_cue 1110 1112	No
+T60	Negated 1113 1125	otra clínica
+T61	PROC 1140 1146	EXAMEN
+#32	AnnotatorNotes T61	C0031809; Physical Examination; Health Care Activity
+T62	PROC 1151 1169	Exploración física
+#33	AnnotatorNotes T62	C0031809; Physical Examination; Health Care Activity
+T63	PHYS 1198 1208	consciente
+#34	AnnotatorNotes T63	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T64	PHYS 1210 1219	orientada
+T65	PROC 1237 1253	Tensión arterial
+T66	PROC 1262 1273	Temperatura
+T67	PROC 1283 1290	Glasgow
+T68	ANAT 1295 1302	Pupilas
+#35	AnnotatorNotes T68	C0034121; Pupil; Body Part, Organ, or Organ Component | C1305618; Entire pupil; Body Part, Organ, or Organ Component
+T69	Neg_cue 1331 1333	No
+T70	DISO 1334 1343	disartria
+#36	AnnotatorNotes T70	C0013362; Dysarthria; Mental or Behavioral Dysfunction
+T71	Negated 1334 1343	disartria
+T72	Neg_cue 1345 1347	No
+T73	DISO 1348 1376	desviación de comisura bucal
+T74	Negated 1348 1376	desviación de comisura bucal
+T75	PHYS 1378 1384	Fuerza
+T76	PHYS 1386 1398	sensibilidad
+#37	AnnotatorNotes T76	C0312418; Personality Sensitivity; Mental Process
+T77	PHYS 1401 1410	movilidad
+T78	ANAT 1429 1443	4 extremidades
+T79	PHYS 1445 1451	Marcha
+T80	PHYS 1464 1471	Romberg
+T81	Neg_cue 1472 1475	sin
+T82	DISO 1476 1488	alteraciones
+#38	AnnotatorNotes T82	C0012634; Disease; Disease or Syndrome
+T83	Negated 1476 1488	alteraciones
+T84	PROC 1543 1564	Auscultación cardíaca
+#39	AnnotatorNotes T84	C0018793; Heart Auscultation; Diagnostic Procedure
+T85	DISO 1566 1582	tonos arrítmicos
+T86	Negated 1572 1582	arrítmicos
+T87	PROC 1595 1620	Auscultación respiratoria
+T88	Neg_cue 1652 1655	sin
+T89	DISO 1656 1676	ruidos sobreañadidos
+T90	Negated 1656 1676	ruidos sobreañadidos
+T91	PROC 1678 1684	Sat O2
+#40	AnnotatorNotes T91	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T92	ANAT 1692 1699	Abdomen
+#41	AnnotatorNotes T92	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T93	DISO 1711 1721	distendido
+#42	AnnotatorNotes T93	C3714614; Distention; Finding
+T94	Neg_cue 1723 1725	No
+T95	DISO 1726 1734	doloroso
+#43	AnnotatorNotes T95	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T96	Negated 1726 1734	doloroso
+T97	Neg_cue 1736 1739	sin
+T98	DISO 1740 1757	defensa abdominal
+#44	AnnotatorNotes T98	C0238547; Abdominal guarding (finding); Finding
+T99	Negated 1740 1757	defensa abdominal
+T100	PROC 1774 1777	PPR
+T101	ANAT 1798 1817	Miembros inferiores
+#45	AnnotatorNotes T101	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T102	Neg_cue 1819 1821	no
+T103	DISO 1822 1828	edemas
+#46	AnnotatorNotes T103	C0013604; Edema; Pathologic Function
+T104	Negated 1822 1828	edemas
+T105	DISO 1830 1836	signos
+#47	AnnotatorNotes T105	C0311392; Physical findings; Finding
+T106	DISO 1840 1843	IVC
+#48	AnnotatorNotes T106	C0265932; Congenital anomaly of inferior vena cava; Congenital Abnormality
+T107	PROC 1848 1871	Pruebas complementarias
+#49	AnnotatorNotes T107	C1515980; Ancillary Study; Research Activity
+T108	PROC 1875 1881	Combur
+T109	PROC 1882 1886	test
+#50	AnnotatorNotes T109	C0022885; Laboratory Procedures; Laboratory Procedure
+T110	PROC 1909 1919	leucocitos
+T111	PROC 1922 1930	nitritos
+T112	PROC 1944 1953	Analítica
+#51	AnnotatorNotes T112	C0002778; Analysis of substances; Laboratory Procedure
+T113	PROC 1958 1967	hemograma
+#52	AnnotatorNotes T113	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T114	PROC 1969 1979	bioquímica
+#53	AnnotatorNotes T114	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T115	PROC 1991 1996	iones
+T116	PROC 1998 2022	función hepática y renal
+T117	PROC 2025 2028	PCR
+#54	AnnotatorNotes T117	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T118	PROC 2030 2050	sistemático de orina
+T119	PROC 2053 2060	cultivo
+#55	AnnotatorNotes T119	C0430400; Laboratory culture; Laboratory Procedure
+T120	PROC 2062 2080	hormonas tiroideas
+T121	PROC 2082 2094	vitamina B12
+#56	AnnotatorNotes T121	C0202252; VITAMIN B12 MEASUREMENT; Laboratory Procedure
+T122	PROC 2096 2108	ácido fólico
+T123	PROC 2110 2128	treponema pallidum
+T124	PROC 2130 2144	hb glicosilada
+T125	PROC 2148 2159	TRATAMIENTO
+#57	AnnotatorNotes T125	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T126	CHEM 2176 2187	Amoxicilina
+#58	AnnotatorNotes T126	C0002645; amoxicillin; Antibiotic · Organic Chemical
+T127	Dose 2188 2195	875 mg/
+T128	CHEM 2195 2212	ácido clavulánico
+#59	AnnotatorNotes T128	C0055860; clavulanic acid; Antibiotic · Organic Chemical
+T129	Dose 2213 2219	125 mg
+T130	Frequency 2219 2222	/8h
+T131	Duration 2231 2237	7 días
+T132	PROC 2253 2274	tratamiento hipnótico
+T133	Duration 2294 2302	4-5 días
+T134	Dose 2305 2313	1⁄2 comp
+T135	CHEM 2314 2323	Lorazepam
+#60	AnnotatorNotes T135	C0024002; lorazepam; Organic Chemical · Pharmacologic Substance
+T136	Dose 2339 2347	1⁄2 comp
+T137	CHEM 2348 2360	lormetazepam
+#61	AnnotatorNotes T137	C0065185; lormetazepam; Organic Chemical · Pharmacologic Substance
+T138	PROC 2381 2390	suspender
+T139	Neg_cue 2381 2390	suspender
+T140	CHEM 2391 2400	Lorazepam
+#62	AnnotatorNotes T140	C0024002; lorazepam; Organic Chemical · Pharmacologic Substance
+T141	Negated 2391 2400	Lorazepam
+T142	Dose 2417 2423	1 comp
+T143	CHEM 2424 2436	lormetazepam
+#63	AnnotatorNotes T143	C0065185; lormetazepam; Organic Chemical · Pharmacologic Substance
+T144	Time 2437 2451	por las noches
+T145	DISO 2466 2472	fiebre
+#64	AnnotatorNotes T145	C0015967; Fever; Sign or Symptom
+T146	DISO 2494 2502	síntomas
+#65	AnnotatorNotes T146	C1457887; Symptoms; Sign or Symptom
+T147	LIVB 2519 2527	paciente
+#66	AnnotatorNotes T147	C0030705; Patients; Patient or Disabled Group
+T148	Duration 2530 2539	la semana
+T149	PROC 2554 2577	tratamiento antibiótico
+T150	PROC 2583 2617	modificar el tratamiento hipnótico
+T151	PROC 2659 2668	analítica
+#67	AnnotatorNotes T151	C0002778; Analysis of substances; Laboratory Procedure
+T152	PROC 2686 2695	analítica
+#68	AnnotatorNotes T152	C0002778; Analysis of substances; Laboratory Procedure
+T153	PROC 2721 2741	sistemático de orina
+T154	DISO 2758 2787	infección del tracto urinario
+#69	AnnotatorNotes T154	C0042029; Urinary tract infection; Disease or Syndrome
+T155	PROC 2804 2811	cultivo
+#70	AnnotatorNotes T155	C0430400; Laboratory culture; Laboratory Procedure
+T156	LIVB 2826 2832	E.Coli
+#71	AnnotatorNotes T156	C0014834; Escherichia coli; Bacterium
+T157	CHEM 2844 2867	amoxicilina/clavulánico
+#72	AnnotatorNotes T157	C0054066; amoxicillin / clavulanate; Pharmacologic Substance
+T158	LIVB 2874 2882	paciente
+#73	AnnotatorNotes T158	C0030705; Patients; Patient or Disabled Group
+T159	DISO 2913 2920	disuria
+#74	AnnotatorNotes T159	C0013428; Dysuria; Sign or Symptom | C0241705; Difficulty passing urine; Sign or Symptom
+T160	Neg_cue 2930 2942	desaparición
+T161	Date 2946 2957	segundo día
+T162	PROC 2973 2984	tratamiento
+#75	AnnotatorNotes T162	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T163	Negated 2991 3024	clínica de alucinaciones visuales
+T164	DISO 3002 3024	alucinaciones visuales
+#76	AnnotatorNotes T164	C0233763; Hallucinations, Visual; Sign or Symptom
+T165	PROC 3043 3053	consultado
+#77	AnnotatorNotes T165	C0009818; Consultation; Health Care Activity
+T166	DISO 3081 3124	Infección no complicada del tracto urinario
+T167	Neg_cue 3091 3093	no
+T168	Negated 3094 3104	complicada

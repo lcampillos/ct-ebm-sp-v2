@@ -1,0 +1,79 @@
+T1	LIVB 21 43	Adolescente embarazada
+T2	Age 21 32	Adolescente
+T3	PROC 61 97	interrupción voluntaria del embarazo
+T4	PROC 99 102	IVE
+T5	LIVB 126 137	Adolescente
+#1	AnnotatorNotes T5	C0205653; Adolescent (age group); Age Group
+T6	Age 126 137	Adolescente
+T7	Age 141 148	14 años
+T8	LIVB 162 167	madre
+#2	AnnotatorNotes T8	C0026591; Mother (person); Family Group
+T9	LIVB 173 179	padres
+#3	AnnotatorNotes T9	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T10	Date 195 206	hace un año
+T11	Neg_cue 238 241	Sin
+T12	DISO 242 265	alergias medicamentosas
+#4	AnnotatorNotes T12	C0013182; Drug Allergy; Pathologic Function
+T13	Negated 242 265	alergias medicamentosas
+T14	Neg_cue 266 268	ni
+T15	DISO 269 279	patologías
+#5	AnnotatorNotes T15	C0677042; Pathology processes; Pathologic Function
+T16	Negated 269 279	patologías
+T17	DISO 294 302	Fumadora
+#6	AnnotatorNotes T17	C0337664; Smoker; Finding
+T18	Frequency 320 326	al día
+T19	Date 333 348	hace tres meses
+T20	Frequency 368 383	esporádicamente
+T21	LIVB 387 394	Usuaria
+T22	LIVB 398 406	cachimba
+T23	Neg_cue 410 415	Niega
+T24	Negated 416 429	otros tóxicos
+T25	DISO 434 444	Enfermedad
+#7	AnnotatorNotes T25	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T26	Date 445 451	actual
+T27	LIVB 468 473	madre
+#8	AnnotatorNotes T27	C0026591; Mother (person); Family Group
+T28	PROC 490 493	IVE
+T29	PROC 514 530	test de embarazo
+#9	AnnotatorNotes T29	C0032976; Pregnancy Tests; Diagnostic Procedure
+T30	Date 557 570	Recientemente
+T31	PHYS 595 614	relaciones sexuales
+#10	AnnotatorNotes T31	C0009253; Coitus; Organism Function
+T32	LIVB 622 630	expareja
+T33	DEVI 642 654	preservativo
+#11	AnnotatorNotes T33	C0009653; Condoms, Male; Medical Device | C0677582; Condoms, Unspecified; Medical Device
+T34	Neg_cue 682 684	no
+T35	Negated 685 709	durante el acto completo
+T36	PROC 724 742	Exploración física
+#12	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	Neg_cue 746 749	Sin
+T38	DISO 750 762	alteraciones
+#13	AnnotatorNotes T38	C0012634; Disease; Disease or Syndrome
+T39	Negated 750 762	alteraciones
+T40	PROC 765 776	TRATAMIENTO
+#14	AnnotatorNotes T40	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T41	LIVB 809 817	paciente
+#15	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	LIVB 825 830	madre
+#16	AnnotatorNotes T42	C0026591; Mother (person); Family Group
+T43	PROC 843 846	IVE
+T44	LIVB 879 897	trabajadora social
+T45	PROC 913 930	analítica general
+T46	PROC 935 950	perfil tiroideo
+T47	PROC 953 962	serología
+#17	AnnotatorNotes T47	C0036743; Serologic tests; Laboratory Procedure
+T48	PROC 966 978	Intervención
+#18	AnnotatorNotes T48	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T49	PHYS 1006 1016	relaciones
+T50	Neg_cue 1026 1029	sin
+T51	Negated 1030 1040	protección
+T52	DISO 1042 1074	consumo de tabaco y otras drogas
+T53	PROC 1098 1120	planificación familiar
+#19	AnnotatorNotes T53	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T54	PROC 1138 1161	métodos anticonceptivos
+#20	AnnotatorNotes T54	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T55	PHYS 1189 1197	Embarazo
+#21	AnnotatorNotes T55	C0032961; Pregnancy; Organism Function
+T56	DISO 1199 1218	Conductas de riesgo
+T57	LIVB 1222 1242	paciente adolescente
+T58	Age 1231 1242	adolescente

@@ -1,0 +1,205 @@
+T1	LIVB 21 29	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T3	DISO 81 103	escozor axilar derecho
+T4	Duration 107 114	10 días
+T6	LIVB 200 205	padre
+#2	AnnotatorNotes T6	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T7	DISO 206 215	fallecido
+#3	AnnotatorNotes T7	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T8	DISO 219 234	cáncer de colon
+#4	AnnotatorNotes T8	C0007102; Malignant tumor of colon; Neoplastic Process
+T9	DISO 266 281	Hernia inguinal
+#5	AnnotatorNotes T9	C0019294; Hernia, Inguinal; Anatomical Abnormality
+T10	PROC 283 294	intervenido
+#6	AnnotatorNotes T10	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T11	DISO 317 339	Rotura menisco rodilla
+T12	PROC 351 362	intervenido
+#7	AnnotatorNotes T12	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T13	DISO 382 389	Fumador
+#8	AnnotatorNotes T13	C0337664; Smoker; Finding
+T15	DISO 420 430	Enfermedad
+#9	AnnotatorNotes T15	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T20	DISO 518 540	escozor axilar derecho
+T21	Duration 544 551	10 días
+T22	ANAT 599 608	metámeras
+T23	ANAT 609 611	C5
+#13	AnnotatorNotes T23	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T24	ANAT 612 614	C6
+#14	AnnotatorNotes T24	C0223161; Entire C6 vertebra; Body Part, Organ, or Organ Component | C0459944; Bone structure of C6; Body Part, Organ, or Organ Component
+T25	Neg_cue 617 619	No
+T26	DISO 620 631	traumatismo
+#15	AnnotatorNotes T26	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T27	Negated 620 631	traumatismo
+T28	PROC 674 692	Exploración física
+#16	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T32	ANAT 732 756	miembro superior derecho
+T34	DISO 801 823	Dolor en región axilar
+T35	PHYS 831 843	movilización
+T36	ANAT 848 853	brazo
+#18	AnnotatorNotes T36	C0446516; Upper arm; Body Location or Region | C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269612; Entire upper arm; Body Part, Organ, or Organ Component
+T37	PROC 858 861	ACP
+#19	AnnotatorNotes T37	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T38	Neg_cue 877 879	no
+T39	DISO 880 886	soplos
+#20	AnnotatorNotes T39	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T40	Negated 880 886	soplos
+T41	Neg_cue 891 893	No
+T42	DISO 906 923	lesiones cutáneas
+#21	AnnotatorNotes T42	C0037284; Skin lesion; Disease or Syndrome | C3241942; Sore on skin; Finding
+T43	Negated 906 923	lesiones cutáneas
+T44	Spec_cue 934 945	sospecha de
+T45	DISO 946 966	contractura muscular
+#22	AnnotatorNotes T45	C0009917; Contracture; Anatomical Abnormality
+T46	Speculated 946 966	contractura muscular
+T47	PROC 985 997	se prescribe
+T48	CHEM 998 1008	Ibuprofeno
+#23	AnnotatorNotes T48	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T49	Dose 1009 1014	600mg
+T50	Frequency 1015 1027	cada 8 horas
+T52	Duration 1073 1081	4-5 días
+T53	LIVB 1087 1095	paciente
+#25	AnnotatorNotes T53	C0030705; Patients; Patient or Disabled Group
+T55	Duration 1124 1134	una semana
+T59	PROC 1223 1245	tratamiento analgésico
+T60	PROC 1246 1255	prescrito
+#29	AnnotatorNotes T60	C0033080; Prescription procedure; Health Care Activity
+T61	PROC 1261 1284	Pruebas complementarias
+#30	AnnotatorNotes T61	C1515980; Ancillary Study; Research Activity
+T62	Spec_cue 1336 1347	sospecha de
+T63	DISO 1348 1388	tendinitis del manguito de los rotadores
+#31	AnnotatorNotes T63	C0151448; Rotator Cuff Tendinitis; Disease or Syndrome | C0851122; Rotator Cuff Injuries; Injury or Poisoning
+T64	Speculated 1348 1388	tendinitis del manguito de los rotadores
+T65	DISO 1396 1409	hernia discal
+#32	AnnotatorNotes T65	C0242362 | C0678212; Herniation of nucleus pulposus; Injury or Poisoning
+T66	Speculated 1396 1409	hernia discal
+T67	PROC 1428 1439	tratamiento
+#33	AnnotatorNotes T67	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T68	PROC 1492 1519	Ecografía de hombro derecho
+T71	PROC 1596 1605	prescribe
+#34	AnnotatorNotes T71	C0033080; Prescription procedure; Health Care Activity
+T72	PROC 1606 1628	tratamiento analgésico
+T75	DISO 1699 1704	dolor
+#36	AnnotatorNotes T75	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T76	PROC 1723 1734	Rx de tórax
+#37	AnnotatorNotes T76	C0039985; Plain chest X-ray; Diagnostic Procedure
+T77	DISO 1759 1770	masa apical
+T78	Spec_cue 1790 1797	dudosos
+T80	Speculated 1798 1827	signos de lesión extrapleural
+T82	Spec_cue 1829 1838	No parece
+T83	DISO 1847 1860	lesión costal
+#39	AnnotatorNotes T83	C0262616; Injury of ribs; Injury or Poisoning
+T84	Negated 1847 1860	lesión costal
+T89	Neg_cue 1944 1947	sin
+T90	Negated 1948 1957	hallazgos
+T91	PROC 2006 2017	TC de tórax
+#41	AnnotatorNotes T91	C0202823; Chest CT; Diagnostic Procedure
+T92	PROC 2020 2027	biopsia
+#42	AnnotatorNotes T92	C0005558; Biopsy; Diagnostic Procedure
+T93	DISO 2034 2040	lesión
+#43	AnnotatorNotes T93	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T94	PROC 2043 2051	TC tórax
+T95	DISO 2053 2065	Neoformación
+#44	AnnotatorNotes T95	C0027651; Neoplasms; Neoplastic Process
+T96	ANAT 2069 2091	segmento apical de LSD
+T97	ANAT 2105 2127	pared costal posterior
+T99	DISO 2176 2194	nódulos pulmonares
+#45	AnnotatorNotes T99	C0034079; Nodule of lung; Finding | C0235896; Pulmonary Infiltrate; Finding | C2350019; Solitary Pulmonary Nodule; Neoplastic Process
+T100	ANAT 2198 2200	LM
+T101	Spec_cue 2201 2214	sugerentes de
+T102	DISO 2215 2225	metástasis
+#46	AnnotatorNotes T102	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T103	Speculated 2215 2225	metástasis
+T104	DISO 2228 2250	lesiones líticas óseas
+T105	ANAT 2254 2257	D10
+#47	AnnotatorNotes T105	C0223341; Entire T10 vertebra; Body Part, Organ, or Organ Component | C0459955; Bone structure of T10; Body Part, Organ, or Organ Component
+T106	ANAT 2259 2267	esternón
+#48	AnnotatorNotes T106	C0038293; Sternum; Body Part, Organ, or Organ Component | C1279580; Entire sternum; Body Part, Organ, or Organ Component
+T107	ANAT 2270 2293	primeros arcos costales
+T108	PROC 2296 2310	Biopsia lesión
+T109	DISO 2312 2351	Infiltración por celularidad neoplásica
+T111	Spec_cue 2410 2425	compatibles con
+T112	DISO 2426 2450	Carcinoma Neuroendocrino
+#49	AnnotatorNotes T112	C0206695; Carcinoma, Neuroendocrine; Neoplastic Process
+T113	Speculated 2426 2450	Carcinoma Neuroendocrino
+T114	DISO 2470 2478	necrosis
+#50	AnnotatorNotes T114	C1334928; Necrotic changes (finding); Finding
+T115	PROC 2482 2493	TRATAMIENTO
+#51	AnnotatorNotes T115	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T116	PROC 2556 2567	tratamiento
+#52	AnnotatorNotes T116	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T117	CHEM 2572 2581	Fentanilo
+#53	AnnotatorNotes T117	C0015846; fentanyl; Organic Chemical · Pharmacologic Substance
+T118	CHEM 2583 2594	Pregabalina
+#54	AnnotatorNotes T118	C0657912; pregabalin; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T119	CHEM 2596 2604	Diazepam
+#55	AnnotatorNotes T119	C0012010; diazepam; Organic Chemical · Pharmacologic Substance
+T120	CHEM 2606 2615	Omeprazol
+#56	AnnotatorNotes T120	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T121	PROC 2640 2653	Quimioterapia
+#57	AnnotatorNotes T121	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T122	PROC 2656 2679	Radioterapia antiálgica
+T123	ANAT 2680 2688	torácica
+#58	AnnotatorNotes T123	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T125	LIVB 2710 2718	paciente
+#59	AnnotatorNotes T125	C0030705; Patients; Patient or Disabled Group
+T126	PROC 2809 2820	tratamiento
+#60	AnnotatorNotes T126	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T127	DISO 2885 2890	dolor
+#61	AnnotatorNotes T127	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T128	PROC 2917 2928	tratamiento
+#62	AnnotatorNotes T128	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T130	ANAT 2984 3005	área glútea izquierda
+T131	PHYS 3023 3035	deambulación
+T132	Neg_cue 3037 3039	no
+T133	Negated 3040 3048	continuo
+T134	CHEM 3072 3080	mórficos
+#63	AnnotatorNotes T134	C0026549; morphine; Organic Chemical · Pharmacologic Substance
+T135	DISO 3096 3113	Pérdida de fuerza
+#64	AnnotatorNotes T135	C3714552; Weakness; Sign or Symptom
+T136	DISO 3116 3127	parestesias
+#65	AnnotatorNotes T136	C0030554; Paresthesia; Disease or Syndrome
+T137	ANAT 3134 3145	área lumbar
+T138	ANAT 3148 3154	glúteo
+#66	AnnotatorNotes T138	C0282082; Gluteal Region; Body Location or Region | C1744702
+T139	ANAT 3157 3161	MMII
+#67	AnnotatorNotes T139	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T140	DISO 3190 3224	Carcinoma Neuroendocrino de Pulmón
+T5	PROC 663 669	EXAMEN
+T141	PROC 3166 3177	DIAGNÓSTICO
+#10	AnnotatorNotes T22	Spinal Cord (C0037925) / Cervical segment of spinal cord (C0457846)
+#11	AnnotatorNotes T32	Right upper arm structure (C0230346)
+#35	AnnotatorNotes T107	Structure of costal arch (C0230143)
+#40	AnnotatorNotes T100	Entire right middle lobe of lung (C1305136)
+T30	DISO 1798 1827	signos de lesión extrapleural
+#27	AnnotatorNotes T109	Infiltration (C0332448)
+T19	ANAT 1879 1897	cardiomediastínica
+#28	AnnotatorNotes T19	Mediastinum (C0025066)
+T33	ANAT 1914 1923	diafragma
+T51	ANAT 1925 1943	esqueleto regional
+#38	AnnotatorNotes T51	Skeleton (C0816871)
+T54	ANAT 1906 1912	Hilios
+T57	Frequency 411 414	año
+T18	LIVB 150 170	Conductor de autobús
+T58	Date 431 437	actual
+T69	DISO 481 486	dolor
+T70	ANAT 490 496	hombro
+T2	ANAT 499 516	hemitórax derecho
+T73	PHYS 696 705	Movilidad
+T74	PHYS 707 713	fuerza
+T79	PHYS 716 728	sensibilidad
+T81	PHYS 773 785	Pulso distal
+T85	DISO 1159 1164	dolor
+T86	ANAT 1168 1174	hombro
+T87	ANAT 1177 1194	hemitórax derecho
+T31	DISO 1540 1558	entesopatía distal
+T17	ANAT 1563 1587	tendón del supraespinoso
+T88	Duration 2690 2706	Un mes más tarde
+T110	DISO 2967 2972	dolor
+T124	Duration 1630 1651	Dos semanas más tarde
+T56	DISO 44 49	dolor
+T129	ANAT 53 59	hombro
+T16	ANAT 62 79	hemitórax derecho
+T29	DISO 2129 2140	adenopatías
+T142	ANAT 2141 2154	mediastínicas
+T143	ANAT 2157 2174	axilares derechas
+T98	PROC 447 476	consulta de Atención Primaria

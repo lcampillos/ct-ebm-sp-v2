@@ -1,0 +1,173 @@
+T3	Duration 74 86	tres semanas
+T4	LIVB 122 127	Mujer
+#2	AnnotatorNotes T4	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T5	Age 129 136	26 años
+T6	Neg_cue 146 149	sin
+T7	LIVB 150 155	hijos
+T8	Negated 150 155	hijos
+T9	Neg_cue 188 190	No
+T10	DISO 191 199	alergias
+#3	AnnotatorNotes T10	C0020517; Hypersensitivity; Pathologic Function
+T11	Negated 191 209	alergias conocidas
+T12	DISO 213 232	Síndrome de Gilbert
+#4	AnnotatorNotes T12	C0017551; Gilbert Disease (disorder); Disease or Syndrome
+T13	Date 234 238	2011
+T14	PROC 242 253	Intervenida
+#5	AnnotatorNotes T14	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T15	PROC 257 283	prótesis mamaria bilateral
+T16	Date 285 289	2014
+T17	DISO 294 307	Hipermetropía
+#6	AnnotatorNotes T17	C0020490; Hyperopia; Disease or Syndrome
+T18	Date 309 313	2017
+T19	PROC 320 357	tratamiento actual con corticoterapia
+T20	Date 332 338	actual
+T21	CHEM 360 384	crema oculo-epitelizante
+T22	Form 360 365	crema
+T23	Date 389 403	postoperatorio
+T24	PROC 414 426	intervención
+#7	AnnotatorNotes T24	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T25	DISO 431 441	Enfermedad
+#8	AnnotatorNotes T25	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T26	Date 442 448	actual
+T27	DISO 491 503	edema facial
+#9	AnnotatorNotes T27	C0542571; Facial edema; Pathologic Function
+T28	Duration 507 519	tres semanas
+T29	Neg_cue 536 538	No
+T30	DISO 548 554	disnea
+#10	AnnotatorNotes T30	C0013404; Dyspnea; Sign or Symptom
+T31	Negated 548 554	disnea
+T32	Neg_cue 555 557	ni
+T33	DISO 558 566	disfagia
+#11	AnnotatorNotes T33	C0011168; Deglutition Disorders; Disease or Syndrome | C0232520; Absent deglutition; Sign or Symptom
+T34	Negated 558 566	disfagia
+T35	DISO 582 589	afebril
+#12	AnnotatorNotes T35	C0277797; Apyrexial; Finding
+T36	Negated 582 589	afebril
+T37	Neg_cue 593 595	No
+T38	Negated 604 623	otra sintomatología
+T39	DISO 609 623	sintomatología
+#13	AnnotatorNotes T39	C3540840; Sign or Symptom; Finding
+T40	Neg_cue 627 632	Niega
+T41	DISO 633 640	astenia
+#14	AnnotatorNotes T41	C0004093; Asthenia; Sign or Symptom
+T42	Negated 633 640	astenia
+T43	DISO 642 650	anorexia
+#15	AnnotatorNotes T43	C0003123; Anorexia; Disease or Syndrome | C1971624; Loss of appetite (finding); Finding
+T44	Negated 642 650	anorexia
+T45	DISO 653 668	pérdida de peso
+#16	AnnotatorNotes T45	C1262477; Weight decreased; Finding
+T46	Negated 653 668	pérdida de peso
+T47	Frequency 698 714	todas las noches
+T48	DISO 724 755	sudoración generalizada profusa
+T49	PROC 810 819	prescrito
+#17	AnnotatorNotes T49	C0033080; Prescription procedure; Health Care Activity
+T50	CHEM 820 830	prednisona
+#18	AnnotatorNotes T50	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T51	Dose 831 835	30mg
+T52	PROC 839 856	pauta descendente
+T53	Duration 857 867	una semana
+T54	Duration 885 896	transitoria
+T55	DISO 914 923	hincharse
+T56	PROC 943 954	tratamiento
+#19	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	PROC 965 982	Atención Primaria
+#20	AnnotatorNotes T57	C0033137; Primary Health Care; Health Care Activity
+T58	PROC 1032 1050	Exploración física
+#21	AnnotatorNotes T58	C0031809; Physical Examination; Health Care Activity
+T59	PHYS 1136 1170	frecuencia cardiaca y respiratoria
+T60	PROC 1174 1195	Saturación de oxígeno
+#22	AnnotatorNotes T60	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T61	PHYS 1205 1215	respirando
+#23	AnnotatorNotes T61	C0035203; Respiration; Physiologic Function | C0282636; Cell Respiration; Cell Function | C0598104; tissue respiration; Cell Function
+T62	DISO 1242 1257	edema en cuello
+T63	ANAT 1268 1293	región cervical izquierda
+T64	DISO 1298 1327	ingurgitación yugular derecha
+T65	PROC 1336 1345	palpación
+#24	AnnotatorNotes T65	C0030247; Palpation; Diagnostic Procedure
+T66	DISO 1360 1398	adenopatías pequeñas supraclaviculares
+T67	Neg_cue 1400 1402	No
+T68	DISO 1403 1449	adenopatías axilares, abdominales o inguinales
+T69	Negated 1403 1449	adenopatías axilares, abdominales o inguinales
+T70	PROC 1453 1485	Auscultación cardiorrespiratoria
+T71	ANAT 1496 1503	Abdomen
+#25	AnnotatorNotes T71	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T72	ANAT 1506 1525	miembros inferiores
+#26	AnnotatorNotes T72	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T73	Neg_cue 1526 1529	sin
+T74	Negated 1530 1539	hallazgos
+T75	Spec_cue 1550 1561	sospecha de
+T76	DISO 1565 1595	síndrome de vena cava superior
+T77	Speculated 1565 1595	síndrome de vena cava superior
+T78	PROC 1623 1646	Pruebas complementarias
+#27	AnnotatorNotes T78	C1515980; Ancillary Study; Research Activity
+T79	PROC 1650 1668	Electrocardiograma
+#28	AnnotatorNotes T79	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T80	PROC 1679 1688	Analítica
+#29	AnnotatorNotes T80	C0002778; Analysis of substances; Laboratory Procedure
+T81	Neg_cue 1689 1692	sin
+T82	DISO 1693 1705	alteraciones
+#30	AnnotatorNotes T82	C0012634; Disease; Disease or Syndrome
+T83	Negated 1693 1705	alteraciones
+T84	PROC 1721 1730	hemograma
+#31	AnnotatorNotes T84	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T85	PROC 1732 1742	bioquímica
+#32	AnnotatorNotes T85	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T86	PROC 1745 1756	coagulación
+#33	AnnotatorNotes T86	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T87	PROC 1760 1786	TAC de tórax con contraste
+T88	DISO 1802 1813	masa sólida
+T89	ANAT 1817 1836	mediastino anterior
+#34	AnnotatorNotes T89	C0230148; Anterior mediastinum; Body Location or Region | C1280611; Entire anterior mediastinum; Body Location or Region
+T90	ANAT 1849 1877	troncos venosos y arteriales
+T93	ANAT 1909 1922	cava superior
+T94	ANAT 1925 1964	tronco venoso braquiocefálico izquierdo
+T95	DISO 1966 1995	Adenopatías supraclaviculares
+#37	AnnotatorNotes T95	C0749155; Supraclavicular lymphadenopathy; Disease or Syndrome
+T96	Neg_cue 1996 1998	no
+T97	Negated 1999 2013	cuantificables
+T98	ANAT 2019 2059	cadenas mamarias y parahiliares derechas
+T99	PROC 2063 2077	TAC de abdomen
+#38	AnnotatorNotes T99	C0412620; CT of abdomen; Diagnostic Procedure
+T100	Neg_cue 2078 2081	sin
+T101	Negated 2082 2091	hallazgos
+T103	PROC 2185 2208	biopsia de aguja gruesa
+T104	PROC 2220 2223	TAC
+#39	AnnotatorNotes T104	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T105	Spec_cue 2228 2248	alta probabilidad de
+T106	DISO 2249 2265	linfoma B difuso
+T107	Speculated 2249 2265	linfoma B difuso
+T108	PROC 2269 2280	TRATAMIENTO
+#40	AnnotatorNotes T108	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T109	LIVB 2298 2306	paciente
+#41	AnnotatorNotes T109	C0030705; Patients; Patient or Disabled Group
+T111	PROC 2365 2394	diagnóstico anatomopatológico
+T112	PROC 2411 2424	quimioterapia
+#42	AnnotatorNotes T112	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T113	PROC 2432 2439	régimen
+#43	AnnotatorNotes T113	C0012159; Diet therapy; Health Care Activity
+T114	CHEM 2450 2462	medicamentos
+#44	AnnotatorNotes T114	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T115	PROC 2483 2487	CHOP
+#45	AnnotatorNotes T115	C0163868; CHOP regimen; Therapeutic or Preventive Procedure
+T116	CHEM 2489 2503	ciclofosfamida
+#46	AnnotatorNotes T116	C0010583; cyclophosphamide; Organic Chemical · Pharmacologic Substance
+T117	CHEM 2505 2518	doxorrubicina
+#47	AnnotatorNotes T117	C0013089; doxorubicin; Antibiotic · Organic Chemical
+T118	CHEM 2520 2531	vincristina
+#48	AnnotatorNotes T118	C0042679; vincristine; Organic Chemical · Pharmacologic Substance
+T119	CHEM 2534 2544	prednisona
+#49	AnnotatorNotes T119	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T120	PROC 2554 2575	anticuerpo monoclonal
+#50	AnnotatorNotes T120	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T121	CHEM 2576 2585	rituximab
+#51	AnnotatorNotes T121	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T122	CHEM 2587 2594	Rituxan
+#52	AnnotatorNotes T122	C0732355; Rituxan; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T123	DISO 2623 2653	Síndrome de vena cava superior
+T124	DISO 2655 2703	Linfoma B difuso de origen primario mediastínico
+T1	DISO 34 70	edemas en cara y cuello recidivantes
+T126	PROC 389 403	postoperatorio
+T91	DISO 1883 1905	signos de infiltración
+T92	PROC 2110 2117	ingreso
+T102	PROC 1021 1027	EXAMEN
+T110	PROC 2599 2610	DIAGNÓSTICO

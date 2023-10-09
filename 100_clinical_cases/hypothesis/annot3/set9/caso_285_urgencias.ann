@@ -1,0 +1,175 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	65 años
+T3	DEVI 48 58	ambulancia
+#1	AnnotatorNotes T3	C0002422; Ambulances; Medical Device
+T4	DISO 63 70	síncope
+#2	AnnotatorNotes T4	C0039070; Syncope; Sign or Symptom
+T5	PROC 122 133	Intervenido
+#3	AnnotatorNotes T5	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T6	Date 134 146	hace 8 meses
+T7	DISO 151 168	estenosis aórtica
+#4	AnnotatorNotes T7	C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0345011; Stricture of aorta; Disease or Syndrome
+T8	DISO 191 199	sincopes
+#5	AnnotatorNotes T8	C0039070; Syncope; Sign or Symptom
+T9	PROC 201 205	FEVI
+T10	ANAT 214 233	arterias coronarias
+#6	AnnotatorNotes T10	C0205042; Coronary artery; Body Part, Organ, or Organ Component | C1269008; Entire coronary artery; Body Part, Organ, or Organ Component
+T11	Neg_cue 234 237	sin
+T12	DISO 238 246	lesiones
+#7	AnnotatorNotes T12	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T13	Negated 238 246	lesiones
+T14	PROC 263 314	Sustitución valvular aórtica por prótesis biológica
+T15	PROC 318 329	Tratamiento
+#8	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	Date 330 336	actual
+T17	CHEM 338 349	Pantoprazol
+#9	AnnotatorNotes T17	C0081876; pantoprazole; Organic Chemical · Pharmacologic Substance
+T18	Dose 350 355	20 mg
+T19	CHEM 357 360	AAS
+#10	AnnotatorNotes T19	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T20	Dose 361 368	100 mg.
+T21	DISO 372 382	Enfermedad
+#11	AnnotatorNotes T21	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T22	Date 383 389	actual
+T23	DISO 396 419	perdido el conocimiento
+T24	PHYS 429 437	caminaba
+T25	DISO 480 485	mareo
+#12	AnnotatorNotes T25	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T26	DISO 487 509	opresión retroesternal
+T27	DISO 520 526	disnea
+#13	AnnotatorNotes T27	C0013404; Dyspnea; Sign or Symptom
+T28	DISO 540 552	asintomático
+#14	AnnotatorNotes T28	C0231221; Asymptomatic (finding); Finding
+T29	Negated 540 552	asintomático
+T30	PROC 567 585	Exploración física
+#15	AnnotatorNotes T30	C0031809; Physical Examination; Health Care Activity
+T31	PROC 589 591	PA
+T32	PROC 604 606	FC
+T33	PROC 616 621	SatO2
+#16	AnnotatorNotes T33	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T34	CHEM 630 647	O2 suplententario
+T35	DEVI 651 660	ventimask
+T36	Dose 661 667	al 50%
+T37	DEVI 670 680	reservorio
+#17	AnnotatorNotes T37	C1289877; Reservoir device; Manufactured Object
+T38	DISO 684 702	Mal estado general
+T39	PHYS 704 714	Consciente
+#18	AnnotatorNotes T39	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T40	PHYS 717 726	orientado
+T41	DISO 728 742	Mal perfundido
+T42	DISO 744 750	pálido
+#19	AnnotatorNotes T42	C0030232; Pallor; Finding
+T43	DISO 752 756	frío
+#20	AnnotatorNotes T43	C0812387; Feels cold; Finding
+T44	DISO 759 767	sudoroso
+T45	DISO 769 778	Taquipnea
+#21	AnnotatorNotes T45	C0231835; Tachypnea; Finding
+T46	DISO 794 814	trabajo respiratorio
+T47	Neg_cue 816 818	No
+T48	DISO 819 821	IY
+T49	Negated 819 821	IY
+T50	PROC 825 827	AC
+T51	DISO 829 848	taquicardia rítmica
+T52	PROC 852 854	AP
+T53	ANAT 889 896	Abdomen
+#22	AnnotatorNotes T53	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T54	Neg_cue 905 908	sin
+T55	DISO 909 914	dolor
+#23	AnnotatorNotes T55	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T56	Negated 909 914	dolor
+T57	Neg_cue 916 919	sin
+T58	DISO 920 925	masas
+#24	AnnotatorNotes T58	C0577559; Mass of body structure; Finding
+T59	Negated 920 925	masas
+T60	Neg_cue 926 928	ni
+T61	DISO 929 937	megalias
+T62	Negated 929 937	megalias
+T63	ANAT 939 943	EEII
+#25	AnnotatorNotes T63	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T64	Neg_cue 945 947	no
+T65	DISO 948 954	edemas
+#26	AnnotatorNotes T65	C0013604; Edema; Pathologic Function
+T66	Negated 948 954	edemas
+T67	PROC 959 982	Pruebas complementarias
+#27	AnnotatorNotes T67	C1515980; Ancillary Study; Research Activity
+T68	PROC 986 989	ECG
+#28	AnnotatorNotes T68	C1623258; Electrocardiography; Diagnostic Procedure
+T69	DISO 991 1021	taquicardia sinusal, QRS ancho
+T70	DISO 1040 1043	BRD
+#29	AnnotatorNotes T70	C0085615; Right bundle branch block; Disease or Syndrome
+T71	DISO 1046 1050	HBAI
+#30	AnnotatorNotes T71	C0264912; Left anterior fascicular block; Disease or Syndrome
+T72	PROC 1054 1063	Ecografía
+#31	AnnotatorNotes T72	C0041618; Ultrasonography; Diagnostic Procedure
+T73	DISO 1077 1086	asistolia
+#32	AnnotatorNotes T73	C0018790; Cardiac Arrest; Disease or Syndrome
+T74	DISO 1103 1130	ventrículo derecho dilatado
+T75	Spec_cue 1139 1150	sospecha de
+T76	DISO 1151 1175	tromboembolismo pulmonar
+#33	AnnotatorNotes T76	C0034065; Pulmonary Embolism; Pathologic Function | C0524702; Pulmonary Thromboembolisms; Disease or Syndrome
+T77	Speculated 1151 1175	tromboembolismo pulmonar
+T78	PROC 1180 1191	TRATAMIENTO
+#34	AnnotatorNotes T78	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T79	Duration 1219 1234	unos 20 minutos
+T80	DISO 1266 1275	inquietud
+#35	AnnotatorNotes T80	C0549209; Feeling jittery; Sign or Symptom | C3887612; Psychomotor Agitation; Finding
+T81	DISO 1278 1287	agitación
+#36	AnnotatorNotes T81	C0085631; Agitation; Sign or Symptom
+T82	DISO 1307 1313	disnea
+#37	AnnotatorNotes T82	C0013404; Dyspnea; Sign or Symptom
+T83	PROC 1318 1323	SatO2
+#38	AnnotatorNotes T83	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T84	PROC 1348 1373	aporte de O2 a alto flujo
+T85	PROC 1388 1410	intubación orotraqueal
+#39	AnnotatorNotes T85	C0396621; Orotracheal intubation; Therapeutic or Preventive Procedure
+T86	PROC 1416 1425	anestesia
+#40	AnnotatorNotes T86	C0002903; Anesthesia procedures; Therapeutic or Preventive Procedure
+T87	PROC 1439 1459	ventilación mecánica
+#41	AnnotatorNotes T87	C0199470; Mechanical ventilation; Therapeutic or Preventive Procedure
+T88	PROC 1463 1479	saturación de O2
+#42	AnnotatorNotes T88	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T89	Neg_cue 1480 1482	no
+T90	Negated 1483 1495	sube de 60%.
+T91	PROC 1499 1509	capnografo
+T92	PROC 1519 1523	pCO2
+T93	Neg_cue 1530 1532	No
+T94	PHYS 1543 1549	pulsos
+#43	AnnotatorNotes T94	C0391850; Physiologic pulse; Physiologic Function
+T95	Negated 1543 1549	pulsos
+T96	PROC 1563 1566	RCP
+#44	AnnotatorNotes T96	C0007203; Cardiopulmonary Resuscitation; Therapeutic or Preventive Procedure
+T97	Route 1569 1574	bolos
+T98	CHEM 1578 1588	adrenalina
+#45	AnnotatorNotes T98	C0014563; epinephrine; Hormone · Organic Chemical · Pharmacologic Substance
+T99	Dose 1589 1593	1 mg
+T100	Route 1594 1596	IV
+T101	PROC 1611 1622	trombolisis
+#46	AnnotatorNotes T101	C0040044; Thrombolytic Therapy; Therapeutic or Preventive Procedure
+T102	CHEM 1627 1639	Tecneteplase
+T103	CHEM 1641 1649	metalyse
+#47	AnnotatorNotes T103	C1528962; Metalyse; Amino Acid, Peptide, or Protein · Enzyme · Pharmacologic Substance
+T104	CHEM 1654 1662	heparina
+#48	AnnotatorNotes T104	C0019134; heparin; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
+T105	PROC 1677 1686	perfusión
+#49	AnnotatorNotes T105	C0031001; Perfusion (procedure); Therapeutic or Preventive Procedure
+T106	CHEM 1690 1703	noradrenalina
+#50	AnnotatorNotes T106	C0028351; norepinephrine; Hormone · Organic Chemical · Pharmacologic Substance
+T107	Duration 1718 1728	50 minutos
+T108	PROC 1732 1735	RCP
+#51	AnnotatorNotes T108	C0007203; Cardiopulmonary Resuscitation; Therapeutic or Preventive Procedure
+T109	Negated 1732 1735	RCP
+T110	PROC 1736 1748	se suspendió
+T111	Neg_cue 1736 1748	se suspendió
+T112	PROC 1750 1753	ECG
+#52	AnnotatorNotes T112	C1623258; Electrocardiography; Diagnostic Procedure
+T113	DISO 1757 1766	asistolia
+#53	AnnotatorNotes T113	C0018790; Cardiac Arrest; Disease or Syndrome
+T114	DISO 1768 1774	Exitus
+#54	AnnotatorNotes T114	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T115	Spec_cue 1809 1820	sospecha de
+T116	DISO 1821 1845	tromboembolismo pulmonar
+#55	AnnotatorNotes T116	C0034065; Pulmonary Embolism; Pathologic Function | C0524702; Pulmonary Thromboembolisms; Disease or Syndrome
+T117	Speculated 1821 1852	tromboembolismo pulmonar masivo
+T118	DISO 1877 1886	sin pulso
+T119	Neg_cue 1877 1880	sin
+T120	Negated 1881 1886	pulso

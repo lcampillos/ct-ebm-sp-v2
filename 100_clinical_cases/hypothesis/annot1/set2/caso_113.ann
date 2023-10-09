@@ -1,0 +1,133 @@
+T1	DISO 21 37	Lesión en calota
+T2	LIVB 60 65	Varón
+T3	Age 69 76	60 años
+T4	LIVB 78 88	agricultor
+T5	LIVB 105 110	mujer
+#1	AnnotatorNotes T5	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T6	Neg_cue 142 144	No
+T7	DISO 145 168	alergias medicamentosas
+#2	AnnotatorNotes T7	C0013182; Drug Allergy; Pathologic Function
+T8	Negated 145 178	alergias medicamentosas conocidas
+T9	Neg_cue 182 184	No
+T10	DISO 185 200	hábitos tóxicos
+T11	Negated 185 200	hábitos tóxicos
+T12	PROC 204 226	Hernioplastia inguinal
+T13	Age 233 240	58 años
+T14	DISO 245 255	Enfermedad
+#3	AnnotatorNotes T14	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T15	Date 256 262	actual
+T16	DISO 294 307	espinilla" en
+T17	ANAT 308 314	calota
+#4	AnnotatorNotes T17	C0037303; Bone structure of cranium; Body Part, Organ, or Organ Component | C0205950; Calvaria; Body Part, Organ, or Organ Component | C1277638; Entire calvaria; Body Part, Organ, or Organ Component
+T18	Date 321 333	hace 20 días
+T19	PROC 378 389	exploración
+#5	AnnotatorNotes T19	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T20	DISO 401 422	picadura de garrapata
+#6	AnnotatorNotes T20	C0241407; Tick bite (disorder); Injury or Poisoning
+T21	ANAT 426 447	zona parietal derecha
+T22	LIVB 452 460	arácnido
+#7	AnnotatorNotes T22	C0003704; Arachnida (invertebrate); Eukaryote
+T23	DISO 474 499	adenopatía retroauricular
+T24	Neg_cue 528 530	no
+T25	Negated 531 539	adherida
+T26	PROC 579 613	extracción del parásito con pinzas
+T27	PROC 616 641	se pauta quimioprofilaxis
+T28	CHEM 646 657	doxiciclina
+#8	AnnotatorNotes T28	C0013090; doxycycline; Antibiotic · Organic Chemical
+T29	Dose 658 676	200 mg dosis única
+T30	Duration 682 692	los 5 días
+T31	DISO 766 772	fiebre
+#9	AnnotatorNotes T31	C0015967; Fever; Sign or Symptom
+T32	DISO 795 809	poliartralgias
+#10	AnnotatorNotes T32	C0162296; Polyarthralgia; Disease or Syndrome
+T33	DISO 811 818	cefalea
+#11	AnnotatorNotes T33	C0018681; Headache; Sign or Symptom
+T34	DISO 838 850	mancha negra
+T35	DISO 862 870	picadura
+#12	AnnotatorNotes T35	C0038340; Sting Injury; Injury or Poisoning
+T36	PROC 885 903	Exploración física
+#13	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	PHYS 933 943	Consciente
+#14	AnnotatorNotes T37	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T38	PHYS 946 955	orientado
+T39	PROC 1008 1024	Tensión arterial
+T40	PROC 1037 1056	frecuencia cardíaca
+T41	PROC 1065 1078	saturación O2
+T42	PROC 1084 1095	temperatura
+T43	ANAT 1106 1121	Cabeza y cuello
+#15	AnnotatorNotes T43	C0460004; Head and neck structure; Body Location or Region
+T44	DISO 1123 1135	Mancha negra
+T45	ANAT 1139 1146	zona de
+T46	DISO 1147 1155	picadura
+#16	AnnotatorNotes T46	C0038340; Sting Injury; Injury or Poisoning
+T47	DISO 1157 1190	Adenopatía retroauricular derecha
+T48	Neg_cue 1211 1213	no
+T49	Negated 1214 1222	adherida
+T50	ANAT 1251 1263	Cavidad oral
+#17	AnnotatorNotes T50	C0226896; Oral cavity; Body Space or Junction | C1278910; Entire oral cavity; Body Location or Region
+T51	Neg_cue 1264 1267	sin
+T52	DISO 1268 1276	lesiones
+#18	AnnotatorNotes T52	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T53	Negated 1268 1276	lesiones
+T54	ANAT 1279 1286	faringe
+#19	AnnotatorNotes T54	C0031354; Pharyngeal structure; Body Part, Organ, or Organ Component | C1278903; Entire pharynx; Body Part, Organ, or Organ Component
+T55	PROC 1297 1329	Auscultación cardiorrespiratoria
+T56	Neg_cue 1339 1342	sin
+T57	DISO 1343 1349	soplos
+#20	AnnotatorNotes T57	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T58	Negated 1343 1349	soplos
+T59	ANAT 1384 1391	Abdomen
+#21	AnnotatorNotes T59	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T60	Neg_cue 1413 1415	no
+T61	DISO 1416 1439	doloroso a la palpación
+T62	Negated 1416 1439	doloroso a la palpación
+T63	ANAT 1473 1492	Miembros inferiores
+#22	AnnotatorNotes T63	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T64	Neg_cue 1493 1496	sin
+T65	DISO 1497 1503	edemas
+#23	AnnotatorNotes T65	C0013604; Edema; Pathologic Function
+T66	Negated 1497 1503	edemas
+T67	Neg_cue 1504 1506	ni
+T68	DISO 1507 1513	signos
+#24	AnnotatorNotes T68	C0311392; Physical findings; Finding
+T69	Negated 1507 1533	signos de trombosis venosa
+T70	DISO 1517 1533	trombosis venosa
+#25	AnnotatorNotes T70	C0042487; Venous Thrombosis; Pathologic Function
+T71	ANAT 1537 1541	Piel
+#26	AnnotatorNotes T71	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T72	ANAT 1544 1551	mucosas
+#27	AnnotatorNotes T72	C0026724; Mucous Membrane; Tissue | C0026727; Mucous body substance; Body Substance | C1284117; Entire mucous membrane; Tissue
+T73	Neg_cue 1570 1573	sin
+T74	Negated 1574 1583	hallazgos
+T75	PROC 1598 1609	TRATAMIENTO
+#28	AnnotatorNotes T75	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T76	PROC 1626 1649	Tratamiento antibiótico
+T77	CHEM 1654 1665	doxiciclina
+#29	AnnotatorNotes T77	C0013090; doxycycline; Antibiotic · Organic Chemical
+T78	Dose 1666 1672	100 mg
+T79	Frequency 1672 1677	/12 h
+T80	Duration 1686 1693	20 días
+T81	PROC 1704 1727	tratamiento sintomático
+#30	AnnotatorNotes T81	C2146147; treat symptoms; Therapeutic or Preventive Procedure
+T82	CHEM 1732 1743	paracetamol
+#31	AnnotatorNotes T82	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T83	Date 1748 1759	segundo día
+T84	PROC 1763 1774	tratamiento
+#32	AnnotatorNotes T84	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T85	DISO 1824 1830	fiebre
+#33	AnnotatorNotes T85	C0015967; Fever; Sign or Symptom
+T86	DISO 1833 1849	malestar general
+#34	AnnotatorNotes T86	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T87	Spec_cue 1850 1864	compatible con
+T88	DISO 1865 1894	reacción de Jarish-Herxheimer
+T89	Speculated 1865 1894	reacción de Jarish-Herxheimer
+T90	Duration 1901 1921	los días posteriores
+T91	Neg_cue 1953 1968	desaparición de
+T92	DISO 1972 1978	fiebre
+#35	AnnotatorNotes T92	C0015967; Fever; Sign or Symptom
+T93	Negated 1972 1978	fiebre
+T94	Neg_cue 1981 1992	ausencia de
+T95	DISO 1993 2030	signos de progresión de la enfermedad
+T96	Negated 1993 2030	signos de progresión de la enfermedad
+T97	DISO 2058 2086	Fiebre botonosa mediterránea
+#36	AnnotatorNotes T97	C1320317; African Tick-Bite Fever; Disease or Syndrome

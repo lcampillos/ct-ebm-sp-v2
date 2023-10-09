@@ -1,0 +1,66 @@
+T1	DISO 21 36	Dolor abdominal
+#1	AnnotatorNotes T1	C0000737; Abdominal Pain; Sign or Symptom
+T2	LIVB 59 64	Varón
+T3	Age 68 75	60 años
+T4	DISO 81 91	Enfermedad
+#2	AnnotatorNotes T4	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T5	Date 92 98	actual
+T6	DISO 132 147	dolor abdominal
+#3	AnnotatorNotes T6	C0000737; Abdominal Pain; Sign or Symptom
+T7	Duration 151 162	siete horas
+T8	DISO 196 201	dolor
+#4	AnnotatorNotes T8	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T9	ANAT 233 243	epigastrio
+#5	AnnotatorNotes T9	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T10	ANAT 263 276	ambos flancos
+T11	ANAT 283 290	espalda
+#6	AnnotatorNotes T11	C0004600; Back; Body Location or Region | C1281593; Entire back (surface region); Body Location or Region | C1995000; Back structure, excluding neck; Body Location or Region
+T12	DISO 318 325	náuseas
+#7	AnnotatorNotes T12	C0027497; Nausea; Sign or Symptom
+T13	DISO 328 335	vómitos
+#8	AnnotatorNotes T13	C0042963; Vomiting; Sign or Symptom
+T14	Neg_cue 337 340	sin
+T15	DISO 341 374	alteración del ritmo deposicional
+T16	Negated 341 374	alteración del ritmo deposicional
+T17	Neg_cue 375 377	ni
+T18	DISO 378 398	sensación distérmica
+T19	Negated 378 398	sensación distérmica
+T20	DISO 430 450	Hipertrigliceridemia
+#9	AnnotatorNotes T20	C0020557; Hypertriglyceridemia; Disease or Syndrome
+T21	DISO 453 474	Hipertensión arterial
+#10	AnnotatorNotes T21	C0020538; Hypertensive disease; Disease or Syndrome
+T22	DISO 477 492	Diabetes tipo 2
+#11	AnnotatorNotes T22	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T23	PROC 506 524	Exploración física
+#12	AnnotatorNotes T23	C0031809; Physical Examination; Health Care Activity
+T24	DISO 547 567	dolor a la palpación
+#13	AnnotatorNotes T24	C0234233; Sore to touch; Sign or Symptom
+T25	ANAT 571 581	epigastrio
+#14	AnnotatorNotes T25	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T26	PROC 586 609	Pruebas complementarias
+#15	AnnotatorNotes T26	C1515980; Ancillary Study; Research Activity
+T27	PROC 613 626	Rx de abdomen
+T28	PROC 638 647	Analítica
+#16	AnnotatorNotes T28	C0002778; Analysis of substances; Laboratory Procedure
+T29	PROC 649 652	PCR
+#17	AnnotatorNotes T29	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T30	PROC 661 668	amilasa
+#18	AnnotatorNotes T30	C0201883; Amylase measurement; Laboratory Procedure
+T31	PROC 679 688	Hemograma
+#19	AnnotatorNotes T31	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T32	PROC 691 702	coagulación
+#20	AnnotatorNotes T32	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T33	PROC 715 758	Cociente de aclaramiento amilasa/creatinina
+T34	PROC 765 805	Tomografía Axial Computerizada abdominal
+T35	DISO 823 841	Pancreatitis aguda
+#21	AnnotatorNotes T35	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T36	PROC 845 856	TRATAMIENTO
+#22	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	PROC 875 884	ingresado
+#23	AnnotatorNotes T37	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T38	PROC 897 904	tratado
+T39	DISO 961 979	Pancreatitis aguda
+#24	AnnotatorNotes T39	C0001339; Pancreatitis, Acute; Disease or Syndrome
+T43	DISO 528 536	Inquieto
+T41	PROC 937 948	DIAGNÓSTICO
+T46	PROC 495 501	EXAMEN

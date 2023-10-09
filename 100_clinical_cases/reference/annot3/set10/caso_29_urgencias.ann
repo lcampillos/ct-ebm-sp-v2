@@ -1,0 +1,143 @@
+T1	LIVB 21 26	Varón
+T2	Age 28 35	44 años
+T3	DISO 47 62	dolor abdominal
+#1	AnnotatorNotes T3	C0000737; Abdominal Pain; Sign or Symptom
+T4	DISO 114 156	Gastropatía asociada a Helicobacter Pilori
+T5	PROC 157 164	tratada
+T6	Duration 165 177	5 años antes
+T7	DISO 191 198	quistes
+#2	AnnotatorNotes T7	C0010709; Cyst; Anatomical Abnormality
+T8	DISO 201 222	hemangiomas hepáticos
+T9	Neg_cue 226 229	Sin
+T10	PROC 230 241	tratamiento
+#3	AnnotatorNotes T10	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T11	Negated 230 241	tratamiento
+T12	DISO 255 265	Enfermedad
+#4	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T14	Duration 296 304	16 horas
+T15	DISO 308 320	abdominalgia
+#5	AnnotatorNotes T15	C0000737; Abdominal Pain; Sign or Symptom
+T16	ANAT 362 372	epigastrio
+#6	AnnotatorNotes T16	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T17	ANAT 390 408	ambos hipocondrios
+T18	ANAT 439 446	abdomen
+#7	AnnotatorNotes T18	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T19	Duration 486 503	las últimas horas
+T20	ANAT 524 544	hemiabdomen superior
+T21	PHYS 593 598	andar
+T22	DISO 647 652	dolor
+#8	AnnotatorNotes T22	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T23	DISO 657 682	sudoración profusa y fría
+T24	DISO 689 696	afebril
+#9	AnnotatorNotes T24	C0277797; Apyrexial; Finding
+T25	Negated 689 696	afebril
+T26	Neg_cue 698 701	sin
+T27	DISO 702 736	alteración del tránsito intestinal
+T28	Negated 702 736	alteración del tránsito intestinal
+T29	DISO 738 745	nauseas
+#10	AnnotatorNotes T29	C0027497; Nausea; Sign or Symptom
+T30	Negated 738 745	nauseas
+T31	Neg_cue 746 748	ni
+T32	DISO 749 756	vómitos
+#11	AnnotatorNotes T32	C0042963; Vomiting; Sign or Symptom
+T33	Negated 749 756	vómitos
+T34	PROC 759 765	EXAMEN
+#12	AnnotatorNotes T34	C0031809; Physical Examination; Health Care Activity
+T35	PROC 770 788	Exploración física
+#13	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	PROC 792 808	Tensión arterial
+T37	PROC 817 836	frecuencia cardiaca
+T38	PROC 845 856	temperatura
+T39	PROC 884 894	escala EVA
+T40	PROC 964 973	explorado
+#14	AnnotatorNotes T40	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T41	PROC 1024 1056	Exploraciones de cabeza y cuello
+T42	PROC 1058 1070	auscultación
+#15	AnnotatorNotes T42	C0004339; Auscultation; Diagnostic Procedure
+T43	ANAT 1073 1085	extremidades
+#16	AnnotatorNotes T43	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T44	PROC 1098 1119	Exploración abdominal
+#17	AnnotatorNotes T44	C0085704; Exploratory laparotomy; Diagnostic Procedure
+T45	DISO 1121 1141	dolor a la palpación
+#18	AnnotatorNotes T45	C0234233; Sore to touch; Sign or Symptom
+T46	ANAT 1145 1155	epigastrio
+#19	AnnotatorNotes T46	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T47	ANAT 1158 1177	hipocondrio derecho
+#20	AnnotatorNotes T47	C0738590; Right hypochondriac region structure; Body Location or Region
+T48	DISO 1182 1189	defensa
+T49	Neg_cue 1191 1194	sin
+T50	DISO 1195 1200	masas
+#21	AnnotatorNotes T50	C0577559; Mass of body structure; Finding
+T51	Negated 1195 1200	masas
+T52	Neg_cue 1201 1203	ni
+T53	DISO 1204 1219	visceromegalias
+#22	AnnotatorNotes T53	C0042782; Visceromegaly; Pathologic Function
+T54	Negated 1204 1219	visceromegalias
+T55	PROC 1224 1247	Pruebas complementarias
+#23	AnnotatorNotes T55	C1515980; Ancillary Study; Research Activity
+T56	PROC 1251 1260	Analítica
+#24	AnnotatorNotes T56	C0002778; Analysis of substances; Laboratory Procedure
+T57	DISO 1262 1274	leucocitosis
+#25	AnnotatorNotes T57	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T58	PROC 1282 1292	leucocitos
+T59	PROC 1321 1331	linfocitos
+#26	AnnotatorNotes T59	C0024264; Lymphocyte; Cell
+T60	PROC 1333 1343	Bioquímica
+#27	AnnotatorNotes T60	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T61	PROC 1345 1365	sistemático de orina
+T62	PROC 1368 1379	coagulación
+#28	AnnotatorNotes T62	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T63	PROC 1392 1412	Radiografía de tórax
+#29	AnnotatorNotes T63	C0039985; Plain chest X-ray; Diagnostic Procedure
+T64	PROC 1424 1445	Radiografía abdominal
+#30	AnnotatorNotes T64	C0034573; Radiography, Abdominal; Diagnostic Procedure
+T65	Spec_cue 1476 1483	Posible
+T66	Speculated 1498 1534	aire extraluminal a nivel peribiliar
+T67	ANAT 1524 1534	peribiliar
+T68	PROC 1538 1547	Ecografía
+#31	AnnotatorNotes T68	C0041618; Ultrasonography; Diagnostic Procedure
+T69	ANAT 1549 1557	vesícula
+#32	AnnotatorNotes T69	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T70	Neg_cue 1558 1560	no
+T71	DISO 1561 1571	distendida
+#33	AnnotatorNotes T71	C3714614; Distention; Finding
+T72	Negated 1561 1571	distendida
+T74	DISO 1599 1624	engrosamiento de la pared
+T77	ANAT 1699 1715	tracto digestivo
+#34	AnnotatorNotes T77	C0017189; Gastrointestinal tract structure; Body System | C4516948; Entire digestive tract; Body System
+T78	ANAT 1729 1737	vesícula
+#35	AnnotatorNotes T78	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T79	Spec_cue 1739 1745	Podría
+T80	DISO 1763 1784	cambios inflamatorios
+T82	ANAT 1788 1796	vesícula
+#36	AnnotatorNotes T82	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T83	Spec_cue 1825 1833	probable
+T84	DISO 1834 1855	perforación de píloro
+T85	Speculated 1834 1855	perforación de píloro
+T86	PROC 1860 1871	TRATAMIENTO
+#37	AnnotatorNotes T86	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T88	PROC 1925 1939	dieta absoluta
+T89	PROC 1941 1955	antibioterapia
+#38	AnnotatorNotes T89	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T90	CHEM 1960 1983	Amoxicilina-Clavulánico
+#39	AnnotatorNotes T90	C0054066; amoxicillin / clavulanate; Pharmacologic Substance
+T91	PROC 1986 1995	analgesia
+#40	AnnotatorNotes T91	C3202977; Analgesia; Therapeutic or Preventive Procedure
+T92	Neg_cue 2021 2024	sin
+T93	PROC 2038 2045	cirugía
+#41	AnnotatorNotes T93	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T94	Negated 2038 2045	cirugía
+T95	PROC 2049 2053	alta
+#42	AnnotatorNotes T95	C0030685; Patient Discharge; Health Care Activity
+T96	Duration 2057 2063	6 días
+T97	DISO 2091 2122	Neumoperitoneo oligosintomático
+T98	PROC 2067 2078	DIAGNÓSTICO
+T99	Speculated 1763 1796	cambios inflamatorios en vesícula
+#43	AnnotatorNotes T48	Abdominal guarding (finding) (C0238547)
+#44	AnnotatorNotes T74	Bladder wall thickening (C4324732)
+T13	Date 266 272	actual
+T75	DISO 1645 1658	líquido libre
+T76	ANAT 1659 1672	perivesicular
+T81	DISO 1675 1688	burbuja aérea
+T100	DISO 1577 1596	Murphy ecográfico +
+T73	PROC 1900 1923	aspiración nasogástrica

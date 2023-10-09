@@ -1,0 +1,48 @@
+MOTIVO DE CONSULTA:
+
+Taquicardia.
+
+
+HISTORIA CLÍNICA:
+
+• Antecedentes personales:
+- HTA.
+- DM tipo 2.
+- Hiperlipidemia.
+- Cardiopatía hipertensiva con función ventricular conservada (FEVI 78%). ECG: bloqueo de rama izquierda.
+- En TTO: Metformina 850 mg/12h; Lercanidipino 10 mg; Lisinopril 20 mg; Atorvastatina 20 mg.
+
+• Enfermedad actual:
+- Mujer de 85 años, derivada por hallazgo de ECG anómalo previo a intervención de cataratas.
+- Refiere cuadro catarral con astenia y disnea de varios días de evolución sin clara sensación de palpitaciones.
+
+
+EXAMEN:
+
+• Exploración física:
+- PA 142/92 mmHg; Fc 176 lm; SatO2 90%; Fr 29 rpm; Tª 37,5º.
+- Consciente y orientada, bien hidratada y perfundida, normocoloreada, taquipnea sin tiraje.
+- No IY.
+- AC: taquiarritmia.
+- AP: finos crepitantes bibasales.
+- Abdomen: blando sin dolor a la palpación.
+- EEII: edemas con fóvea simétrico bimaleolares bilaterales.
+
+• Pruebas complementarias:
+- ECG: taquicardia de QRS ancho (141 mseg) con morfología de BRI.
+- Rx Tórax: ligera cardiomegalia sin signos de fallo, pinzamiento de seno costofrénico derecho. No imagen de condensación.
+- Analítica: Glucosa 138 / Creatinina, Urea e Iones normales / TnT 38,7 / ProBNP 2394 / PCR 107 / Leucocitos 14.500 (N 84%) / Hb 13.9 / Plaquetas 203 / INR 0.9 / GAB (aire ambiente): pH 7.41 / pO2 53 / pCO2 36 / Bicarbonato 22.8 / SatO2 91.4.
+
+
+TRATAMIENTO Y EVOLUCIÓN:
+
+- Bisoprolol.
+- Profilaxis tromboembólica: anticoagulación con sintrom, al inicio de forma solapada con enoxaparina hasta alcanzar un INR de 2.5.
+- Tto de la infección respiratoria con O2 y Levofloxacino. Los primeros días: Furosemida.
+- Al alta: Bisoprolol a dosis bajas y Sintrom.
+
+
+DIAGNÓSTICO PRINCIPAL:
+
+Fibrilación auricular con respuesta ventricular rápida y BRI.
+

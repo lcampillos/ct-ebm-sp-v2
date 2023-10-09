@@ -1,0 +1,101 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	59 años
+T3	PROC 42 50	consulta
+#1	AnnotatorNotes T3	C0009818; Consultation; Health Care Activity
+T4	DISO 55 69	lesión dérmica
+#2	AnnotatorNotes T4	C0037284; Skin lesion; Disease or Syndrome
+T5	ANAT 73 104	región frontotemporal izquierda
+T6	Duration 108 115	2 meses
+T7	Neg_cue 180 182	No
+T8	DISO 183 218	reacciones alérgicas medicamentosas
+T9	Negated 183 228	reacciones alérgicas medicamentosas conocidas
+T10	Neg_cue 232 234	No
+T11	DISO 235 250	hábitos tóxicos
+T12	Negated 235 250	hábitos tóxicos
+T13	Neg_cue 254 256	No
+T14	Negated 257 290	factores de riesgo cardiovascular
+T15	DISO 269 290	riesgo cardiovascular
+T16	DISO 295 305	Enfermedad
+#3	AnnotatorNotes T16	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T17	Date 306 312	actual
+T18	DISO 325 339	lesión dérmica
+#4	AnnotatorNotes T18	C0037284; Skin lesion; Disease or Syndrome
+T19	ANAT 343 374	región frontotemporal izquierda
+T20	Duration 378 387	dos meses
+T21	DISO 447 483	supuración de material mucopurulento
+T22	Date 490 503	hace 1 semana
+T23	Neg_cue 578 580	No
+T24	Negated 581 606	ha consultado previamente
+T25	PROC 584 594	consultado
+#5	AnnotatorNotes T25	C0009818; Consultation; Health Care Activity
+T26	PROC 621 634	curas locales
+T27	DISO 665 671	lesión
+#6	AnnotatorNotes T27	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T28	DEVI 687 694	apósito
+#7	AnnotatorNotes T28	C0013119; Medical dressing; Medical Device | C0471220; Further dressings; Medical Device
+T29	Neg_cue 698 703	Niega
+T30	DISO 704 710	fiebre
+#8	AnnotatorNotes T30	C0015967; Fever; Sign or Symptom
+T31	Negated 704 710	fiebre
+T32	Neg_cue 714 716	No
+T33	Negated 717 736	otra sintomatología
+T34	DISO 722 736	sintomatología
+#9	AnnotatorNotes T34	C3540840; Sign or Symptom; Finding
+T35	DISO 770 779	cansancio
+#10	AnnotatorNotes T35	C0015672; Fatigue; Sign or Symptom
+T36	Duration 783 802	las últimas semanas
+T37	PROC 805 811	EXAMEN
+#11	AnnotatorNotes T37	C0031809; Physical Examination; Health Care Activity
+T38	PROC 816 834	Exploración física
+#12	AnnotatorNotes T38	C0031809; Physical Examination; Health Care Activity
+T39	PHYS 859 869	Consciente
+#13	AnnotatorNotes T39	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T40	PHYS 871 880	orientado
+T41	DISO 974 999	lesión pigmentada nodular
+T42	ANAT 1014 1045	región frontotemporal izquierda
+T43	DISO 1089 1132	supuración activa de material mucopurulento
+T44	Neg_cue 1134 1136	No
+T45	Negated 1137 1177	otras lesiones sospechosas de malignidad
+T46	DISO 1143 1151	lesiones
+#14	AnnotatorNotes T46	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T47	DISO 1167 1177	malignidad
+T48	Neg_cue 1188 1190	No
+T49	DISO 1201 1212	adenopatías
+#15	AnnotatorNotes T49	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T50	Negated 1201 1212	adenopatías
+T51	PROC 1217 1240	Pruebas complementarias
+#16	AnnotatorNotes T51	C1515980; Ancillary Study; Research Activity
+T52	PROC 1244 1257	Dermatoscopia
+#17	AnnotatorNotes T52	C1449565; Dermoscopy; Diagnostic Procedure | C1960246; Diagnostic dermatoscopy of skin; Diagnostic Procedure
+T53	DISO 1302 1318	vasos polimorfos
+T54	DISO 1342 1369	retículo pigmentado atípico
+T55	Spec_cue 1375 1382	orienta
+T56	DISO 1389 1408	lesión melanocítica
+T57	Speculated 1389 1408	lesión melanocítica
+T58	PROC 1411 1422	TRATAMIENTO
+#18	AnnotatorNotes T58	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T59	DISO 1515 1521	lesión
+#19	AnnotatorNotes T59	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T60	Duration 1525 1544	las últimas semanas
+T61	PROC 1556 1579	intervención quirúrgica
+#20	AnnotatorNotes T61	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T62	PROC 1585 1593	exéresis
+#21	AnnotatorNotes T62	C0919588; Exeresis; Therapeutic or Preventive Procedure
+T63	PROC 1596 1619	estudio histopatológico
+T64	PROC 1642 1661	anatomía patológica
+T65	PROC 1673 1685	reintervenir
+T66	PROC 1691 1713	ampliación de márgenes
+T67	DISO 1717 1725	melanoma
+#22	AnnotatorNotes T67	C0025202; melanoma; Neoplastic Process
+T68	PROC 1743 1781	biopsia selectiva de ganglio centinela
+T69	PROC 1783 1787	BSGC
+T70	PROC 1801 1813	intervención
+#23	AnnotatorNotes T70	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T71	PROC 1826 1842	linfogammagrafía
+#24	AnnotatorNotes T71	C0412375; Radioisotope scan of lymphatic system; Diagnostic Procedure
+T72	PROC 1861 1871	se extirpa
+T73	ANAT 1886 1894	ganglios
+#25	AnnotatorNotes T73	C0017067; Ganglia; Body Part, Organ, or Organ Component
+T74	ANAT 1910 1926	región parotídea
+T75	PROC 1973 1992	anatomía patológica
+T76	DISO 2003 2031	melanoma invasivo y ulcerado

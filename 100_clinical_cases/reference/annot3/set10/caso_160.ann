@@ -1,0 +1,214 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	67 años
+T4	DISO 95 104	cansancio
+#2	AnnotatorNotes T4	C0015672; Fatigue; Sign or Symptom
+T5	Duration 108 120	varios meses
+T6	DISO 185 201	Fiebre reumática
+#3	AnnotatorNotes T6	C0035436; Rheumatic Fever; Disease or Syndrome
+T7	Date 208 212	1973
+T8	PROC 213 252	colocación de prótesis aórtica mecánica
+T9	Date 279 283	1983
+T10	DISO 288 313	endocarditis por fiebre Q
+T11	Date 320 324	1995
+T12	PROC 346 377	sustitución de prótesis aórtica
+T13	DISO 382 392	disfunción
+#4	AnnotatorNotes T13	C0277785; Functional disorder; Pathologic Function
+T14	PROC 395 422	implante de prótesis mitral
+T15	DISO 426 460	Bloqueo completo de rama izquierda
+#5	AnnotatorNotes T15	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T16	DISO 462 465	BRI
+#6	AnnotatorNotes T16	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T17	DISO 470 523	Fibrilación auricular con respuesta ventricular lenta
+T18	DISO 527 545	Enfermedad de Lyme
+#7	AnnotatorNotes T18	C0024198; Lyme Disease; Disease or Syndrome
+T19	DISO 550 571	picadura de garrapata
+#8	AnnotatorNotes T19	C0241407; Tick bite (disorder); Injury or Poisoning
+T20	PROC 575 593	Colecistectomizada
+#9	AnnotatorNotes T20	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T21	DISO 597 607	Dislipemia
+#10	AnnotatorNotes T21	C0242339; Dyslipidemias; Disease or Syndrome
+T22	DISO 611 630	Esteatosis hepática
+#11	AnnotatorNotes T22	C2711227; Steatohepatitis; Disease or Syndrome | C4529962
+T23	DISO 634 646	Intolerancia
+T24	CHEM 649 662	Moxifloxacino
+#12	AnnotatorNotes T24	C0536495; moxifloxacin; Antibiotic · Organic Chemical
+T25	PROC 669 680	tratamiento
+#13	AnnotatorNotes T25	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T26	CHEM 685 695	Bisoprolol
+#14	AnnotatorNotes T26	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T27	CHEM 697 704	Sintrom
+#15	AnnotatorNotes T27	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T28	CHEM 706 715	Enalapril
+#16	AnnotatorNotes T28	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T29	CHEM 717 730	Atorvastatina
+#17	AnnotatorNotes T29	C0286651; atorvastatin; Organic Chemical · Pharmacologic Substance
+T30	CHEM 733 743	Furosemida
+#18	AnnotatorNotes T30	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T31	Dose 744 748	40mg
+T32	Frequency 748 752	/día
+T33	DISO 757 767	Enfermedad
+#19	AnnotatorNotes T33	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T35	DISO 778 784	Disnea
+#20	AnnotatorNotes T35	C0013404; Dyspnea; Sign or Symptom
+T36	Duration 788 800	varios meses
+T37	DISO 824 831	astenia
+#21	AnnotatorNotes T37	C0004093; Asthenia; Sign or Symptom
+T38	DISO 834 864	pesadez en miembros inferiores
+T39	Neg_cue 866 868	No
+T40	Negated 877 891	dolor torácico
+#22	AnnotatorNotes T40	C0008031; Chest Pain; Sign or Symptom
+T42	Neg_cue 917 919	no
+T43	DISO 920 930	sudoración
+#23	AnnotatorNotes T43	C0038990; Sweating; Finding
+T44	Negated 920 930	sudoración
+T45	DISO 932 938	fiebre
+#24	AnnotatorNotes T45	C0015967; Fever; Sign or Symptom
+T46	Negated 932 938	fiebre
+T47	DISO 940 947	náuseas
+#25	AnnotatorNotes T47	C0027497; Nausea; Sign or Symptom
+T48	Negated 940 947	náuseas
+T49	Neg_cue 948 950	ni
+T50	DISO 951 958	vómitos
+#26	AnnotatorNotes T50	C0042963; Vomiting; Sign or Symptom
+T51	Negated 951 958	vómitos
+T52	DISO 980 1014	dificultad para conciliar el sueño
+T54	DISO 1067 1078	ganado peso
+T55	Duration 1082 1099	los últimos meses
+T56	DISO 1128 1134	disnea
+#27	AnnotatorNotes T56	C0013404; Dyspnea; Sign or Symptom
+T57	PROC 1193 1211	Exploración física
+#28	AnnotatorNotes T57	C0031809; Physical Examination; Health Care Activity
+T58	Neg_cue 1263 1265	no
+T59	Negated 1266 1281	tolera decúbito
+T60	PROC 1285 1317	Auscultación cardiorrespiratoria
+T61	DISO 1322 1338	tonos arrítmicos
+T63	DEVI 1358 1366	prótesis
+#29	AnnotatorNotes T63	C0175649; Prosthesis; Medical Device
+T64	DISO 1395 1406	crepitantes
+#30	AnnotatorNotes T64	C0034642; Rales; Finding
+T65	ANAT 1410 1421	ambas bases
+T66	ANAT 1425 1432	Abdomen
+#31	AnnotatorNotes T66	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T67	DISO 1457 1470	hepatomegalia
+#32	AnnotatorNotes T67	C0019209; Hepatomegaly; Finding
+T68	Neg_cue 1495 1497	No
+T69	DISO 1498 1519	ingurgitación yugular
+#33	AnnotatorNotes T69	C0425687; Jugular venous engorgement; Finding
+T70	Negated 1498 1519	ingurgitación yugular
+T71	DISO 1523 1552	Edemas en miembros inferiores
+#34	AnnotatorNotes T71	C0239340; Edema of lower extremity; Pathologic Function
+T73	PROC 1569 1571	TA
+T74	PROC 1588 1592	NYHA
+T76	PROC 1617 1640	Pruebas complementarias
+#35	AnnotatorNotes T76	C1515980; Ancillary Study; Research Activity
+T77	PROC 1644 1662	Electrocardiograma
+#36	AnnotatorNotes T77	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T78	DISO 1664 1689	bloqueo de rama izquierda
+#37	AnnotatorNotes T78	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T79	PROC 1702 1711	Analítica
+#38	AnnotatorNotes T79	C0002778; Analysis of substances; Laboratory Procedure
+T80	PROC 1716 1725	hemograma
+#39	AnnotatorNotes T80	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T81	PROC 1728 1746	hormonas tiroideas
+T82	Neg_cue 1748 1751	sin
+T83	Negated 1752 1759	interés
+T84	PROC 1763 1783	Radiografía de tórax
+#40	AnnotatorNotes T84	C0039985; Plain chest X-ray; Diagnostic Procedure
+T85	Neg_cue 1785 1788	sin
+T86	Negated 1789 1796	interés
+T87	PROC 1800 1811	TRATAMIENTO
+#41	AnnotatorNotes T87	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T88	PROC 1828 1844	Se aumentó dosis
+T89	CHEM 1848 1858	Furosemida
+#42	AnnotatorNotes T89	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T90	PROC 1861 1869	se pautó
+T91	CHEM 1870 1885	Espironolactona
+#43	AnnotatorNotes T91	C0037982; spironolactone; Organic Chemical · Pharmacologic Substance
+T92	Dose 1886 1891	25mg.
+T93	Duration 1900 1906	7 días
+T94	PROC 1912 1922	evaluación
+#44	AnnotatorNotes T94	C1261322; Evaluation procedure; Health Care Activity
+T97	CHEM 2024 2034	medicación
+#47	AnnotatorNotes T97	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T98	Route 2035 2039	oral
+T99	Neg_cue 2041 2043	no
+T100	PROC 2056 2076	ingreso hospitalario
+#48	AnnotatorNotes T100	C0184666; Hospital admission; Health Care Activity
+T101	Negated 2056 2076	ingreso hospitalario
+T102	PROC 2090 2101	tratamiento
+#49	AnnotatorNotes T102	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T104	PROC 2195 2199	NYHA
+T105	DISO 2213 2238	intolerancia al ejercicio
+T107	PROC 2331 2345	ecocardiograma
+#51	AnnotatorNotes T107	C0013516; Echocardiography; Diagnostic Procedure
+T108	DISO 2356 2387	disfunción severa biventricular
+T109	Spec_cue 2392 2418	probabilidad intermedia de
+T110	DISO 2419 2440	hipertensión pulmonar
+#52	AnnotatorNotes T110	C0020542; Pulmonary Hypertension; Pathologic Function
+T111	Speculated 2419 2440	hipertensión pulmonar
+T112	PHYS 2460 2484	función sistólica del VI
+T113	PROC 2508 2523	ecocardiogramas
+#53	AnnotatorNotes T113	C0013516; Echocardiography; Diagnostic Procedure
+T116	PROC 2609 2628	seguimiento clínico
+T117	DISO 2647 2662	descompensación
+#56	AnnotatorNotes T117	C0231187; Decompensation; Finding
+T118	PROC 2719 2730	tratamiento
+#57	AnnotatorNotes T118	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T119	CHEM 2735 2745	Sacubitril
+#58	AnnotatorNotes T119	C4033447; sacubitril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T120	CHEM 2746 2755	Valsartan
+#59	AnnotatorNotes T120	C0216784; valsartan; Organic Chemical · Pharmacologic Substance
+T121	Neg_cue 2760 2762	no
+T122	Negated 2763 2769	toleró
+T123	DISO 2774 2794	prurito generalizado
+T124	PROC 2857 2907	colocación de desfibrilador automático implantable
+T125	PROC 2916 2952	terapia de resincronización cardíaca
+T126	DEVI 2954 2957	DAI
+T127	PROC 2960 2963	TRC
+T128	DISO 2969 2972	BRI
+#60	AnnotatorNotes T128	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T129	PROC 2987 3006	prevención primaria
+#61	AnnotatorNotes T129	C0033144; Primary Prevention; Therapeutic or Preventive Procedure
+T130	DISO 3010 3013	MSC
+T131	PROC 3016 3027	tratamiento
+#62	AnnotatorNotes T131	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T132	DISO 3031 3034	ICC
+#63	AnnotatorNotes T132	C0018802; Congestive heart failure; Disease or Syndrome
+T133	DEVI 3053 3064	dispositivo
+#64	AnnotatorNotes T133	C1285539; Direct device; Medical Device
+T135	DISO 3139 3145	Disnea
+#65	AnnotatorNotes T135	C0013404; Dyspnea; Sign or Symptom
+T136	DISO 3150 3191	descompensación de insuficiencia cardíaca
+T3	DISO 86 92	disnea
+#66	AnnotatorNotes T3	Dyspnea (C0013404)
+#67	AnnotatorNotes T10	Q fever endocarditis (C0340354)
+#45	AnnotatorNotes T105	Impaired exercise tolerance C0424551
+#46	AnnotatorNotes T108	Biventricular dysfunction (C5775743)
+#50	AnnotatorNotes T123	Generalized pruritus (C0475858)
+#54	AnnotatorNotes T116	Follow-Up Care (C3899107)
+T75	PROC 1940 1951	seguimiento
+#55	AnnotatorNotes T75	Follow-Up Care (C3899107)
+#68	AnnotatorNotes T136	Myocardial decompensation (C0235525)
+#69	AnnotatorNotes T130	Sudden Cardiac Death (C0085298)
+#70	AnnotatorNotes T38	Heaviness in limbs (C0235721)
+#71	AnnotatorNotes T52	Difficulty sleeping (C0235162)
+#72	AnnotatorNotes T54	Weight Gain (C0043094) / R63.5 CIE-10 Aumento anormal de peso
+T72	DISO 877 891	dolor torácico
+T95	Neg_cue 892 894	ni
+T41	Negated 895 915	de otra localización
+T53	DISO 1037 1050	falta de aire
+#73	AnnotatorNotes T53	C0013404; Dyspnea; Sign or Symptom
+#74	AnnotatorNotes T61	Cardiac Arrhythmia (C0003811)
+#75	AnnotatorNotes T65	Lower part of the lungs
+T62	PROC 1554 1558	MMII
+#76	AnnotatorNotes T62	Physical examination maneuver related to lower extremity (C1293841)
+T96	Duration 2138 2157	el paso de los años
+#77	AnnotatorNotes T96	Me resulta ambigüo, periodo de tiempo no asociado a una fecha exacta
+#78	AnnotatorNotes T88	Therapeutic procedure (C0087111)
+#79	AnnotatorNotes T90	Therapeutic procedure (C0087111)
+#80	AnnotatorNotes T17	Atrial fibrillation with slow ventricular response (C2216003)
+T103	PROC 3115 3126	DIAGNÓSTICO
+T34	Date 3079 3090	actualmente
+T106	PROC 1182 1188	EXAMEN
+T114	Date 768 774	actual

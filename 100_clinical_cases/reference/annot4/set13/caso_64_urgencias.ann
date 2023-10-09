@@ -1,0 +1,188 @@
+T1	Date 25 46	2 de Febrero del 2012
+T2	Time 53 58	14:58
+T3	LIVB 68 73	varón
+T4	Age 77 84	63 años
+T5	DISO 89 103	dolor torácico
+#1	AnnotatorNotes T5	C0008031; Chest Pain; Sign or Symptom
+T6	DISO 153 172	Hipercolesterolemia
+#2	AnnotatorNotes T6	C0020443; Hypercholesterolemia; Disease or Syndrome
+T8	Neg_cue 174 184	suspendido
+T9	PROC 188 191	tto
+#3	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	Negated 188 205	tto con estatinas
+T11	CHEM 196 205	estatinas
+#4	AnnotatorNotes T11	C0075191; statine; Amino Acid, Peptide, or Protein | C0360714; Hydroxymethylglutaryl-CoA Reductase Inhibitors; Organic Chemical · Pharmacologic Substance
+T12	DISO 222 241	efectos secundarios
+#5	AnnotatorNotes T12	C0041755; Adverse reaction to drug; Pathologic Function
+T13	DISO 244 247	HTA
+#6	AnnotatorNotes T13	C0020538; Hypertensive disease; Disease or Syndrome
+T14	PROC 268 271	tto
+#7	AnnotatorNotes T14	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T15	Negated 268 291	tto con betabloqueantes
+T16	CHEM 276 291	betabloqueantes
+#8	AnnotatorNotes T16	C0001645; Adrenergic beta-Antagonists; Pharmacologic Substance
+T18	Neg_cue 303 312	retirados
+T19	DISO 317 335	disfunción eréctil
+#9	AnnotatorNotes T19	C0242350; Erectile dysfunction; Disease or Syndrome
+T20	DISO 338 359	Cardiopatía isquémica
+#10	AnnotatorNotes T20	C0151744; Myocardial Ischemia; Disease or Syndrome
+T21	Date 364 368	1997
+T22	DISO 389 408	ardor retroesternal
+#11	AnnotatorNotes T22	C0018834; Heartburn; Sign or Symptom
+T23	PROC 423 443	estudio de perfusión
+T25	DISO 467 491	isquemia posteroinferior
+T26	Neg_cue 511 513	no
+T27	Negated 514 536	reversible al esfuerzo
+T28	Spec_cue 563 571	probable
+T29	DISO 572 580	necrosis
+#12	AnnotatorNotes T29	C1334928; Necrotic changes (finding); Finding
+T30	Speculated 572 588	necrosis antigua
+T31	PROC 591 594	TTO
+#13	AnnotatorNotes T31	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T32	Date 595 601	actual
+T33	CHEM 603 612	Diltiazem
+#14	AnnotatorNotes T33	C0012373; diltiazem; Organic Chemical · Pharmacologic Substance
+T34	Dose 613 619	240 mg
+T35	Frequency 619 623	/día
+T36	CHEM 625 634	Enalapril
+#15	AnnotatorNotes T36	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T37	Dose 635 640	10 mg
+T38	Frequency 640 644	/día
+T39	DISO 649 659	Enfermedad
+#16	AnnotatorNotes T39	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T40	Date 660 666	actual
+T41	Date 694 697	hoy
+T42	Time 704 709	13:30
+T43	PHYS 722 727	comer
+#17	AnnotatorNotes T43	C0013470; Eating; Organism Function
+T44	DISO 742 770	dolor retroesternal opresivo
+T45	ANAT 783 802	zona interescapular
+T46	ANAT 807 822	brazo izquierdo
+#18	AnnotatorNotes T46	C0230347; Left upper arm structure; Body Part, Organ, or Organ Component
+T47	DISO 838 843	mareo
+#19	AnnotatorNotes T47	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T48	DISO 853 871	cortejo vegetativo
+T49	CHEM 898 906	ASPIRINA
+#20	AnnotatorNotes T49	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T50	Dose 908 914	500 mg
+T51	CHEM 918 921	AAS
+#21	AnnotatorNotes T51	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T52	DISO 946 960	dolor torácico
+#22	AnnotatorNotes T52	C0008031; Chest Pain; Sign or Symptom
+T53	Neg_cue 962 965	sin
+T54	DISO 966 972	disnea
+#23	AnnotatorNotes T54	C0013404; Dyspnea; Sign or Symptom
+T55	Negated 966 972	disnea
+T56	PROC 975 981	EXAMEN
+#24	AnnotatorNotes T56	C0031809; Physical Examination; Health Care Activity
+T57	PROC 984 1003	Exploración general
+T58	PROC 1005 1007	TA
+T59	PROC 1021 1023	Fc
+T60	PROC 1032 1035	SO2
+T61	DISO 1041 1049	Afectado
+#25	AnnotatorNotes T61	C2945640; compromise; Finding
+T62	DISO 1051 1057	pálido
+#26	AnnotatorNotes T62	C0030232; Pallor; Finding
+T63	PROC 1094 1097	ACP
+#27	AnnotatorNotes T63	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T64	Neg_cue 1122 1124	No
+T65	DISO 1125 1127	IY
+T66	Negated 1125 1127	IY
+T67	Neg_cue 1128 1130	ni
+T68	DISO 1131 1145	edemas en EEII
+T69	Negated 1131 1145	edemas en EEII
+T70	PROC 1148 1171	PRUEBAS COMPLEMENTARIAS
+#28	AnnotatorNotes T70	C1515980; Ancillary Study; Research Activity
+T71	PROC 1174 1177	ECG
+#29	AnnotatorNotes T71	C1623258; Electrocardiography; Diagnostic Procedure
+T72	DISO 1183 1188	dolor
+#30	AnnotatorNotes T72	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T73	PROC 1202 1210	Rx Tórax
+#31	AnnotatorNotes T73	C0039985; Plain chest X-ray; Diagnostic Procedure
+T74	Neg_cue 1212 1215	sin
+T75	DISO 1216 1228	alteraciones
+#32	AnnotatorNotes T75	C0012634; Disease; Disease or Syndrome
+T76	Negated 1216 1228	alteraciones
+T77	PROC 1242 1251	Analítica
+#33	AnnotatorNotes T77	C0002778; Analysis of substances; Laboratory Procedure
+T78	PROC 1253 1263	Creatinina
+#34	AnnotatorNotes T78	C0201975; Creatinine measurement; Laboratory Procedure
+T79	PROC 1269 1276	Glucosa
+T80	PROC 1281 1285	Urea
+#35	AnnotatorNotes T80	C0523961; Urea measurement; Laboratory Procedure
+T81	PROC 1289 1291	Na
+#36	AnnotatorNotes T81	C0337443; Sodium measurement; Laboratory Procedure
+T82	PROC 1296 1297	K
+#37	AnnotatorNotes T82	C0202194; Potassium measurement; Laboratory Procedure
+T83	PROC 1303 1328	Troponina T ultrasensible
+T84	PROC 1334 1336	CK
+#38	AnnotatorNotes T84	C0201973; Creatine kinase measurement; Laboratory Procedure
+T85	PROC 1341 1348	ALT-GPT
+T86	PROC 1352 1361	Hemograma
+#39	AnnotatorNotes T86	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T87	PROC 1369 1372	INR
+#40	AnnotatorNotes T87	C0525032; International Normalized Ratio; Laboratory Procedure
+T88	PROC 1420 1431	tratamiento
+T89	LIVB 1449 1457	paciente
+#41	AnnotatorNotes T89	C0030705; Patients; Patient or Disabled Group
+T90	Neg_cue 1477 1480	sin
+T91	DISO 1481 1486	dolor
+#42	AnnotatorNotes T91	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T92	Negated 1481 1486	dolor
+T93	Neg_cue 1487 1489	ni
+T94	DISO 1490 1496	disnea
+#43	AnnotatorNotes T94	C0013404; Dyspnea; Sign or Symptom
+T95	Negated 1490 1496	disnea
+T96	Time 1507 1512	16:53
+T97	PROC 1523 1526	ECG
+#44	AnnotatorNotes T97	C1623258; Electrocardiography; Diagnostic Procedure
+T99	DISO 1552 1578	Infarto agudo de miocardio
+#46	AnnotatorNotes T99	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T100	PROC 1580 1591	TRATAMIENTO
+#47	AnnotatorNotes T100	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T101	Dose 1626 1632	2 puff
+T102	CHEM 1636 1647	Solinitrina
+T103	CHEM 1649 1663	NITROGLICERINA
+#48	AnnotatorNotes T103	C0017887; nitroglycerin; Organic Chemical · Pharmacologic Substance
+T104	DISO 1677 1682	dolor
+#49	AnnotatorNotes T104	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T105	PROC 1684 1687	ECG
+#50	AnnotatorNotes T105	C1623258; Electrocardiography; Diagnostic Procedure
+T106	Neg_cue 1688 1691	sin
+T107	Negated 1692 1699	cambios
+T108	Duration 1712 1724	unos minutos
+T109	LIVB 1728 1736	paciente
+#51	AnnotatorNotes T109	C0030705; Patients; Patient or Disabled Group
+T110	DISO 1754 1761	mareado
+#52	AnnotatorNotes T110	C0012833; Dizziness; Sign or Symptom | C0027497; Nausea; Sign or Symptom
+T111	PROC 1762 1764	TA
+T112	PROC 1771 1773	FC
+T113	PROC 1782 1787	SatO2
+#53	AnnotatorNotes T113	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T114	Dose 1798 1804	500 cc
+T115	CHEM 1808 1810	SF
+T116	PHYS 1820 1822	TA
+#54	AnnotatorNotes T116	C0005823; Blood Pressure; Organism Function | C0005903; Body Temperature; Organism Attribute
+T117	DISO 1853 1867	sintomatología
+#55	AnnotatorNotes T117	C3540840; Sign or Symptom; Finding
+T118	CHEM 1870 1881	CLOPIDOGREL
+#56	AnnotatorNotes T118	C0070166; clopidogrel; Organic Chemical · Pharmacologic Substance
+T119	Dose 1882 1888	300 mg
+T120	Route 1890 1898	vía oral
+T121	CHEM 1901 1912	ENOXAPARINA
+#57	AnnotatorNotes T121	C0206460; enoxaparin; Organic Chemical · Pharmacologic Substance
+T122	Dose 1913 1918	30 mg
+T123	Route 1919 1922	IV.
+T124	CHEM 1926 1937	ENOXAPARINA
+#58	AnnotatorNotes T124	C0206460; enoxaparin; Organic Chemical · Pharmacologic Substance
+T125	Dose 1938 1943	90 mg
+T126	Route 1944 1947	SC.
+T127	Time 1955 1960	15:35
+T128	CHEM 1970 1978	Metylase
+T129	CHEM 1980 1983	TNK
+#59	AnnotatorNotes T129	C0872913; tenecteplase; Amino Acid, Peptide, or Protein · Enzyme · Pharmacologic Substance
+T130	CHEM 1985 1997	TENECTEPLASA
+#60	AnnotatorNotes T130	C0872913; tenecteplase; Amino Acid, Peptide, or Protein · Enzyme · Pharmacologic Substance
+T131	Route 2000 2003	IV.
+T17	Dose 1964 1969	10 ml
+T24	PROC 1528 1539	DIAGNÓSTICO

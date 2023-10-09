@@ -1,0 +1,87 @@
+T1	Date 21 36	El día 14/02/10
+T2	Time 39 48	las 12.46
+T3	LIVB 58 63	varón
+T4	Age 67 74	32 años
+T5	DISO 79 92	palpitaciones
+#1	AnnotatorNotes T5	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T6	DISO 144 170	Síndrome ansioso depresivo
+#2	AnnotatorNotes T6	C0338908; Mixed anxiety and depressive disorder; Mental or Behavioral Dysfunction
+T7	PROC 174 177	tto
+#3	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	CHEM 182 192	Paroxetina
+#4	AnnotatorNotes T8	C0070122; paroxetine; Organic Chemical · Pharmacologic Substance
+T9	Neg_cue 224 226	No
+T10	DISO 243 256	muerte súbita
+#5	AnnotatorNotes T10	C0011071; Sudden death; Pathologic Function
+T11	Negated 243 256	muerte súbita
+T12	DISO 261 271	Enfermedad
+#6	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Date 272 278	actual
+T14	DISO 290 316	sensación de palpitaciones
+T15	Date 323 340	hace unas 8 horas
+T16	DISO 390 416	consumido alcohol y tabaco
+T17	Neg_cue 420 425	Niega
+T18	DISO 426 450	ingesta de otros tóxicos
+T19	Negated 426 450	ingesta de otros tóxicos
+T20	DISO 459 478	sensación de disnea
+T21	Neg_cue 479 482	sin
+T22	DISO 483 497	dolor torácico
+#7	AnnotatorNotes T22	C0008031; Chest Pain; Sign or Symptom
+T23	Negated 483 497	dolor torácico
+T24	Neg_cue 498 500	ni
+T25	DISO 501 519	cortejo vegetativo
+T26	Negated 501 519	cortejo vegetativo
+T27	Neg_cue 523 525	No
+T28	Negated 526 546	historia de síncopes
+T29	DISO 538 546	síncopes
+#8	AnnotatorNotes T29	C0039070; Syncope; Sign or Symptom
+T30	PROC 569 587	Exploración física
+#9	AnnotatorNotes T30	C0031809; Physical Examination; Health Care Activity
+T31	PROC 591 593	TA
+T32	PROC 607 609	Fc
+T33	PROC 619 624	SatO2
+#10	AnnotatorNotes T33	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T34	PROC 655 657	Ac
+T35	DISO 659 672	taquiarritmia
+#11	AnnotatorNotes T35	C0080203; Tachyarrhythmia; Finding
+T36	Neg_cue 673 676	sin
+T37	DISO 677 683	soplos
+#12	AnnotatorNotes T37	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T38	Negated 677 683	soplos
+T39	Neg_cue 693 696	sin
+T40	Negated 697 717	hallazgos valorables
+T41	PROC 722 745	Pruebas complementarias
+#13	AnnotatorNotes T41	C1515980; Ancillary Study; Research Activity
+T42	PROC 749 757	Rx Tórax
+#14	AnnotatorNotes T42	C0039985; Plain chest X-ray; Diagnostic Procedure
+T43	PROC 769 778	Analítica
+#15	AnnotatorNotes T43	C0002778; Analysis of substances; Laboratory Procedure
+T44	PROC 787 796	Troponina
+#16	AnnotatorNotes T44	C0523952; Troponin measurement; Laboratory Procedure
+T45	PROC 803 805	CK
+#17	AnnotatorNotes T45	C0201973; Creatine kinase measurement; Laboratory Procedure
+T46	PROC 813 816	ECG
+#18	AnnotatorNotes T46	C1623258; Electrocardiography; Diagnostic Procedure
+T47	DISO 822 829	AC x FA
+T48	PROC 850 861	TRATAMIENTO
+#19	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	PROC 878 881	TTO
+#20	AnnotatorNotes T49	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T50	CHEM 896 906	Flecainida
+#21	AnnotatorNotes T50	C0016229; flecainide; Organic Chemical · Pharmacologic Substance
+T51	Dose 907 913	300 mg
+T52	Route 914 918	oral
+T53	PROC 941 953	monitorizado
+#22	AnnotatorNotes T53	C1283169; Monitoring - action; Activity
+T54	Duration 987 997	unas horas
+T55	PROC 1023 1026	ECG
+#23	AnnotatorNotes T55	C1623258; Electrocardiography; Diagnostic Procedure
+T56	Date 1037 1046	el día 17
+T57	PROC 1081 1084	ECG
+#24	AnnotatorNotes T57	C1623258; Electrocardiography; Diagnostic Procedure
+T58	PROC 1087 1096	Ecocardio
+T59	PROC 1162 1165	EEF
+T60	Spec_cue 1193 1200	Posible
+T61	DISO 1201 1220	síndrome de Brugada
+#25	AnnotatorNotes T61	C1142166; Brugada Syndrome (disorder); Disease or Syndrome
+T62	Speculated 1201 1220	síndrome de Brugada
