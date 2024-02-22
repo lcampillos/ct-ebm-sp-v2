@@ -1,0 +1,157 @@
+T1	CHEM 44 55	Erdafitinib
+T2	CHEM 57 61	ERDA
+T3	CHEM 89 99	cetrelimab
+T4	CHEM 101 104	CET
+T5	PROC 111 135	tratamiento neoadyuvante
+T6	PROC 149 156	cirugía
+#1	AnnotatorNotes T6	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T7	LIVB 161 168	sujetos
+#2	AnnotatorNotes T7	C0681850; Study Subject; Group
+T8	DISO 173 206	cáncer de vejiga músculo-invasivo
+T9	DISO 213 220	tumores
+#3	AnnotatorNotes T9	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T10	Neg_cue 258 260	no
+T11	PROC 288 299	tratamiento
+#4	AnnotatorNotes T11	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T12	Negated 288 299	tratamiento
+T13	CHEM 304 314	cisplatino
+#5	AnnotatorNotes T13	C0008838; cisplatin; Inorganic Chemical · Pharmacologic Substance
+T14	Negated 304 314	cisplatino
+T15	PROC 335 410	Estudio de fase 2, intervencionista, abierto, multicéntrico y multinacional
+T16	PROC 417 451	evaluar la eficacia y la seguridad
+T17	CHEM 455 466	erdafitinib
+T18	CHEM 468 472	ERDA
+T19	PROC 477 488	monoterapia
+#6	AnnotatorNotes T19	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T20	CHEM 510 520	cetrelimab
+T21	CHEM 522 525	CET
+T22	PROC 532 556	tratamiento neoadyuvante
+T23	LIVB 560 569	pacientes
+#7	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	DISO 626 631	tumor
+#8	AnnotatorNotes T24	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T25	Neg_cue 672 674	no
+T26	PROC 693 704	tratamiento
+#9	AnnotatorNotes T26	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T27	Negated 693 704	tratamiento
+T28	CHEM 709 719	cisplatino
+#10	AnnotatorNotes T28	C0008838; cisplatin; Inorganic Chemical · Pharmacologic Substance
+T29	Negated 709 719	cisplatino
+T30	PROC 884 920	Consentimiento informado por escrito
+T31	LIVB 948 956	paciente
+#11	AnnotatorNotes T31	C0030705; Patients; Patient or Disabled Group
+T32	PROC 998 1012	procedimientos
+T33	PROC 1062 1073	Diagnóstico
+#12	AnnotatorNotes T33	C0011900; Diagnosis; Diagnostic Procedure
+T34	DISO 1117 1121	MIBC
+T35	PROC 1166 1182	histológicamente
+T36	PROC 1226 1266;1317 1328;1331 1337	resección transuretral del tumor vesical diagnóstica máxima
+T37	PROC 1268 1273	TURBT
+T38	Neg_cue 1349 1351	no
+T39	Duration 1352 1366	más de 3 meses
+T40	Negated 1352 1366	más de 3 meses
+T41	PROC 1388 1407	visita de selección
+T42	PROC 1413 1423	Histología
+#13	AnnotatorNotes T42	C0344441; Histology Procedure; Laboratory Procedure
+T43	DISO 1454 1473	carcinoma urotelial
+#14	AnnotatorNotes T43	C0007138; Carcinoma, Transitional Cell; Neoplastic Process
+T44	DISO 1475 1477	UC
+T45	Age 1551 1560	≥ 18 años
+T46	PROC 1566 1582	Estado funcional
+T47	LIVB 1644 1652	paciente
+#15	AnnotatorNotes T47	C0030705; Patients; Patient or Disabled Group
+T48	Neg_cue 1653 1660	rechaza
+T49	Neg_cue 1663 1665	no
+T50	Neg_cue 1680 1682	no
+T51	Negated 1683 1687	apto
+T52	Negated 1695 1715	quimioterapia a base
+T53	CHEM 1695 1708	quimioterapia
+#16	AnnotatorNotes T53	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T54	CHEM 1719 1729	cisplatino
+#17	AnnotatorNotes T54	C0008838; cisplatin; Inorganic Chemical · Pharmacologic Substance
+T55	Negated 1719 1729	cisplatino
+T56	DISO 1764 1783	alteración del FGFR
+T57	PROC 1790 1820	análisis de la biopsia tumoral
+T58	PHYS 1825 1841	Función orgánica
+T59	Neg_cue 1855 1866	Ausencia de
+T60	DISO 1873 1892	neoplasias malignas
+#18	AnnotatorNotes T60	C0006826; Malignant Neoplasms; Neoplastic Process | C1306459; Primary malignant neoplasm; Neoplastic Process
+T61	Neg_cue 1913 1919	evitar
+T62	PHYS 1923 1931	embarazo
+#19	AnnotatorNotes T62	C0032961; Pregnancy; Organism Function
+T63	Negated 1923 1931	embarazo
+T64	PHYS 1934 1943	engendrar
+T65	LIVB 1944 1949	hijos
+T66	DISO 2001 2006	tumor
+#20	AnnotatorNotes T66	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T67	DISO 2015 2043	cáncer de vejiga metastásico
+T68	DISO 2049 2054	Tumor
+#21	AnnotatorNotes T68	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T69	ANAT 2080 2094	neuroendocrino
+#22	AnnotatorNotes T69	C0027912; Neurosecretory Systems; Body System
+T70	ANAT 2097 2109	microcelular
+T71	LIVB 2115 2124	Pacientes
+#23	AnnotatorNotes T71	C0030705; Patients; Patient or Disabled Group
+T72	Neg_cue 2125 2127	no
+T73	PROC 2155 2166	cistectomía
+#24	AnnotatorNotes T73	C0010651; Cystectomy; Therapeutic or Preventive Procedure
+T74	Negated 2155 2166	cistectomía
+T75	Neg_cue 2173 2181	rechacen
+T76	PROC 2187 2199	intervención
+#25	AnnotatorNotes T76	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T77	Negated 2187 2199	intervención
+T78	PROC 2204 2225	Tratamiento sistémico
+T79	CHEM 2245 2249	FGFR
+T80	CHEM 2252 2264	antiPD1/PDL1
+T81	Neg_cue 2270 2272	No
+T82	PROC 2306 2327	tratamiento sistémico
+T83	Negated 2306 2327	tratamiento sistémico
+T84	PROC 2329 2341	radioterapia
+#26	AnnotatorNotes T84	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T85	Negated 2329 2341	radioterapia
+T86	PROC 2344 2351	cirugía
+#27	AnnotatorNotes T86	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T87	Negated 2344 2351	cirugía
+T88	DISO 2360 2376	cáncer de vejiga
+#28	AnnotatorNotes T88	C0005684; Malignant neoplasm of urinary bladder; Neoplastic Process
+T89	DISO 230 250	alteraciones del gen
+T90	DISO 582 620	cáncer de vejiga con invasión muscular
+T91	DISO 640 660	alteraciones del gen
+T92	DISO 816 853	Cáncer de vejiga con invasión muscula
+T93	DISO 742 791	Cáncer de vejiga que se propaga al musculo grueso
+T94	DISO 1123 1153	muscle-invasive bladder cancer
+T95	DISO 1077 1115	cáncer de vejiga con invasión muscular
+T96	PROC 1275 1316	transurethral resection of bladder tumor)
+T97	DISO 1479 1499	urothelial carcinoma
+T98	Route 2216 2225	sistémico
+T99	Route 2318 2327	sistémico
+T100	Negated 1934 1949	engendrar hijos
+T101	Negated 1867 1892	otras neoplasias malignas
+T102	Quantifier_or_Qualifier 63 67	solo
+T103	Observation 190 206	músculo-invasivo
+T104	Observation 1025 1056	acepta participar en el estudio
+T105	Observation 1192 1206	T2-4a N0/N1 M0
+T106	Quantifier_or_Qualifier 1424 1428	pura
+T107	Quantifier_or_Qualifier 1431 1443	predominante
+T108	Quantifier_or_Qualifier 1448 1450	%)
+T109	CONC 1587 1621	Eastern Cooperative Oncology Group
+T110	CONC 1623 1627	ECOG
+T111	Result_or_Value 1632 1635	0-1
+T112	Observation 1683 1687	apto
+T113	Observation 1825 1850	Función orgánica adecuada
+T114	Quantifier_or_Qualifier 1867 1872	otras
+T115	CONC 1980 1997	Evidencia clínica
+T116	Observation 2007 2012	N2-N3
+T117	Observation 2069 2079	componente
+T118	Patient 161 168	sujetos
+T119	Patient 560 569	pacientes
+T120	Patient 948 956	paciente
+T121	Patient 1644 1652	paciente
+T122	Family_member 1944 1949	hijos
+T123	Patient 2115 2124	Pacientes
+T124	History_of 2204 2225	Tratamiento sistémico
+T125	History_of 2245 2249	FGFR
+T126	History_of 2252 2265	antiPD1/PDL1.
+T127	History_of 2306 2327	tratamiento sistémico
+T128	History_of 2329 2341	radioterapia
+T129	History_of 2344 2351	cirugía

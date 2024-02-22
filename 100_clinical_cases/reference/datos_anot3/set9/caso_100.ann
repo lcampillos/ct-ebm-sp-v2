@@ -1,0 +1,188 @@
+T1	DISO 34 43	hipotonía
+#1	AnnotatorNotes T1	C0026827; Muscle hypotonia; Finding
+T2	DISO 45 56	decaimiento
+#2	AnnotatorNotes T2	C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T3	DISO 59 76	perdida de fuerza
+#3	AnnotatorNotes T3	C3714552; Weakness; Sign or Symptom
+T4	Date 81 93	varios meses
+T5	LIVB 128 133	Mujer
+#4	AnnotatorNotes T5	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T6	Age 137 144	49 años
+T7	PROC 146 164	institucionalizada
+#5	AnnotatorNotes T7	Institutionalized C0562359
+T8	DISO 169 180	dependencia
+#6	AnnotatorNotes T8	C0439857; Dependence; Mental or Behavioral Dysfunction | C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T9	DEVI 205 220	silla de ruedas
+#7	AnnotatorNotes T9	C0043143; wheelchair; Medical Device
+T10	Neg_cue 252 254	No
+T11	DISO 255 289	reacciones adversas a medicamentos
+#8	AnnotatorNotes T11	Adverse reaction to drug (C0041755)
+T12	Negated 255 289	reacciones adversas a medicamentos
+T13	DISO 294 341	Esclerosis Múltiple forma secundaria progresiva
+#9	AnnotatorNotes T13	Multiple Sclerosis, Secondary Progressive (C0751965)
+T14	PROC 372 385	diagnosticada
+#10	AnnotatorNotes T14	C0011900; Diagnosis; Diagnostic Procedure
+T15	Age 392 399	17 años
+T16	PROC 404 415	seguimiento
+#11	AnnotatorNotes T16	C0420316; Other follow-up; Health Care Activity
+T17	PROC 444 447	RMN
+#12	AnnotatorNotes T17	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T18	Date 451 455	2018
+T19	DISO 465 491	afectación desmielinizante
+#13	AnnotatorNotes T19	Demyelinating Diseases (C0011303)
+T20	ANAT 512 526	cordón medular
+T21	DISO 552 588	lesiones subcortical insular derecha
+T22	ANAT 597 627	subcortical temporal izquierda
+T23	PROC 635 646	Tratamiento
+#14	AnnotatorNotes T23	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T24	CHEM 651 666	interferón beta
+#15	AnnotatorNotes T24	C0015980; interferon-beta; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance | C0751599; Recombinant Interferon Beta; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T25	CHEM 668 680	mitoxantrona
+#16	AnnotatorNotes T25	C0026259; mitoxantrone; Organic Chemical · Pharmacologic Substance
+T26	CHEM 682 696	ciclofosfamida
+#17	AnnotatorNotes T26	C0010583; cyclophosphamide; Organic Chemical · Pharmacologic Substance
+T27	CHEM 699 709	fingolimod
+#18	AnnotatorNotes T27	C1699926; fingolimod; Immunologic Factor · Organic Chemical · Pharmacologic Substance
+T28	CHEM 729 740	ocrelizumab
+#19	AnnotatorNotes T28	C1882138; ocrelizumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T29	DISO 744 760	Vejiga espástica
+#20	AnnotatorNotes T29	C0877419; Automatic bladder; Pathologic Function
+T30	DISO 765 769	ITUs
+#21	AnnotatorNotes T30	Urinary tract infection (C0042029)
+T31	PROC 788 799	seguimiento
+#22	AnnotatorNotes T31	C0420316; Other follow-up; Health Care Activity
+T32	DISO 816 835	Doble incontinencia
+T33	DISO 839 862	Asma bronquial alérgico
+T34	DISO 866 893	Trastorno maníaco-depresivo
+#23	AnnotatorNotes T34	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction
+T35	PROC 899 922	ingreso en Salud Mental
+T36	Date 926 930	2017
+T37	Neg_cue 933 936	sin
+T38	PROC 937 948	seguimiento
+#24	AnnotatorNotes T38	C0420316; Other follow-up; Health Care Activity
+T39	Negated 937 948	seguimiento
+T40	PROC 959 970	Tratamiento
+#25	AnnotatorNotes T40	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T41	CHEM 979 989	salmeterol
+#26	AnnotatorNotes T41	C0073992; salmeterol; Organic Chemical · Pharmacologic Substance
+T42	CHEM 990 1001	fluticasona
+#27	AnnotatorNotes T42	C0082607; fluticasone; Organic Chemical · Pharmacologic Substance
+T43	Dose 1002 1007	1 inh
+T44	Frequency 1007 1012	/12 h
+T45	CHEM 1014 1028	levocetiricina
+#28	AnnotatorNotes T45	C1174893; levocetirizine; Organic Chemical · Pharmacologic Substance
+T46	Dose 1029 1033	5 mg
+T47	CHEM 1035 1046	mirtazapina
+#29	AnnotatorNotes T47	C0049506; mirtazapine; Organic Chemical · Pharmacologic Substance
+T48	Dose 1047 1052	15 mg
+T49	CHEM 1054 1064	silodosina
+#30	AnnotatorNotes T49	C1870115; silodosin; Organic Chemical · Pharmacologic Substance
+T50	Dose 1065 1069	8 mg
+T51	CHEM 1071 1083	lormetazepam
+#31	AnnotatorNotes T51	C0065185; lormetazepam; Organic Chemical · Pharmacologic Substance
+T52	Dose 1084 1088	2 mg
+T53	CHEM 1090 1099	espesante
+T54	DISO 1104 1114	Enfermedad
+#32	AnnotatorNotes T54	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T55	PROC 1124 1130	EXAMEN
+#33	AnnotatorNotes T55	C0031809; Physical Examination; Health Care Activity
+T56	PROC 1135 1153	Exploración física
+#34	AnnotatorNotes T56	C0031809; Physical Examination; Health Care Activity
+T57	PROC 1272 1299	Auscultación cardiopulmonar
+T58	DISO 1325 1343	debilidad muscular
+#35	AnnotatorNotes T58	C0151786; Muscle Weakness; Sign or Symptom
+T59	PROC 1348 1371	Pruebas complementarias
+#36	AnnotatorNotes T59	C1515980; Ancillary Study; Research Activity
+T60	PROC 1375 1377	TA
+T61	PROC 1386 1388	FC
+T62	PROC 1398 1411	Saturación O2
+T63	PROC 1420 1437	Bioquímica sérica
+T64	DISO 1451 1464	hipercalcemia
+#37	AnnotatorNotes T64	C0020437; Hypercalcemia; Disease or Syndrome
+T65	PROC 1495 1498	PTH
+#38	AnnotatorNotes T65	C0202159; Parathyroid hormone measurement; Laboratory Procedure
+T66	PROC 1570 1581	RMN craneal
+T67	Neg_cue 1582 1585	sin
+T68	DISO 1593 1601	lesiones
+#39	AnnotatorNotes T68	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T69	Negated 1593 1601	lesiones
+T70	PROC 1656 1691	ecografía de riñón y vías urinarias
+T71	Neg_cue 1692 1695	sin
+T72	DISO 1709 1725	cálculos renales
+#40	AnnotatorNotes T72	C0022650; Kidney Calculi; Disease or Syndrome | C0392525; Nephrolithiasis; Disease or Syndrome
+T73	Negated 1709 1725	cálculos renales
+T74	Neg_cue 1726 1728	ni
+T75	DISO 1729 1737	adenomas
+#41	AnnotatorNotes T75	C0001430; Adenoma; Neoplastic Process
+T76	Negated 1729 1737	adenomas
+T77	PROC 1741 1768	Gammagrafía de paratiroides
+#42	AnnotatorNotes T77	C0860840; Parathyroid scintigraphy; Diagnostic Procedure
+T78	PROC 1771 1776	SPECT
+#43	AnnotatorNotes T78	C0040399; Tomography, Emission-Computed, Single-Photon; Diagnostic Procedure
+T79	PROC 1777 1780	TAC
+#44	AnnotatorNotes T79	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T80	Spec_cue 1792 1804	sugerente de
+T81	DISO 1805 1828	adenoma de paratiroides
+#45	AnnotatorNotes T81	C0154041; Benign neoplasm of parathyroid gland; Neoplastic Process
+T82	Speculated 1805 1858	adenoma de paratiroides a nivel retrotiroideo derecho
+T83	ANAT 1837 1858	retrotiroideo derecho
+T84	PROC 1862 1873	TRATAMIENTO
+#46	AnnotatorNotes T84	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T85	Neg_cue 1890 1901	Se descarta
+T86	PROC 1905 1927	tratamiento quirúrgico
+#47	AnnotatorNotes T86	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T87	Negated 1905 1927	tratamiento quirúrgico
+T88	CHEM 1950 1961	Cinalcalcet
+T89	Dose 1964 1975	dosis bajas
+T90	PROC 1978 1995	Control analítico
+T91	LIVB 2012 2029	médico de familia
+#48	AnnotatorNotes T91	C1704221; Physicians, Family; Professional or Occupational Group
+T92	Duration 2033 2042	4 semanas
+T93	DISO 2091 2119	Hiperparatiroidismo primario
+#49	AnnotatorNotes T93	C0221002; Hyperparathyroidism, Primary; Disease or Syndrome
+T94	ANAT 492 506	supratentorial
+T95	PROC 2067 2078	DIAGNÓSTICO
+T96	DISO 2127 2155	brote de Esclerosis Múltiple
+#50	AnnotatorNotes T96	Multiple sclerosis relapse (C0856120)
+T97	Date 971 977	actual
+T98	Date 1115 1121	actual
+T99	Date 713 724	actualmente
+T100	Date 949 955	actual
+T102	Observation 169 200	dependencia para todas las ABVD
+T103	Quantifier_or_Qualifier 331 341	progresiva
+T104	Observation 347 370	actividad incapacitante
+T105	Quantifier_or_Qualifier 437 443	última
+T106	Quantifier_or_Qualifier 457 464	extensa
+T108	Quantifier_or_Qualifier 545 551	nuevas
+T109	Result_or_Value 590 593	3mm
+T110	Result_or_Value 629 632	5mm
+T111	Quantifier_or_Qualifier 770 783	de repetición
+T112	Quantifier_or_Qualifier 816 821	Doble
+T113	Observation 1157 1176	Buen estado general
+T114	Observation 1178 1192	bien hidratada
+T115	Observation 1195 1205	perfundida
+T116	Observation 1207 1221	normocoloreada
+T117	Observation 1223 1241	eupneica en reposo
+T118	Observation 1243 1268	hemodinámicamente estable
+T119	Result_or_Value 1300 1306	normal
+T120	Result_or_Value 1379 1385	125/70
+T121	Result_or_Value 1390 1396	80 lpm
+T122	Result_or_Value 1413 1417	98%.
+T123	Result_or_Value 1468 1478	11.7 mg/dl
+T124	Observation 1484 1498	aumento de PTH
+T125	Result_or_Value 1502 1513	238.5 pg/ml
+T126	Quantifier_or_Qualifier 1586 1592	nuevas
+T127	Observation 2048 2063	buena evolución
+T129	Patient 128 133	Mujer
+T130	History_of 255 289	reacciones adversas a medicamentos
+T131	History_of 765 783	ITUs de repetición
+T132	History_of 839 862	Asma bronquial alérgico
+T133	History_of 866 893	Trastorno maníaco-depresivo
+T136	Other 2012 2029	médico de familia
+T101	History_of 294 341	Esclerosis Múltiple forma secundaria progresiva
+T107	History_of 465 491	afectación desmielinizante
+T135	History_of 552 588	lesiones subcortical insular derecha
+T137	History_of 744 760	Vejiga espástica
+T138	History_of 816 835	Doble incontinencia
+T139	Quantifier_or_Qualifier 1935 1946	complejidad
+T128	Quantifier_or_Qualifier 2121 2126	Nuevo

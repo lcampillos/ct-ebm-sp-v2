@@ -1,85 +1,107 @@
 T1	PROC 48 78	Ensayo clínico abierto, fase I
-T6	Dose 158 173	dosis repetidas
-T8	LIVB 212 217	niños
-#1	AnnotatorNotes T8	C0008059; Child; Age Group | C0870221; Boys; Age Group
-T9	Age 212 217	niños
-T10	LIVB 220 232	adolescentes
-#2	AnnotatorNotes T10	C0205653; Adolescent (age group); Age Group
-T11	Age 220 232	adolescentes
-T13	DISO 284 293	Epilepsia
-#3	AnnotatorNotes T13	C0014544; Epilepsy; Disease or Syndrome
-T15	DISO 363 387	encefalitis de Rasmussen
-#4	AnnotatorNotes T15	C0393484; Rasmussen Syndrome; Disease or Syndrome
-T16	PROC 432 456	consentimiento informado
-#5	AnnotatorNotes T16	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
-T17	LIVB 461 481	Población pediátrica
-T18	Age 482 498	menor de 16 años
-T20	PROC 574 585	tratamiento
-#6	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T21	CHEM 587 611	fármacos antiepilépticos
-T22	PROC 614 638	terapia inmunomoduladora
-T23	DISO 679 708	deterioro motor y/o cognitivo
-T24	PROC 766 786	cirugía de epilepsia
-T25	DISO 809 833	Encefalitis de Rasmussen
-#7	AnnotatorNotes T25	C0393484; Rasmussen Syndrome; Disease or Syndrome
-T26	PROC 868 871	RMC
-#8	AnnotatorNotes T26	C0412692; Magnetic Resonance Imaging (MRI) of Heart; Diagnostic Procedure | C4028269; Nuclear magnetic resonance imaging brain; Diagnostic Procedure
-T27	PROC 873 900	pruebas electrofisiológicas
-T28	PROC 902 905	PET
-#9	AnnotatorNotes T28	C0032743; Positron-Emission Tomography; Diagnostic Procedure
-T29	PROC 908 938	evaluaciones neuropsicológicas
-T31	Spec_cue 1000 1006	pueden
-T32	Speculated 1007 1014	afectar
-T33	LIVB 1032 1040	paciente
-#10	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
-T34	DISO 1064 1104	Infecciones activas del SNC o sistémicas
-T35	DISO 1115 1120	Tumor
-#11	AnnotatorNotes T35	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
-T36	PROC 1130 1143	Quimioterapia
-#12	AnnotatorNotes T36	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
-T37	DISO 1153 1172	Enfermedad cardíaca
-#13	AnnotatorNotes T37	C0018799; Heart Diseases; Disease or Syndrome
-T38	DISO 1175 1183	Demencia
-#14	AnnotatorNotes T38	C0497327; Dementia; Mental or Behavioral Dysfunction
-T39	DISO 1191 1222	enfermedad degenerativa del SNC
-T40	PROC 1259 1291	cateterismo del sistema arterial
-T41	Contraindicated 1259 1291	cateterismo del sistema arterial
-T42	Neg_cue 1314 1316	no
-T43	Negated 1321 1329	factible
-T44	DISO 1343 1371	trastornos de comportamiento
-#15	AnnotatorNotes T44	C0004930; Behavior Disorders; Mental or Behavioral Dysfunction
-T45	Neg_cue 1376 1383	impiden
-T46	Negated 1388 1400	colaboración
-T49	PROC 1437 1462	parámetros de coagulación
-T50	Neg_cue 1529 1531	no
-T53	DISO 1602 1621	reacciones adversas
-#17	AnnotatorNotes T53	C0559546; Adverse reactions; Pathologic Function
-T54	DISO 1624 1654	complicaciones tromboembólicas
-T55	CHEM 1671 1695	componentes de la sangre
-T56	PHYS 1701 1709	Embarazo
-#18	AnnotatorNotes T56	C0032961; Pregnancy; Organism Function
-T57	PHYS 1723 1732	lactancia
-#19	AnnotatorNotes T57	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
-T58	Neg_cue 1737 1745	Negativa
-T59	LIVB 1750 1758	paciente
-#20	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
-T60	LIVB 1761 1771	familiares
-#21	AnnotatorNotes T60	C0080103; Relative (related person); Family Group
-T61	PROC 1777 1788	seguimiento
-#22	AnnotatorNotes T61	C0420316; Other follow-up; Health Care Activity
-T62	Negated 1777 1788	seguimiento
-T63	PROC 1419 1434	acceso arterial
-T47	Speculated 1419 1434	acceso arterial
-T48	Speculated 1437 1462	parámetros de coagulación
-T3	Route 140 154	intra-arterial
-T5	CHEM 177 208	células mesenquimales autólogas
-T2	PROC 1542 1576	administrar productos terapéuticos
-T64	Negated 1542 1576	administrar productos terapéuticos
-T19	DISO 969 981	Enfermedades
-T30	Age 471 481	pediátrica
-T52	DISO 318 327	Epilepsia
-T14	DISO 237 247	epilepsias
-T12	DISO 503 512	Epilepsia
-T51	PROC 84 124	evaluar la seguridad y respuesta clínica
-T7	LIVB 713 718	grupo
-T4	PROC 131 154	infusión intra-arterial
+T2	Dose 158 173	dosis repetidas
+T3	LIVB 212 217	niños
+#1	AnnotatorNotes T3	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T4	Age 212 217	niños
+T5	LIVB 220 232	adolescentes
+#2	AnnotatorNotes T5	C0205653; Adolescent (age group); Age Group
+T6	Age 220 232	adolescentes
+T7	DISO 284 293	Epilepsia
+#3	AnnotatorNotes T7	C0014544; Epilepsy; Disease or Syndrome
+T8	DISO 363 387	encefalitis de Rasmussen
+#4	AnnotatorNotes T8	C0393484; Rasmussen Syndrome; Disease or Syndrome
+T9	PROC 432 456	consentimiento informado
+#5	AnnotatorNotes T9	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T10	LIVB 461 481	Población pediátrica
+T11	Age 482 498	menor de 16 años
+T12	PROC 574 585	tratamiento
+#6	AnnotatorNotes T12	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T13	CHEM 587 611	fármacos antiepilépticos
+T14	PROC 614 638	terapia inmunomoduladora
+T15	DISO 679 708	deterioro motor y/o cognitivo
+T16	PROC 766 786	cirugía de epilepsia
+T17	DISO 809 833	Encefalitis de Rasmussen
+#7	AnnotatorNotes T17	C0393484; Rasmussen Syndrome; Disease or Syndrome
+T18	PROC 868 871	RMC
+#8	AnnotatorNotes T18	C0412692; Magnetic Resonance Imaging (MRI) of Heart; Diagnostic Procedure | C4028269; Nuclear magnetic resonance imaging brain; Diagnostic Procedure
+T19	PROC 873 900	pruebas electrofisiológicas
+T20	PROC 902 905	PET
+#9	AnnotatorNotes T20	C0032743; Positron-Emission Tomography; Diagnostic Procedure
+T21	PROC 908 938	evaluaciones neuropsicológicas
+T22	Spec_cue 1000 1006	pueden
+T23	Speculated 1007 1014	afectar
+T24	LIVB 1032 1040	paciente
+#10	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	DISO 1064 1104	Infecciones activas del SNC o sistémicas
+T26	DISO 1115 1120	Tumor
+#11	AnnotatorNotes T26	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T27	PROC 1130 1143	Quimioterapia
+#12	AnnotatorNotes T27	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T28	DISO 1153 1172	Enfermedad cardíaca
+#13	AnnotatorNotes T28	C0018799; Heart Diseases; Disease or Syndrome
+T29	DISO 1175 1183	Demencia
+#14	AnnotatorNotes T29	C0497327; Dementia; Mental or Behavioral Dysfunction
+T30	DISO 1191 1222	enfermedad degenerativa del SNC
+T31	PROC 1259 1291	cateterismo del sistema arterial
+T32	Contraindicated 1259 1291	cateterismo del sistema arterial
+T33	Neg_cue 1314 1316	no
+T34	Negated 1321 1329	factible
+T35	DISO 1343 1371	trastornos de comportamiento
+#15	AnnotatorNotes T35	C0004930; Behavior Disorders; Mental or Behavioral Dysfunction
+T36	Neg_cue 1376 1383	impiden
+T37	Negated 1388 1400	colaboración
+T38	PROC 1437 1462	parámetros de coagulación
+T39	Neg_cue 1529 1531	no
+T40	DISO 1602 1621	reacciones adversas
+#16	AnnotatorNotes T40	C0559546; Adverse reactions; Pathologic Function
+T41	DISO 1624 1654	complicaciones tromboembólicas
+T42	CHEM 1671 1695	componentes de la sangre
+T43	PHYS 1701 1709	Embarazo
+#17	AnnotatorNotes T43	C0032961; Pregnancy; Organism Function
+T44	PHYS 1723 1732	lactancia
+#18	AnnotatorNotes T44	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T45	Neg_cue 1737 1745	Negativa
+T46	LIVB 1750 1758	paciente
+#19	AnnotatorNotes T46	C0030705; Patients; Patient or Disabled Group
+T47	LIVB 1761 1771	familiares
+#20	AnnotatorNotes T47	C0080103; Relative (related person); Family Group
+T48	PROC 1777 1788	seguimiento
+#21	AnnotatorNotes T48	C0420316; Other follow-up; Health Care Activity
+T49	Negated 1777 1788	seguimiento
+T50	PROC 1419 1434	acceso arterial
+T51	Speculated 1419 1434	acceso arterial
+T52	Speculated 1437 1462	parámetros de coagulación
+T53	Route 140 154	intra-arterial
+T54	CHEM 177 208	células mesenquimales autólogas
+T55	PROC 1542 1576	administrar productos terapéuticos
+T56	Negated 1542 1576	administrar productos terapéuticos
+T57	DISO 969 981	Enfermedades
+T58	Age 471 481	pediátrica
+T59	DISO 318 327	Epilepsia
+T60	DISO 237 247	epilepsias
+T61	DISO 503 512	Epilepsia
+T62	PROC 84 124	evaluar la seguridad y respuesta clínica
+T63	LIVB 713 718	grupo
+T64	PROC 131 154	infusión intra-arterial
+T65	Observation 107 124	respuesta clínica
+T66	Quantifier_or_Qualifier 199 208	autólogas
+T67	Quantifier_or_Qualifier 248 260	refractarias
+T68	Observation 533 544	refractaria
+T69	Quantifier_or_Qualifier 547 570	primera o segunda línea
+T70	Observation 1007 1027	afectar la seguridad
+T71	Quantifier_or_Qualifier 1105 1112	activas
+T72	Quantifier_or_Qualifier 1121 1127	activo
+T73	Quantifier_or_Qualifier 1144 1150	activa
+T74	Quantifier_or_Qualifier 1331 1342	importantes
+T75	Observation 1388 1409	colaboración adecuada
+T76	Observation 1411 1434	difícil acceso arterial
+T77	Quantifier_or_Qualifier 1463 1486	clínicamente relevantes
+T78	Patient 212 217	niños
+T79	Patient 220 232	adolescentes
+T80	Patient 461 481	Población pediátrica
+T81	Future 766 786	cirugía de epilepsia
+T82	Patient 1032 1040	paciente
+T83	History_of 1602 1621	reacciones adversas
+T84	History_of 1624 1654	complicaciones tromboembólicas
+T85	Patient 1750 1758	paciente
+T86	Family_member 1761 1771	familiares

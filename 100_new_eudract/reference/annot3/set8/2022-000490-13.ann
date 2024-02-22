@@ -1,135 +1,174 @@
 T1	CHEM 62 87	Aceite enriquecido en CBD
 T2	PROC 94 105	tratamiento
 #1	AnnotatorNotes T2	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T4	DISO 153 181	complejo esclerosis tuberosa
-T5	DISO 183 186	CET
-T6	DISO 210 229	Esclerosis tuberosa
-#2	AnnotatorNotes T6	C0041341; Tuberous Sclerosis; Neoplastic Process
-T7	DISO 234 243	epilepsia
-#3	AnnotatorNotes T7	C0014544; Epilepsy; Disease or Syndrome
-T9	DISO 312 343	Complejo de Esclerosis Tuberosa
-T10	PROC 372 383	Diagnóstico
-#4	AnnotatorNotes T10	C0011900; Diagnosis; Diagnostic Procedure
-T11	DISO 398 401	CET
-T12	PROC 430 446	estudio genético
-T14	DISO 485 488	CET
-T15	Neg_cue 516 518	no
-T16	Negated 519 540	responde exitosamente
-T17	CHEM 543 547	FAEs
-T18	PROC 573 589	dieta cetogénica
-T19	DEVI 591 618	estimulador del nervio vago
-T20	Neg_cue 624 626	no
-T21	PROC 645 668	cirugía de la epilepsia
-T23	DISO 685 691	crisis
-#5	AnnotatorNotes T23	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
-T24	PROC 712 735	intervención quirúrgica
-#6	AnnotatorNotes T24	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
-T25	DISO 763 769	crisis
-#7	AnnotatorNotes T25	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
-T26	Frequency 776 790	4 o más al mes
-T27	DISO 795 801	signos
-#8	AnnotatorNotes T27	C0311392; Physical findings; Finding
-T28	DISO 824 845	pérdida de conciencia
-#9	AnnotatorNotes T28	C0041657; Unconscious State; Finding
-T30	CHEM 895 899	FAEs
-T31	Duration 903 916	las 4 semanas
-T32	PROC 930 942	intervención
-#10	AnnotatorNotes T32	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
-T33	CHEM 950 979	aceite enriquecido en CBD+THC
-T34	PROC 983 999	dieta cetogénica
-T35	DEVI 1017 1028	dispositivo
-#11	AnnotatorNotes T35	C1285539; Direct device; Medical Device
-T36	DEVI 1041 1068	estimulador del nervio vago
-T37	Neg_cue 1069 1072	sin
-T38	Negated 1073 1080	cambios
-T39	CHEM 1105 1113	fármacos
-#12	AnnotatorNotes T39	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
-T40	PROC 1144 1158	ensayo clínico
-#13	AnnotatorNotes T40	C0008976; Clinical Trials; Research Activity
-T41	LIVB 1194 1204	cuidadores
-#14	AnnotatorNotes T41	C0085537; Caregiver; Professional or Occupational Group | C1305660; Carer (occupation); Professional or Occupational Group
-T42	LIVB 1304 1313	Pacientes
-#15	AnnotatorNotes T42	C0030705; Patients; Patient or Disabled Group
-T43	PROC 1318 1329	diagnóstico
-#16	AnnotatorNotes T43	C0011900; Diagnosis; Diagnostic Procedure
-T44	Neg_cue 1330 1332	no
-T45	Negated 1333 1343	confirmado
-T46	CHEM 1357 1368	corticoides
-#17	AnnotatorNotes T46	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
-T47	Neg_cue 1374 1376	no
-T48	Negated 1377 1418	pasaron por las alternativas terapéuticas
-T49	Neg_cue 1429 1431	no
-T50	Negated 1432 1456	adhirieron correctamente
-T51	CHEM 1463 1467	FAEs
-T52	DISO 1507 1559	Insuficiencia cardíaca, renal, hepática, pancreática
-T53	DISO 1563 1586	disfunción hematológica
-T54	PROC 1629 1639	creatinina
-#18	AnnotatorNotes T54	C0201975; Creatinine measurement; Laboratory Procedure
-T55	PROC 1642 1646	urea
-#19	AnnotatorNotes T55	C0523961; Urea measurement; Laboratory Procedure
-T56	PROC 1684 1697	transaminasas
-#20	AnnotatorNotes T56	C0919834; Transaminase Assay; Laboratory Procedure
-T57	PROC 1699 1705	lipasa
-#21	AnnotatorNotes T57	C0373670; Lipase measurement; Laboratory Procedure
-T58	PROC 1708 1722	amilasa sérica
-#22	AnnotatorNotes T58	C0201885; Amylase measurement, serum (procedure); Laboratory Procedure
-T59	PROC 1724 1733	plaquetas
-T60	PROC 1749 1777	recuento de glóbulos blancos
-T61	DISO 1791 1807	Condición médica
-#23	AnnotatorNotes T61	C4745084; Medical Condition; Finding
-T62	Neg_cue 1815 1817	no
-T63	Negated 1818 1828	controlada
-T64	DISO 1835 1854	enfermedad hepática
-#24	AnnotatorNotes T64	C0023895; Liver diseases; Disease or Syndrome
-T65	DISO 1856 1864	cirrosis
-#25	AnnotatorNotes T65	C1623038; Cirrhosis; Disease or Syndrome
-T66	DISO 1866 1900	hepatitis crónica (hepatitis B o C
-T68	DISO 1903 1911	diabetes
-#26	AnnotatorNotes T68	C0011849; Diabetes Mellitus; Disease or Syndrome
-T69	Neg_cue 1912 1914	no
-T70	Negated 1915 1925	controlada
-T71	PROC 1941 1955	glucosa sérica
-#27	AnnotatorNotes T71	C0202041; Glucose measurement, serum; Laboratory Procedure
-T72	DISO 1967 1978	infecciones
-#28	AnnotatorNotes T72	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T73	DISO 2009 2020	infecciones
-#29	AnnotatorNotes T73	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T74	Neg_cue 2029 2031	no
-T75	Negated 2032 2043	controladas
-T76	DISO 2045 2054	sangrados
-#30	AnnotatorNotes T76	C0019080; Hemorrhage; Pathologic Function
-T77	LIVB 2066 2075	Pacientes
-#31	AnnotatorNotes T77	C0030705; Patients; Patient or Disabled Group
-T78	LIVB 2082 2090	familias
-#32	AnnotatorNotes T78	C0015576; Family; Family Group
-T79	Neg_cue 2091 2093	no
-T80	Negated 2104 2144	cumplir con los requerimientos y visitas
-T81	PROC 2137 2144	visitas
-T83	Spec_cue 2206 2215	riesgo de
-T84	Speculated 2216 2244	incumplimiento del protocolo
-T85	PROC 2235 2244	protocolo
-#33	AnnotatorNotes T85	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T86	DISO 2248 2255	Alergia
-#34	AnnotatorNotes T86	C0020517; Hypersensitivity; Pathologic Function
-T87	CHEM 2288 2306	aceite de cannabis
-T88	DISO 2337 2350	esquizofrenia
-#35	AnnotatorNotes T88	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
-T89	DISO 2380 2399	intento de suicidio
-#36	AnnotatorNotes T89	C0038663; Suicide attempt; Injury or Poisoning | C0582496; Suicidal intent; Finding
-T90	LIVB 2403 2412	Pacientes
-#37	AnnotatorNotes T90	C0030705; Patients; Patient or Disabled Group
-T91	PROC 2417 2440	cambiaron la medicación
-T92	CHEM 2452 2456	FAEs
-T94	PROC 2509 2525	dieta cetogenica
-T95	DEVI 2528 2545	estimulador vagal
-T96	PHYS 2548 2556	Embarazo
-#38	AnnotatorNotes T96	C0032961; Pregnancy; Organism Function
-T22	Negated 645 668	cirugía de la epilepsia
-T102	Duration 1988 1996	crónicas
-T103	Duration 1999 2005	agudas
-T106	PROC 407 425	criterios clínicos
-T97	LIVB 2175 2181	médico
-T82	Duration 2465 2476	los 30 días
-T67	DISO 109 118	epilepsia
-T3	DISO 450 459	Epilepsia
-T13	DISO 287 296	Epilepsia
+T3	DISO 153 181	complejo esclerosis tuberosa
+T4	DISO 183 186	CET
+T5	DISO 210 229	Esclerosis tuberosa
+#2	AnnotatorNotes T5	C0041341; Tuberous Sclerosis; Neoplastic Process
+T6	DISO 234 243	epilepsia
+#3	AnnotatorNotes T6	C0014544; Epilepsy; Disease or Syndrome
+T7	DISO 312 343	Complejo de Esclerosis Tuberosa
+T8	PROC 372 383	Diagnóstico
+#4	AnnotatorNotes T8	C0011900; Diagnosis; Diagnostic Procedure
+T9	DISO 398 401	CET
+T10	PROC 430 446	estudio genético
+T11	DISO 485 488	CET
+T12	Neg_cue 516 518	no
+T13	Negated 519 540	responde exitosamente
+T14	CHEM 543 547	FAEs
+T15	PROC 573 589	dieta cetogénica
+T16	DEVI 591 618	estimulador del nervio vago
+T17	Neg_cue 624 626	no
+T18	PROC 645 668	cirugía de la epilepsia
+T19	DISO 685 691	crisis
+#5	AnnotatorNotes T19	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
+T20	PROC 712 735	intervención quirúrgica
+#6	AnnotatorNotes T20	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T21	DISO 763 769	crisis
+#7	AnnotatorNotes T21	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
+T22	Frequency 776 790	4 o más al mes
+T23	DISO 795 801	signos
+#8	AnnotatorNotes T23	C0311392; Physical findings; Finding
+T24	DISO 824 845	pérdida de conciencia
+#9	AnnotatorNotes T24	C0041657; Unconscious State; Finding
+T25	CHEM 895 899	FAEs
+T26	Duration 903 916	las 4 semanas
+T27	PROC 930 942	intervención
+#10	AnnotatorNotes T27	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T28	CHEM 950 979	aceite enriquecido en CBD+THC
+T29	PROC 983 999	dieta cetogénica
+T30	DEVI 1017 1028	dispositivo
+#11	AnnotatorNotes T30	C1285539; Direct device; Medical Device
+T31	DEVI 1041 1068	estimulador del nervio vago
+T32	Neg_cue 1069 1072	sin
+T33	Negated 1073 1080	cambios
+T34	CHEM 1105 1113	fármacos
+#12	AnnotatorNotes T34	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T35	PROC 1144 1158	ensayo clínico
+#13	AnnotatorNotes T35	C0008976; Clinical Trials; Research Activity
+T36	LIVB 1194 1204	cuidadores
+#14	AnnotatorNotes T36	C0085537; Caregiver; Professional or Occupational Group | C1305660; Carer (occupation); Professional or Occupational Group
+T37	LIVB 1304 1313	Pacientes
+#15	AnnotatorNotes T37	C0030705; Patients; Patient or Disabled Group
+T38	PROC 1318 1329	diagnóstico
+#16	AnnotatorNotes T38	C0011900; Diagnosis; Diagnostic Procedure
+T39	Neg_cue 1330 1332	no
+T40	Negated 1333 1343	confirmado
+T41	CHEM 1357 1368	corticoides
+#17	AnnotatorNotes T41	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T42	Neg_cue 1374 1376	no
+T43	Negated 1377 1418	pasaron por las alternativas terapéuticas
+T44	Neg_cue 1429 1431	no
+T45	Negated 1432 1456	adhirieron correctamente
+T46	CHEM 1463 1467	FAEs
+T47	DISO 1507 1559	Insuficiencia cardíaca, renal, hepática, pancreática
+T48	DISO 1563 1586	disfunción hematológica
+T49	PROC 1629 1639	creatinina
+#18	AnnotatorNotes T49	C0201975; Creatinine measurement; Laboratory Procedure
+T50	PROC 1642 1646	urea
+#19	AnnotatorNotes T50	C0523961; Urea measurement; Laboratory Procedure
+T51	PROC 1684 1697	transaminasas
+#20	AnnotatorNotes T51	C0919834; Transaminase Assay; Laboratory Procedure
+T52	PROC 1699 1705	lipasa
+#21	AnnotatorNotes T52	C0373670; Lipase measurement; Laboratory Procedure
+T53	PROC 1708 1722	amilasa sérica
+#22	AnnotatorNotes T53	C0201885; Amylase measurement, serum (procedure); Laboratory Procedure
+T54	PROC 1724 1733	plaquetas
+T55	PROC 1749 1777	recuento de glóbulos blancos
+T56	DISO 1791 1807	Condición médica
+#23	AnnotatorNotes T56	C4745084; Medical Condition; Finding
+T57	Neg_cue 1815 1817	no
+T58	Negated 1818 1828	controlada
+T59	DISO 1835 1854	enfermedad hepática
+#24	AnnotatorNotes T59	C0023895; Liver diseases; Disease or Syndrome
+T60	DISO 1856 1864	cirrosis
+#25	AnnotatorNotes T60	C1623038; Cirrhosis; Disease or Syndrome
+T61	DISO 1866 1900	hepatitis crónica (hepatitis B o C
+T62	DISO 1903 1911	diabetes
+#26	AnnotatorNotes T62	C0011849; Diabetes Mellitus; Disease or Syndrome
+T63	Neg_cue 1912 1914	no
+T64	Negated 1915 1925	controlada
+T65	PROC 1941 1955	glucosa sérica
+#27	AnnotatorNotes T65	C0202041; Glucose measurement, serum; Laboratory Procedure
+T66	DISO 1967 1978	infecciones
+#28	AnnotatorNotes T66	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T67	DISO 2009 2020	infecciones
+#29	AnnotatorNotes T67	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T68	Neg_cue 2029 2031	no
+T69	Negated 2032 2043	controladas
+T70	DISO 2045 2054	sangrados
+#30	AnnotatorNotes T70	C0019080; Hemorrhage; Pathologic Function
+T71	LIVB 2066 2075	Pacientes
+#31	AnnotatorNotes T71	C0030705; Patients; Patient or Disabled Group
+T72	LIVB 2082 2090	familias
+#32	AnnotatorNotes T72	C0015576; Family; Family Group
+T73	Neg_cue 2091 2093	no
+T74	Negated 2104 2144	cumplir con los requerimientos y visitas
+T75	PROC 2137 2144	visitas
+T76	Spec_cue 2206 2215	riesgo de
+T77	Speculated 2216 2244	incumplimiento del protocolo
+T78	PROC 2235 2244	protocolo
+#33	AnnotatorNotes T78	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T79	DISO 2248 2255	Alergia
+#34	AnnotatorNotes T79	C0020517; Hypersensitivity; Pathologic Function
+T80	CHEM 2288 2306	aceite de cannabis
+T81	DISO 2337 2350	esquizofrenia
+#35	AnnotatorNotes T81	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T82	DISO 2380 2399	intento de suicidio
+#36	AnnotatorNotes T82	C0038663; Suicide attempt; Injury or Poisoning | C0582496; Suicidal intent; Finding
+T83	LIVB 2403 2412	Pacientes
+#37	AnnotatorNotes T83	C0030705; Patients; Patient or Disabled Group
+T84	PROC 2417 2440	cambiaron la medicación
+T85	CHEM 2452 2456	FAEs
+T86	PROC 2509 2525	dieta cetogenica
+T87	DEVI 2528 2545	estimulador vagal
+T88	PHYS 2548 2556	Embarazo
+#38	AnnotatorNotes T88	C0032961; Pregnancy; Organism Function
+T89	Negated 645 668	cirugía de la epilepsia
+T90	Duration 1988 1996	crónicas
+T91	Duration 1999 2005	agudas
+T92	PROC 407 425	criterios clínicos
+T93	LIVB 2175 2181	médico
+T94	Duration 2465 2476	los 30 días
+T95	DISO 109 118	epilepsia
+T96	DISO 450 459	Epilepsia
+T97	DISO 287 296	Epilepsia
+T98	Observation 247 262	difícil control
+T99	Observation 519 540	responde exitosamente
+T100	Quantifier_or_Qualifier 563 570	2 o más
+T101	CONC 1073 1080	cambios
+T102	Quantifier_or_Qualifier 1083 1085	Un
+T103	Quantifier_or_Qualifier 1086 1104	número máximo de 3
+T104	Quantifier_or_Qualifier 1114 1127	concomitantes
+T105	CONC 1131 1158	comienzo del ensayo clínico
+T106	CONC 1222 1238	diario de crisis
+T107	CONC 1252 1261	inclusión
+T108	CONC 1393 1405	alternativas
+T109	Observation 1432 1456	adhirieron correctamente
+T110	Result_or_Value 1591 1625	valores sobre los límites normales
+T111	Result_or_Value 1648 1655	valores
+T112	Result_or_Value 1656 1680	2 veces el límite normal
+T113	Result_or_Value 1734 1745	< 80000/mm3
+T114	Result_or_Value 1778 1787	<3000/mm3
+T115	Quantifier_or_Qualifier 1808 1814	severa
+T116	Quantifier_or_Qualifier 1818 1828	controlada
+T117	Quantifier_or_Qualifier 1915 1925	controlada
+T118	Result_or_Value 1956 1963	>150 mg
+T119	Quantifier_or_Qualifier 1979 1986	activas
+T120	Quantifier_or_Qualifier 1988 1996	crónicas
+T121	Quantifier_or_Qualifier 1999 2005	agudas
+T122	Quantifier_or_Qualifier 2021 2028	severas
+T123	Quantifier_or_Qualifier 2032 2043	controladas
+T124	Quantifier_or_Qualifier 2055 2062	activos
+T125	Observation 2201 2215	alto riesgo de
+T126	Observation 2216 2244	incumplimiento del protocolo
+T127	CONC 2488 2506	inicio del estudio
+T128	Other 1194 1204	cuidadores
+T129	Patient 1304 1313	Pacientes
+T130	Patient 2066 2075	Pacientes
+T131	Family_member 2082 2090	familias
+T132	Other 2175 2190	médico tratante
+T133	History_of 2248 2255	Alergia
+T134	History_of 2337 2350	esquizofrenia
+T135	History_of 2380 2399	intento de suicidio
+T136	Patient 2403 2412	Pacientes

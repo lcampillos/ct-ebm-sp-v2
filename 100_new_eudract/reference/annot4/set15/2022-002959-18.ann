@@ -5,60 +5,69 @@ T3	LIVB 104 113	pacientes
 T4	DISO 118 152	enfermedad relacionada con la IgG4
 T5	PROC 173 217	Estudio de fase IIa, abierto y de dos grupos
 T6	CHEM 244 257	rilzabrutinib
-T8	DISO 318 328	enfermedad
-#2	AnnotatorNotes T8	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T9	LIVB 332 341	pacientes
-#3	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
-T10	DISO 346 380	enfermedad relacionada con la IgG4
-T12	CHEM 433 451	inmunoglobulina G4
-#5	AnnotatorNotes T12	C0020860; Immunoglobulin IgG4; Amino Acid, Peptide, or Protein · Immunologic Factor
-T15	LIVB 543 549	hombre
-#7	AnnotatorNotes T15	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
-T16	LIVB 552 557	mujer
-#8	AnnotatorNotes T16	C0043210; Woman; Population Group | C0242665; wife; Family Group
-T17	Age 567 575	≥18 años
-T18	PROC 589 608	diagnóstico clínico
-#9	AnnotatorNotes T18	C0332140; Diagnosis, clinical; Finding
-T19	DISO 612 619	IgG4-RD
-T20	PROC 642 661	disminuir una dosis
-T21	Dose 652 661	una dosis
-T22	CHEM 677 687	prednisona
-#10	AnnotatorNotes T22	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
-T23	Dose 694 702	20-40 mg
-T24	Frequency 702 706	/día
-T25	Duration 710 719	2 semanas
-T26	Date 748 759	Actualmente
-T27	Duration 772 783	los 6 meses
-T28	CHEM 819 828	rituximab
-#11	AnnotatorNotes T28	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
-T30	ANAT 860 869	células B
-#12	AnnotatorNotes T30	C0004561; B-Lymphocytes; Cell
-T31	CHEM 872 891	agentes alquilantes
-#13	AnnotatorNotes T31	C0002073; Alkylating Agents; Hazardous or Poisonous Substance · Pharmacologic Substance
-T33	ANAT 1010 1017	células
-#14	AnnotatorNotes T33	C0007634; Cells; Cell | C1269647; Entire cell; Cell
-T34	PROC 1042 1061	citometría de flujo
-#15	AnnotatorNotes T34	C0016263; Flow Cytometry; Laboratory Procedure
-T35	PROC 1079 1106	trasplante de órgano sólido
-T36	PROC 1125 1144	prueba de detección
-T37	DISO 1148 1151	VIH
-#16	AnnotatorNotes T37	C0458074; Human immunodeficiency virus (HIV) status; Finding
-T38	DISO 1153 1164	hepatitis B
-#17	AnnotatorNotes T38	C0019163; Hepatitis B; Disease or Syndrome
-T39	DISO 1166 1177	hepatitis C
-#18	AnnotatorNotes T39	C0019196; Hepatitis C; Disease or Syndrome
-T40	DISO 1180 1182	TB
-#19	AnnotatorNotes T40	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
-T41	LIVB 1186 1193	Mujeres
-#20	AnnotatorNotes T41	C0043210; Woman; Population Group | C0242665; wife; Family Group
-T42	PHYS 1218 1229	amamantando
-#21	AnnotatorNotes T42	C0006147; Breast Feeding; Organism Function
-T13	DISO 476 510	Enfermedad relacionada con la IgG4
-T14	CHEM 148 152	IgG4
-T43	CHEM 376 380	IgG4
-T11	DISO 403 451	Enfermedad relacionada con la inmunoglobulina G4
-T44	CHEM 506 510	IgG4
-T45	PHYS 1204 1215	embarazadas
-T29	CHEM 836 843	agentes
-T46	CHEM 259 266	PRN1008
-T7	CHEM 267 276	SAR444671
+T7	DISO 318 328	enfermedad
+#2	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	LIVB 332 341	pacientes
+#3	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
+T9	DISO 346 380	enfermedad relacionada con la IgG4
+T10	CHEM 433 451	inmunoglobulina G4
+#4	AnnotatorNotes T10	C0020860; Immunoglobulin IgG4; Amino Acid, Peptide, or Protein · Immunologic Factor
+T11	LIVB 543 549	hombre
+#5	AnnotatorNotes T11	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T12	LIVB 552 557	mujer
+#6	AnnotatorNotes T12	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T13	Age 567 575	≥18 años
+T14	PROC 589 608	diagnóstico clínico
+#7	AnnotatorNotes T14	C0332140; Diagnosis, clinical; Finding
+T15	DISO 612 619	IgG4-RD
+T16	PROC 642 661	disminuir una dosis
+T17	Dose 652 661	una dosis
+T18	CHEM 677 687	prednisona
+#8	AnnotatorNotes T18	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T19	Dose 694 702	20-40 mg
+T20	Frequency 702 706	/día
+T21	Duration 710 719	2 semanas
+T22	Date 748 759	Actualmente
+T23	Duration 772 783	los 6 meses
+T24	CHEM 819 828	rituximab
+#9	AnnotatorNotes T24	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T25	ANAT 860 869	células B
+#10	AnnotatorNotes T25	C0004561; B-Lymphocytes; Cell
+T26	CHEM 872 891	agentes alquilantes
+#11	AnnotatorNotes T26	C0002073; Alkylating Agents; Hazardous or Poisonous Substance · Pharmacologic Substance
+T27	ANAT 1010 1017	células
+#12	AnnotatorNotes T27	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T28	PROC 1042 1061	citometría de flujo
+#13	AnnotatorNotes T28	C0016263; Flow Cytometry; Laboratory Procedure
+T29	PROC 1079 1106	trasplante de órgano sólido
+T30	PROC 1125 1144	prueba de detección
+T31	DISO 1148 1151	VIH
+#14	AnnotatorNotes T31	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T32	DISO 1153 1164	hepatitis B
+#15	AnnotatorNotes T32	C0019163; Hepatitis B; Disease or Syndrome
+T33	DISO 1166 1177	hepatitis C
+#16	AnnotatorNotes T33	C0019196; Hepatitis C; Disease or Syndrome
+T34	DISO 1180 1182	TB
+#17	AnnotatorNotes T34	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
+T35	LIVB 1186 1193	Mujeres
+#18	AnnotatorNotes T35	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T36	PHYS 1218 1229	amamantando
+#19	AnnotatorNotes T36	C0006147; Breast Feeding; Organism Function
+T37	DISO 476 510	Enfermedad relacionada con la IgG4
+T38	CHEM 148 152	IgG4
+T39	CHEM 376 380	IgG4
+T40	DISO 403 451	Enfermedad relacionada con la inmunoglobulina G4
+T41	CHEM 506 510	IgG4
+T42	PHYS 1204 1215	embarazadas
+T43	CHEM 836 843	agentes
+T44	CHEM 259 266	PRN1008
+T45	CHEM 267 276	SAR444671
+T46	Observation 234 240	efecto
+T47	Result_or_Value 1008 1031	5 células por mm cúbico
+T48	Result_or_Value 1110 1118	Positivo
+T49	Patient 104 113	pacientes
+T50	Patient 332 341	pacientes
+T51	Patient 543 549	hombre
+T52	Patient 552 557	mujer
+T53	History_of 1079 1106	trasplante de órgano sólido
+T54	Patient 1186 1193	Mujeres

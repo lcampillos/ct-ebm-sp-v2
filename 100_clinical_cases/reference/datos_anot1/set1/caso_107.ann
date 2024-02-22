@@ -1,0 +1,129 @@
+T1	DISO 21 32	Cervicalgia
+#1	AnnotatorNotes T1	C0007859; Neck Pain; Sign or Symptom
+T2	Neg_cue 37 39	no
+T3	Negated 40 44	cede
+T4	Date 51 62	hace un mes
+T5	LIVB 85 90	Varón
+T6	Age 94 101	67 años
+T7	DISO 134 143	Exfumador
+#2	AnnotatorNotes T7	C0337671; Former smoker; Finding
+T8	Frequency 149 153	/día
+T9	Date 160 172	hace 10 años
+T10	DISO 176 185	Exbebedor
+#3	AnnotatorNotes T10	C0337679; Ex-drinker; Finding
+T11	Date 201 212	hace 3 años
+T12	DISO 216 219	HTA
+#4	AnnotatorNotes T12	C0020538; Hypertensive disease; Disease or Syndrome
+T13	DISO 222 225	DM2
+#5	AnnotatorNotes T13	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T14	DISO 228 258	Enfermedad arterial periférica
+#6	AnnotatorNotes T14	C0085096; Peripheral Vascular Diseases; Disease or Syndrome | C1704436; Peripheral Arterial Diseases; Disease or Syndrome
+T15	DISO 262 265	HDA
+#7	AnnotatorNotes T15	C0041909; Upper gastrointestinal hemorrhage; Pathologic Function
+T16	Date 269 273	2009
+T17	CHEM 287 301	antiagregantes
+#8	AnnotatorNotes T17	C0085826; Antiplatelet Agents; Pharmacologic Substance
+T18	DISO 307 317	Enfermedad
+#9	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 318 324	actual
+T20	DISO 349 360	cervicalgia
+#10	AnnotatorNotes T20	C0007859; Neck Pain; Sign or Symptom
+T21	ANAT 375 381	hombro
+#11	AnnotatorNotes T21	C0037004; Shoulder; Body Location or Region | C1283792; Entire shoulder region; Body Location or Region
+T22	ANAT 398 429	región laterocervical izquierda
+T23	Date 437 448	hace un mes
+T24	LIVB 466 489	médico extracomunitario
+T25	PROC 501 521	Rx cervical y hombro
+T27	Neg_cue 551 553	no
+T28	CHEM 554 559	AINEs
+#12	AnnotatorNotes T28	C0003211; Anti-Inflammatory Agents, Non-Steroidal; Pharmacologic Substance
+T29	Negated 554 559	AINEs
+T30	DISO 569 574	dolor
+#13	AnnotatorNotes T30	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T31	DISO 586 597	cervicalgia
+#14	AnnotatorNotes T31	C0007859; Neck Pain; Sign or Symptom
+T32	DISO 652 657	dolor
+#15	AnnotatorNotes T32	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T33	Neg_cue 658 660	no
+T34	Negated 661 665	cede
+T35	PROC 680 698	Exploración física
+#16	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	Neg_cue 702 704	No
+T37	DISO 716 734	patología cervical
+T38	Negated 716 734	patología cervical
+T39	PROC 739 762	Pruebas complementarias
+#17	AnnotatorNotes T39	C1515980; Ancillary Study; Research Activity
+T40	PROC 766 775	Analítica
+#18	AnnotatorNotes T40	C0002778; Analysis of substances; Laboratory Procedure
+T41	PROC 777 786	hemograma
+#19	AnnotatorNotes T41	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T42	PROC 795 818	Coagulación fibrinógeno
+#20	AnnotatorNotes T42	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T44	PROC 827 833	Hba1 C
+T45	PROC 840 850	creatinina
+#22	AnnotatorNotes T45	C0201975; Creatinine measurement; Laboratory Procedure
+T46	PROC 852 867	perfil hepático
+#23	AnnotatorNotes T46	C0023901; Liver Function Tests; Laboratory Procedure
+T47	PROC 879 889	bioquímica
+#24	AnnotatorNotes T47	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T48	PROC 902 922	Rx hombro y cervical
+T49	Neg_cue 924 926	no
+T50	DISO 927 950	patología osteomuscular
+T51	Negated 927 950	patología osteomuscular
+T52	DISO 963 989	lesión ocupante de espacio
+T53	ANAT 993 1018	lóbulo superior izquierdo
+T54	ANAT 1020 1023	LSI
+T55	PROC 1028 1036	Rx tórax
+#25	AnnotatorNotes T55	C0039985; Plain chest X-ray; Diagnostic Procedure
+T56	DISO 1038 1053	masa espiculada
+T57	ANAT 1057 1060	LSI
+T58	PROC 1064 1071	Pet-TAC
+T59	DISO 1074 1092	neoplasia pulmonar
+#26	AnnotatorNotes T59	C0024121; Lung Neoplasms; Neoplastic Process
+T60	ANAT 1106 1109	LSI
+T61	DISO 1111 1136	Adenopatías mediastínicas
+#27	AnnotatorNotes T61	C0520743; Mediastinal lymphadenopathy; Disease or Syndrome | C2228960; lymphadenopathy of mediastinum; Disease or Syndrome
+T62	PROC 1140 1157	Fibrobroncoscopia
+#28	AnnotatorNotes T62	C0189391; Fiberoptic bronchoscopy; Diagnostic Procedure
+T63	DISO 1159 1183	tumoración endobronquial
+T64	PROC 1187 1206	Anatomía patológica
+T65	DISO 1208 1255	Adenocarcinoma pulmonar pobremente diferenciado
+T66	PROC 1259 1270	TRATAMIENTO
+#29	AnnotatorNotes T66	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T67	PROC 1287 1298	Tratamiento
+#30	AnnotatorNotes T67	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T68	CHEM 1303 1311	opiáceos
+#31	AnnotatorNotes T68	C0242402; Opioids; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance | C0376196; Opiates; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T69	DISO 1328 1333	dolor
+#32	AnnotatorNotes T69	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T70	Date 1337 1348	Actualmente
+T71	PROC 1387 1398	tratamiento
+#33	AnnotatorNotes T71	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T72	DISO 1426 1473	Adenocarcinoma pulmonar pobremente diferenciado
+T73	PROC 603 617	juicio clínico
+T74	PROC 669 675	EXAMEN
+T75	PROC 1402 1413	DIAGNÓSTICO
+T76	Observation 40 44	cede
+T78	Quantifier_or_Qualifier 186 194	moderado
+T79	Quantifier_or_Qualifier 542 549	menores
+T80	Result_or_Value 787 793	normal
+T81	Result_or_Value 822 826	760.
+T82	Result_or_Value 834 839	7.2%,
+T83	Result_or_Value 890 898	normales
+T84	Result_or_Value 1096 1102	4x5 cm
+T85	Quantifier_or_Qualifier 1232 1255	pobremente diferenciado
+T86	Quantifier_or_Qualifier 1312 1319	mayores
+T87	Quantifier_or_Qualifier 1450 1473	pobremente diferenciado
+T88	Patient 85 90	Varón
+T89	History_of 134 143	Exfumador
+T90	History_of 176 185	Exbebedor
+T91	History_of 216 219	HTA
+T92	History_of 222 225	DM2
+T93	History_of 228 258	Enfermedad arterial periférica
+T94	History_of 262 265	HDA
+T95	Other 466 489	médico extracomunitario
+T96	Future 1387 1398	tratamiento
+T77	Result_or_Value 144 149	2 paq
+T97	Observation 384 391	irradia
+T26	Observation 658 666	no cede.
+T98	CHEM 530 541	analgésicos

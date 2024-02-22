@@ -1,0 +1,106 @@
+T1	Date 70 83	a largo plazo
+T2	CHEM 87 97	inclisirán
+T3	LIVB 101 114	participantes
+T4	DISO 119 162	hipercolesterolemia familiar heterocigótica
+T5	DISO 165 206	hipercolesterolemia familiar homocigótica
+T6	LIVB 246 258	adolescentes
+#1	AnnotatorNotes T6	C0205653; Adolescent (age group); Age Group
+T7	Age 246 258	adolescentes
+T8	PROC 300 364	Estudio de extensión, multicéntrico, abierto y de un único grupo
+T9	PROC 370 409	evaluar la seguridad y la tolerabilidad
+T10	Date 410 423	a largo plazo
+T11	CHEM 427 437	inclisirán
+T12	LIVB 441 454	participantes
+T13	DISO 459 517	hipercolesterolemia familiar heterocigótica u homocigótica
+T14	LIVB 557 569	adolescentes
+#2	AnnotatorNotes T14	C0205653; Adolescent (age group); Age Group
+T15	Age 557 569	adolescentes
+T16	DISO 625 653	Hipercolesterolemia familiar
+#3	AnnotatorNotes T16	C0020445; Hypercholesterolemia, Familial; Disease or Syndrome
+T17	LIVB 681 709	Participantes de ambos sexos
+T18	PROC 717 728	diagnóstico
+#4	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
+T19	DISO 732 736	HFHe
+T20	DISO 739 743	HFHo
+T21	CHEM 859 866	fármaco
+#5	AnnotatorNotes T21	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T22	PROC 901 907	visita
+T23	PROC 935 944	protocolo
+#6	AnnotatorNotes T23	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T24	LIVB 994 1006	investigador
+#7	AnnotatorNotes T24	C0035173; Research Personnel; Professional or Occupational Group
+T25	LIVB 1012 1025	participantes
+T26	PROC 1056 1067	tratamiento
+#8	AnnotatorNotes T26	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T27	CHEM 1072 1082	inclisirán
+T28	Date 1143 1159	en la actualidad
+T29	PROC 1160 1188	tratamientos hipolipemiantes
+T30	CHEM 1198 1207	estatinas
+#9	AnnotatorNotes T30	C0075191; statine; Amino Acid, Peptide, or Protein | C0360714; Hydroxymethylglutaryl-CoA Reductase Inhibitors; Organic Chemical · Pharmacologic Substance
+T31	CHEM 1210 1219	ezetimiba
+#10	AnnotatorNotes T31	C1142985; ezetimibe; Organic Chemical · Pharmacologic Substance
+T32	Neg_cue 1243 1253	sin ningún
+T33	CHEM 1276 1286	medicación
+#11	AnnotatorNotes T33	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T34	LIVB 1370 1383	Participantes
+T35	CHEM 1451 1461	inclisirán
+T36	PROC 1678 1689	tratamiento
+#12	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	CHEM 1694 1704	inclisirán
+T38	DISO 1718 1728	enfermedad
+#13	AnnotatorNotes T38	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T39	Neg_cue 1729 1731	no
+T40	Negated 1732 1742	controlada
+T41	DISO 1764 1801	condición médica, física o quirúrgica
+T42	Spec_cue 1806 1811	pueda
+T43	PROC 1849 1864	estudio clínico
+#14	AnnotatorNotes T43	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T44	LIVB 1964 1976	participante
+T45	DISO 2031 2076	patología infecciosa, neoplásica o metabólica
+T46	Date 2077 2083	actual
+T47	ANAT 2088 2094	hígado
+#15	AnnotatorNotes T47	C0023884; Liver; Body Part, Organ, or Organ Component | C1278929; Entire liver; Body Part, Organ, or Organ Component
+T48	Date 12 16	2022
+T49	PROC 918 925	estudio
+T50	PROC 1225 1242	estudio principal
+T51	PROC 1333 1340	estudio
+T52	Negated 1254 1286	cambio previsto en la medicación
+T53	Negated 1287 1301	ni en la dosis
+T54	PROC 1395 1415	estudios principales
+T55	PROC 1510 1562	discontinuado permanentemente el tratamiento/estudio
+T56	DISO 1980 1999	Enfermedad hepática
+T57	Speculated 1812 1842	interferir en la participación
+T58	Speculated 1874 1905	nterpretación de los resultados
+T59	Speculated 1923 1955	implique un riesgo significativo
+T60	PROC 1492 1501	selección
+T61	DISO 1612 1657	problemas graves de seguridad o tolerabilidad
+T62	PROC 232 240	estudios
+T63	PROC 543 551	estudios
+T64	Observation 217 240	finalizado los estudios
+T65	Observation 528 551	finalizado los estudios
+T66	Observation 754 777	finalizado los estudios
+T67	CONC 842 854	última dosis
+T68	Observation 887 907	completado la visita
+T69	Quantifier_or_Qualifier 908 913	final
+T70	Observation 1040 1051	beneficiado
+T71	CONC 1254 1260	cambio
+T72	Quantifier_or_Qualifier 1261 1269	previsto
+T73	Observation 1483 1501	fallo de selección
+T74	Quantifier_or_Qualifier 1732 1742	controlada
+T75	Quantifier_or_Qualifier 1745 1750	grave
+T76	CONC 1812 1822	interferir
+T77	Observation 1829 1864	participación en el estudio clínico
+T78	Observation 1935 1941	riesgo
+T79	Quantifier_or_Qualifier 1942 1955	significativo
+T80	Quantifier_or_Qualifier 2000 2006	activa
+T81	Patient 101 114	participantes
+T82	Patient 246 258	adolescentes
+T83	Patient 441 454	participantes
+T84	History_of 543 551	estudios
+T85	Patient 557 569	adolescentes
+T86	Patient 681 709	Participantes de ambos sexos
+T87	Other 994 1006	investigador
+T88	Patient 1012 1025	participantes
+T89	Patient 1370 1383	Participantes
+T90	Patient 1964 1976	participante
+T91	History_of 754 777	finalizado los estudios

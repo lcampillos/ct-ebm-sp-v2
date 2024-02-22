@@ -1,0 +1,218 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	52 años
+T4	DISO 51 66	dolor de cabeza
+#2	AnnotatorNotes T4	C0018681; Headache; Sign or Symptom
+T5	DISO 69 75	mareos
+#3	AnnotatorNotes T5	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T6	DISO 128 145	Infección por VIH
+#4	AnnotatorNotes T6	C0019693; HIV Infections; Disease or Syndrome
+T7	Duration 149 163	más de 10 años
+T8	PROC 213 216	CD4
+T9	PROC 229 232	CD8
+T10	PROC 245 255	leucocitos
+T11	PROC 271 282	carga viral
+#5	AnnotatorNotes T11	C1261478; Viral load measurement; Laboratory Procedure
+T12	PROC 298 309	Tratamiento
+#6	AnnotatorNotes T12	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T13	CHEM 314 377	inhibidores de la transcriptasa inversa análogos de nucleósidos
+T14	Neg_cue 379 382	sin
+T15	DISO 383 397	complicaciones
+#7	AnnotatorNotes T15	C0009566; Complication; Pathologic Function
+T16	Negated 383 418	complicaciones definitorias de SIDA
+T17	DISO 414 418	SIDA
+#8	AnnotatorNotes T17	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T18	DISO 423 433	Enfermedad
+#9	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 434 440	actual
+T20	PROC 444 452	Consulta
+#10	AnnotatorNotes T20	C0009818; Consultation; Health Care Activity
+T21	DISO 457 476	cefalea holocraneal
+T22	DISO 479 485	mareos
+#11	AnnotatorNotes T22	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T23	Duration 489 496	15 días
+T24	DISO 521 532	somnolencia
+#12	AnnotatorNotes T24	C0013144; Drowsiness; Finding | C2830004; Somnolence; Mental or Behavioral Dysfunction
+T25	Time 547 553	diurno
+T26	DISO 555 562	astenia
+#13	AnnotatorNotes T26	C0004093; Asthenia; Sign or Symptom
+T27	DISO 565 573	anorexia
+#14	AnnotatorNotes T27	C0003123; Anorexia; Disease or Syndrome | C1971624; Loss of appetite (finding); Finding
+T28	Duration 588 607	las últimas semanas
+T29	DISO 610 625	pérdida de peso
+#15	AnnotatorNotes T29	C1262477; Weight decreased; Finding
+T30	DISO 644 662	sudoración profusa
+#16	AnnotatorNotes T30	C0700590; Increased sweating; Finding
+T31	Neg_cue 663 666	sin
+T32	DISO 667 677	escalofrío
+#17	AnnotatorNotes T32	C0085593; Chills; Sign or Symptom | C0424790; Rigor - Temperature-associated observation; Sign or Symptom
+T33	Negated 667 677	escalofrío
+T34	DISO 680 687	afebril
+#18	AnnotatorNotes T34	C0277797; Apyrexial; Finding
+T35	Negated 680 687	afebril
+T36	Duration 736 755	las últimas semanas
+T37	DISO 804 821	llanto inmotivado
+T38	PROC 856 874	Exploración física
+#19	AnnotatorNotes T38	C0031809; Physical Examination; Health Care Activity
+T39	PROC 965 992	Auscultación cardiopulmonar
+T40	PROC 995 1016	exploración abdominal
+#20	AnnotatorNotes T40	C0085704; Exploratory laparotomy; Diagnostic Procedure
+T41	ANAT 1030 1047	nivel neurológico
+T42	DISO 1049 1067	Romberg patológico
+T43	DISO 1078 1102	parálisis facial gestual
+T44	Neg_cue 1104 1107	sin
+T45	DISO 1108 1121	rigidez nucal
+#21	AnnotatorNotes T45	C0151315; Neck stiffness; Sign or Symptom
+T46	Negated 1108 1121	rigidez nucal
+T47	Neg_cue 1123 1125	No
+T48	Negated 1126 1161	otros signos de irritación meníngea
+T49	DISO 1132 1161	signos de irritación meníngea
+T50	Neg_cue 1163 1170	tampoco
+T51	Negated 1171 1228	otra focalidad neurológica a nivel de los pares craneales
+T52	DISO 1176 1197	focalidad neurológica
+#22	AnnotatorNotes T52	C1848821; Focal neurologic signs; Finding
+T53	ANAT 1213 1228	pares craneales
+#23	AnnotatorNotes T53	C0010268; Cranial Nerves; Body Part, Organ, or Organ Component | C1269897; Entire cranial nerve; Body Part, Organ, or Organ Component
+T54	Neg_cue 1230 1232	ni
+T55	DISO 1233 1263	alteraciones sensitivo-motoras
+T56	Negated 1233 1263	alteraciones sensitivo-motoras
+T57	PHYS 1265 1271	Marcha
+T58	Neg_cue 1280 1282	no
+T59	DISO 1283 1290	atáxica
+#24	AnnotatorNotes T59	C0234366; Ataxic; Sign or Symptom
+T60	Negated 1283 1290	atáxica
+T61	Neg_cue 1292 1295	sin
+T62	DISO 1296 1312	lateralizaciones
+T63	Negated 1296 1312	lateralizaciones
+T64	Neg_cue 1314 1316	ni
+T65	DISO 1317 1326	dismetría
+#25	AnnotatorNotes T65	C0234162; Cerebellar Dysmetria; Finding
+T66	Negated 1317 1326	dismetría
+T67	DISO 1344 1371	letargia de los movimientos
+T68	PROC 1376 1399	Pruebas complementarias
+#26	AnnotatorNotes T68	C1515980; Ancillary Study; Research Activity
+T69	PROC 1403 1412	Analítica
+#27	AnnotatorNotes T69	C0002778; Analysis of substances; Laboratory Procedure
+T70	PROC 1414 1423	Hemograma
+#28	AnnotatorNotes T70	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T71	PROC 1425 1436	hemoglobina
+#29	AnnotatorNotes T71	C0518015; Hemoglobin measurement; Laboratory Procedure
+T72	PROC 1447 1456	Plaquetas
+T73	PROC 1469 1479	Leucocitos
+T74	PROC 1494 1504	Linfocitos
+T75	PROC 1519 1530	Neutrofilos
+T76	PROC 1547 1558	Coagulación
+#30	AnnotatorNotes T76	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T77	PROC 1560 1571	Fibrinógeno
+#31	AnnotatorNotes T77	C0337428; Fibrinogen assay; Laboratory Procedure
+T78	PROC 1598 1608	Bioquímica
+#32	AnnotatorNotes T78	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T79	PROC 1610 1617	Glucosa
+T80	PROC 1628 1636	Albúmina
+#33	AnnotatorNotes T80	C0201838; Albumin measurement; Laboratory Procedure
+T81	PROC 1647 1651	Urea
+#34	AnnotatorNotes T81	C0523961; Urea measurement; Laboratory Procedure
+T82	PROC 1662 1681	Filtrado glomerular
+#35	AnnotatorNotes T82	C0017654; Glomerular Filtration Rate; Diagnostic Procedure
+T83	PROC 1693 1703	Creatinina
+#36	AnnotatorNotes T83	C0201975; Creatinine measurement; Laboratory Procedure
+T84	PROC 1716 1752	perfil hidroelectrolítico y hepático
+T85	PROC 1763 1766	PCR
+#37	AnnotatorNotes T85	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T86	PROC 1780 1799	Gasometría arterial
+#38	AnnotatorNotes T86	C0005800; Blood Gas Analysis; Laboratory Procedure | C0150411; Analysis of arterial blood gases and pH; Laboratory Procedure
+T87	PROC 1801 1803	Ph
+T88	PROC 1811 1816	PaCO2
+#39	AnnotatorNotes T88	C0428189; Measurement of partial pressure of carbon dioxide in blood; Laboratory Procedure
+T89	PROC 1828 1832	PaO2
+#40	AnnotatorNotes T89	C0428168; Measurement of partial pressure of oxygen in blood; Laboratory Procedure
+T90	PROC 1843 1847	SaO2
+#41	AnnotatorNotes T90	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T91	PROC 1856 1860	HCO3
+#42	AnnotatorNotes T91	C0202059; Bicarbonate measurement; Laboratory Procedure
+T92	PROC 1876 1881	Orina
+T93	PROC 1893 1904	TAC craneal
+#43	AnnotatorNotes T93	C0412603; CT of skull; Diagnostic Procedure
+T94	DISO 1906 1929	LOE cerebral hiperdensa
+T95	ANAT 1943 1957	cuerpo calloso
+#44	AnnotatorNotes T95	C0010090; Corpus Callosum; Body Part, Organ, or Organ Component | C1284613; Entire corpus callosum; Body Part, Organ, or Organ Component
+T96	ANAT 2002 2010	epéndimo
+#45	AnnotatorNotes T96	C0014472; Ependyma; Tissue
+T97	DISO 2016 2034	edema perilesional
+T98	Spec_cue 2046 2059	sugestivos de
+T99	DISO 2060 2085	Linfoma Cerebral Primario
+#46	AnnotatorNotes T99	C0240803; Primary cerebral lymphoma; Neoplastic Process | C0280803; Primary central nervous system lymphoma; Neoplastic Process
+T100	Speculated 2060 2085	Linfoma Cerebral Primario
+T101	PROC 2089 2114	RNM craneal con contraste
+T102	PROC 2117 2124	BodyTAC
+T103	Neg_cue 2126 2129	sin
+T104	Negated 2130 2171	hallazgos diferentes a las del TC craneal
+T105	PROC 2161 2171	TC craneal
+#47	AnnotatorNotes T105	C0412603; CT of skull; Diagnostic Procedure
+T106	PROC 2175 2186	TRATAMIENTO
+#48	AnnotatorNotes T106	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T107	PROC 2203 2233	Se ingresó en Medicina Interna
+T108	DISO 2286 2294	cefaleas
+#49	AnnotatorNotes T108	C0018681; Headache; Sign or Symptom
+T109	PROC 2303 2330	tratamiento con corticoides
+#50	AnnotatorNotes T109	C0149783; Steroid therapy; Therapeutic or Preventive Procedure
+T110	DISO 2344 2368	paralasis facial derecha
+T111	Negated 2373 2389	Romberg positivo
+T112	Neg_cue 2402 2410	negativo
+T113	Duration 2416 2427	varios días
+T114	PROC 2431 2458	tratamiento con corticoides
+#51	AnnotatorNotes T114	C0149783; Steroid therapy; Therapeutic or Preventive Procedure
+T116	LIVB 2515 2523	paciente
+#53	AnnotatorNotes T116	C0030705; Patients; Patient or Disabled Group
+T117	DISO 2524 2527	VIH
+#54	AnnotatorNotes T117	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T119	PROC 845 851	EXAMEN
+T120	DISO 2373 2389	Romberg positivo
+T121	PROC 2462 2473	DIAGNÓSTICO
+T122	Observation 182 211	buen control inmunovirológico
+T123	Result_or_Value 217 227	950 cél/μl
+T124	Result_or_Value 233 243	853 cél/μl
+T125	Result_or_Value 256 269	5.010 x103/μl
+T126	Result_or_Value 283 295	indetectable
+T127	Result_or_Value 629 633	5 kg
+T128	Observation 756 790	se le olvidas las cosas cotidianas
+T129	Quantifier_or_Qualifier 822 841	de forma espontánea
+T130	Observation 902 913	colaborador
+T131	Observation 915 933	eupneico en reposo
+T132	Observation 936 961	hemodinamicamente estable
+T133	Observation 1017 1024	anodina
+T134	Quantifier_or_Qualifier 1071 1077	mínima
+T135	Result_or_Value 1437 1445	17,9g/dl
+T136	Result_or_Value 1457 1467	235x103/μl
+T137	Result_or_Value 1480 1492	9,76 x103/μl
+T138	Result_or_Value 1505 1517	3,26 x103/μl
+T139	Result_or_Value 1531 1543	5,72 x103/μl
+T140	Result_or_Value 1572 1580	511mg/dl
+T141	Result_or_Value 1618 1626	86 mg/dl
+T142	Result_or_Value 1637 1645	4,6 g/dl
+T143	Result_or_Value 1652 1660	7,1mg/dl
+T144	Result_or_Value 1682 1691	69 mL/min
+T145	Result_or_Value 1704 1714	1,18 mg/dL
+T146	Result_or_Value 1753 1759	normal
+T147	Result_or_Value 1768 1777	0.14 mg/L
+T148	Result_or_Value 1804 1809	7,469
+T149	Result_or_Value 1817 1826	31,1 mmHg
+T150	Result_or_Value 1833 1841	126 mmHg
+T151	Result_or_Value 1848 1853	98.3%
+T152	Result_or_Value 1861 1873	22,6 mmol/L.
+T153	Result_or_Value 1883 1889	normal
+T154	Observation 1963 1983	cruza la línea media
+T158	Result_or_Value 2402 2410	negativo
+T160	Quantifier_or_Qualifier 2528 2538	estadio C1
+T161	Patient 21 26	Varón
+T162	Patient 2515 2523	paciente
+T3	PROC 38 46	consulta
+T163	History_of 128 145	Infección por VIH
+T164	Observation 577 584	aumento
+T118	Observation 706 714	agobiado
+T165	Observation 878 888	Consciente
+T166	Observation 890 899	orientado
+T167	Observation 1265 1278	Marcha normal
+T156	Observation 2130 2171	hallazgos diferentes a las del TC craneal
+T157	Observation 2243 2269	encontrarse bastante mejor
+T115	DISO 2486 2511	Linfoma Cerebral Primario
+T155	Observation 1986 1994	contacta

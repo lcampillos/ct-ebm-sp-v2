@@ -1,0 +1,142 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	54 años
+T3	DISO 52 62	tumoración
+#1	AnnotatorNotes T3	C0577559; Mass of body structure; Finding
+T4	ANAT 66 100	cara posterior del muslo izquierdo
+T5	Duration 104 111	20 días
+T6	Neg_cue 176 179	Sin
+T7	DISO 180 205	reacciones medicamentosas
+#2	AnnotatorNotes T7	C0041755; Adverse reaction to drug; Pathologic Function
+T8	Negated 180 215	reacciones medicamentosas conocidas
+T9	DISO 219 226	Fumador
+#3	AnnotatorNotes T9	C0337664; Smoker; Finding
+T10	Frequency 239 243	/año
+T11	DISO 247 257	Dislipemia
+#4	AnnotatorNotes T11	C0242339; Dyslipidemias; Disease or Syndrome
+T12	DISO 260 276	hernias discales
+#5	AnnotatorNotes T12	C0242362 | C0678212; Herniation of nucleus pulposus; Injury or Poisoning
+T13	ANAT 285 293	cervical
+T14	PROC 375 386	tratamiento
+#6	AnnotatorNotes T14	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T15	CHEM 391 403	Simvastatina
+#7	AnnotatorNotes T15	C0074554; simvastatin; Organic Chemical · Pharmacologic Substance
+T16	Dose 404 409	20 mg
+T17	Time 416 420	cena
+T18	LIVB 452 457	Padre
+#8	AnnotatorNotes T18	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T19	DISO 458 467	fallecido
+#9	AnnotatorNotes T19	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T20	Age 472 479	64 años
+T21	DISO 487 494	linfoma
+#10	AnnotatorNotes T21	C0024299; Lymphoma; Neoplastic Process
+T22	LIVB 498 503	Madre
+#11	AnnotatorNotes T22	C0026591; Mother (person); Family Group
+T23	DISO 504 513	fallecida
+#12	AnnotatorNotes T23	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T24	Age 518 525	80 años
+T25	DISO 530 558	neoplasia ósea indeterminada
+T26	LIVB 562 569	Hermano
+#13	AnnotatorNotes T26	C0037047; Sibling; Family Group
+T27	Age 574 581	58 años
+T28	DISO 586 604	carcinoma de colon
+#14	AnnotatorNotes T28	C0699790; Colon Carcinoma; Neoplastic Process
+T29	DISO 628 638	Enfermedad
+#15	AnnotatorNotes T29	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T30	Date 655 667	hace 20 días
+T31	DISO 677 687	tumoración
+#16	AnnotatorNotes T31	C0577559; Mass of body structure; Finding
+T32	ANAT 691 724	cara posterior de muslo izquierdo
+T33	Neg_cue 751 756	Niega
+T34	DISO 757 768	traumatismo
+#17	AnnotatorNotes T34	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T35	Negated 757 768	traumatismo
+T36	DISO 777 784	Afebril
+#18	AnnotatorNotes T36	C0277797; Apyrexial; Finding
+T37	Negated 777 784	Afebril
+T38	PROC 799 817	Exploración física
+#19	AnnotatorNotes T38	C0031809; Physical Examination; Health Care Activity
+T39	Neg_cue 857 860	sin
+T40	Negated 861 880	signos de infección
+T42	Negated 899 928	estar en planos superficiales
+T43	PROC 934 957	Pruebas complementarias
+#20	AnnotatorNotes T43	C1515980; Ancillary Study; Research Activity
+T44	PROC 961 970	Analítica
+#21	AnnotatorNotes T44	C0002778; Analysis of substances; Laboratory Procedure
+T45	PROC 972 981	hemograma
+#22	AnnotatorNotes T45	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T46	PROC 983 993	bioquímica
+#23	AnnotatorNotes T46	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T47	PROC 996 1007	coagulación
+#24	AnnotatorNotes T47	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T48	PROC 1030 1039	Ecografía
+#25	AnnotatorNotes T48	C0041618; Ultrasonography; Diagnostic Procedure
+T49	DISO 1052 1062	tumoración
+#26	AnnotatorNotes T49	C0577559; Mass of body structure; Finding
+T52	PROC 1151 1162	TRATAMIENTO
+#28	AnnotatorNotes T52	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T53	PROC 1229 1257	Resonancia Magnética Nuclear
+#29	AnnotatorNotes T53	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T54	PROC 1259 1262	RMN
+#30	AnnotatorNotes T54	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T55	DISO 1287 1307	mixoma intramuscular
+T56	DISO 1341 1347	lesión
+#31	AnnotatorNotes T56	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T57	DISO 1367 1386	liposarcoma mixoide
+#32	AnnotatorNotes T57	C0206634; Liposarcoma, Myxoid; Neoplastic Process
+T58	DISO 1439 1447	necrosis
+#33	AnnotatorNotes T58	C1334928; Necrotic changes (finding); Finding
+T59	PROC 1465 1491	quimioterapia neoadyuvante
+T61	PROC 1549 1561	se intervino
+T62	LIVB 1565 1573	paciente
+#35	AnnotatorNotes T62	C0030705; Patients; Patient or Disabled Group
+T63	PROC 1579 1588	resección
+#36	AnnotatorNotes T63	C0728940; Excision; Therapeutic or Preventive Procedure
+T64	DISO 1595 1601	lesión
+#37	AnnotatorNotes T64	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T65	ANAT 1607 1649	compartimento del bíceps femoral izquierdo
+T66	PROC 1695 1723	TC torácico-abdomino-pélvico
+T67	Neg_cue 1725 1736	descartando
+T68	DISO 1737 1759	enfermedad metastásica
+#38	AnnotatorNotes T68	C0341683; Hydatid cyst of kidney; Disease or Syndrome
+T69	Negated 1737 1759	enfermedad metastásica
+T70	DISO 1787 1806	Liposarcoma mixoide
+#39	AnnotatorNotes T70	C0206634; Liposarcoma, Myxoid; Neoplastic Process
+T71	PROC 788 794	EXAMEN
+T72	PROC 846 855	palpación
+T73	DISO 821 840	Tumoración dolorosa
+#40	AnnotatorNotes T73	Tumor pain (C0854069)
+T74	DISO 861 880	signos de infección
+#41	AnnotatorNotes T74	C3714514; Infection; Pathologic Function
+T75	PROC 1327 1334	biopsia
+T76	PROC 1269 1283	juicio clínico
+T77	PROC 1763 1774	DIAGNÓSTICO
+T78	DISO 729 734	duele
+T79	PROC 740 749	palpación
+T80	Date 606 617	actualmente
+T81	Date 639 645	actual
+T82	Frequency 362 368	diaria
+T83	Result_or_Value 230 243	40paquete/año
+T85	Observation 308 368	independiente para las actividades básicas de la vida diaria
+T86	Observation 618 622	vivo
+T87	Result_or_Value 1008 1026	en rangos normales
+T89	Result_or_Value 1139 1147	14x4'4cm
+T90	Quantifier_or_Qualifier 1421 1429	extensas
+T91	Observation 1496 1519	disminución del volumen
+T92	DISO 1526 1532	lesión
+T93	Observation 1654 1669	buena evolución
+T94	Patient 21 26	Varón
+T95	History_of 180 205	reacciones medicamentosas
+T96	History_of 247 257	Dislipemia
+T97	History_of 260 276	hernias discales
+T98	Family_member 452 457	Padre
+T99	Family_member 498 503	Madre
+T100	Family_member 562 569	Hermano
+T101	History_of 757 768	traumatismo
+T102	Patient 1565 1573	paciente
+T103	Quantifier_or_Qualifier 545 558	indeterminada
+T104	Observation 1066 1093	localización intramuscular,
+T50	Observation 1391 1414	componente hipercelular
+T51	DISO 1098 1104	lesión
+T41	Neg_cue 882 895	No impresiona
+T60	Observation 899 928	estar en planos superficiales
+T84	Observation 1108 1129	bordes bien definidos

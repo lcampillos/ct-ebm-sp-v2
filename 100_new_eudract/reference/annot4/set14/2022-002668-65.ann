@@ -1,0 +1,97 @@
+T1	CHEM 74 85	vatiquinona
+T2	PROC 137 143	tratar
+T3	DISO 147 167	ataxia de Friedreich
+#1	AnnotatorNotes T3	C0016719; Friedreich Ataxia; Disease or Syndrome
+T4	DISO 173 194	condición neurológica
+T5	PROC 215 230	Estudio abierto
+T6	Date 231 244	a largo plazo
+T7	PROC 250 284	evaluar la seguridad y la eficacia
+T8	CHEM 288 299	vatiquinona
+T9	LIVB 303 312	pacientes
+#2	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	DISO 317 337	ataxia de Friedreich
+#3	AnnotatorNotes T10	C0016719; Friedreich Ataxia; Disease or Syndrome
+T11	DISO 362 382	ataxia de Friedreich
+#4	AnnotatorNotes T11	C0016719; Friedreich Ataxia; Disease or Syndrome
+T12	DISO 390 438	enfermedad neurodegenerativa autosómica recesiva
+T13	ANAT 468 484	sistema nervioso
+#5	AnnotatorNotes T13	C0027763; Nervous system structure; Body System | C1269560; Entire nervous system; Body System
+T14	ANAT 490 497	corazón
+#6	AnnotatorNotes T14	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T15	DISO 523 543	Ataxia de Friedreich
+#7	AnnotatorNotes T15	C0016719; Friedreich Ataxia; Disease or Syndrome
+T16	LIVB 576 583	persona
+#8	AnnotatorNotes T16	C0027361; Persons; Population Group
+T17	PROC 594 608	consentimiento
+T18	LIVB 630 638	Personas
+#9	AnnotatorNotes T18	C0027361; Persons; Population Group
+T19	DISO 643 645	AF
+#10	AnnotatorNotes T19	C0015625; Fanconi Anemia; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T20	PROC 668 683	estudio clínico
+#11	AnnotatorNotes T20	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T21	Date 788 794	actual
+T22	PROC 866 887	método anticonceptivo
+#12	AnnotatorNotes T22	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T23	DEVI 905 914	implantes
+#13	AnnotatorNotes T23	C0021102; Implants; Medical Device
+T24	Route 916 927	inyectables
+T25	DEVI 929 948	parche transdérmico
+#14	AnnotatorNotes T25	C0991556; Transdermal System; Medical Device
+T26	Form 929 935	parche
+T27	Route 936 948	transdérmico
+T28	Route 966 972	orales
+T29	PROC 985 1003	métodos de barrera
+#15	AnnotatorNotes T29	C0004764; Contraception, Barrier; Therapeutic or Preventive Procedure
+T30	DEVI 1006 1032	dispositivos intrauterinos
+#16	AnnotatorNotes T30	C0021900; Intrauterine Devices; Medical Device
+T31	PROC 1077 1091	consentimiento
+T32	Duration 1098 1105	30 días
+T33	CHEM 1137 1159	medicamento en estudio
+T34	PROC 1168 1174	visita
+T35	LIVB 1207 1214	hombres
+#17	AnnotatorNotes T35	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T36	Neg_cue 1237 1239	no
+T37	PROC 1240 1251	donar semen
+T38	Negated 1240 1251	donar semen
+T39	Duration 1281 1297	al menos 30 días
+T40	CHEM 1329 1340	medicamento
+#18	AnnotatorNotes T40	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T41	PROC 1349 1355	visita
+T42	Neg_cue 1407 1413	ningún
+T43	PROC 1419 1440	método anticonceptivo
+#19	AnnotatorNotes T43	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T44	Negated 1419 1440	método anticonceptivo
+T45	PROC 1472 1495	método de doble barrera
+T46	Date 1580 1586	actual
+T47	PROC 1605 1627	estudio intervencional
+T48	PHYS 1632 1640	Embarazo
+#20	AnnotatorNotes T48	C0032961; Pregnancy; Organism Function
+T49	PHYS 1643 1652	lactancia
+#21	AnnotatorNotes T49	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T50	Date 12 16	2022
+T51	PROC 44 131	Estudio para determinar si la vatiquinona, medicación del estudio, es segura y efectiva
+T52	PROC 780 787	estudio
+T53	LIVB 804 830	mujeres y hombres fértiles
+T54	Route 905 914	implantes
+T55	CHEM 950 983	anticonceptivos orales combinados
+T56	PROC 1263 1270	estudio
+T57	DEVI 1505 1533	preservativo con espermicida
+T58	CHEM 87 109	medicación del estudio
+T59	Quantifier_or_Qualifier 114 120	segura
+T60	Quantifier_or_Qualifier 123 131	efectiva
+T61	Observation 614 624	participar
+T62	Observation 654 683	completado un estudio clínico
+T63	Observation 845 855	dispuestos
+T64	Quantifier_or_Qualifier 888 896	efectivo
+T65	CONC 1120 1132	última dosis
+T66	Quantifier_or_Qualifier 1175 1201	de finalización anticipada
+T67	CONC 1312 1324	última dosis
+T68	Quantifier_or_Qualifier 1356 1382	de finalización anticipada
+T69	Observation 1566 1627	Participación actual en cualquier otro estudio intervencional
+T70	Patient 303 312	pacientes
+T71	Patient 576 583	persona
+T72	Patient 630 638	Personas
+T73	History_of 668 683	estudio clínico
+T74	Patient 804 811	mujeres
+T75	Patient 814 830	hombres fértiles
+T76	Patient 1207 1214	hombres

@@ -8,61 +8,84 @@ T5	LIVB 184 191	adultos
 #3	AnnotatorNotes T5	C0001675; Adult; Age Group
 T6	Age 184 191	adultos
 T7	DISO 192 213	infectados por el VIH
-T9	PROC 256 267	tratamiento
-#5	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T10	DISO 271 287	Infecció por HIV
-T11	DISO 313 330	infección por HIV
-#6	AnnotatorNotes T11	C0019693; HIV Infections; Disease or Syndrome
-T12	LIVB 359 366	Adultos
-#7	AnnotatorNotes T12	C0001675; Adult; Age Group
-T13	Age 359 366	Adultos
-T14	DISO 367 388	infectados por el VIH
-T15	DISO 400 413	asintomáticos
-#8	AnnotatorNotes T15	C0231221; Asymptomatic (finding); Finding
-T16	Negated 400 413	asintomáticos
-T17	Age 414 423	(≥18 años
-T18	CHEM 440 445	BETAF
-T19	Frequency 446 460	una vez al día
-T21	CHEM 504 528	ARN plasmático del VIH-1
-T23	PROC 595 620	Recuentos de células 3CD4
-T24	ANAT 638 645	células
-#9	AnnotatorNotes T24	C0007634; Cells; Cell | C1269647; Entire cell; Cell
-T25	LIVB 705 727	mujeres en edad fértil
-T26	Age 716 727	edad fértil
-T27	PROC 744 762	prueba de embarazo
-#10	AnnotatorNotes T27	C0032976; Pregnancy Tests; Diagnostic Procedure
-T28	Negated 754 762	embarazo
-T29	Neg_cue 763 771	negativa
-T30	ANAT 775 780	suero
-#11	AnnotatorNotes T30	C0229671; Serum; Body Substance | C0588987; Serum product; Body Substance
-T31	PROC 837 860	métodos anticonceptivos
-#12	AnnotatorNotes T31	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
-T32	LIVB 883 892	Pacientes
-#13	AnnotatorNotes T32	C0030705; Patients; Patient or Disabled Group
-T33	PROC 982 1005	régimen antirretroviral
-T34	DISO 1008 1033	mutaciones de resistencia
-T35	CHEM 1049 1060	bictegravir
-#14	AnnotatorNotes T35	C4507568; bictegravir; Immunologic Factor · Organic Chemical · Pharmacologic Substance
-T36	CHEM 1062 1075	emtricitabina
-#15	AnnotatorNotes T36	C0909839; emtricitabine; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
-T37	CHEM 1078 1087	tenofovir
-#16	AnnotatorNotes T37	C0384228; tenofovir; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
-T38	PROC 1101 1112	diagnóstico
-#17	AnnotatorNotes T38	C0011900; Diagnosis; Diagnostic Procedure
-T39	DISO 1116 1139	enfermedad psiquiátrica
-#18	AnnotatorNotes T39	C0004936; Mental disorders; Mental or Behavioral Dysfunction
-T40	DISO 1142 1158	Abuso de alcohol
-#19	AnnotatorNotes T40	C0085762; Alcohol abuse; Mental or Behavioral Dysfunction
-T41	DISO 1161 1187	consumo de drogas ilícitas
-T43	PROC 1268 1281	reclutamiento
-#20	AnnotatorNotes T43	C0242800; Patient Recruitment; Research Activity
-T44	LIVB 1286 1295	Pacientes
-#21	AnnotatorNotes T44	C0030705; Patients; Patient or Disabled Group
-T47	DISO 1319 1346	virus de la hepatitis B o C
-T48	Neg_cue 1402 1404	no
-T49	Negated 1429 1448	correcta adherencia
-T56	DISO 1296 1316	coinfectados con VIH
+T8	PROC 256 267	tratamiento
+#4	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	DISO 271 287	Infecció por HIV
+T10	DISO 313 330	infección por HIV
+#5	AnnotatorNotes T10	C0019693; HIV Infections; Disease or Syndrome
+T11	LIVB 359 366	Adultos
+#6	AnnotatorNotes T11	C0001675; Adult; Age Group
+T12	Age 359 366	Adultos
+T13	DISO 367 388	infectados por el VIH
+T14	DISO 400 413	asintomáticos
+#7	AnnotatorNotes T14	C0231221; Asymptomatic (finding); Finding
+T15	Negated 400 413	asintomáticos
+T16	Age 414 423	(≥18 años
+T17	CHEM 440 445	BETAF
+T18	Frequency 446 460	una vez al día
+T19	CHEM 504 528	ARN plasmático del VIH-1
+T20	PROC 595 620	Recuentos de células 3CD4
+T21	ANAT 638 645	células
+#8	AnnotatorNotes T21	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T22	LIVB 705 727	mujeres en edad fértil
+T23	Age 716 727	edad fértil
+T24	PROC 744 762	prueba de embarazo
+#9	AnnotatorNotes T24	C0032976; Pregnancy Tests; Diagnostic Procedure
+T25	Negated 754 762	embarazo
+T26	Neg_cue 763 771	negativa
+T27	ANAT 775 780	suero
+#10	AnnotatorNotes T27	C0229671; Serum; Body Substance | C0588987; Serum product; Body Substance
+T28	PROC 837 860	métodos anticonceptivos
+#11	AnnotatorNotes T28	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T29	LIVB 883 892	Pacientes
+#12	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	PROC 982 1005	régimen antirretroviral
+T31	DISO 1008 1033	mutaciones de resistencia
+T32	CHEM 1049 1060	bictegravir
+#13	AnnotatorNotes T32	C4507568; bictegravir; Immunologic Factor · Organic Chemical · Pharmacologic Substance
+T33	CHEM 1062 1075	emtricitabina
+#14	AnnotatorNotes T33	C0909839; emtricitabine; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T34	CHEM 1078 1087	tenofovir
+#15	AnnotatorNotes T34	C0384228; tenofovir; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T35	PROC 1101 1112	diagnóstico
+#16	AnnotatorNotes T35	C0011900; Diagnosis; Diagnostic Procedure
+T36	DISO 1116 1139	enfermedad psiquiátrica
+#17	AnnotatorNotes T36	C0004936; Mental disorders; Mental or Behavioral Dysfunction
+T37	DISO 1142 1158	Abuso de alcohol
+#18	AnnotatorNotes T37	C0085762; Alcohol abuse; Mental or Behavioral Dysfunction
+T38	DISO 1161 1187	consumo de drogas ilícitas
+T39	PROC 1268 1281	reclutamiento
+#19	AnnotatorNotes T39	C0242800; Patient Recruitment; Research Activity
+T40	LIVB 1286 1295	Pacientes
+#20	AnnotatorNotes T40	C0030705; Patients; Patient or Disabled Group
+T41	DISO 1319 1346	virus de la hepatitis B o C
+T42	Neg_cue 1402 1404	no
+T43	Negated 1429 1448	correcta adherencia
+T44	DISO 1296 1316	coinfectados con VIH
 T45	LIVB 1391 1397	médico
 T46	PROC 218 233	supresión viral
-T50	Duration 469 489	al menos los 6 meses
-T20	Duration 570 581	los 6 meses
+T47	Duration 469 489	al menos los 6 meses
+T48	Duration 570 581	los 6 meses
+T49	Observation 218 233	supresión viral
+T50	Observation 389 397	estables
+T51	Result_or_Value 529 552	inferior a 50 copias/ml
+T52	Result_or_Value 621 648	superiores a 350 células/ml
+T53	CONC 655 698	momento de la consideración para el estudio
+T54	Result_or_Value 763 771	negativa
+T55	CONC 793 802	inclusión
+T56	Quantifier_or_Qualifier 861 880	altamente efectivos
+T57	Observation 893 913	aceptaron participar
+T58	Observation 942 960	Fracaso virológico
+T59	Food 1151 1158	alcohol
+T60	CONC 1202 1218	historial médico
+T61	Observation 1438 1448	adherencia
+T62	Patient 184 191	adultos
+T63	Patient 359 366	Adultos
+T64	History_of 440 445	BETAF
+T65	Patient 705 727	mujeres en edad fértil
+T66	Patient 883 892	Pacientes
+T67	History_of 982 1005	régimen antirretroviral
+T68	History_of 1008 1033	mutaciones de resistencia
+T69	Patient 1286 1295	Pacientes
+T70	Other 1391 1397	médico
+T71	History_of 942 960	Fracaso virológico

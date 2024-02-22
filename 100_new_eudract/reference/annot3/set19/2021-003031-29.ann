@@ -1,0 +1,208 @@
+T1	PROC 44 75	Estudio maestro de continuación
+T2	LIVB 79 88	pacientes
+#1	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	PROC 113 133	estudio en oncología
+T4	CHEM 145 155	Durvalumab
+#2	AnnotatorNotes T4	C4055109; durvalumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T5	PROC 184 215	Estudio maestro de continuación
+T6	LIVB 219 228	pacientes
+#3	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	PROC 253 273	estudio en oncología
+T8	CHEM 281 291	Durvalumab
+#4	AnnotatorNotes T8	C4055109; durvalumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T9	LIVB 301 313	investigador
+#5	AnnotatorNotes T9	C0035173; Research Personnel; Professional or Occupational Group
+T10	PROC 363 387	continuar el tratamiento
+T11	DISO 409 461	Carcinoma urotelial y no urotelial de vías urinarias
+T12	Neg_cue 431 433	no
+T13	Negated 434 443	urotelial
+T14	Date 462 478	posquimioterapia
+T15	LIVB 479 488	Pacientes
+#6	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 510 546	cáncer de pulmón de células pequeñas
+#7	AnnotatorNotes T16	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T17	DISO 548 552	CPCP
+#8	AnnotatorNotes T17	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T18	DISO 558 568	enfermedad
+#9	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	DISO 587 649	Cáncer de pulmón de células no pequeñas avanzado o metastásico
+#10	AnnotatorNotes T19	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T20	Neg_cue 615 617	no
+T21	Negated 618 626	pequeñas
+T22	LIVB 653 662	pacientes
+#11	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	Neg_cue 663 666	sin
+T24	PROC 667 678	tratamiento
+#12	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	Negated 667 678	tratamiento
+T26	CHEM 690 735	receptor del factor de crecimiento epidérmico
+#13	AnnotatorNotes T26	C1739039; EGFR protein, human; Amino Acid, Peptide, or Protein · Receptor
+T27	Negated 690 735	receptor del factor de crecimiento epidérmico
+T28	CHEM 737 741	EGFR
+#14	AnnotatorNotes T28	C1739039; EGFR protein, human; Amino Acid, Peptide, or Protein · Receptor
+T29	Negated 737 741	EGFR
+T30	DISO 745 762	patología tumoral
+T31	LIVB 766 770	cepa
+T32	CHEM 784 813	quinasa de linfoma anaplásico
+T33	CHEM 815 818	ALK
+#15	AnnotatorNotes T33	C1663627; ALK protein, human; Amino Acid, Peptide, or Protein · Enzyme · Receptor
+T34	DISO 821 894	Cáncer de pulmón de células no pequeñas no resecable, localmente avanzado
+#16	AnnotatorNotes T34	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T35	Neg_cue 849 851	no
+T36	Negated 852 860	pequeñas
+T37	Neg_cue 861 863	no
+T38	Negated 864 873	resecable
+T39	DISO 951 957	cáncer
+#17	AnnotatorNotes T39	C0006826; Malignant Neoplasms; Neoplastic Process
+T40	PROC 1037 1067	ICF escrito, firmado y fechado
+T41	LIVB 1076 1084	paciente
+#18	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	Date 1093 1104	actualmente
+T43	LIVB 1151 1163	investigador
+#19	AnnotatorNotes T43	C0035173; Research Personnel; Professional or Occupational Group
+T44	PROC 1169 1189	tratamiento contínuo
+T45	CHEM 1235 1250	compuesto de AZ
+T46	LIVB 1327 1335	paciente
+#20	AnnotatorNotes T46	C0030705; Patients; Patient or Disabled Group
+T47	PROC 1367 1378	tratamiento
+#21	AnnotatorNotes T47	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T48	DISO 1458 1467	Toxicidad
+#22	AnnotatorNotes T48	C0600688; Toxic effect; Injury or Poisoning
+T49	Date 1468 1476	en curso
+T50	Neg_cue 1478 1480	no
+T51	Negated 1481 1489	resuelta
+T52	PROC 1529 1557	interrupción del tratamiento
+T53	Date 1618 1629	Actualmente
+T54	Contraindicated 1638 1653	tratamiento con
+T55	PROC 1638 1649	tratamiento
+#23	AnnotatorNotes T55	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T56	CHEM 1660 1671	medicamento
+#24	AnnotatorNotes T56	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T57	Contraindicated 1660 1671	medicamento
+T58	PROC 1744 1764	investigación médica
+T59	Neg_cue 1769 1771	no
+T60	Negated 1785 1820	científica o médicamente compatible
+T61	PROC 1843 1855	Interrupción
+T62	DISO 1898 1907	toxicidad
+#25	AnnotatorNotes T62	C0600688; Toxic effect; Injury or Poisoning
+T63	DISO 1910 1937	progresión de la enfermedad
+#26	AnnotatorNotes T63	C0242656; Disease Progression; Pathologic Function
+T64	CHEM 1958 1970	medicamentos
+#27	AnnotatorNotes T64	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T65	Neg_cue 1998 2001	sin
+T66	Negated 2002 2007	costo
+T67	LIVB 2016 2024	paciente
+#28	AnnotatorNotes T67	C0030705; Patients; Patient or Disabled Group
+T68	DISO 2166 2174	COVID-19
+#29	AnnotatorNotes T68	C5203670; COVID19 (disease); Disease or Syndrome
+T69	PROC 2191 2194	PCR
+#30	AnnotatorNotes T69	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T70	Speculated 2199 2211	clínicamente
+T71	Spec_cue 2212 2222	sospechado
+T72	DISO 2225 2237	tuberculosis
+#31	AnnotatorNotes T72	C0041296; Tuberculosis; Disease or Syndrome | C0041327; Tuberculosis, Pulmonary; Disease or Syndrome
+T73	DISO 2239 2250	hepatitis B
+#32	AnnotatorNotes T73	C0019163; Hepatitis B; Disease or Syndrome
+T74	PROC 2283 2288	HBsAg
+#33	AnnotatorNotes T74	C0201477; Hepatitis B surface antigen measurement; Laboratory Procedure
+T75	DISO 2291 2302	hepatitis C
+#34	AnnotatorNotes T75	C0019196; Hepatitis C; Disease or Syndrome
+T76	DISO 2305 2308	VIH
+#35	AnnotatorNotes T76	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T77	PROC 2310 2329	anticuerpos VIH 1/2
+T78	LIVB 2346 2378	Pacientes masculinos o femeninos
+T79	PHYS 2383 2405	potencial reproductivo
+T80	Spec_cue 2383 2392	potencial
+T81	Speculated 2393 2405	reproductivo
+T82	Neg_cue 2410 2412	no
+T83	PROC 2443 2464	método anticonceptivo
+#36	AnnotatorNotes T83	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T84	Negated 2443 2464	método anticonceptivo
+T85	Negated 2465 2471	eficaz
+T86	Duration 2511 2518	90 días
+T87	PROC 2549 2560	monoterapia
+#37	AnnotatorNotes T87	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T88	CHEM 2565 2575	durvalumab
+#38	AnnotatorNotes T88	C4055109; durvalumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T89	DISO 2581 2590	Toxicidad
+#39	AnnotatorNotes T89	C0600688; Toxic effect; Injury or Poisoning
+T90	Date 2602 2610	en curso
+T91	Neg_cue 2612 2614	no
+T92	Negated 2615 2623	resuelta
+T93	Neg_cue 2629 2640	incapacidad
+T94	PROC 2646 2672	reducir el corticosteroide
+T95	Negated 2646 2672	reducir el corticosteroide
+T96	Dose 2688 2697	</= 10 mg
+T97	CHEM 2701 2711	prednisona
+#40	AnnotatorNotes T97	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T98	Frequency 2712 2719	por día
+T99	Duration 2739 2753	las 12 semanas
+T100	PROC 2839 2863	Modificación de la dosis
+T101	DISO 2867 2876	toxicidad
+#41	AnnotatorNotes T101	C0600688; Toxic effect; Injury or Poisoning
+T102	CHEM 2879 2882	TMG
+T103	DISO 2901 2974	reacciones inmunológicas, relacionadas con la infusión y no inmunológicas
+T104	PROC 2947 2955	infusión
+#42	AnnotatorNotes T104	C0574032; Infusion procedures; Therapeutic or Preventive Procedure
+T105	Neg_cue 2958 2960	no
+T106	Negated 2961 2974	inmunológicas
+T107	Date 12 16	2021
+T108	PROC 975 992	estudio de origen
+T109	PROC 1196 1219	estudio de origen de AZ
+T110	PROC 1395 1426	protocolo del estudio de origen
+T111	PROC 1595 1612	estudio de origen
+T112	PROC 1830 1837	estudio
+T113	PROC 1871 1888	estudio de origen
+T114	DISO 2138 2147	Infección
+T115	PROC 2497 2504	estudio
+T116	CHEM 2788 2811	tratamiento del estudio
+T117	PROC 2812 2831	régimen del estudio
+T118	PROC 2979 2996	estudio de origen
+T119	Route 2947 2955	infusión
+T120	Observation 334 359	beneficiarse clínicamente
+T121	Quantifier_or_Qualifier 569 574	grave
+T122	Quantifier_or_Qualifier 576 584	etapa IV
+T123	Quantifier_or_Qualifier 618 626	pequeñas
+T124	Quantifier_or_Qualifier 627 635	avanzado
+T125	Quantifier_or_Qualifier 766 780	cepa silvestre
+T126	Quantifier_or_Qualifier 852 860	pequeñas
+T127	Quantifier_or_Qualifier 864 873	resecable
+T128	Quantifier_or_Qualifier 875 894	localmente avanzado
+T129	Quantifier_or_Qualifier 896 906	etapa III)
+T130	Observation 1108 1125	beneficio clínico
+T131	CONC 1297 1303	detuvo
+T132	Observation 1481 1489	resuelta
+T133	Quantifier_or_Qualifier 1494 1512	Grado 3 o superior
+T134	CONC 1578 1602	finalización del estudio
+T135	Observation 1693 1717	inscrito simultáneamente
+T136	Quantifier_or_Qualifier 1798 1820	médicamente compatible
+T137	CONC 2002 2007	costo
+T138	Result_or_Value 2252 2270	resultado positivo
+T139	Result_or_Value 2330 2339	positivos
+T140	Quantifier_or_Qualifier 2393 2405	reproductivo
+T141	Observation 2419 2429	dispuestos
+T142	Quantifier_or_Qualifier 2465 2471	eficaz
+T143	CONC 2481 2490	inclusión
+T144	CONC 2533 2545	última dosis
+T145	Quantifier_or_Qualifier 2594 2601	grado 2
+T146	Observation 2615 2623	resuelta
+T147	CONC 2771 2783	última dosis
+T148	Quantifier_or_Qualifier 2961 2974	inmunológicas
+T149	Patient 79 88	pacientes
+T150	History_of 113 133	estudio en oncología
+T151	History_of 145 155	Durvalumab
+T152	Patient 219 228	pacientes
+T153	History_of 253 273	estudio en oncología
+T154	History_of 281 291	Durvalumab
+T155	Other 301 313	investigador
+T156	Patient 479 505	Pacientes de primera línea
+T157	Patient 653 662	pacientes
+T158	History_of 667 678	tratamiento
+T159	History_of 690 741	receptor del factor de crecimiento epidérmico (EGFR
+T160	Patient 1076 1084	paciente
+T161	Other 1151 1163	investigador
+T162	Patient 1327 1335	paciente
+T163	Patient 2016 2024	paciente
+T164	Patient 2346 2378	Pacientes masculinos o femeninos
+T165	History_of 2549 2560	monoterapia
+T166	History_of 2565 2575	durvalumab

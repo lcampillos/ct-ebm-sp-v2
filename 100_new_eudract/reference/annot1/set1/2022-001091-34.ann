@@ -67,26 +67,42 @@ T45	CHEM 1180 1196	corticosteroides
 #22	AnnotatorNotes T45	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
 T46	Negated 1180 1196	corticosteroides
 T47	Route 1197 1203	orales
-T49	Negated 1207 1217	prednisona
-#23	AnnotatorNotes T49	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
-T50	Dose 1218 1225	> 15 mg
-T51	Frequency 1225 1229	/día
-T52	PHYS 1256 1269	respiratorios
-#24	AnnotatorNotes T52	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
-T53	ANAT 1272 1282	pulmonares
-#25	AnnotatorNotes T53	C1269007; Entire pulmonary valve; Body Part, Organ, or Organ Component | C1269026; Entire pulmonary artery; Body Part, Organ, or Organ Component | C1278908; Entire lung; Body Part, Organ, or Organ Component
-T54	DISO 1283 1293	Vasculitis
-#26	AnnotatorNotes T54	C0042384; Vasculitis; Disease or Syndrome | C0264939; Systemic Vasculitis; Finding | C1328843; Autoimmune vasculitis; Disease or Syndrome
-T55	Neg_cue 1314 1316	no
-T56	Negated 1317 1327	controlada
-T57	Duration 1331 1352	las 8 semanas previas
-T58	DISO 1363 1385	comportamiento suicida
-#27	AnnotatorNotes T58	C1760428; Suicidal behavior; Finding
-T59	Duration 1389 1407	los últimos 2 años
-T60	DISO 1418 1434	ideación suicida
-#28	AnnotatorNotes T60	C0424000; Feeling suicidal (finding); Finding
-T61	Duration 1465 1484	los últimos 3 meses
-T62	PROC 46 53	Estudio
-T48	CHEM 1207 1217	prednisona
-T65	PROC 1455 1461	C-SSRS
-T66	PROC 1110 1119	selección
+T48	Negated 1207 1217	prednisona
+#23	AnnotatorNotes T48	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T49	Dose 1218 1225	> 15 mg
+T50	Frequency 1225 1229	/día
+T51	PHYS 1256 1269	respiratorios
+#24	AnnotatorNotes T51	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
+T52	ANAT 1272 1282	pulmonares
+#25	AnnotatorNotes T52	C1269007; Entire pulmonary valve; Body Part, Organ, or Organ Component | C1269026; Entire pulmonary artery; Body Part, Organ, or Organ Component | C1278908; Entire lung; Body Part, Organ, or Organ Component
+T53	DISO 1283 1293	Vasculitis
+#26	AnnotatorNotes T53	C0042384; Vasculitis; Disease or Syndrome | C0264939; Systemic Vasculitis; Finding | C1328843; Autoimmune vasculitis; Disease or Syndrome
+T54	Neg_cue 1314 1316	no
+T55	Negated 1317 1327	controlada
+T56	Duration 1331 1352	las 8 semanas previas
+T57	DISO 1363 1385	comportamiento suicida
+#27	AnnotatorNotes T57	C1760428; Suicidal behavior; Finding
+T58	Duration 1389 1407	los últimos 2 años
+T59	DISO 1418 1434	ideación suicida
+#28	AnnotatorNotes T59	C0424000; Feeling suicidal (finding); Finding
+T60	Duration 1465 1484	los últimos 3 meses
+T61	PROC 46 53	Estudio
+T62	CHEM 1207 1217	prednisona
+T63	PROC 1455 1461	C-SSRS
+T64	PROC 1110 1119	selección
+T65	Observation 83 109	mejora la función pulmonar
+T66	Quantifier_or_Qualifier 434 446	identificado
+T67	CONC 642 664	Guías ATS/ERS/JRS/ALAT
+T68	Result_or_Value 677 708	≥45 % del valor normal predicho
+T69	Result_or_Value 714 754	≥ 25% y < 90 % del valor normal predicho
+T70	Quantifier_or_Qualifier 770 777	estable
+T71	Result_or_Value 994 998	<0,7
+T72	Quantifier_or_Qualifier 1294 1300	activa
+T73	Observation 1302 1311	inestable
+T74	Quantifier_or_Qualifier 1317 1327	controlada
+T75	Quantifier_or_Qualifier 1438 1448	tipo 4 o 5
+T76	CONC 1455 1461	C-SSRS
+T77	Patient 113 121	personas
+T78	Patient 324 333	pacientes
+T79	Patient 534 543	Pacientes
+T80	History_of 1283 1293	Vasculitis

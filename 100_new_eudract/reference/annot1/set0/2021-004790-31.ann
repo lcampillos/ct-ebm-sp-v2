@@ -25,76 +25,102 @@ T17	LIVB 623 631	paciente
 #8	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
 T18	DISO 656 666	enfermedad
 #9	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T20	PROC 810 836	diagnóstico primario DSM-5
-#10	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
-T21	DISO 840 842	TB
-#11	AnnotatorNotes T21	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
-T22	Neg_cue 857 860	sin
-T23	Negated 861 887	características psicóticas
-T24	DISO 949 952	EDM
-#12	AnnotatorNotes T24	C0026760; Multiple Epiphyseal Dysplasia; Congenital Abnormality
-T25	Date 960 971	actualmente
-T26	CHEM 977 982	litio
-#13	AnnotatorNotes T26	C0023870; lithium; Element, Ion, or Isotope · Pharmacologic Substance
-T27	CHEM 984 999	ácido valproico
-#14	AnnotatorNotes T27	C0042291; valproic acid; Organic Chemical · Pharmacologic Substance
-T28	PROC 1005 1050	tratamiento estabilizador del estado de ánimo
-T29	CHEM 1055 1066	lamotrigina
-#15	AnnotatorNotes T29	C0064636; lamotrigine; Organic Chemical · Pharmacologic Substance
-T30	Dose 1094 1111	una dosis estable
-T31	Duration 1133 1142	4 semanas
-T32	PROC 1234 1252	exploración física
-#16	AnnotatorNotes T32	C0031809; Physical Examination; Health Care Activity
-T33	PROC 1280 1298	constantes vitales
-T34	PROC 1395 1422	pruebas analíticas clínicas
-T35	Neg_cue 1477 1479	No
-T36	Negated 1487 1511	participar en el estudio
-T37	Spec_cue 1516 1524	posibles
-T38	LIVB 1525 1534	pacientes
-#17	AnnotatorNotes T38	C0030705; Patients; Patient or Disabled Group
-T39	Speculated 1525 1534	pacientes
-T40	DISO 1583 1601	Afecciones médicas
-T41	DISO 1843 1878	trastorno límite de la personalidad
-#18	AnnotatorNotes T41	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
-T42	PROC 1912 1923	diagnóstico
-#19	AnnotatorNotes T42	C0011900; Diagnosis; Diagnostic Procedure
-T43	Date 1924 1930	actual
-T44	DISO 1949 1984	trastorno límite de la personalidad
-#20	AnnotatorNotes T44	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
-T45	DISO 1987 2023	trastorno de personalidad antisocial
-#21	AnnotatorNotes T45	C0003431; Antisocial Personality Disorder; Mental or Behavioral Dysfunction
-T46	DISO 2026 2047	trastorno alimenticio
-T47	DISO 2050 2079	trastorno de conducta suicida
-T48	DISO 2109 2141	alteraciones del estado de ánimo
-#22	AnnotatorNotes T48	C2939186; Disturbance in mood; Mental or Behavioral Dysfunction
-T49	DISO 2151 2156	manía
-#23	AnnotatorNotes T49	C0338831; Manic; Mental or Behavioral Dysfunction
-T50	DISO 2158 2167	hipomanía
-#24	AnnotatorNotes T50	C0241934; Hypomania; Finding
-T51	DISO 2169 2178	depresión
-#25	AnnotatorNotes T51	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
-T52	DISO 2180 2188	distimia
-#26	AnnotatorNotes T52	C0013415; Dysthymic Disorder; Mental or Behavioral Dysfunction
-T53	DISO 2191 2200	hipomanía
-#27	AnnotatorNotes T53	C0241934; Hypomania; Finding
-T54	Duration 2205 2225	los últimos 12 meses
-T55	DISO 2238 2257	trastorno psicótico
-#28	AnnotatorNotes T55	C0033975; Psychotic Disorders; Mental or Behavioral Dysfunction
-T56	Date 2269 2280	actualmente
-T57	DISO 2309 2327	episodios maniacos
-#29	AnnotatorNotes T57	C0349208; Manic Episode; Mental or Behavioral Dysfunction
-T58	DISO 2329 2331	EM
-#30	AnnotatorNotes T58	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
-T59	PROC 2366 2370	YMRS
-T60	LIVB 562 578	Cualquier género
-T61	CHEM 753 763	nucleótido
-T63	PROC 916 920	MINI
-T64	DISO 861 887	características psicóticas
-T65	PROC 1257 1273	historia clínica
-T67	PROC 1823 1827	MINI
-T68	PROC 2339 2343	MINI
-T70	CHEM 1683 1693	nucleótido
-T72	CHEM 1777 1787	nucleótido
-T74	PROC 1159 1168	selección
-T66	PROC 1319 1328	selección
-T75	PROC 1440 1449	selección
+T19	PROC 810 836	diagnóstico primario DSM-5
+#10	AnnotatorNotes T19	C0011900; Diagnosis; Diagnostic Procedure
+T20	DISO 840 842	TB
+#11	AnnotatorNotes T20	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
+T21	Neg_cue 857 860	sin
+T22	Negated 861 887	características psicóticas
+T23	DISO 949 952	EDM
+#12	AnnotatorNotes T23	C0026760; Multiple Epiphyseal Dysplasia; Congenital Abnormality
+T24	Date 960 971	actualmente
+T25	CHEM 977 982	litio
+#13	AnnotatorNotes T25	C0023870; lithium; Element, Ion, or Isotope · Pharmacologic Substance
+T26	CHEM 984 999	ácido valproico
+#14	AnnotatorNotes T26	C0042291; valproic acid; Organic Chemical · Pharmacologic Substance
+T27	PROC 1005 1050	tratamiento estabilizador del estado de ánimo
+T28	CHEM 1055 1066	lamotrigina
+#15	AnnotatorNotes T28	C0064636; lamotrigine; Organic Chemical · Pharmacologic Substance
+T29	Dose 1094 1111	una dosis estable
+T30	Duration 1133 1142	4 semanas
+T31	PROC 1234 1252	exploración física
+#16	AnnotatorNotes T31	C0031809; Physical Examination; Health Care Activity
+T32	PROC 1280 1298	constantes vitales
+T33	PROC 1395 1422	pruebas analíticas clínicas
+T34	Neg_cue 1477 1479	No
+T35	Negated 1487 1511	participar en el estudio
+T36	Spec_cue 1516 1524	posibles
+T37	LIVB 1525 1534	pacientes
+#17	AnnotatorNotes T37	C0030705; Patients; Patient or Disabled Group
+T38	Speculated 1525 1534	pacientes
+T39	DISO 1583 1601	Afecciones médicas
+T40	DISO 1843 1878	trastorno límite de la personalidad
+#18	AnnotatorNotes T40	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
+T41	PROC 1912 1923	diagnóstico
+#19	AnnotatorNotes T41	C0011900; Diagnosis; Diagnostic Procedure
+T42	Date 1924 1930	actual
+T43	DISO 1949 1984	trastorno límite de la personalidad
+#20	AnnotatorNotes T43	C0006012; Borderline Personality Disorder; Mental or Behavioral Dysfunction
+T44	DISO 1987 2023	trastorno de personalidad antisocial
+#21	AnnotatorNotes T44	C0003431; Antisocial Personality Disorder; Mental or Behavioral Dysfunction
+T45	DISO 2026 2047	trastorno alimenticio
+T46	DISO 2050 2079	trastorno de conducta suicida
+T47	DISO 2109 2141	alteraciones del estado de ánimo
+#22	AnnotatorNotes T47	C2939186; Disturbance in mood; Mental or Behavioral Dysfunction
+T48	DISO 2151 2156	manía
+#23	AnnotatorNotes T48	C0338831; Manic; Mental or Behavioral Dysfunction
+T49	DISO 2158 2167	hipomanía
+#24	AnnotatorNotes T49	C0241934; Hypomania; Finding
+T50	DISO 2169 2178	depresión
+#25	AnnotatorNotes T50	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T51	DISO 2180 2188	distimia
+#26	AnnotatorNotes T51	C0013415; Dysthymic Disorder; Mental or Behavioral Dysfunction
+T52	DISO 2191 2200	hipomanía
+#27	AnnotatorNotes T52	C0241934; Hypomania; Finding
+T53	Duration 2205 2225	los últimos 12 meses
+T54	DISO 2238 2257	trastorno psicótico
+#28	AnnotatorNotes T54	C0033975; Psychotic Disorders; Mental or Behavioral Dysfunction
+T55	Date 2269 2280	actualmente
+T56	DISO 2309 2327	episodios maniacos
+#29	AnnotatorNotes T56	C0349208; Manic Episode; Mental or Behavioral Dysfunction
+T57	DISO 2329 2331	EM
+#30	AnnotatorNotes T57	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T58	PROC 2366 2370	YMRS
+T59	LIVB 562 578	Cualquier género
+T60	CHEM 753 763	nucleótido
+T61	PROC 916 920	MINI
+T62	DISO 861 887	características psicóticas
+T63	PROC 1257 1273	historia clínica
+T64	PROC 1823 1827	MINI
+T65	PROC 2339 2343	MINI
+T66	CHEM 1683 1693	nucleótido
+T67	CHEM 1777 1787	nucleótido
+T68	PROC 1159 1168	selección
+T69	PROC 1319 1328	selección
+T70	PROC 1440 1449	selección
+T71	Quantifier_or_Qualifier 683 699	una o dos copias
+T72	Quantifier_or_Qualifier 822 830	primario
+T73	CONC 831 836	DSM-5
+T74	Quantifier_or_Qualifier 844 855	tipo I o II
+T75	Observation 861 887	características psicóticas
+T76	CONC 916 920	MINI
+T77	Observation 1177 1215	estable desde el punto de vista médico
+T78	CONC 1257 1273	historia clínica
+T79	Observation 1337 1375	estable desde el punto de vista médico
+T80	Observation 1487 1511	participar en el estudio
+T81	Quantifier_or_Qualifier 1619 1629	dos copias
+T82	Quantifier_or_Qualifier 1702 1718	una o más copias
+T83	CONC 1823 1827	MINI
+T84	CONC 1937 1942	DSM-5
+T85	Quantifier_or_Qualifier 2082 2105	mayor/igual 4 episodios
+T86	CONC 2298 2303	DSM-5
+T87	Result_or_Value 2371 2383	mayor de 12.
+T88	Patient 501 510	pacientes
+T89	Patient 623 631	paciente
+T90	Patient 1525 1534	pacientes
+T91	History_of 2109 2141	alteraciones del estado de ánimo
+T92	History_of 2151 2156	manía
+T93	History_of 2158 2167	hipomanía
+T94	History_of 2169 2178	depresión
+T95	History_of 2180 2188	distimia
+T96	History_of 2191 2200	hipomanía

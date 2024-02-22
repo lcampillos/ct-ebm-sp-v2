@@ -1,54 +1,79 @@
 T1	PROC 47 75	Estudio abierto de extensión
 T2	PROC 81 127	evaluar la seguridad, tolerabilidad y eficacia
-T4	PROC 146 167	tratamiento combinado
-T5	CHEM 171 180	pozelimab
-T6	CHEM 183 193	cemdisirán
-T7	LIVB 197 206	pacientes
-#1	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
-T8	DISO 211 246	hemoglobinuria paroxística nocturna
-#2	AnnotatorNotes T8	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
-T9	DISO 261 296	hemoglobinuria paroxística nocturna
-#3	AnnotatorNotes T9	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
-T11	DISO 298 301	HPN
-#4	AnnotatorNotes T11	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
-T12	LIVB 332 341	Pacientes
-#5	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
-T13	DISO 346 349	HPN
-#6	AnnotatorNotes T13	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
-T14	Neg_cue 370 373	sin
-T15	PROC 374 397	interrupción permanente
-T16	Negated 374 386	interrupción
-T17	Negated 387 397	permanente
-T18	PROC 402 413	tratamiento
-#7	AnnotatorNotes T18	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T19	PROC 610 619	protocolo
-#8	AnnotatorNotes T19	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T20	PROC 682 691	protocolo
-#9	AnnotatorNotes T20	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T21	LIVB 737 749	investigador
-#10	AnnotatorNotes T21	C0035173; Research Personnel; Professional or Occupational Group
-T22	Spec_cue 789 799	afectarían
-T23	LIVB 847 855	paciente
-#11	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
-T24	PROC 902 932	administración del medicamento
-T25	LIVB 947 955	paciente
-#12	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
-T26	DISO 971 981	enfermedad
-#13	AnnotatorNotes T26	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T27	DISO 1011 1021	enfermedad
-#14	AnnotatorNotes T27	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T28	LIVB 1052 1064	investigador
-#15	AnnotatorNotes T28	C0035173; Research Personnel; Professional or Occupational Group
-T29	LIVB 1078 1086	paciente
-#16	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
-T30	Neg_cue 1087 1089	no
-T31	Negated 1094 1118	adecuado para participar
-T32	Spec_cue 1121 1126	pueda
-T33	Speculated 1127 1137	interferir
-T34	LIVB 1159 1167	paciente
-#17	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
-T35	PROC 1264 1273	protocolo
-#18	AnnotatorNotes T35	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T40	Speculated 833 855	seguridad del paciente
-T3	PROC 449 467	estudios de origen
-T10	Speculated 804 825	objetivos del estudio
+T3	PROC 146 167	tratamiento combinado
+T4	CHEM 171 180	pozelimab
+T5	CHEM 183 193	cemdisirán
+T6	LIVB 197 206	pacientes
+#1	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	DISO 211 246	hemoglobinuria paroxística nocturna
+#2	AnnotatorNotes T7	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T8	DISO 261 296	hemoglobinuria paroxística nocturna
+#3	AnnotatorNotes T8	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T9	DISO 298 301	HPN
+#4	AnnotatorNotes T9	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T10	LIVB 332 341	Pacientes
+#5	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 346 349	HPN
+#6	AnnotatorNotes T11	C0024790; Paroxysmal nocturnal hemoglobinuria; Disease or Syndrome
+T12	Neg_cue 370 373	sin
+T13	PROC 374 397	interrupción permanente
+T14	Negated 374 386	interrupción
+T15	Negated 387 397	permanente
+T16	PROC 402 413	tratamiento
+#7	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	PROC 610 619	protocolo
+#8	AnnotatorNotes T17	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T18	PROC 682 691	protocolo
+#9	AnnotatorNotes T18	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T19	LIVB 737 749	investigador
+#10	AnnotatorNotes T19	C0035173; Research Personnel; Professional or Occupational Group
+T20	Spec_cue 789 799	afectarían
+T21	LIVB 847 855	paciente
+#11	AnnotatorNotes T21	C0030705; Patients; Patient or Disabled Group
+T22	PROC 902 932	administración del medicamento
+T23	LIVB 947 955	paciente
+#12	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	DISO 971 981	enfermedad
+#13	AnnotatorNotes T24	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T25	DISO 1011 1021	enfermedad
+#14	AnnotatorNotes T25	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T26	LIVB 1052 1064	investigador
+#15	AnnotatorNotes T26	C0035173; Research Personnel; Professional or Occupational Group
+T27	LIVB 1078 1086	paciente
+#16	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	Neg_cue 1087 1089	no
+T29	Negated 1094 1118	adecuado para participar
+T30	Spec_cue 1121 1126	pueda
+T31	Speculated 1127 1137	interferir
+T32	LIVB 1159 1167	paciente
+#17	AnnotatorNotes T32	C0030705; Patients; Patient or Disabled Group
+T33	PROC 1264 1273	protocolo
+#18	AnnotatorNotes T33	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T34	Speculated 833 855	seguridad del paciente
+T35	PROC 449 467	estudios de origen
+T36	Speculated 804 825	objetivos del estudio
+T37	CONC 374 386	interrupción
+T38	Quantifier_or_Qualifier 387 397	permanente
+T39	CONC 515 536	periodo de transición
+T40	Quantifier_or_Qualifier 565 570	otros
+T41	CONC 571 593	criterios de inclusión
+T42	Observation 650 691	Desviaciones significativas del protocolo
+T43	Observation 789 799	afectarían
+T44	Observation 870 895	incumplimiento repetitivo
+T45	Observation 902 916	administración
+T46	Quantifier_or_Qualifier 982 987	nueva
+T47	Observation 990 1003	empeoramiento
+T48	Observation 1094 1118	adecuado para participar
+T49	CONC 1127 1137	interferir
+T50	Observation 1173 1206	participar o finalizar el estudio
+T51	Quantifier_or_Qualifier 1219 1224	otros
+T52	CONC 1225 1247	criterios de inclusión
+T53	Patient 197 206	pacientes
+T54	Patient 332 341	Pacientes
+T55	Other 737 749	investigador
+T56	Patient 847 855	paciente
+T57	Patient 947 955	paciente
+T58	History_of 1011 1021	enfermedad
+T59	Other 1052 1064	investigador
+T60	Patient 1078 1086	paciente
+T61	Patient 1159 1167	paciente

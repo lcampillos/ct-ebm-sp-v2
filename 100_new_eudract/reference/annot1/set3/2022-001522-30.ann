@@ -1,0 +1,134 @@
+T1	CHEM 60 105	antagonista/agonista inverso del receptor CB1
+T2	CHEM 107 117	Rimonabant
+#1	AnnotatorNotes T2	C1142933; Rimonabant; Organic Chemical · Pharmacologic Substance
+T3	PHYS 146 158	deambulación
+T4	DISO 162 194	lesionados medulares incompletos
+T5	PHYS 245 257	deambulación
+T6	LIVB 261 270	pacientes
+#2	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	CHEM 300 310	Rimonabant
+#3	AnnotatorNotes T7	C1142933; Rimonabant; Organic Chemical · Pharmacologic Substance
+T8	PROC 320 339	medidas funcionales
+T9	PROC 366 377	tratamiento
+#4	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	LIVB 391 400	población
+#5	AnnotatorNotes T10	C1257890; Population Group; Population Group
+T11	Age 441 459	Entre 18 y 75 años
+T12	DISO 471 507	Lesión medular incompleta traumática
+T13	Neg_cue 510 513	non
+T14	DISO 514 524	traumática
+#6	AnnotatorNotes T14	C3203533; Psychological Trauma; Mental or Behavioral Dysfunction | C3714660; Trauma; Injury or Poisoning
+T15	Negated 514 524	traumática
+T16	Neg_cue 526 529	non
+T17	Negated 530 540	progresiva
+T18	DISO 543 553	paraplejia
+#7	AnnotatorNotes T18	C0030486; Paraplegia; Disease or Syndrome
+T19	DISO 556 567	tetraplejia
+#8	AnnotatorNotes T19	C0034372; Quadriplegia; Disease or Syndrome
+T20	DISO 593 618	lesión medular traumática
+T21	DISO 623 641	intento autolítico
+#9	AnnotatorNotes T21	C0582496; Suicidal intent; Finding
+T22	DISO 646 668	patología psiquiátrica
+T23	Neg_cue 713 721	descarte
+T24	Negated 740 748	suicidio
+T25	DISO 740 748	suicidio
+#10	AnnotatorNotes T25	C0038661; Suicide; Finding
+T26	DISO 752 766	Lesión medular
+#11	AnnotatorNotes T26	C0241224; Spinal cord lesion; Finding
+T27	DISO 777 783	lesión
+#12	AnnotatorNotes T27	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T28	ANAT 790 792	C4
+#13	AnnotatorNotes T28	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T29	ANAT 795 797	L1
+#14	AnnotatorNotes T29	C0223492; First lumbar vertebra; Body Part, Organ, or Organ Component | C1305241; Entire L1 vertebra; Body Part, Organ, or Organ Component
+T30	Duration 801 816	Más de 12 meses
+T31	DISO 838 844	lesión
+#15	AnnotatorNotes T31	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T32	Duration 851 858	crónica
+T33	PHYS 876 882	marcha
+T34	Neg_cue 889 892	sin
+T35	Negated 893 901	auxilios
+T36	PROC 959 983	consentimiento informado
+#16	AnnotatorNotes T36	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T37	Age 1013 1031	Menores de 18 años
+T38	Age 1042 1058	mayor de 75 años
+T39	DISO 1070 1095	Lesión medular traumática
+T40	DISO 1100 1118	intento autolítico
+#17	AnnotatorNotes T40	C0582496; Suicidal intent; Finding
+T41	DISO 1123 1145	patología psiquiátrica
+T42	Neg_cue 1146 1148	no
+T43	Negated 1149 1157	resuelta
+T44	Spec_cue 1184 1195	NO descarte
+T45	DISO 1214 1222	suicidio
+#18	AnnotatorNotes T45	C0038661; Suicide; Finding
+T46	DISO 1227 1241	Lesión medular
+#19	AnnotatorNotes T46	C0241224; Spinal cord lesion; Finding
+T47	DISO 1264 1278	Lesión medular
+#20	AnnotatorNotes T47	C0241224; Spinal cord lesion; Finding
+T48	DISO 1289 1295	lesión
+#21	AnnotatorNotes T48	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T49	ANAT 1311 1313	C4
+#22	AnnotatorNotes T49	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T50	ANAT 1331 1333	L1
+T51	PROC 1354 1368	rehabilitación
+#23	AnnotatorNotes T51	C0034991; Rehabilitation therapy; Therapeutic or Preventive Procedure
+T52	Duration 1370 1385	menos de un año
+T53	DISO 1407 1413	lesión
+#24	AnnotatorNotes T53	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T54	PHYS 1430 1436	marcha
+T55	Neg_cue 1443 1446	sin
+T56	Negated 1447 1455	auxilios
+T57	Neg_cue 1472 1475	sin
+T58	Negated 1476 1495	capacidad de marcha
+T59	PHYS 1489 1495	marcha
+T60	PROC 1499 1510	Tratamiento
+#25	AnnotatorNotes T60	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T61	CHEM 1515 1530	anticoagulantes
+#26	AnnotatorNotes T61	C0003280; Anticoagulants; Pharmacologic Substance
+T62	PHYS 1534 1542	Embarazo
+#27	AnnotatorNotes T62	C0032961; Pregnancy; Organism Function
+T63	PHYS 1545 1554	lactancia
+#28	AnnotatorNotes T63	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T64	Neg_cue 1558 1574	Imposibilidad de
+T65	PROC 1589 1610	método anticonceptivo
+#29	AnnotatorNotes T65	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T66	Negated 1589 1617	método anticonceptivo eficaz
+T67	DISO 1622 1636	Hipotiroidismo
+#30	AnnotatorNotes T67	C0020676; Hypothyroidism; Disease or Syndrome
+T68	DISO 1638 1671	Enfermedad ósea, hepática o renal
+T69	Neg_cue 1683 1699	Incapacidad para
+T70	Negated 1700 1718	acudir al Hospital
+T71	Neg_cue 1723 1739	Incapacidad para
+T72	PROC 1756 1780	consentimiento informado
+#31	AnnotatorNotes T72	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T73	Negated 1756 1780	consentimiento informado
+T74	Speculated 1214 1222	suicidio
+T75	PROC 1246 1250	ASIA
+#32	AnnotatorNotes T75	C4720883; Assessment using American Spinal Injury Association impairment scale; Health Care Activity
+T76	PROC 569 573	ASIA
+#33	AnnotatorNotes T76	C4720883; Assessment using American Spinal Injury Association impairment scale; Health Care Activity
+T77	Observation 46 53	Efectos
+T78	Observation 232 257	mejora de la deambulación
+T79	Observation 289 296	efectos
+T80	Quantifier_or_Qualifier 378 384	seguro
+T81	Quantifier_or_Qualifier 530 540	progresiva
+T82	CONC 569 573	ASIA
+T83	Result_or_Value 574 579	C o D
+T84	Observation 722 739	elevado riesgo de
+T85	CONC 846 850	fase
+T86	Result_or_Value 905 926	un mínimo de 5 metros
+T87	Observation 930 939	Capacidad
+T88	Observation 1149 1157	resuelta
+T89	CONC 1159 1179	informe psiquiátrico
+T90	Observation 1196 1222	elevado riesgo de suicidio
+T91	Quantifier_or_Qualifier 1246 1250	ASIA
+T92	Quantifier_or_Qualifier 1251 1260	A, B, ó E
+T93	CONC 1296 1313	por encima de  C4
+T94	CONC 1316 1326	por debajo
+T95	CONC 1330 1333	 L1
+T96	CONC 1337 1347	Fase aguda
+T97	Result_or_Value 1456 1469	< de 5 metros
+T98	Quantifier_or_Qualifier 1611 1617	eficaz
+T99	Quantifier_or_Qualifier 1672 1678	severa
+T100	Patient 261 270	pacientes
+T101	Patient 391 400	población

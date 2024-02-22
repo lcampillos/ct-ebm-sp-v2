@@ -1,0 +1,66 @@
+T1	Date 12 16	2020
+T2	PROC 44 80	Estudio de seguimiento a largo plazo
+T3	Date 67 80	a largo plazo
+T4	LIVB 86 99	participantes
+T5	PROC 103 129	estudios intervencionistas
+T6	CHEM 164 187	células genomodificadas
+T7	PROC 208 244	Estudio de seguimiento a largo plazo
+T8	Date 231 244	a largo plazo
+T9	LIVB 250 263	participantes
+T10	PROC 267 293	estudios intervencionistas
+T11	PROC 315 323	tratados
+T12	CHEM 328 351	células genomodificadas
+T13	DISO 365 388	Neoplasias de células B
+T14	DISO 391 414	leucemia mieloide aguda
+#1	AnnotatorNotes T14	C0023467; Leukemia, Myelocytic, Acute; Neoplastic Process
+T15	LIVB 446 452	sujeto
+#2	AnnotatorNotes T15	C0681850; Study Subject; Group
+T16	PROC 477 522	infusión de células modificadas genéticamente
+T17	Neg_cue 569 571	no
+T18	Negated 583 615	retirado su pleno consentimiento
+T19	PROC 601 615	consentimiento
+T20	PROC 669 680	seguimiento
+#3	AnnotatorNotes T20	C0420316; Other follow-up; Health Care Activity
+T21	PROC 694 705	tratamiento
+#4	AnnotatorNotes T21	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T22	LIVB 756 762	sujeto
+#5	AnnotatorNotes T22	C0681850; Study Subject; Group
+T23	PHYS 768 776	entender
+T24	PROC 819 843	Consentimiento Informado
+#6	AnnotatorNotes T24	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T25	PROC 931 941	evaluación
+#7	AnnotatorNotes T25	C1261322; Evaluation procedure; Health Care Activity
+T26	PROC 944 957	procedimiento
+T27	LIVB 1002 1014	investigador
+#8	AnnotatorNotes T27	C0035173; Research Personnel; Professional or Occupational Group
+T28	LIVB 1019 1025	sujeto
+#9	AnnotatorNotes T28	C0681850; Study Subject; Group
+T29	PROC 1080 1091	seguimiento
+#10	AnnotatorNotes T29	C0420316; Other follow-up; Health Care Activity
+T30	PROC 1109 1118	protocolo
+#11	AnnotatorNotes T30	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T31	Neg_cue 1204 1206	No
+T32	Negated 1215 1237	criterios de exclusión
+T33	PROC 529 536	estudio
+T34	PROC 712 719	estudio
+T35	PROC 845 848	ICF
+T36	PROC 869 891	Asentimiento Informado
+T37	PROC 977 984	estudio
+T38	PROC 1169 1176	estudio
+T39	PROC 1260 1267	estudio
+T40	PROC 151 159	tratados
+T41	CONC 644 654	completado
+T42	CONC 666 668	de
+T43	Observation 1031 1040	dispuesto
+T44	Observation 1046 1091	capaz de completar el programa de seguimiento
+T45	Observation 1119 1164	y cumplir con los requisitos de participación
+T46	Observation 1169 1176	estudio
+T47	CONC 1215 1237	criterios de exclusión
+T48	Patient 86 99	participantes
+T49	Patient 250 263	participantes
+T50	Patient 446 452	sujeto
+T51	History_of 477 485	infusión
+T52	History_of 489 522	células modificadas genéticamente
+T53	Patient 756 762	sujeto
+T54	Other 1002 1014	investigador
+T55	Patient 1019 1025	sujeto

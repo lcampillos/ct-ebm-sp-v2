@@ -1,0 +1,212 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	84 años
+T3	DISO 42 66	bajo nivel de conciencia
+T4	DISO 69 86	pérdida de fuerza
+#2	AnnotatorNotes T4	C3714552; Weakness; Sign or Symptom
+T5	Neg_cue 138 143	Niega
+T6	DISO 144 179	reacciones alérgicas a medicamentos
+T7	Negated 144 179	reacciones alérgicas a medicamentos
+T8	DISO 184 194	Hipertensa
+#3	AnnotatorNotes T8	C0020538; Hypertensive disease; Disease or Syndrome
+T9	DISO 241 252	Dislipémica
+#4	AnnotatorNotes T9	C0242339; Dyslipidemias; Disease or Syndrome
+T10	DISO 256 258	FA
+#5	AnnotatorNotes T10	C0004238; Atrial Fibrillation; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T11	PROC 259 272	anticoagulada
+#6	AnnotatorNotes T11	C0003281; Anticoagulation Therapy; Therapeutic or Preventive Procedure
+T12	CHEM 277 289	acenocumarol
+#7	AnnotatorNotes T12	C0000956; acenocoumarol; Organic Chemical · Pharmacologic Substance
+T13	Neg_cue 293 298	Niega
+T14	DISO 299 314	hábitos tóxicos
+T15	Negated 299 314	hábitos tóxicos
+T16	DISO 319 329	Enfermedad
+#8	AnnotatorNotes T16	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T17	Date 330 336	actual
+T18	LIVB 343 348	yerno
+T19	LIVB 355 363	paciente
+#9	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	LIVB 382 399	Médico de Familia
+#10	AnnotatorNotes T20	C1704221; Physicians, Family; Professional or Occupational Group
+T22	Duration 448 456	Dos días
+T23	DISO 526 532	disnea
+#11	AnnotatorNotes T23	C0013404; Dyspnea; Sign or Symptom
+T24	DISO 535 544	febrícula
+#12	AnnotatorNotes T24	C0239574; Low grade fever; Finding | C1397229; Febricula; Sign or Symptom
+T25	PROC 552 566	se diagnosticó
+T26	PROC 576 596	radiografía de tórax
+#13	AnnotatorNotes T26	C0039985; Plain chest X-ray; Diagnostic Procedure
+T27	DISO 601 617	bronquitis aguda
+#14	AnnotatorNotes T27	C0149514; Acute bronchitis; Disease or Syndrome
+T28	PROC 630 653	tratamiento antibiótico
+T29	LIVB 684 692	paciente
+#15	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	DISO 706 716	obnubilada
+T31	DISO 722 746	bajo nivel de conciencia
+T32	DISO 758 789	desviación de la comisura bucal
+T33	DISO 792 809	pérdida de fuerza
+#16	AnnotatorNotes T33	C3714552; Weakness; Sign or Symptom
+T34	ANAT 814 834	hemicuerpo izquierdo
+T35	LIVB 865 873	paciente
+#17	AnnotatorNotes T35	C0030705; Patients; Patient or Disabled Group
+T36	DEVI 908 918	ambulancia
+#18	AnnotatorNotes T36	C0002422; Ambulances; Medical Device
+T37	PROC 950 962	monitorizada
+#19	AnnotatorNotes T37	C1283169; Monitoring - action; Activity
+T38	PROC 990 1002	Código Ictus
+T39	PROC 1017 1035	Exploración física
+#20	AnnotatorNotes T39	C0031809; Physical Examination; Health Care Activity
+T40	DISO 1063 1078	palidez cutánea
+#21	AnnotatorNotes T40	C0241137; Pallor of skin; Finding
+T41	DISO 1100 1106	Fiebre
+#22	AnnotatorNotes T41	C0015967; Fever; Sign or Symptom
+T42	PROC 1126 1128	TA
+T43	PROC 1139 1142	ACR
+#23	AnnotatorNotes T43	C0584615; Urine microalbumin/creatinine ratio measurement; Laboratory Procedure
+T44	Neg_cue 1174 1176	no
+T45	DISO 1177 1183	soplos
+#24	AnnotatorNotes T45	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T46	Negated 1177 1183	soplos
+T47	Neg_cue 1190 1192	no
+T48	DISO 1193 1211	ruidos patológicos
+T49	Negated 1193 1211	ruidos patológicos
+T50	PROC 1215 1218	ECG
+#25	AnnotatorNotes T50	C1623258; Electrocardiography; Diagnostic Procedure
+T51	DISO 1220 1222	FA
+#26	AnnotatorNotes T51	C0004238; Atrial Fibrillation; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T52	Neg_cue 1259 1261	No
+T53	DISO 1262 1286	signos de repolarización
+T54	Negated 1262 1286	signos de repolarización
+T55	PROC 1290 1301	Neurológica
+T56	DISO 1323 1342	lenguaje disártrico
+T57	DISO 1384 1404	Hemianopsia homónima
+#27	AnnotatorNotes T57	C0271202; Hemianopsia, Homonymous; Disease or Syndrome
+T58	Neg_cue 1439 1441	no
+T59	Negated 1442 1449	forzada
+T60	DISO 1481 1497	Parálisis facial
+#28	AnnotatorNotes T60	C0015469; Facial paralysis; Disease or Syndrome | C0376175; Bell Palsy; Disease or Syndrome | C0427055; Facial Paresis; Disease or Syndrome
+T62	Neg_cue 1585 1593	falta de
+T63	Negated 1594 1606	colaboración
+T64	DISO 1608 1618	Brudzinski
+T65	Speculated 1608 1618	Brudzinski
+T66	DISO 1621 1628	Kerning
+T67	Speculated 1621 1628	Kerning
+T68	Spec_cue 1629 1636	dudosos
+T69	PROC 1641 1664	Pruebas complementarias
+#29	AnnotatorNotes T69	C1515980; Ancillary Study; Research Activity
+T70	PROC 1668 1677	Analítica
+#30	AnnotatorNotes T70	C0002778; Analysis of substances; Laboratory Procedure
+T71	PROC 1679 1689	Leucocitos
+T72	PROC 1704 1715	Neutrófilos
+T73	PROC 1730 1740	Linfocitos
+T74	PROC 1754 1761	Glucosa
+T75	PROC 1767 1772	Sodio
+#31	AnnotatorNotes T75	C0337443; Sodium measurement; Laboratory Procedure
+T76	PROC 1778 1788	Creatinina
+#32	AnnotatorNotes T76	C0201975; Creatinine measurement; Laboratory Procedure
+T77	PROC 1795 1798	PCR
+#33	AnnotatorNotes T77	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T78	PROC 1803 1806	INR
+#34	AnnotatorNotes T78	C0525032; International Normalized Ratio; Laboratory Procedure
+T79	PROC 1813 1818	Orina
+T80	Neg_cue 1819 1821	no
+T81	Negated 1822 1832	patológica
+T82	PROC 1836 1849	TAC de cráneo
+#35	AnnotatorNotes T82	C0412603; CT of skull; Diagnostic Procedure
+T83	PROC 1852 1860	AngioTAC
+#36	AnnotatorNotes T83	C1536105; Computed Tomography Angiography; Diagnostic Procedure
+T84	Neg_cue 1862 1865	sin
+T85	DISO 1866 1890	alteraciones patológicas
+T86	Negated 1866 1890	alteraciones patológicas
+T87	PROC 1894 1908	Punción Lumbar
+#37	AnnotatorNotes T87	C0037943; Spinal Puncture; Health Care Activity | C0553794; Diagnostic lumbar puncture; Diagnostic Procedure
+T88	PROC 1915 1922	células
+#38	AnnotatorNotes T88	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T89	PROC 1931 1934	PMN
+T90	PROC 1940 1949	proteínas
+#39	AnnotatorNotes T90	C0033684; Proteins; Amino Acid, Peptide, or Protein · Biologically Active Substance
+T91	PROC 1956 1963	glucosa
+#40	AnnotatorNotes T91	C0017725; glucose; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
+T92	PROC 1965 1969	Gram
+T93	LIVB 1984 1992	listeria
+#41	AnnotatorNotes T93	C0023859; Listeria; Bacterium
+T94	PROC 1996 2007	TRATAMIENTO
+#42	AnnotatorNotes T94	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T95	PROC 2069 2081	monitorizada
+#43	AnnotatorNotes T95	C1283169; Monitoring - action; Activity
+T96	PROC 2096 2116	tratamiento empírico
+#44	AnnotatorNotes T96	C1299597; Empirical therapy; Therapeutic or Preventive Procedure
+T97	CHEM 2121 2132	ceftriaxona
+#45	AnnotatorNotes T97	C0007561; ceftriaxone; Antibiotic · Organic Chemical
+T98	CHEM 2135 2145	ampicilina
+#46	AnnotatorNotes T98	C0002680; ampicillin; Antibiotic · Organic Chemical
+T99	CHEM 2146 2157	vancomicina
+#47	AnnotatorNotes T99	C0042313; vancomycin; Amino Acid, Peptide, or Protein · Antibiotic
+T100	CHEM 2160 2172	dexametasona
+#48	AnnotatorNotes T100	C0011777; dexamethasone; Organic Chemical · Pharmacologic Substance
+T101	Route 2173 2175	iv
+T102	PROC 2178 2202	tratamiento antipirético
+T103	DISO 2274 2303	Meningoencefalitis bacteriana
+T104	CHEM 209 236	medicación antihipertensiva
+T105	PROC 1006 1012	EXAMEN
+T107	DISO 1303 1321	tendencia al sueño
+T108	DISO 1429 1462	Tendencia no forzada de la mirada
+T109	PROC 2249 2260	DIAGNÓSTICO
+T110	Negated 1144 1153	Arrítmica
+T111	DISO 1144 1153	Arrítmica
+T112	Negated 836 843	Afebril
+T113	Observation 1039 1061	Regular estado general
+T114	Observation 1080 1098	eupneica en reposo
+T115	Result_or_Value 1110 1116	38.8oC
+T116	Quantifier_or_Qualifier 1117 1124	de novo
+T117	Result_or_Value 1129 1135	156/94
+T118	Observation 1185 1188	MVC
+T119	Result_or_Value 1225 1231	70 lpm
+T120	Observation 1233 1243	Eje normal
+T121	Observation 1245 1257	QRS estrecho
+T122	Observation 1371 1376	PINLA
+T123	Observation 1378 1382	MOEC
+T125	Result_or_Value 1690 1702	19.19x10e9/L
+T126	Result_or_Value 1716 1728	17.5x 10e9/L
+T127	Result_or_Value 1741 1752	0.8x 10e9/L
+T128	Result_or_Value 1762 1765	130
+T129	Result_or_Value 1773 1776	134
+T130	Result_or_Value 1789 1793	0.91
+T131	Result_or_Value 1799 1801	70
+T132	Result_or_Value 1807 1811	2.08
+T133	Quantifier_or_Qualifier 1910 1914	1150
+T134	Result_or_Value 1927 1930	84%
+T135	Result_or_Value 1936 1939	310
+T136	Result_or_Value 1951 1955	35.6
+T137	Result_or_Value 1970 1978	positivo
+T138	Observation 2206 2245	Mejora paulatinamente su estado general
+T139	Patient 21 26	Mujer
+T140	History_of 144 179	reacciones alérgicas a medicamentos
+T141	History_of 184 194	Hipertensa
+T142	History_of 241 252	Dislipémica
+T143	History_of 256 258	FA
+T144	Family_member 343 348	yerno
+T145	Patient 355 363	paciente
+T146	Other 382 399	Médico de Familia
+T147	Other 481 508	Médico de Atención Primaria
+T148	Patient 684 692	paciente
+T149	Patient 865 873	paciente
+T150	Observation 199 236	dejado la medicación antihipertensiva
+T151	History_of 299 314	hábitos tóxicos
+T21	Observation 442 446	rara
+T152	History_of 526 532	disnea
+T153	History_of 535 544	febrícula
+T154	History_of 552 566	se diagnosticó
+T155	History_of 576 596	radiografía de tórax
+T156	History_of 601 617	bronquitis aguda
+T157	DISO 836 843	Afebril
+T106	Observation 1156 1172	buena frecuencia
+T158	Observation 1350 1369	difícil de explorar
+T159	Quantifier_or_Qualifier 1405 1414	izquierda
+T160	Quantifier_or_Qualifier 1463 1479	hacia la derecha
+T161	Quantifier_or_Qualifier 1498 1501	izq
+T61	DISO 1503 1524	Debilidad en miembros
+T162	Quantifier_or_Qualifier 1525 1535	izquierdos
+T163	Observation 1540 1553	tono presente
+T164	Observation 1561 1606	difícil de explorar por falta de colaboración
+T165	DISO 1822 1832	patológica

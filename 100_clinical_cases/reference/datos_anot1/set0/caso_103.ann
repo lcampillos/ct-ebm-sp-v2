@@ -1,0 +1,175 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	36 años
+T3	DISO 52 64	dolor lumbar
+#2	AnnotatorNotes T3	C0024031; Low Back Pain; Sign or Symptom
+T4	DISO 67 74	vómitos
+#3	AnnotatorNotes T4	C0042963; Vomiting; Sign or Symptom
+T5	DISO 126 161	Reacciones alérgicas a medicamentos
+T6	CHEM 163 173	Penicilina
+#4	AnnotatorNotes T6	C0030842; penicillins; Antibiotic · Organic Chemical | C0304323; Natural penicillin; Antibiotic · Organic Chemical
+T7	Neg_cue 177 179	No
+T8	DISO 180 200	alergias a alimentos
+#5	AnnotatorNotes T8	C0016470; Food Allergy; Pathologic Function
+T9	Neg_cue 201 203	ni
+T10	CHEM 212 232	productos sanitarios
+T11	DISO 236 254	Síndrome depresivo
+#6	AnnotatorNotes T11	C0011581; Depressive disorder; Mental or Behavioral Dysfunction
+T12	Neg_cue 258 260	No
+T13	PROC 261 287	intervenciones quirúrgicas
+#7	AnnotatorNotes T13	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T14	Negated 261 287	intervenciones quirúrgicas
+T15	PROC 299 310	Tratamiento
+#8	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	PROC 330 344	prescripciones
+#9	AnnotatorNotes T16	C0033080; Prescription procedure; Health Care Activity | C2239117; Prescription of drug (procedure); Health Care Activity
+T17	CHEM 354 363	Trazodona
+#10	AnnotatorNotes T17	C0040805; trazodone; Organic Chemical · Pharmacologic Substance
+T18	CHEM 365 374	Lorazepam
+#11	AnnotatorNotes T18	C0024002; lorazepam; Organic Chemical · Pharmacologic Substance
+T19	CHEM 377 387	Ibuprofeno
+#12	AnnotatorNotes T19	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T20	DISO 392 402	Enfermedad
+#13	AnnotatorNotes T20	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T21	Date 403 409	actual
+T22	DISO 413 425	Dolor lumbar
+#14	AnnotatorNotes T22	C0024031; Low Back Pain; Sign or Symptom
+T23	Duration 429 434	meses
+T24	CHEM 476 481	AINEs
+#15	AnnotatorNotes T24	C0003211; Anti-Inflammatory Agents, Non-Steroidal; Pharmacologic Substance
+T25	CHEM 483 493	ibuprofeno
+#16	AnnotatorNotes T25	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T26	LIVB 523 534	acompañante
+T27	LIVB 539 547	paciente
+#17	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	Dose 553 572	15 o 16 comprimidos
+T29	Frequency 573 580	diarios
+T30	Date 587 600	hace 18 meses
+T31	DISO 624 648	vómitos en posos de café
+#18	AnnotatorNotes T31	C0278002; Vomit contains coffee grounds finding; Finding | C1510416; Coffee ground vomiting; Sign or Symptom
+T32	Duration 652 665	unas 12 horas
+T33	CHEM 718 735	antiinflamatorios
+#19	AnnotatorNotes T33	C0003209; Anti-Inflammatory Agents; Pharmacologic Substance
+T34	Neg_cue 736 738	no
+T36	Negated 749 755	efecto
+T37	DISO 763 779	síndrome emético
+T38	DISO 800 812	dolor lumbar
+#20	AnnotatorNotes T38	C0024031; Low Back Pain; Sign or Symptom
+T39	Neg_cue 847 849	No
+T40	DISO 850 856	fiebre
+#21	AnnotatorNotes T40	C0015967; Fever; Sign or Symptom
+T41	Negated 850 856	fiebre
+T42	Neg_cue 860 862	No
+T43	Negated 863 885	antecedente traumático
+T44	Neg_cue 886 888	ni
+T45	Negated 889 902	sobreesfuerzo
+T46	Neg_cue 913 915	No
+T47	Negated 916 947	cambios en el hábito intestinal
+T48	PHYS 930 947	hábito intestinal
+#22	AnnotatorNotes T48	C0011135; Defecation; Organism Function
+T49	Neg_cue 951 953	No
+T50	Negated 954 973	otra sintomatología
+T51	DISO 959 973	sintomatología
+#23	AnnotatorNotes T51	C3540840; Sign or Symptom; Finding
+T52	PROC 988 1006	Exploración física
+#24	AnnotatorNotes T52	C0031809; Physical Examination; Health Care Activity
+T53	PROC 1011 1034	Pruebas complementarias
+#25	AnnotatorNotes T53	C1515980; Ancillary Study; Research Activity
+T54	PROC 1038 1047	Analítica
+#26	AnnotatorNotes T54	C0002778; Analysis of substances; Laboratory Procedure
+T55	PROC 1052 1061	hemograma
+#27	AnnotatorNotes T55	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T56	PROC 1084 1094	leucocitos
+T57	DISO 1099 1110	neutrofilia
+#28	AnnotatorNotes T57	C3665444; Neutrophilia (disorder); Disease or Syndrome
+T58	PROC 1122 1132	serie roja
+T59	PROC 1139 1148	plaquetas
+T60	PROC 1159 1162	INR
+#29	AnnotatorNotes T60	C0525032; International Normalized Ratio; Laboratory Procedure
+T61	PROC 1170 1180	Bioquímica
+#30	AnnotatorNotes T61	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T62	PROC 1185 1192	glucosa
+T63	PROC 1194 1206	perfil renal
+T64	PROC 1209 1214	iones
+T65	PROC 1233 1236	PCR
+#31	AnnotatorNotes T65	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T66	PROC 1251 1273	Radiografía de abdomen
+#32	AnnotatorNotes T66	C0034573; Radiography, Abdominal; Diagnostic Procedure
+T67	DISO 1287 1301	neumoperitoneo
+#33	AnnotatorNotes T67	C0032320; Pneumoperitoneum; Disease or Syndrome
+T68	PROC 1312 1335	TAC de abdomen y pelvis
+T69	DISO 1366 1380	neumoperitoneo
+#34	AnnotatorNotes T69	C0032320; Pneumoperitoneum; Disease or Syndrome
+T70	DISO 1417 1430	líquido libre
+#35	AnnotatorNotes T70	C0013687; effusion; Pathologic Function
+T71	Observation 1441 1502	engrosamiento mural de algunos segmentos de intestino delgado
+T72	ANAT 1485 1502	intestino delgado
+T73	Neg_cue 1511 1513	no
+T74	Negated 1514 1562	se logra identificar el origen de la perforación
+T75	DISO 1551 1562	perforación
+#36	AnnotatorNotes T75	C0549099; Perforation (observation); Finding | C1709337; Perforation of organ; Injury or Poisoning
+T76	PROC 1566 1577	TRATAMIENTO
+#37	AnnotatorNotes T76	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T78	PROC 1604 1611	ingreso
+#38	AnnotatorNotes T78	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T79	PROC 1614 1649	intervención quirúrgica de urgencia
+T80	PROC 1662 1685	intervención quirúrgica
+#39	AnnotatorNotes T80	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T81	DISO 1698 1718	perforación gástrica
+#40	AnnotatorNotes T81	C0235884; Perforation of stomach; Disease or Syndrome
+T82	PROC 1757 1765	lavado y
+T83	PROC 1766 1797	drenaje de la cavidad abdominal
+T84	PROC 1827 1842	hospitalización
+#41	AnnotatorNotes T84	C0019993; Hospitalization; Health Care Activity
+T85	Date 1859 1873	postquirúrgica
+T86	Observation 1902 1909	afebril
+#42	AnnotatorNotes T86	C0277797; Apyrexial; Finding
+T88	DISO 1924 1929	dolor
+#43	AnnotatorNotes T88	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T89	PHYS 1981 1990	deambular
+T90	DEVI 1996 2004	drenajes
+#44	AnnotatorNotes T90	C0013103; Drainage procedure; Therapeutic or Preventive Procedure
+T91	DISO 2024 2041	herida quirúrgica
+T92	Neg_cue 2062 2065	sin
+T93	DISO 2066 2085	signos de infección
+T94	Negated 2066 2085	signos de infección
+T95	DISO 2113 2133	Perforación gástrica
+#45	AnnotatorNotes T95	C0235884; Perforation of stomach; Disease or Syndrome
+T96	Negated 180 200	alergias a alimentos
+T97	Negated 204 233	a otros productos sanitarios.
+T98	DISO 863 885	antecedente traumático
+T99	PROC 977 983	EXAMEN
+T100	PROC 2089 2100	DIAGNÓSTICO
+T101	Food 191 200	alimentos
+T102	Observation 736 755	no hacían su efecto
+T103	Quantifier_or_Qualifier 817 830	incontrolable
+T104	Observation 916 947	cambios en el hábito intestinal
+T106	Result_or_Value 1077 1083	24.700
+T107	Result_or_Value 1149 1157	normales
+T108	Result_or_Value 1163 1167	1.4.
+T109	Result_or_Value 1215 1223	normales
+T110	Result_or_Value 1240 1248	380mg/L.
+T111	Quantifier_or_Qualifier 1302 1308	franco
+T112	Quantifier_or_Qualifier 1345 1355	importante
+T113	Quantifier_or_Qualifier 1382 1398	de mayor cuantía
+T114	CONC 1401 1415	nivel anterior
+T115	Quantifier_or_Qualifier 1432 1440	discreto
+T116	CONC 1538 1544	origen
+T117	Observation 1912 1919	estable
+T118	Quantifier_or_Qualifier 1935 1950	bien controlado
+T119	Observation 1963 1976	tolerar dieta
+T120	Observation 2048 2060	buen aspecto
+T121	Patient 21 26	Mujer
+T122	History_of 126 161	Reacciones alérgicas a medicamentos
+T123	History_of 180 200	alergias a alimentos
+T124	History_of 236 254	Síndrome depresivo
+T125	History_of 261 287	intervenciones quirúrgicas
+T126	Other 523 534	acompañante
+T127	Patient 539 547	paciente
+T128	History_of 889 902	sobreesfuerzo
+T129	History_of 204 232	a otros productos sanitarios
+T130	Quantifier_or_Qualifier 345 352	activas
+T35	PROC 1723 1730	cierran
+T105	Observation 1849 1886	evolución postquirúrgica es favorable
+T131	Quantifier_or_Qualifier 1877 1886	favorable
+T77	Observation 889 902	sobreesfuerzo

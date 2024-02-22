@@ -1,0 +1,71 @@
+T1	PROC 46 57	Tratamiento
+#1	AnnotatorNotes T1	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T2	CHEM 62 73	tivanisirán
+T3	DISO 82 90	ojo seco
+#2	AnnotatorNotes T3	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T4	LIVB 94 103	pacientes
+#3	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	DISO 108 127	Síndrome de Sjögren
+#4	AnnotatorNotes T5	C1527336; Sjogren's Syndrome; Disease or Syndrome
+T6	CHEM 150 161	Tivanisirán
+T7	DISO 170 178	ojo seco
+#5	AnnotatorNotes T7	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T8	LIVB 182 189	sujetos
+#6	AnnotatorNotes T8	C0681850; Study Subject; Group
+T9	DISO 194 213	síndrome de Sjögren
+#7	AnnotatorNotes T9	C1527336; Sjogren's Syndrome; Disease or Syndrome
+T10	DISO 237 252	Sequedad ocular
+#8	AnnotatorNotes T10	C0314719; Dryness of eye; Sign or Symptom
+T11	DISO 279 301	Enfermedad de Ojo Seco
+T12	LIVB 330 341	Ambos sexos
+T13	Age 351 360	≥ 18 años
+T14	PROC 384 408	consentimiento informado
+#9	AnnotatorNotes T14	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T15	CHEM 420 441	lagrimas artificiales
+T16	CHEM 443 457	suero autólogo
+T17	CHEM 460 470	medicación
+#10	AnnotatorNotes T17	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T18	DISO 490 498	ojo seco
+#11	AnnotatorNotes T18	C0013238; Dry Eye Syndromes; Disease or Syndrome | C0314719; Dryness of eye; Sign or Symptom
+T19	Duration 507 526	los últimos 6 meses
+T20	Neg_cue 542 544	no
+T21	CHEM 554 575	lagrimas artificiales
+#12	AnnotatorNotes T21	C2608262; Lubricant Eye Drops; Pharmacologic Substance
+T22	Negated 554 575	lagrimas artificiales
+T23	CHEM 578 592	suero autólogo
+T24	Negated 578 592	suero autólogo
+T25	PROC 627 630	VAS
+T26	DISO 657 678	síntomas del ojo seco
+T27	PROC 687 725	Tinción corneal total con fluoresceína
+T28	PROC 727 730	CFS
+T29	PROC 739 750	Diagnóstico
+#13	AnnotatorNotes T29	C0011900; Diagnosis; Diagnostic Procedure
+T30	DISO 754 773	Síndrome de Sjögren
+#14	AnnotatorNotes T30	C1527336; Sjogren's Syndrome; Disease or Syndrome
+T31	CHEM 812 822	medicación
+#15	AnnotatorNotes T31	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T32	PROC 838 851	procedimiento
+T33	PROC 854 868	cirugía ocular
+#16	AnnotatorNotes T33	C0395020; Surgical procedure on eye proper; Therapeutic or Preventive Procedure
+T34	PROC 878 900	alteración de la dosis
+T35	CHEM 904 916	medicamentos
+#17	AnnotatorNotes T35	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T36	PROC 973 989	Uso de lentillas
+T37	DISO 1028 1045	enfermedad ocular
+#18	AnnotatorNotes T37	C0015397; Disorder of eye; Disease or Syndrome
+T38	LIVB 1081 1093	Investigador
+#19	AnnotatorNotes T38	C0035173; Research Personnel; Professional or Occupational Group
+T39	Route 917 927	sistémicos
+T40	Result_or_Value 679 683	≥40.
+T41	Result_or_Value 732 736	≥ 5.
+T42	Quantifier_or_Qualifier 823 835	concomitante
+T43	Quantifier_or_Qualifier 1054 1067	significativa
+T44	Patient 94 103	pacientes
+T45	Patient 182 189	sujetos
+T46	Patient 330 341	Ambos sexos
+T47	History_of 443 448	suero
+T48	History_of 460 470	medicación
+T49	History_of 812 822	medicación
+T50	History_of 838 851	procedimiento
+T51	History_of 854 868	cirugía ocular
+T52	Other 1081 1093	Investigador

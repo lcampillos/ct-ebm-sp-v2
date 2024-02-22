@@ -57,117 +57,184 @@ T37	DISO 855 860	NSCLC
 T38	PROC 875 904	histológica o citológicamente
 T39	DISO 928 939	metastásico
 #20	AnnotatorNotes T39	C4255448; Metastasis; Pathologic Function
-T41	DISO 1124 1151	Progresión de la enfermedad
-#21	AnnotatorNotes T41	C0242656; Disease Progression; Pathologic Function
-T43	DISO 1177 1179	PD
-T46	PROC 1292 1330	tratamiento de segunda o tercera línea
-T47	PROC 1348 1372	tratamiento anti-PD-(L)1
-T48	PROC 1375 1390	biquimioterapia
-T49	CHEM 1395 1416	derivados del platino
-T50	DISO 1422 1427	NSCLC
-#22	AnnotatorNotes T50	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
-T51	DISO 1450 1461	metastásico
-#23	AnnotatorNotes T51	C4255448; Metastasis; Pathologic Function
-T55	Duration 1630 1640	12 semanas
-T56	PROC 1646 1659	Peso corporal
-T57	Neg_cue 1670 1673	sin
-T58	DISO 1674 1693	caquexia neoplásica
-T59	Negated 1674 1693	caquexia neoplásica
-T60	PROC 1699 1717	Prueba de embarazo
-#25	AnnotatorNotes T60	C0032976; Pregnancy Tests; Diagnostic Procedure
-T61	Negated 1709 1717	embarazo
-T62	Neg_cue 1718 1726	negativa
-T63	ANAT 1731 1736	suero
-#26	AnnotatorNotes T63	C0229671; Serum; Body Substance | C0588987; Serum product; Body Substance
-T64	LIVB 1745 1776	mujeres potencialmente fértiles
-T65	Spec_cue 1753 1767	potencialmente
-T66	Speculated 1768 1776	fértiles
-T67	LIVB 1807 1819	Participante
-T68	PROC 1824 1840	histología mixta
-T69	DISO 1844 1891	carcinoma pulmonar microcítico y no microcítico
-T70	Neg_cue 1877 1879	no
-T71	Negated 1880 1891	microcítico
-T72	DISO 1917 1943	neoplasia maligna primaria
-#27	AnnotatorNotes T72	C1306459; Primary malignant neoplasm; Neoplastic Process
-T73	Neg_cue 1945 1952	excepto
-T74	PROC 1967 1974	tratada
-T75	Negated 1967 1974	tratada
-T76	Neg_cue 2000 2002	no
-T77	Negated 2017 2043	actividad de la enfermedad
-T78	DISO 2033 2043	enfermedad
-#28	AnnotatorNotes T78	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T79	Duration 2044 2054	>/= 5 años
-T81	PROC 2085 2096	tratamiento
-#29	AnnotatorNotes T81	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T82	DISO 2113 2128	Efectos tóxicos
-#30	AnnotatorNotes T82	C0600688; Toxic effect; Injury or Poisoning
-T83	PROC 2174 2200	tratamiento antineoplásico
-T84	DISO 2212 2255	Trastornos autoinmunitarios o inflamatorios
-T85	LIVB 2291 2304	Participantes
-T86	CHEM 2344 2356	anti-PD-(L)1
-T87	LIVB 2402 2415	participantes
-T88	Neg_cue 2421 2423	No
-T89	DISO 2447 2456	toxicidad
-#31	AnnotatorNotes T89	C0600688; Toxic effect; Injury or Poisoning
-T90	Negated 2447 2456	toxicidad
-T91	PROC 2476 2525	suspensión permanente del tratamiento anti-PD(L)1
-T92	DISO 2585 2609	acontecimientos adversos
-#32	AnnotatorNotes T92	C0877248; Adverse event; Pathologic Function
-T94	DISO 2627 2629	AE
-T95	PROC 2652 2675	tratamiento anti-PD(L)1
-T96	Neg_cue 2689 2691	No
-T97	Negated 2715 2739	AE de origen inmunitario
-T100	Negated 2741 2771	immune-mediated adverse events
-T101	Neg_cue 2794 2796	ni
-T102	DISO 2797 2843	AE neurológicos u oculares de tipo inmunitario
-T103	Negated 2797 2843	AE neurológicos u oculares de tipo inmunitario
-T104	Neg_cue 2847 2853	ningún
-T105	Negated 2854 2859	grado
-T106	PROC 2871 2894	tratamiento anti-PD(L)1
-T107	Neg_cue 2907 2909	No
-T108	PROC 2932 2947	inmunosupresión
-#33	AnnotatorNotes T108	C0021079; Therapeutic immunosuppression; Therapeutic or Preventive Procedure
-T109	Negated 2932 2947	inmunosupresión
-T110	CHEM 2970 2986	corticosteroides
-#34	AnnotatorNotes T110	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
-T111	Negated 2970 2986	corticosteroides
-T112	PROC 2995 3006	tratamiento
-#35	AnnotatorNotes T112	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T113	DISO 3013 3015	AE
-T114	Neg_cue 3017 3019	no
-T115	Negated 3043 3063	reaparición de un AE
-T116	DISO 3043 3054	reaparición
-T117	DISO 3061 3063	AE
-T118	Neg_cue 3090 3092	no
-T119	Date 3108 3124	en la actualidad
-T120	Negated 3125 3169	dosis de mantenimiento > 10 mg de prednisona
-T122	CHEM 3159 3169	prednisona
-#36	AnnotatorNotes T122	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
-T123	Frequency 3184 3190	al día
-T124	LIVB 3195 3208	Participantes
-T125	PROC 3255 3268	quimioterapia
-#37	AnnotatorNotes T125	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
-T126	CHEM 3273 3294	derivados del platino
-T127	DISO 3300 3322	enfermedad metastásica
-#38	AnnotatorNotes T127	C0341683; Hydatid cyst of kidney; Disease or Syndrome
-T128	LIVB 3327 3340	Participantes
-T129	CHEM 3363 3379	inhibidor de ATR
-T40	PROC 1033 1037	EGFR
-T133	PROC 1040 1043	ALK
-T134	PROC 1181 1192	radiológica
-T139	DISO 2611 2625	adverse events
-T142	Dose 3125 3155	dosis de mantenimiento > 10 mg
-T121	DISO 2715 2739	AE de origen inmunitario
-T98	DISO 2741 2771	immune-mediated adverse events
-T99	DISO 2773 2777	imAE
-T141	Negated 2773 2777	imAE
-#39	AnnotatorNotes T121	Immune-mediated adverse reaction A26715052 ( pathologic function)
-T44	PROC 1248 1259	tratamiento
-T93	PROC 1083 1112	determinación del laboratorio
-#40	AnnotatorNotes T93	Laboratory reporting C0200370
-T130	DISO 1153 1175	progression of disease
-T42	PROC 1505 1521	Estado funcional
-T132	PHYS 2552 2571	resolución completa
-#41	AnnotatorNotes T132	total recovery C0683340
-T135	PROC 1548 1570	Funcionalidad orgánica
-T53	PROC 1573 1588	reserva medular
+T40	DISO 1124 1151	Progresión de la enfermedad
+#21	AnnotatorNotes T40	C0242656; Disease Progression; Pathologic Function
+T41	DISO 1177 1179	PD
+T42	PROC 1292 1330	tratamiento de segunda o tercera línea
+T43	PROC 1348 1372	tratamiento anti-PD-(L)1
+T44	PROC 1375 1390	biquimioterapia
+T45	CHEM 1395 1416	derivados del platino
+T46	DISO 1422 1427	NSCLC
+#22	AnnotatorNotes T46	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T47	DISO 1450 1461	metastásico
+#23	AnnotatorNotes T47	C4255448; Metastasis; Pathologic Function
+T48	Duration 1630 1640	12 semanas
+T49	PROC 1646 1659	Peso corporal
+T50	Neg_cue 1670 1673	sin
+T51	DISO 1674 1693	caquexia neoplásica
+T52	Negated 1674 1693	caquexia neoplásica
+T53	PROC 1699 1717	Prueba de embarazo
+#24	AnnotatorNotes T53	C0032976; Pregnancy Tests; Diagnostic Procedure
+T54	Negated 1709 1717	embarazo
+T55	Neg_cue 1718 1726	negativa
+T56	ANAT 1731 1736	suero
+#25	AnnotatorNotes T56	C0229671; Serum; Body Substance | C0588987; Serum product; Body Substance
+T57	LIVB 1745 1776	mujeres potencialmente fértiles
+T58	Spec_cue 1753 1767	potencialmente
+T59	Speculated 1768 1776	fértiles
+T60	LIVB 1807 1819	Participante
+T61	PROC 1824 1840	histología mixta
+T62	DISO 1844 1891	carcinoma pulmonar microcítico y no microcítico
+T63	Neg_cue 1877 1879	no
+T64	Negated 1880 1891	microcítico
+T65	DISO 1917 1943	neoplasia maligna primaria
+#26	AnnotatorNotes T65	C1306459; Primary malignant neoplasm; Neoplastic Process
+T66	Neg_cue 1945 1952	excepto
+T67	PROC 1967 1974	tratada
+T68	Negated 1967 1974	tratada
+T69	Neg_cue 2000 2002	no
+T70	Negated 2017 2043	actividad de la enfermedad
+T71	DISO 2033 2043	enfermedad
+#27	AnnotatorNotes T71	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T72	Duration 2044 2054	>/= 5 años
+T73	PROC 2085 2096	tratamiento
+#28	AnnotatorNotes T73	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T74	DISO 2113 2128	Efectos tóxicos
+#29	AnnotatorNotes T74	C0600688; Toxic effect; Injury or Poisoning
+T75	PROC 2174 2200	tratamiento antineoplásico
+T76	DISO 2212 2255	Trastornos autoinmunitarios o inflamatorios
+T77	LIVB 2291 2304	Participantes
+T78	CHEM 2344 2356	anti-PD-(L)1
+T79	LIVB 2402 2415	participantes
+T80	Neg_cue 2421 2423	No
+T81	DISO 2447 2456	toxicidad
+#30	AnnotatorNotes T81	C0600688; Toxic effect; Injury or Poisoning
+T82	Negated 2447 2456	toxicidad
+T83	PROC 2476 2525	suspensión permanente del tratamiento anti-PD(L)1
+T84	DISO 2585 2609	acontecimientos adversos
+#31	AnnotatorNotes T84	C0877248; Adverse event; Pathologic Function
+T85	DISO 2627 2629	AE
+T86	PROC 2652 2675	tratamiento anti-PD(L)1
+T87	Neg_cue 2689 2691	No
+T88	Negated 2715 2739	AE de origen inmunitario
+T89	Negated 2741 2771	immune-mediated adverse events
+T90	Neg_cue 2794 2796	ni
+T91	DISO 2797 2843	AE neurológicos u oculares de tipo inmunitario
+T92	Negated 2797 2843	AE neurológicos u oculares de tipo inmunitario
+T93	Neg_cue 2847 2853	ningún
+T94	Negated 2854 2859	grado
+T95	PROC 2871 2894	tratamiento anti-PD(L)1
+T96	Neg_cue 2907 2909	No
+T97	PROC 2932 2947	inmunosupresión
+#32	AnnotatorNotes T97	C0021079; Therapeutic immunosuppression; Therapeutic or Preventive Procedure
+T98	Negated 2932 2947	inmunosupresión
+T99	CHEM 2970 2986	corticosteroides
+#33	AnnotatorNotes T99	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T100	Negated 2970 2986	corticosteroides
+T101	PROC 2995 3006	tratamiento
+#34	AnnotatorNotes T101	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T102	DISO 3013 3015	AE
+T103	Neg_cue 3017 3019	no
+T104	Negated 3043 3063	reaparición de un AE
+T105	DISO 3043 3054	reaparición
+T106	DISO 3061 3063	AE
+T107	Neg_cue 3090 3092	no
+T108	Date 3108 3124	en la actualidad
+T109	Negated 3125 3169	dosis de mantenimiento > 10 mg de prednisona
+T110	CHEM 3159 3169	prednisona
+#35	AnnotatorNotes T110	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T111	Frequency 3184 3190	al día
+T112	LIVB 3195 3208	Participantes
+T113	PROC 3255 3268	quimioterapia
+#36	AnnotatorNotes T113	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T114	CHEM 3273 3294	derivados del platino
+T115	DISO 3300 3322	enfermedad metastásica
+#37	AnnotatorNotes T115	C0341683; Hydatid cyst of kidney; Disease or Syndrome
+T116	LIVB 3327 3340	Participantes
+T117	CHEM 3363 3379	inhibidor de ATR
+T118	PROC 1033 1037	EGFR
+T119	PROC 1040 1043	ALK
+T120	PROC 1181 1192	radiológica
+T121	DISO 2611 2625	adverse events
+T122	Dose 3125 3155	dosis de mantenimiento > 10 mg
+T123	DISO 2715 2739	AE de origen inmunitario
+#38	AnnotatorNotes T123	Immune-mediated adverse reaction A26715052 ( pathologic function)
+T124	DISO 2741 2771	immune-mediated adverse events
+T125	DISO 2773 2777	imAE
+T126	Negated 2773 2777	imAE
+T127	PROC 1248 1259	tratamiento
+T128	PROC 1083 1112	determinación del laboratorio
+#39	AnnotatorNotes T128	Laboratory reporting C0200370
+T129	DISO 1153 1175	progression of disease
+T130	PROC 1505 1521	Estado funcional
+T131	PHYS 2552 2571	resolución completa
+#40	AnnotatorNotes T131	total recovery C0683340
+T132	PROC 1548 1570	Funcionalidad orgánica
+T133	PROC 1573 1588	reserva medular
+T134	Quantifier_or_Qualifier 153 161	avanzado
+T135	Quantifier_or_Qualifier 357 365	avanzado
+T136	Quantifier_or_Qualifier 407 437	aprovechables terapéuticamente
+T137	Observation 461 471	progresado
+T138	Quantifier_or_Qualifier 673 681	avanzado
+T139	Quantifier_or_Qualifier 906 925	localmente avanzado
+T140	Quantifier_or_Qualifier 1044 1059	de tipo natural
+T141	Quantifier_or_Qualifier 1428 1447	localmente avanzado
+T142	CONC 1526 1534	ECOG/WHO
+T143	Result_or_Value 1538 1543	0 o 1
+T144	Observation 1548 1572	Funcionalidad orgánica y
+T145	Observation 1573 1598	reserva medular adecuadas
+T146	CONC 1602 1619	Esperanza de vida
+T147	Result_or_Value 1660 1667	> 30 kg
+T148	Result_or_Value 1718 1726	negativa
+T149	Quantifier_or_Qualifier 1768 1776	fértiles
+T150	Quantifier_or_Qualifier 1975 1997	con intención curativa
+T151	CONC 2067 2080	primera dosis
+T152	Quantifier_or_Qualifier 2133 2142	grado > 2
+T153	CONC 2150 2155	CTCAE
+T154	Quantifier_or_Qualifier 2157 2169	persistentes
+T155	Quantifier_or_Qualifier 2256 2263	activos
+T156	Quantifier_or_Qualifier 2324 2340	más de una línea
+T157	Quantifier_or_Qualifier 2372 2376	sola
+T158	Observation 2552 2571	resolución completa
+T159	Quantifier_or_Qualifier 2718 2739	de origen inmunitario
+T160	Quantifier_or_Qualifier 2782 2793	grado >/= 3
+T161	CONC 3125 3130	dosis
+T162	Quantifier_or_Qualifier 3134 3147	mantenimiento
+T163	Quantifier_or_Qualifier 3228 3244	más de una línea
+T164	Patient 107 116	pacientes
+T165	Patient 311 320	pacientes
+T166	History_of 494 505	tratamiento
+T167	History_of 517 529	anti-PD-(L)1
+T168	History_of 532 545	quimioterapia
+T169	History_of 559 566	platino
+T170	Patient 725 737	Participante
+T171	History_of 1237 1259	régimen de tratamiento
+T172	History_of 1375 1390	biquimioterapia
+T173	History_of 1409 1416	platino
+T174	Patient 1745 1776	mujeres potencialmente fértiles
+T175	Patient 1807 1819	Participante
+T176	History_of 1917 1934	neoplasia maligna
+T177	History_of 1935 1943	primaria
+T178	History_of 1967 1974	tratada
+T179	History_of 2174 2200	tratamiento antineoplásico
+T180	History_of 2212 2255	Trastornos autoinmunitarios o inflamatorios
+T181	Patient 2291 2304	Participantes
+T182	History_of 2344 2356	anti-PD-(L)1
+T183	Patient 2402 2415	participantes
+T184	History_of 2447 2456	toxicidad
+T185	History_of 2502 2525	tratamiento anti-PD(L)1
+T186	History_of 2652 2663	tratamiento
+T187	History_of 2664 2675	anti-PD(L)1
+T188	History_of 2715 2717	AE
+T189	History_of 2741 2747	immune
+T190	History_of 2757 2764	adverse
+T191	History_of 2765 2771	events
+T192	History_of 2797 2823	AE neurológicos u oculares
+T193	History_of 2871 2894	tratamiento anti-PD(L)1
+T194	History_of 2932 2947	inmunosupresión
+T195	History_of 2970 2986	corticosteroides
+T196	Patient 3195 3208	Participantes
+T197	History_of 3255 3268	quimioterapia
+T198	History_of 3287 3294	platino
+T199	Patient 3327 3340	Participantes
+T200	History_of 3363 3379	inhibidor de ATR

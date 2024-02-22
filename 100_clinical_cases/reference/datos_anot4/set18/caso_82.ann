@@ -1,0 +1,114 @@
+T1	PROC 21 29	Consulta
+#1	AnnotatorNotes T1	C0009818; Consultation; Health Care Activity
+T2	DISO 34 42	ansiedad
+#2	AnnotatorNotes T2	C0003467; Anxiety; Mental or Behavioral Dysfunction
+T3	LIVB 65 70	Mujer
+#3	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 74 81	39 años
+T5	LIVB 95 101	marido
+#4	AnnotatorNotes T5	C0242664; husband; Family Group
+T6	LIVB 108 113	hijos
+T7	Age 117 128	6 y 11 años
+T8	DISO 160 174	Hipotiroidismo
+#5	AnnotatorNotes T8	C0020676; Hypothyroidism; Disease or Syndrome
+T9	PROC 178 189	tratamiento
+#6	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 194 206	levotiroxina
+#7	AnnotatorNotes T10	C0040165; levothyroxine; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance
+T11	Dose 207 213	50 mg.
+T12	DISO 217 227	Enfermedad
+#8	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Date 228 234	actual
+T14	Date 241 245	2013
+T15	PHYS 257 265	embarazo
+#9	AnnotatorNotes T15	C0032961; Pregnancy; Organism Function
+T16	DISO 280 288	vértigos
+#10	AnnotatorNotes T16	C0042571; Vertigo; Sign or Symptom | C0522355; Vertical vertigo; Sign or Symptom
+T17	PHYS 299 304	parto
+#11	AnnotatorNotes T17	C0005615; Birth; Organism Function | C1148523; Childbirth; Organism Function
+T18	PROC 396 407	diagnóstico
+#12	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
+T19	DISO 411 432	ansiedad generalizada
+T20	PROC 443 454	tratamiento
+#13	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T21	CHEM 459 468	lorazepam
+#14	AnnotatorNotes T21	C0024002; lorazepam; Organic Chemical · Pharmacologic Substance
+T22	Dose 469 477	1 mg 1⁄2
+T23	Frequency 478 487	/ 8 horas
+T24	Date 552 566	junio del 2018
+T25	LIVB 579 596	médico de familia
+#15	AnnotatorNotes T25	C1704221; Physicians, Family; Professional or Occupational Group
+T26	DISO 619 654	preocupación excesiva por las cosas
+T27	LIVB 687 694	familia
+#16	AnnotatorNotes T27	C0015576; Family; Family Group
+T28	PROC 715 726	tratamiento
+#17	AnnotatorNotes T28	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T29	CHEM 731 741	paroxetina
+#18	AnnotatorNotes T29	C0070122; paroxetine; Organic Chemical · Pharmacologic Substance
+T30	Dose 742 747	20 mg
+T31	CHEM 750 760	alprazolam
+#19	AnnotatorNotes T31	C0002333; alprazolam; Organic Chemical · Pharmacologic Substance
+T32	Dose 761 765	1 mg
+T33	Duration 786 792	un año
+T34	PROC 807 825	Exploración física
+#20	AnnotatorNotes T34	C0031809; Physical Examination; Health Care Activity
+T35	PROC 879 882	ACR
+#21	AnnotatorNotes T35	C0584615; Urine microalbumin/creatinine ratio measurement; Laboratory Procedure
+T36	PROC 893 916	Exploración neurológica
+T37	PROC 928 951	Pruebas complementarias
+#22	AnnotatorNotes T37	C1515980; Ancillary Study; Research Activity
+T38	Neg_cue 955 957	No
+T39	DISO 958 970	alteraciones
+#23	AnnotatorNotes T39	C0012634; Disease; Disease or Syndrome
+T40	Negated 958 970	alteraciones
+T41	PROC 985 996	TRATAMIENTO
+#24	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	PROC 1023 1038	desprescripción
+T43	CHEM 1083 1090	fármaco
+#25	AnnotatorNotes T43	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T44	PROC 1113 1130	pauta de retirada
+T45	Duration 1142 1151	2 semanas
+T46	Neg_cue 1197 1199	no
+T47	DISO 1223 1229	miedos
+T48	Negated 1223 1229	miedos
+T49	Negated 1232 1246	preocupaciones
+T50	DISO 1274 1308	Trastorno de ansiedad generalizada
+#26	AnnotatorNotes T50	C0270549; Generalized Anxiety Disorder; Mental or Behavioral Dysfunction
+T51	DISO 1310 1313	TAG
+T52	DISO 319 324	miedo
+T53	DISO 657 662	miedo
+T54	PROC 796 802	EXAMEN
+T55	PROC 1250 1261	DIAGNÓSTICO
+T56	DISO 1232 1246	preocupaciones
+T58	Observation 327 340	quedarse sola
+T59	Observation 853 865	colaboradora
+T60	Observation 867 875	Eupneica
+T61	Result_or_Value 883 889	normal
+T62	Result_or_Value 917 923	normal
+T64	Observation 1177 1194	encontrarse mejor
+T65	Patient 65 70	Mujer
+T66	Family_member 95 101	marido
+T67	Family_member 108 113	hijos
+T69	Other 579 596	médico de familia
+T70	Family_member 687 694	familia
+T71	Future 1134 1138	Cita
+T72	Future 1157 1167	valoración
+T57	Observation 83 128	Vive con su marido y sus hijos de 6 y 11 años
+T73	History_of 160 174	Hipotiroidismo
+T74	History_of 257 265	embarazo
+T75	History_of 280 288	vértigos
+T76	History_of 299 304	parto
+T77	Observation 345 366	pensar en catástrofes
+T79	Observation 492 545	redujo progresivamente cuando fue encontrándose mejor
+T68	History_of 396 407	diagnóstico
+T82	History_of 319 324	miedo
+T83	History_of 411 432	ansiedad generalizada
+T84	History_of 443 454	tratamiento
+T85	History_of 619 654	preocupación excesiva por las cosas
+T86	History_of 657 662	miedo
+T87	History_of 715 726	tratamiento
+T89	Observation 829 839	Consciente
+T90	Observation 841 850	orientada
+T63	Observation 1054 1090	riesgos de seguir tomando el fármaco
+T91	PROC 1134 1138	Cita
+T92	PROC 1157 1167	valoración

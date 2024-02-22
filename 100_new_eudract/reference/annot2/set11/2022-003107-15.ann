@@ -1,0 +1,67 @@
+T1	PROC 161 192	evaluar la eficacia y seguridad
+T2	CHEM 196 207	tozorakimab
+T3	LIVB 222 231	pacientes
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	PROC 232 246	hospitalizados
+#2	AnnotatorNotes T4	C0019993; Hospitalization; Health Care Activity
+T5	DISO 251 276	infección pulmonar vírica
+T6	PROC 291 305	oxigenoterapia
+#3	AnnotatorNotes T6	C0184633; Oxygen Therapy Care; Therapeutic or Preventive Procedure
+T7	DISO 328 358	Infecciones pulmonares víricas
+T8	LIVB 394 411	Pacientes adultos
+T9	Age 404 411	adultos
+T10	Age 412 421	≥ 18 años
+T11	PROC 449 473	consentimiento informado
+#4	AnnotatorNotes T11	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T12	LIVB 478 487	Pacientes
+#5	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	PROC 488 502	hospitalizados
+#6	AnnotatorNotes T13	C0019993; Hospitalization; Health Care Activity
+T14	DISO 507 532	infección pulmonar vírica
+T15	DISO 537 546	Hipoxemia
+#7	AnnotatorNotes T15	C0700292; Hypoxemia; Finding
+T16	CHEM 590 597	oxígeno
+#8	AnnotatorNotes T16	C0030054; oxygen; Biologically Active Substance · Element, Ion, or Isotope · Pharmacologic Substance
+T17	DISO 627 667	Infección pulmonar fúngica o parasitaria
+T18	DISO 678 711	infección pulmonar por aspiración
+T19	DISO 713 729	absceso pulmonar
+#9	AnnotatorNotes T19	C0024110; Lung Abscess; Disease or Syndrome
+T20	DISO 732 747	sepsis pulmonar
+T21	DISO 763 785	coinfección bacteriana
+T22	LIVB 813 825	investigador
+#10	AnnotatorNotes T22	C0035173; Research Personnel; Professional or Occupational Group
+T23	DISO 830 850	infección bacteriana
+#11	AnnotatorNotes T23	C0004623; Bacterial Infections; Disease or Syndrome
+T24	LIVB 885 893	paciente
+#12	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	DISO 898 907	Hipoxemia
+#13	AnnotatorNotes T25	C0700292; Hypoxemia; Finding
+T26	DISO 935 955	lesión extrapulmonar
+T27	DISO 962 977	lesión pulmonar
+#14	AnnotatorNotes T27	C0577916; Lesion of lung; Finding | C2350019; Solitary Pulmonary Nodule; Neoplastic Process
+T28	Neg_cue 991 993	no
+T29	DISO 994 1004	infecciosa
+#15	AnnotatorNotes T29	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T30	Negated 994 1004	infecciosa
+T31	Date 1018 1026	en curso
+T32	PROC 1045 1059	aleatorización
+#16	AnnotatorNotes T32	C0034656; Randomization; Research Activity
+T33	CHEM 209 217	MEDI3506
+T34	PROC 560 571	tratamiento
+T35	PROC 1013 1017	ECMO
+T36	PROC 1009 1012	IMV
+T37	PROC 47 154	Ensayo multicéntrico Fase III, aleatorizado, doble-ciego, de grupos paralelos y controlado frente a placebo
+T38	Quantifier_or_Qualifier 359 365	graves
+T39	Quantifier_or_Qualifier 994 1004	infecciosa
+T40	Quantifier_or_Qualifier 1029 1038	inminente
+T41	Patient 222 231	pacientes
+T42	Patient 394 411	Pacientes adultos
+T43	Patient 478 487	Pacientes
+T44	History_of 627 667	Infección pulmonar fúngica o parasitaria
+T45	History_of 678 711	infección pulmonar por aspiración
+T46	History_of 713 729	absceso pulmonar
+T47	History_of 732 748	sepsis pulmonar.
+T48	Other 813 825	investigador
+T49	Patient 885 893	paciente
+T50	Future 1009 1012	IMV
+T51	Future 1013 1017	ECMO

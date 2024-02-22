@@ -1,0 +1,166 @@
+T2	LIVB 97 102	Mujer
+#1	AnnotatorNotes T2	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T3	Age 106 113	72 años
+T4	DISO 146 149	HTA
+#2	AnnotatorNotes T4	C0020538; Hypertensive disease; Disease or Syndrome
+T5	DISO 153 172	Hipercolesterolemia
+#3	AnnotatorNotes T5	C0020443; Hypercholesterolemia; Disease or Syndrome
+T6	DISO 176 197	Cardiopatía Isquémica
+#4	AnnotatorNotes T6	C0151744; Myocardial Ischemia; Disease or Syndrome
+T7	DISO 199 202	IAM
+#5	AnnotatorNotes T7	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T8	Date 206 210	1996
+T9	Date 213 217	2010
+T10	PROC 221 225	Tto.
+T11	CHEM 236 247	Pantoprazol
+#6	AnnotatorNotes T11	C0081876; pantoprazole; Organic Chemical · Pharmacologic Substance
+T12	Dose 248 253	20 mg
+T13	Frequency 253 257	/24h
+T14	CHEM 259 262	AAS
+#7	AnnotatorNotes T14	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T15	Dose 263 269	100 mg
+T16	Frequency 269 273	/24h
+T17	CHEM 275 299	Isosorbida 5-mononitrato
+T18	Dose 300 305	60 mg
+T19	Frequency 305 309	/24h
+T20	CHEM 311 321	Bisoprolol
+#8	AnnotatorNotes T20	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T21	Dose 322 326	5 mg
+T22	Frequency 326 330	/24h
+T23	CHEM 332 343	Nisoldipino
+#9	AnnotatorNotes T23	C0028116; nisoldipine; Organic Chemical · Pharmacologic Substance
+T24	Dose 344 349	10 mg
+T25	Frequency 349 353	/24h
+T26	CHEM 355 363	Ramipril
+#10	AnnotatorNotes T26	C0072973; ramipril; Organic Chemical · Pharmacologic Substance
+T27	Dose 364 370	2,5 mg
+T28	Frequency 370 374	/24h
+T29	CHEM 376 389	Rosuvastatina
+#11	AnnotatorNotes T29	C0965129; rosuvastatin; Organic Chemical · Pharmacologic Substance
+T30	Dose 390 395	20 mg
+T31	Frequency 395 399	/24h
+T32	DISO 405 415	Enfermedad
+#12	AnnotatorNotes T32	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T33	Date 416 422	actual
+T35	Duration 482 488	un día
+T36	Neg_cue 505 507	No
+T37	DISO 508 514	disnea
+#13	AnnotatorNotes T37	C0013404; Dyspnea; Sign or Symptom
+T38	Negated 508 514	disnea
+T39	Neg_cue 516 518	no
+T40	DISO 519 533	dolor torácico
+#14	AnnotatorNotes T40	C0008031; Chest Pain; Sign or Symptom
+T41	Negated 519 533	dolor torácico
+T42	Neg_cue 534 544	ni ninguna
+T43	Negated 545 564	otra sintomatología
+T44	DISO 550 564	sintomatología
+#15	AnnotatorNotes T44	C3540840; Sign or Symptom; Finding
+T45	Neg_cue 568 570	No
+T46	Negated 571 593	antecedente traumático
+T47	Neg_cue 594 596	ni
+T48	Negated 597 610	sobreesfuerzo
+T49	Dose 635 642	un puff
+T50	CHEM 646 657	solinitrina
+T51	Date 671 675	ayer
+T53	PROC 716 734	Exploración física
+#17	AnnotatorNotes T53	C0031809; Physical Examination; Health Care Activity
+T54	PROC 738 740	TA
+T55	PROC 755 757	FC
+T56	PROC 767 769	Tª
+T57	PROC 779 783	SpO2
+T58	Neg_cue 888 890	No
+T59	DISO 891 913	puntos óseos dolorosos
+T60	Negated 891 929	puntos óseos dolorosos en extremidades
+T61	ANAT 917 929	extremidades
+#18	AnnotatorNotes T61	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T62	PROC 933 935	AC
+T63	Neg_cue 946 948	no
+T64	DISO 954 960	soplos
+#19	AnnotatorNotes T64	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T65	Negated 949 960	oigo soplos
+T66	PROC 964 966	AP
+T67	Neg_cue 973 975	no
+T68	DISO 981 1001	ruidos sobreañadidos
+T69	Negated 981 1001	ruidos sobreañadidos
+T70	PROC 1006 1029	Pruebas complementarias
+#20	AnnotatorNotes T70	C1515980; Ancillary Study; Research Activity
+T71	PROC 1033 1036	ECG
+#21	AnnotatorNotes T71	C1623258; Electrocardiography; Diagnostic Procedure
+T72	DISO 1051 1056	BRIHH
+T73	Neg_cue 1078 1080	No
+T74	DISO 1081 1114	alteraciones de la repolarización
+T75	Negated 1081 1114	alteraciones de la repolarización
+T76	PROC 1118 1126	Rx tórax
+#22	AnnotatorNotes T76	C0039985; Plain chest X-ray; Diagnostic Procedure
+T78	PROC 1170 1179	Analítica
+#23	AnnotatorNotes T78	C0002778; Analysis of substances; Laboratory Procedure
+T79	PROC 1181 1188	Glucosa
+T80	PROC 1194 1197	TnT
+T81	PROC 1205 1210	CK-MB
+T82	PROC 1218 1228	Leucocitos
+T83	Neg_cue 1251 1254	sin
+T84	DISO 1255 1267	alteraciones
+#24	AnnotatorNotes T84	C0012634; Disease; Disease or Syndrome
+T85	Negated 1255 1267	alteraciones
+T86	DISO 1295 1302	SCASEST
+#25	AnnotatorNotes T86	C4255010; Non-ST Elevated Myocardial Infarction; Disease or Syndrome
+T87	DISO 1304 1311	IAM noQ
+T88	PROC 1314 1325	TRATAMIENTO
+#26	AnnotatorNotes T88	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T89	Dose 1342 1349	2 puffs
+T90	CHEM 1353 1364	solinitrina
+T91	CHEM 1368 1379	Clopidogrel
+#27	AnnotatorNotes T91	C0070166; clopidogrel; Organic Chemical · Pharmacologic Substance
+T92	Dose 1380 1384	75mg
+T93	Route 1385 1388	vo.
+T94	LIVB 1394 1402	paciente
+#28	AnnotatorNotes T94	C0030705; Patients; Patient or Disabled Group
+T96	LIVB 1494 1502	paciente
+#30	AnnotatorNotes T96	C0030705; Patients; Patient or Disabled Group
+T97	PROC 705 711	EXAMEN
+T98	Negated 877 884	afebril
+T99	PROC 1271 1282	DIAGNÓSTICO
+T103	Result_or_Value 742 753	179/87 mmHg
+T104	Result_or_Value 759 765	67 lpm
+T105	Result_or_Value 771 777	36,8ºC
+T106	Result_or_Value 785 789	97%.
+T107	Observation 792 811	Buen estado general
+T108	Observation 837 851	bien hidratada
+T109	Observation 854 864	perfundida
+T110	Observation 866 874	Eupneica
+T111	Observation 937 944	Rítmica
+T112	Observation 968 971	MVC
+T113	Observation 1038 1040	RS
+T114	Result_or_Value 1043 1050	68 lpm.
+T115	Result_or_Value 1189 1192	202
+T116	Result_or_Value 1198 1203	164,3
+T117	Result_or_Value 1211 1216	22,38
+T118	Result_or_Value 1229 1235	15.800
+T119	Result_or_Value 1237 1240	84%
+T121	Patient 97 102	Mujer
+T122	History_of 146 149	HTA
+T123	History_of 176 197	Cardiopatía Isquémica
+T124	History_of 199 202	IAM
+T126	Patient 1394 1402	paciente
+T127	Patient 1494 1502	paciente
+T128	History_of 153 172	Hipercolesterolemia
+T129	Observation 571 593	antecedente traumático
+T130	History_of 571 593	antecedente traumático
+T131	Observation 597 610	sobreesfuerzo
+T132	History_of 597 610	sobreesfuerzo
+T133	Observation 813 823	Consciente
+T134	Observation 826 835	orientada
+T1	DISO 22 27	Dolor
+T136	ANAT 31 44	ambos hombros
+T34	DISO 426 431	Dolor
+T137	ANAT 435 448	ambos hombros
+T138	ANAT 465 478	ambas muñecas
+T139	ANAT 61 74	ambas muñecas
+T125	Observation 1058 1075	similar a previas
+T77	DISO 1128 1161	Pinzamiento del seno costofrénico
+T140	Quantifier_or_Qualifier 1162 1166	izdo
+T100	Observation 45 54	irradiado
+T101	Observation 449 458	irradiado
+T135	DISO 877 884	afebril
+T52	Observation 680 701	disminución del dolor
+T95	Observation 1411 1432	disminución del dolor

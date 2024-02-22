@@ -1,0 +1,168 @@
+T1	PROC 44 72	Estudio abierto de seguridad
+T2	LIVB 76 85	pacientes
+#1	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	DISO 90 125	enfermedad mitocondrial hereditaria
+T4	PROC 126 134	tratados
+T5	CHEM 151 162	vatiquinona
+T6	CHEM 164 171	PTC743)
+T7	PROC 192 220	Estudio abierto de seguridad
+T8	LIVB 224 233	pacientes
+#2	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
+T9	DISO 238 273	enfermedad mitocondrial hereditaria
+T10	PROC 274 282	tratados
+T11	CHEM 299 310	vatiquinona
+T12	CHEM 312 319	PTC743)
+T13	DISO 333 368	Enfermedad mitocondrial hereditaria
+T14	LIVB 398 405	Sujetos
+#3	AnnotatorNotes T14	C0681850; Study Subject; Group
+T15	DISO 410 445	enfermedad mitocondrial hereditaria
+#4	AnnotatorNotes T15	C0751651; Mitochondrial Diseases; Disease or Syndrome
+T16	DISO 464 481	síndrome de Leigh
+#5	AnnotatorNotes T16	C0023264; Leigh Disease; Disease or Syndrome
+T17	DISO 483 501	síndrome de Alpers
+#6	AnnotatorNotes T17	C0205710; Alpers Syndrome (disorder); Disease or Syndrome
+T18	DISO 503 553	encefalomiopatía mitocondrial con acidosis láctica
+#7	AnnotatorNotes T18	C0162666; Mitochondrial Encephalomyopathies; Disease or Syndrome
+T19	DISO 556 584	accidentes cerebrovasculares
+#8	AnnotatorNotes T19	C0038454; Cerebrovascular accident; Disease or Syndrome
+T20	DISO 586 600	síndrome MELAS
+#9	AnnotatorNotes T20	C0162671; MELAS Syndrome; Disease or Syndrome
+T21	DISO 603 649	epilepsia mioclónica con fibras rojas rasgadas
+#10	AnnotatorNotes T21	C0162672; MERRF Syndrome; Disease or Syndrome
+T22	DISO 651 656	MERRF
+#11	AnnotatorNotes T22	C0162672; MERRF Syndrome; Disease or Syndrome
+T23	DISO 659 695	hipoplasia pontocerebelosa de tipo 6
+T24	DISO 697 701	PCH6
+#12	AnnotatorNotes T24	C1969084; Pontocerebellar Hypoplasia Type 6; Congenital Abnormality · Disease or Syndrome
+T25	DISO 710 733	enfermedad mitocondrial
+#13	AnnotatorNotes T25	C0751651; Mitochondrial Diseases; Disease or Syndrome
+T26	PROC 780 795	estudio clínico
+#14	AnnotatorNotes T26	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T27	PROC 806 817	tratamiento
+#15	AnnotatorNotes T27	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T28	CHEM 822 833	vatiquinona
+T29	LIVB 843 874	mujeres potencialmente fértiles
+T30	Spec_cue 851 865	potencialmente
+T31	Speculated 866 874	fértiles
+T32	Date 900 904	2020
+T33	PROC 923 941	prueba de embarazo
+#16	AnnotatorNotes T33	C0032976; Pregnancy Tests; Diagnostic Procedure
+T34	Negated 933 941	embarazo
+T35	Neg_cue 942 950	negativa
+T36	PROC 1008 1026	abstinencia sexual
+T37	PROC 1075 1098	métodos anticonceptivos
+#17	AnnotatorNotes T37	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T38	Frequency 1142 1148	al año
+T39	PROC 1204 1227	métodos anticonceptivos
+#18	AnnotatorNotes T39	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T40	PROC 1247 1258	abstinencia
+T41	Duration 1310 1317	50 días
+T42	CHEM 1349 1356	fármaco
+#19	AnnotatorNotes T42	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T43	CHEM 1373 1410	anticonceptivos hormonales combinados
+T44	CHEM 1416 1426	estrógenos
+#20	AnnotatorNotes T44	C0014939; estrogens; Hormone · Organic Chemical · Pharmacologic Substance
+T45	CHEM 1429 1439	gestágenos
+#21	AnnotatorNotes T45	C0033306; Progestins; Hormone · Pharmacologic Substance
+T46	PROC 1446 1472	inhibición de la ovulación
+#22	AnnotatorNotes T46	C0029151; Oral contraception; Therapeutic or Preventive Procedure
+T47	Route 1477 1483	orales
+T48	CHEM 1522 1548	anticonceptivos hormonales
+T49	CHEM 1557 1566	gestágeno
+#23	AnnotatorNotes T49	C0033306; Progestins; Hormone · Pharmacologic Substance
+T50	PROC 1572 1598	inhibición de la ovulación
+#24	AnnotatorNotes T50	C0029151; Oral contraception; Therapeutic or Preventive Procedure
+T51	Route 1603 1609	orales
+T52	Route 1613 1624	inyectables
+T53	DEVI 1644 1668	dispositivo intrauterino
+#25	AnnotatorNotes T53	C0021900; Intrauterine Devices; Medical Device
+T54	DEVI 1672 1714	sistema intrauterino liberador de hormonas
+T55	LIVB 1718 1724	pareja
+#26	AnnotatorNotes T55	C0682323; Partner in relationship; Family Group
+T56	PROC 1725 1738	vasectomizada
+#27	AnnotatorNotes T56	C0042387; Vasectomy; Therapeutic or Preventive Procedure
+T57	DISO 1743 1754	azoospermia
+#28	AnnotatorNotes T57	C0004509; Azoospermia; Disease or Syndrome
+T58	LIVB 1777 1784	mujeres
+#29	AnnotatorNotes T58	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T59	Spec_cue 1801 1815	potencialmente
+T60	Speculated 1816 1824	fértiles
+T61	PHYS 1840 1855	posmenopáusicas
+#30	AnnotatorNotes T61	C0206159; Postmenopause; Organism Function
+T62	Duration 1862 1890	mínimo 12 meses consecutivos
+T63	PHYS 1894 1903	amenorrea
+T64	Neg_cue 1940 1943	sin
+T65	Spec_cue 1961 1969	sospeche
+T66	Speculated 1970 1980	otra causa
+T67	PROC 1995 2024	esterilizadas quirúrgicamente
+T68	PROC 2034 2063	ligadura de trompas bilateral
+T69	PROC 2065 2078	histerectomía
+#31	AnnotatorNotes T69	C0020699; Hysterectomy; Therapeutic or Preventive Procedure
+T70	PROC 2080 2102	ooforectomía bilateral
+#32	AnnotatorNotes T70	C0278321; Bilateral oophorectomy; Therapeutic or Preventive Procedure
+T71	LIVB 2113 2129	varones fértiles
+T72	Date 2155 2159	2020
+T73	PHYS 2176 2195	relaciones sexuales
+#33	AnnotatorNotes T73	C0009253; Coitus; Organism Function
+T74	LIVB 2200 2231	mujeres potencialmente fértiles
+T75	Spec_cue 2208 2222	potencialmente
+T76	Speculated 2223 2231	fértiles
+T77	Neg_cue 2238 2240	no
+T78	PROC 2252 2266	vasectomizados
+#34	AnnotatorNotes T78	C0042387; Vasectomy; Therapeutic or Preventive Procedure
+T79	Negated 2252 2266	vasectomizados
+T80	PROC 2302 2334	método anticonceptivo de barrera
+#35	AnnotatorNotes T80	C0004764; Contraception, Barrier; Therapeutic or Preventive Procedure
+T81	Duration 2362 2369	50 días
+T82	CHEM 2401 2408	fármaco
+#36	AnnotatorNotes T82	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T83	Date 2466 2472	actual
+T84	PROC 2491 2515	estudio intervencionista
+T85	PHYS 2520 2528	Embarazo
+#37	AnnotatorNotes T85	C0032961; Pregnancy; Organism Function
+T86	PHYS 2531 2540	lactancia
+#38	AnnotatorNotes T86	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T87	Date 12 16	2022
+T88	Route 1487 1501	intravaginales
+T89	Route 1628 1640	implantables
+T90	Route 1505 1518	transdérmicos
+T91	PHYS 1816 1824	fértiles
+T92	Negated 1951 1958	conozca
+T93	Quantifier_or_Qualifier 114 125	hereditaria
+T94	Quantifier_or_Qualifier 262 273	hereditaria
+T95	Quantifier_or_Qualifier 434 445	hereditaria
+T96	Quantifier_or_Qualifier 866 874	fértiles
+T97	Result_or_Value 942 950	negativa
+T98	CONC 967 980	momento basal
+T99	Quantifier_or_Qualifier 1099 1112	muy efectivos
+T100	Quantifier_or_Qualifier 1228 1241	muy efectivos
+T101	CONC 1332 1344	última dosis
+T102	Quantifier_or_Qualifier 1549 1553	solo
+T103	Quantifier_or_Qualifier 1816 1824	fértiles
+T104	CONC 1975 1980	causa
+T105	Quantifier_or_Qualifier 2223 2231	fértiles
+T106	CONC 2384 2396	última dosis
+T107	Observation 2452 2515	Participación actual en cualquier otro estudio intervencionista
+T108	Patient 76 85	pacientes
+T109	History_of 126 134	tratados
+T110	History_of 151 162	vatiquinona
+T111	History_of 164 170	PTC743
+T112	Patient 224 233	pacientes
+T113	History_of 274 282	tratados
+T114	History_of 299 310	vatiquinona
+T115	History_of 312 318	PTC743
+T116	Patient 398 405	Sujetos
+T117	History_of 780 795	estudio clínico
+T118	Future 806 817	tratamiento
+T119	History_of 822 833	vatiquinona
+T120	Patient 843 874	mujeres potencialmente fértiles
+T121	Patient 1718 1724	pareja
+T122	Patient 1777 1784	mujeres
+T123	History_of 1894 1903	amenorrea
+T124	History_of 1995 2024	esterilizadas quirúrgicamente
+T125	History_of 2034 2053	ligadura de trompas
+T126	History_of 2065 2078	histerectomía
+T127	History_of 2080 2102	ooforectomía bilateral
+T128	Patient 2113 2129	varones fértiles
+T129	Patient 2200 2231	mujeres potencialmente fértiles
+T130	History_of 2252 2266	vasectomizados

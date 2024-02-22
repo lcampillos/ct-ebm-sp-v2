@@ -1,0 +1,178 @@
+T1	LIVB 21 26	Varón
+T2	Age 28 35	44 años
+T3	DISO 47 62	dolor abdominal
+#1	AnnotatorNotes T3	C0000737; Abdominal Pain; Sign or Symptom
+T4	DISO 114 156	Gastropatía asociada a Helicobacter Pilori
+T5	PROC 157 164	tratada
+T6	Duration 165 177	5 años antes
+T8	DISO 201 222	hemangiomas hepáticos
+T9	Neg_cue 226 229	Sin
+T10	PROC 230 241	tratamiento
+#3	AnnotatorNotes T10	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T12	DISO 255 265	Enfermedad
+#4	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Duration 296 304	16 horas
+T14	DISO 308 320	abdominalgia
+#5	AnnotatorNotes T14	C0000737; Abdominal Pain; Sign or Symptom
+T15	ANAT 362 372	epigastrio
+#6	AnnotatorNotes T15	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T16	ANAT 390 408	ambos hipocondrios
+T17	ANAT 439 446	abdomen
+#7	AnnotatorNotes T17	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T19	ANAT 524 544	hemiabdomen superior
+T20	PHYS 593 598	andar
+T21	DISO 647 652	dolor
+#8	AnnotatorNotes T21	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T23	DISO 689 696	afebril
+#9	AnnotatorNotes T23	C0277797; Apyrexial; Finding
+T24	Negated 689 696	afebril
+T25	Neg_cue 698 701	sin
+T27	Negated 702 736	alteración del tránsito intestinal
+T28	DISO 738 745	nauseas
+#10	AnnotatorNotes T28	C0027497; Nausea; Sign or Symptom
+T29	Negated 738 745	nauseas
+T30	Neg_cue 746 748	ni
+T31	DISO 749 756	vómitos
+#11	AnnotatorNotes T31	C0042963; Vomiting; Sign or Symptom
+T32	Negated 749 756	vómitos
+T33	PROC 759 765	EXAMEN
+#12	AnnotatorNotes T33	C0031809; Physical Examination; Health Care Activity
+T34	PROC 770 788	Exploración física
+#13	AnnotatorNotes T34	C0031809; Physical Examination; Health Care Activity
+T35	PROC 792 808	Tensión arterial
+T36	PROC 817 836	frecuencia cardiaca
+T37	PROC 845 856	temperatura
+T38	PROC 884 894	escala EVA
+T39	PROC 964 973	explorado
+#14	AnnotatorNotes T39	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T40	PROC 1024 1056	Exploraciones de cabeza y cuello
+T41	PROC 1058 1070	auscultación
+#15	AnnotatorNotes T41	C0004339; Auscultation; Diagnostic Procedure
+T42	ANAT 1073 1085	extremidades
+#16	AnnotatorNotes T42	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T43	PROC 1098 1119	Exploración abdominal
+#17	AnnotatorNotes T43	C0085704; Exploratory laparotomy; Diagnostic Procedure
+T44	DISO 1121 1141	dolor a la palpación
+#18	AnnotatorNotes T44	C0234233; Sore to touch; Sign or Symptom
+T45	ANAT 1145 1155	epigastrio
+#19	AnnotatorNotes T45	C0230185; Epigastrium; Body Location or Region | C1284919; Entire epigastric region; Body Location or Region
+T46	ANAT 1158 1177	hipocondrio derecho
+#20	AnnotatorNotes T46	C0738590; Right hypochondriac region structure; Body Location or Region
+T47	DISO 1182 1189	defensa
+#21	AnnotatorNotes T47	Abdominal guarding (finding) (C0238547)
+T48	Neg_cue 1191 1194	sin
+T49	DISO 1195 1200	masas
+#22	AnnotatorNotes T49	C0577559; Mass of body structure; Finding
+T50	Negated 1195 1200	masas
+T51	Neg_cue 1201 1203	ni
+T52	DISO 1204 1219	visceromegalias
+#23	AnnotatorNotes T52	C0042782; Visceromegaly; Pathologic Function
+T53	Negated 1204 1219	visceromegalias
+T54	PROC 1224 1247	Pruebas complementarias
+#24	AnnotatorNotes T54	C1515980; Ancillary Study; Research Activity
+T55	PROC 1251 1260	Analítica
+#25	AnnotatorNotes T55	C0002778; Analysis of substances; Laboratory Procedure
+T56	DISO 1262 1274	leucocitosis
+#26	AnnotatorNotes T56	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T57	PROC 1282 1292	leucocitos
+T58	PROC 1321 1331	linfocitos
+#27	AnnotatorNotes T58	C0024264; Lymphocyte; Cell
+T59	PROC 1333 1343	Bioquímica
+#28	AnnotatorNotes T59	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T60	PROC 1345 1365	sistemático de orina
+T61	PROC 1368 1379	coagulación
+#29	AnnotatorNotes T61	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T62	PROC 1392 1412	Radiografía de tórax
+#30	AnnotatorNotes T62	C0039985; Plain chest X-ray; Diagnostic Procedure
+T63	PROC 1424 1445	Radiografía abdominal
+#31	AnnotatorNotes T63	C0034573; Radiography, Abdominal; Diagnostic Procedure
+T64	Spec_cue 1476 1483	Posible
+T65	Speculated 1498 1534	aire extraluminal a nivel peribiliar
+T66	ANAT 1524 1534	peribiliar
+T67	PROC 1538 1547	Ecografía
+#32	AnnotatorNotes T67	C0041618; Ultrasonography; Diagnostic Procedure
+T68	ANAT 1549 1557	vesícula
+#33	AnnotatorNotes T68	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T69	Neg_cue 1558 1560	no
+T71	Negated 1561 1571	distendida
+T72	DISO 1599 1624	engrosamiento de la pared
+#35	AnnotatorNotes T72	Bladder wall thickening (C4324732)
+T73	ANAT 1699 1715	tracto digestivo
+#36	AnnotatorNotes T73	C0017189; Gastrointestinal tract structure; Body System | C4516948; Entire digestive tract; Body System
+T74	ANAT 1729 1737	vesícula
+#37	AnnotatorNotes T74	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T75	Spec_cue 1739 1745	Podría
+T77	ANAT 1788 1796	vesícula
+#38	AnnotatorNotes T77	C0016976; Gallbladder; Body Part, Organ, or Organ Component
+T78	Spec_cue 1825 1833	probable
+T80	Speculated 1834 1855	perforación de píloro
+T81	PROC 1860 1871	TRATAMIENTO
+#39	AnnotatorNotes T81	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T82	PROC 1925 1939	dieta absoluta
+T83	PROC 1941 1955	antibioterapia
+#40	AnnotatorNotes T83	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T84	CHEM 1960 1983	Amoxicilina-Clavulánico
+#41	AnnotatorNotes T84	C0054066; amoxicillin / clavulanate; Pharmacologic Substance
+T85	PROC 1986 1995	analgesia
+#42	AnnotatorNotes T85	C3202977; Analgesia; Therapeutic or Preventive Procedure
+T86	Neg_cue 2021 2024	sin
+T87	PROC 2038 2045	cirugía
+#43	AnnotatorNotes T87	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T88	Negated 2038 2045	cirugía
+T89	PROC 2049 2053	alta
+#44	AnnotatorNotes T89	C0030685; Patient Discharge; Health Care Activity
+T90	Duration 2057 2063	6 días
+T91	DISO 2091 2122	Neumoperitoneo oligosintomático
+T92	PROC 2067 2078	DIAGNÓSTICO
+T93	Speculated 1763 1796	cambios inflamatorios en vesícula
+T94	Date 266 272	actual
+T96	ANAT 1659 1672	perivesicular
+T99	PROC 1900 1923	aspiración nasogástrica
+T100	Quantifier_or_Qualifier 181 190	Múltiples
+T101	Quantifier_or_Qualifier 321 328	intensa
+T102	Observation 333 346	inicio brusco
+T103	Observation 374 408	irradiada hacia ambos hipocondrios
+T104	Observation 455 482	disminuido en su intensidad
+T107	Result_or_Value 809 815	122/72
+T108	Result_or_Value 837 843	65 lpm
+T109	Result_or_Value 857 863	37.1º.
+T110	Result_or_Value 911 915	9/10
+T111	CONC 919 935	inicio de cuadro
+T112	Result_or_Value 938 942	4/10
+T113	Observation 977 991	Bien hidratado
+T114	Observation 993 1007	normocoloreado
+T115	Observation 1010 1020	prefundido
+T116	Result_or_Value 1086 1094	normales
+T117	Result_or_Value 1276 1281	15700
+T118	Result_or_Value 1298 1300	1%
+T119	Result_or_Value 1314 1317	12%
+T120	Result_or_Value 1380 1388	normales
+T121	Result_or_Value 1414 1420	normal
+T122	Observation 1447 1461	patrón gaseoso
+T123	Quantifier_or_Qualifier 1462 1474	inespecífico
+T124	Observation 1498 1515	aire extraluminal
+T126	Quantifier_or_Qualifier 1626 1641	Mínima cantidad
+T128	Observation 1999 2020	Se resuelve el cuadro
+T129	Quantifier_or_Qualifier 2106 2122	oligosintomático
+T130	Patient 21 26	Varón
+T131	History_of 114 156	Gastropatía asociada a Helicobacter Pilori
+T7	DISO 191 198	quistes
+T18	Date 486 503	las últimas horas
+T106	Observation 600 623	aliviándose en decúbito
+T26	DISO 702 737	alteración del tránsito intestinal,
+T22	Observation 657 682	sudoración profusa y fría
+T105	Observation 552 587	se acentúa en determinadas posturas
+T133	PROC 867 882	Índice de dolor
+T134	PROC 1304 1311	cayados
+T70	DISO 1561 1571	distendida
+T76	PROC 1577 1594	Murphy ecográfico
+T98	Result_or_Value 1595 1596	+
+T95	Observation 1645 1658	líquido libre
+T97	Observation 1675 1688	burbuja aérea
+T125	DISO 1763 1796	cambios inflamatorios en vesícula
+T79	DISO 1834 1856	perforación de píloro)
+T11	Negated 230 250	tratamiento habitual
+T127	Observation 1804 1823	proceso de vecindad
+#2	AnnotatorNotes T127	Housing/neighbourhood problem (C0497503)
+T132	History_of 191 198	quistes
+T135	History_of 201 222	hemangiomas hepáticos

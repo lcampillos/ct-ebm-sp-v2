@@ -1,0 +1,73 @@
+T1	PROC 60 69	inyección
+#1	AnnotatorNotes T1	C1533685; Injection procedure; Therapeutic or Preventive Procedure
+T2	Dose 89 96	al 0.5%
+T3	PROC 103 113	prevención
+#2	AnnotatorNotes T3	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T4	DISO 118 144	dolor agudo postoperatorio
+#3	AnnotatorNotes T4	C2215257; Postoperative Pain, Acute; Sign or Symptom
+T5	Time 130 144	postoperatorio
+T6	PROC 159 174	cirugía mamaria
+T7	DISO 210 215	dolor
+#4	AnnotatorNotes T7	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T8	PROC 230 245	cirugía de mama
+T9	LIVB 258 265	mujeres
+#5	AnnotatorNotes T9	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T10	PROC 266 280	diagnosticadas
+#6	AnnotatorNotes T10	C0011900; Diagnosis; Diagnostic Procedure
+T11	DISO 284 290	cáncer
+#7	AnnotatorNotes T11	C0006826; Malignant Neoplasms; Neoplastic Process
+T12	DISO 347 373	dolor agudo postoperatorio
+#8	AnnotatorNotes T12	C2215257; Postoperative Pain, Acute; Sign or Symptom
+T13	Time 359 373	postoperatorio
+T14	LIVB 377 394	pacientes mujeres
+T15	PROC 395 409	diagnosticadas
+#9	AnnotatorNotes T15	C0011900; Diagnosis; Diagnostic Procedure
+T16	DISO 413 427	cáncer de mama
+#10	AnnotatorNotes T16	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T17	PROC 442 464	tratamiento quirúrgico
+#11	AnnotatorNotes T17	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T18	LIVB 494 499	Mujer
+#12	AnnotatorNotes T18	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T19	Age 500 516	mayor de 18 años
+T20	PROC 519 532	diagnosticada
+#13	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	DISO 536 561	neoplasia maligna de mama
+#14	AnnotatorNotes T21	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0235653; Malignant neoplasm of female breast; Neoplastic Process
+T22	PROC 576 598	tratamiento quirúrgico
+#15	AnnotatorNotes T22	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T23	PROC 680 704	consentimiento informado
+#16	AnnotatorNotes T23	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T24	DISO 733 740	Alergia
+#17	AnnotatorNotes T24	C0020517; Hypersensitivity; Pathologic Function
+T25	CHEM 744 760	anestésico local
+#18	AnnotatorNotes T25	C0002934; Local Anesthetics; Organic Chemical · Pharmacologic Substance
+T26	CHEM 761 770	lidocaína
+#19	AnnotatorNotes T26	C0023660; lidocaine; Organic Chemical · Pharmacologic Substance
+T27	PROC 788 838	cirugía mamaria, torácica o de extremidad superior
+T28	PROC 841 860	Cirugía de recidiva
+T29	DISO 865 879	cáncer de mama
+#20	AnnotatorNotes T29	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T30	DISO 882 887	Dolor
+#21	AnnotatorNotes T30	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T31	Time 888 901	preoperatorio
+T32	DISO 928 950	Alteración neurológica
+T33	ANAT 964 978	pared torácica
+#22	AnnotatorNotes T33	C0205076; Chest wall structure; Body Part, Organ, or Organ Component | C0446473; Chest wall NEC; Body Part, Organ, or Organ Component
+T34	DISO 996 1021	accidente cerebrovascular
+#23	AnnotatorNotes T34	C0038454; Cerebrovascular accident; Disease or Syndrome
+T35	DISO 1026 1062	afectación de la extremidad superior
+T36	PROC 1080 1087	cirugía
+#24	AnnotatorNotes T36	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T37	CHEM 73 82	lidocaína
+T38	Observation 47 53	Efecto
+T39	Observation 197 215	Disminuir el dolor
+T40	Quantifier_or_Qualifier 599 609	programado
+T41	Quantifier_or_Qualifier 1063 1074	ipsilateral
+T42	Patient 258 265	mujeres
+T43	Patient 377 394	pacientes mujeres
+T44	Patient 494 499	Mujer
+T45	Future 576 598	tratamiento quirúrgico
+T46	History_of 733 740	Alergia
+T47	History_of 788 838	cirugía mamaria, torácica o de extremidad superior
+T48	History_of 928 950	Alteración neurológica
+T49	History_of 996 1021	accidente cerebrovascular

@@ -1,0 +1,122 @@
+T1	LIVB 21 26	Chico
+#1	AnnotatorNotes T1	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T2	Age 30 37	10 años
+T3	DISO 120 129	neumonías
+#2	AnnotatorNotes T3	C0032285; Pneumonia; Disease or Syndrome
+T4	PHYS 193 201	Embarazo
+#3	AnnotatorNotes T4	C0032961; Pregnancy; Organism Function
+T5	PHYS 204 209	parto
+#4	AnnotatorNotes T5	C0005615; Birth; Organism Function | C1148523; Childbirth; Organism Function
+T6	PHYS 222 243	Desarrollo psicomotor
+#5	AnnotatorNotes T6	C0392358; Psychomotor development; Organism Function
+T7	PROC 268 276	vacunado
+#6	AnnotatorNotes T7	C0042196; Vaccination; Therapeutic or Preventive Procedure
+T8	CHEM 304 332	antineumocócica heptavalente
+T9	LIVB 364 369	Madre
+#7	AnnotatorNotes T9	C0026591; Mother (person); Family Group
+T10	DISO 377 393	rinitis alérgica
+#8	AnnotatorNotes T10	C2607914; Allergic rhinitis (disorder); Disease or Syndrome
+T11	LIVB 405 412	hermana
+#9	AnnotatorNotes T11	C0037047; Sibling; Family Group
+T12	DISO 443 453	Enfermedad
+#10	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Date 454 460	actual
+T14	DISO 478 487	neumonías
+#11	AnnotatorNotes T14	C0032285; Pneumonia; Disease or Syndrome
+T15	Date 507 528	el último año y medio
+T16	ANAT 545 570	lóbulo inferior izquierdo
+T17	DISO 598 606	tos seca
+#12	AnnotatorNotes T17	C0850149; Dry cough; Sign or Symptom
+T18	Duration 632 643	muchos días
+T19	PROC 678 692	administración
+#13	AnnotatorNotes T19	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T20	CHEM 696 706	salbutamol
+#14	AnnotatorNotes T20	C0001927; albuterol; Organic Chemical · Pharmacologic Substance
+T21	Route 707 715	inhalado
+T22	DISO 744 747	tos
+#15	AnnotatorNotes T22	C0010200; Coughing; Sign or Symptom
+T23	Time 748 762	por las noches
+T24	DISO 814 820	disnea
+#16	AnnotatorNotes T24	C0013404; Dyspnea; Sign or Symptom
+T25	PROC 836 854	Exploración física
+#17	AnnotatorNotes T25	C0031809; Physical Examination; Health Care Activity
+T26	PROC 858 862	Peso
+T27	PROC 877 882	Talla
+T28	PROC 898 901	IMC
+T29	PROC 934 961	Auscultación cardiopulmonar
+T30	Neg_cue 977 980	sin
+T31	Negated 981 1001	hallazgos de interés
+T32	PROC 1006 1029	Pruebas complementarias
+#18	AnnotatorNotes T32	C1515980; Ancillary Study; Research Activity
+T33	PROC 1033 1053	Espirometría forzada
+#19	AnnotatorNotes T33	C4701192; forced expiratory flow (FEF); Diagnostic Procedure
+T34	PROC 1057 1092	Fracción exhalada del óxido nítrico
+T35	PROC 1094 1098	FeNO
+T36	PROC 1103 1120	respiración única
+T37	PROC 1133 1143	Prick test
+#20	AnnotatorNotes T37	C0430561; Skin prick test; Diagnostic Procedure
+T38	LIVB 1156 1196	Dermatophagoides pteronyssinus y farinae
+T39	PROC 1200 1220	Radiografía de tórax
+#21	AnnotatorNotes T39	C0039985; Plain chest X-ray; Diagnostic Procedure
+T40	DISO 1222 1247	hiperinsuflación pulmonar
+#22	AnnotatorNotes T40	C1699558; Pulmonary hyperinsufflation; Sign or Symptom
+T41	PROC 1251 1262	TRATAMIENTO
+#23	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	PROC 1279 1310	Medidas de evitación alérgénica
+T43	LIVB 1312 1318	ácaros
+#24	AnnotatorNotes T43	C0000892; Acarus; Eukaryote | C0026231; Mites; Eukaryote | C0323627; Family acaridae; Eukaryote
+T44	PROC 1323 1343	Tratamiento continuo
+T45	CHEM 1348 1364	glucocorticoides
+#25	AnnotatorNotes T45	C0017710; Glucocorticoids; Hormone · Organic Chemical
+T46	Route 1365 1374	inhalados
+T47	CHEM 1376 1386	budesonida
+#26	AnnotatorNotes T47	C0054201; budesonide; Organic Chemical · Pharmacologic Substance
+T48	CHEM 1403 1441	broncodilatadores de acción prolongada
+T49	CHEM 1443 1453	formoterol
+#27	AnnotatorNotes T49	C0060657; formoterol; Organic Chemical · Pharmacologic Substance
+T50	DEVI 1468 1479	dispositivo
+#28	AnnotatorNotes T50	C1285539; Direct device; Medical Device
+T51	CHEM 1490 1521	broncodilatador de acción corta
+T52	CHEM 1523 1534	terbutalina
+#29	AnnotatorNotes T52	C0039542; terbutaline; Organic Chemical · Pharmacologic Substance
+T53	PROC 1567 1575	revisión
+#30	AnnotatorNotes T53	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T54	Duration 1579 1589	tres meses
+T55	DISO 1618 1622	Asma
+#31	AnnotatorNotes T55	C0004096; Asthma; Disease or Syndrome
+T56	DISO 413 438	intolerancia a la lactosa
+T57	PROC 825 831	EXAMEN
+T58	PROC 1594 1605	DIAGNÓSTICO
+T60	Observation 193 218	Embarazo y parto normales
+T61	Observation 222 250	Desarrollo psicomotor normal
+T62	Observation 254 276	Correctamente vacunado
+T63	Quantifier_or_Qualifier 488 499	recurrentes
+T64	Quantifier_or_Qualifier 500 502	(3
+T65	Quantifier_or_Qualifier 574 594	Episodios frecuentes
+T66	Observation 614 623	prolongan
+T67	Observation 650 672	responden parcialmente
+T68	Result_or_Value 864 869	40 kg
+T69	Result_or_Value 872 874	73
+T70	Result_or_Value 884 890	1,55 m
+T71	Result_or_Value 903 908	1,70.
+T72	Observation 911 930	Buen estado general
+T73	Result_or_Value 962 968	normal
+T74	Observation 981 990	hallazgos
+T75	Result_or_Value 1123 1130	60 ppb.
+T76	Result_or_Value 1145 1153	positivo
+T77	Quantifier_or_Qualifier 1536 1545	a demanda
+T78	Quantifier_or_Qualifier 1561 1566	nueva
+T79	Patient 21 26	Chico
+T80	Family_member 364 369	Madre
+T81	Family_member 405 412	hermana
+T82	History_of 478 487	neumonías
+T83	Future 1567 1575	revisión
+T86	PROC 102 115	ser estudiado
+T59	Quantifier_or_Qualifier 130 141	recurrentes
+T88	History_of 268 276	vacunado
+T84	History_of 193 201	Embarazo
+T87	History_of 204 209	parto
+T89	History_of 222 243	Desarrollo psicomotor
+T90	Observation 748 781	por las noches y con el ejercicio
+T91	Observation 720 733	muy frecuente
+T92	Result_or_Value 892 895	p97

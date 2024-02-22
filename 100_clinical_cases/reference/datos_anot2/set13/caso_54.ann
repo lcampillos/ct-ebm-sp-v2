@@ -1,0 +1,147 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	66 años
+T3	DISO 52 70	síndrome miccional
+#1	AnnotatorNotes T3	C0042035; Urination Disorders; Disease or Syndrome
+T4	PROC 139 151	intervención
+#2	AnnotatorNotes T4	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T5	Date 153 158	Ahora
+T6	LIVB 171 178	hermana
+#3	AnnotatorNotes T6	C0037047; Sibling; Family Group
+T7	LIVB 184 190	cuñado
+T8	DISO 195 205	Enfermedad
+#4	AnnotatorNotes T8	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T9	Date 206 212	actual
+T10	LIVB 217 225	paciente
+#5	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 234 242	cistitis
+#6	AnnotatorNotes T11	C0010692; Cystitis; Disease or Syndrome
+T12	Neg_cue 244 247	sin
+T13	DISO 248 254	fiebre
+#7	AnnotatorNotes T13	C0015967; Fever; Sign or Symptom
+T14	Negated 248 254	fiebre
+T15	PROC 260 268	se trata
+T16	CHEM 273 284	fosfomicina
+#8	AnnotatorNotes T16	C0016610; fosfomycin; Antibiotic · Organic Chemical
+T17	Dose 285 287	3g
+T18	Frequency 287 291	/24h
+T19	Duration 300 306	2 días
+T20	DISO 381 389	molestia
+#9	AnnotatorNotes T20	C2364135; Discomfort; Sign or Symptom
+T21	PROC 414 424	urocultivo
+#10	AnnotatorNotes T21	C0430404; Urine culture; Laboratory Procedure
+T22	PROC 438 449	tratamiento
+#11	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	CHEM 454 468	ciprofloxacino
+#12	AnnotatorNotes T23	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T24	Dose 469 474	500mg
+T25	Frequency 474 478	/12h
+T26	Duration 487 495	1 semana
+T27	Duration 504 511	10 días
+T28	DISO 595 628	obstrucción del conducto urinario
+T29	Duration 632 637	meses
+T30	DISO 671 678	fimosis
+#13	AnnotatorNotes T30	C0031538; Phimosis; Finding | C0345326; Congenital phimosis; Congenital Abnormality
+T31	PROC 695 701	operen
+#14	AnnotatorNotes T31	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T32	Neg_cue 777 782	Niega
+T33	Negated 783 812	relaciones sexuales de riesgo
+T34	PROC 820 831	exploración
+#15	AnnotatorNotes T34	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T35	DISO 852 863	inflamación
+#16	AnnotatorNotes T35	C0021368; Inflammation; Pathologic Function
+T36	DISO 892 900	mal olor
+T37	PROC 987 994	biopsia
+#17	AnnotatorNotes T37	C0005558; Biopsy; Diagnostic Procedure
+T38	DISO 1001 1007	lesión
+#18	AnnotatorNotes T38	C0149751; Penile lesion; Sign or Symptom | C0347656; Injury of penis; Injury or Poisoning
+T39	PROC 1029 1040	diagnóstico
+#19	AnnotatorNotes T39	C0011900; Diagnosis; Diagnostic Procedure
+T40	DISO 1042 1056	cáncer de pene
+#20	AnnotatorNotes T40	C0030849; Penile Neoplasms; Neoplastic Process | C0153601; Malignant neoplasm of penis; Neoplastic Process
+T41	PROC 1067 1094	amputación subtotal de pene
+T42	ANAT 1114 1120	uretra
+#21	AnnotatorNotes T42	C0041967; Urethra; Body Part, Organ, or Organ Component | C1281574; Entire urethra; Body Part, Organ, or Organ Component
+T43	ANAT 1123 1136	piel escrotal
+T44	PROC 1151 1174	Pruebas complementarias
+#22	AnnotatorNotes T44	C1515980; Ancillary Study; Research Activity
+T45	PROC 1178 1188	Urocultivo
+#23	AnnotatorNotes T45	C0430404; Urine culture; Laboratory Procedure
+T46	PROC 1201 1220	Anatomía patológica
+T47	ANAT 1245 1249	pene
+T48	DISO 1251 1332	carcinoma sarcomatoide de pene con componente epidermoide pobremente diferenciado
+T49	ANAT 1356 1374	cuerpos cavernosos
+#24	AnnotatorNotes T49	C0227773; Corpus cavernosum of clitoris; Body Part, Organ, or Organ Component | C0447596; Entire corpus cavernosum; Body Part, Organ, or Organ Component
+T50	Neg_cue 1375 1378	sin
+T51	Negated 1379 1393	afectar uretra
+T52	ANAT 1387 1393	uretra
+#25	AnnotatorNotes T52	C0041967; Urethra; Body Part, Organ, or Organ Component | C1281574; Entire urethra; Body Part, Organ, or Organ Component
+T53	PROC 1397 1406	TAC tórax
+T54	DISO 1419 1433	imagen nodular
+T55	ANAT 1445 1467	segmento apical de LID
+T56	Spec_cue 1492 1505	sospechoso de
+T57	DISO 1506 1516	malignidad
+T58	Speculated 1506 1516	malignidad
+T59	DISO 1551 1583	Atelectasias laminares bibasales
+T60	Neg_cue 1591 1594	sin
+T61	Negated 1595 1604	hallazgos
+T62	PROC 1608 1621	TAC abdominal
+#26	AnnotatorNotes T62	C0412620; CT of abdomen; Diagnostic Procedure
+T63	DISO 1635 1677	adenopatías de características patológicas
+T64	ANAT 1717 1741	ambas cadenas inguinales
+T65	DISO 1759 1768	necrosada
+T66	Neg_cue 1866 1869	sin
+T67	Negated 1870 1879	hallazgos
+T68	PROC 1883 1894	TRATAMIENTO
+#27	AnnotatorNotes T68	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T69	PROC 1909 1922	Quimioterapia
+#28	AnnotatorNotes T69	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T71	Date 1956 1972	En la actualidad
+T72	DISO 1977 1988	dependiente
+T73	PROC 1997 2014	índice de Barthel
+T74	DISO 2022 2033	dependiente
+T75	DISO 2069 2099	Carcinoma sarcomatoide de pene
+T76	PROC 553 576	valoración por urología
+T77	ANAT 732 736	pene
+T78	ANAT 768 773	orina
+T79	DISO 866 876	induración
+T80	ANAT 881 887	glande
+T81	PROC 916 933	deriva a urología
+T82	PROC 960 970	valoración
+T83	ANAT 1012 1016	pene
+T84	PROC 1099 1110	anastomosis
+T85	ANAT 1837 1858	ambas cadenas iliacas
+T86	DISO 713 717	pica
+T87	DISO 723 728	duele
+T88	PROC 1140 1146	EXAMEN
+T89	PROC 2045 2056	DIAGNÓSTICO
+T90	Observation 96 103	soltero
+T91	Observation 106 115	vive sólo
+T92	Observation 159 190	vive con su hermana y su cuñado
+T93	Observation 354 361	mejoría
+T94	Observation 783 812	relaciones sexuales de riesgo
+T95	Quantifier_or_Qualifier 841 851	importante
+T96	Result_or_Value 1190 1198	Negativo
+T97	Quantifier_or_Qualifier 1309 1332	pobremente diferenciado
+T98	Quantifier_or_Qualifier 1334 1342	grado 3)
+T100	Observation 1379 1386	afectar
+T101	Result_or_Value 1437 1441	9 mm
+T102	Observation 1472 1490	bordes irregulares
+T103	Quantifier_or_Qualifier 1525 1534	adyacente
+T104	Result_or_Value 1545 1550	3 mm.
+T105	Observation 1595 1604	hallazgos
+T106	Result_or_Value 1702 1712	13 y 14 mm
+T108	Observation 1870 1879	hallazgos
+T109	Quantifier_or_Qualifier 1927 1937	importante
+T110	Result_or_Value 2018 2020	45
+T111	Quantifier_or_Qualifier 2034 2040	severo
+T112	Patient 21 26	Varón
+T113	Family_member 171 178	hermana
+T114	Family_member 184 190	cuñado
+T115	Patient 217 225	paciente
+T116	Future 695 701	operen
+T107	DISO 1805 1832	características patológicas
+T117	Observation 1938 1954	deterioro físico
+T70	ANAT 611 628	conducto urinario
+T118	ANAT 1277 1281	pene
+T99	Observation 1347 1374	infiltra cuerpos cavernosos
+T119	ANAT 2095 2099	pene

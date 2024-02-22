@@ -1,0 +1,125 @@
+T1	CHEM 114 121	AVP-786
+T2	PROC 131 138	placebo
+#1	AnnotatorNotes T2	C0032042; Placebos; Therapeutic or Preventive Procedure
+T3	PROC 147 158	tratamiento
+#2	AnnotatorNotes T3	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T4	DISO 166 184	síntomas negativos
+T5	DISO 191 204	esquizofrenia
+#3	AnnotatorNotes T5	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T6	PROC 225 318	Estudio multicéntrico, aleatorizado, doble ciego, controlado con placebo, de grupos paralelos
+T7	PROC 324 376	evaluar la eficacia, la seguridad y la tolerabilidad
+T8	CHEM 380 387	AVP-786
+T9	CHEM 424 429	d6-DM
+T10	CHEM 431 451	sulfato de quinidina
+T11	PROC 465 476	tratamiento
+#4	AnnotatorNotes T11	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T12	DISO 484 502	síntomas negativos
+T13	DISO 509 522	esquizofrenia
+#5	AnnotatorNotes T13	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T14	DISO 537 555	Síntomas negativos
+T15	DISO 562 575	esquizofrenia
+#6	AnnotatorNotes T15	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T16	LIVB 605 614	Pacientes
+#7	AnnotatorNotes T16	C0030705; Patients; Patient or Disabled Group
+T17	Age 615 630	de 18 a 60 años
+T18	PROC 666 690	consentimiento informado
+#8	AnnotatorNotes T18	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T19	LIVB 694 703	Pacientes
+#9	AnnotatorNotes T19	C0030705; Patients; Patient or Disabled Group
+T20	PROC 737 748	diagnóstico
+#10	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	DISO 755 768	esquizofrenia
+#11	AnnotatorNotes T21	C0036341; Schizophrenia; Mental or Behavioral Dysfunction
+T22	LIVB 960 969	pacientes
+#12	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	LIVB 1137 1146	pacientes
+#13	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	PROC 1170 1181	tratamiento
+#14	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	CHEM 1242 1245	SGA
+T26	Route 1275 1286	inyectables
+T27	LIVB 1395 1404	pacientes
+#15	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	LIVB 1420 1430	informante
+T29	LIVB 1450 1473	coordinador asistencial
+T30	LIVB 1475 1492	trabajador social
+T31	LIVB 1494 1502	familiar
+#16	AnnotatorNotes T31	C0080103; Relative (related person); Family Group
+T32	LIVB 1508 1518	informante
+T33	LIVB 1571 1579	paciente
+#17	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	DISO 1630 1638	síntomas
+#18	AnnotatorNotes T34	C1457887; Symptoms; Sign or Symptom
+T35	PROC 1654 1663	protocolo
+#19	AnnotatorNotes T35	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T36	LIVB 1744 1753	Pacientes
+#20	AnnotatorNotes T36	C0030705; Patients; Patient or Disabled Group
+T37	DISO 1758 1783	trastorno depresivo mayor
+#21	AnnotatorNotes T37	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T38	DISO 1785 1788	MDD
+#22	AnnotatorNotes T38	C1608983; Mal de debarquement; Disease or Syndrome
+T39	LIVB 1795 1804	Pacientes
+#23	AnnotatorNotes T39	C0030705; Patients; Patient or Disabled Group
+T40	PROC 1809 1820	diagnóstico
+#24	AnnotatorNotes T40	C0011900; Diagnosis; Diagnostic Procedure
+T41	DISO 1824 1849	trastorno esquizoafectivo
+#25	AnnotatorNotes T41	C0036337; Schizoaffective Disorder; Mental or Behavioral Dysfunction
+T42	DISO 1852 1869	trastorno bipolar
+#26	AnnotatorNotes T42	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction
+T43	LIVB 1875 1884	Pacientes
+#27	AnnotatorNotes T43	C0030705; Patients; Patient or Disabled Group
+T44	CHEM 1902 1931	medicamentos anticolinérgicos
+T45	Date 1932 1943	actualmente
+T46	LIVB 1949 1958	Pacientes
+#28	AnnotatorNotes T46	C0030705; Patients; Patient or Disabled Group
+T47	PROC 1959 1973	hospitalizados
+#29	AnnotatorNotes T47	C0019993; Hospitalization; Health Care Activity
+T48	Date 1974 1985	actualmente
+T49	LIVB 1991 2000	pacientes
+#30	AnnotatorNotes T49	C0030705; Patients; Patient or Disabled Group
+T50	PROC 2001 2011	ingresados
+#31	AnnotatorNotes T50	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T51	PROC 2027 2036	protocolo
+#32	AnnotatorNotes T51	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T52	PROC 44 110	Ensayo clínico para evaluar la eficacia, seguridad y tolerabilidad
+T53	CHEM 389 422	bromhidrato de deudextrometorfano
+T54	PROC 880 926	Minientrevista neuropsiquiátrica internacional
+T55	PROC 928 936	M.I.N.I.
+T56	DISO 986 1004	síntomas positivos
+T57	DISO 1024 1042	síntomas negativos
+T58	PROC 1081 1119	Escala de síndrome positivo y negativo
+T59	PROC 1121 1126	PANSS
+T60	DISO 812 831	trastornos mentales
+T61	CHEM 1189 1240	fármaco antipsicótico atípico de segunda generación
+T62	PROC 1262 1286	tratamientos inyectables
+T63	CONC 773 844	Manual de diagnóstico y estadística de trastornos mentales, 5.a edición
+T64	CONC 846 851	DSM-V
+T65	CONC 880 926	Minientrevista neuropsiquiátrica internacional
+T66	CONC 928 935	M.I.N.I
+T67	Result_or_Value 995 1004	positivos
+T68	Quantifier_or_Qualifier 1005 1021	bien controlados
+T69	Observation 1033 1042	negativos
+T70	Quantifier_or_Qualifier 1043 1054	destacables
+T71	CONC 1081 1119	Escala de síndrome positivo y negativo
+T72	CONC 1121 1126	PANSS
+T73	Quantifier_or_Qualifier 1219 1240	de segunda generación
+T74	Observation 1338 1346	estables
+T75	Observation 1349 1362	se adhieren a
+T76	Observation 1366 1376	calendario
+T77	Quantifier_or_Qualifier 1431 1440	confiable
+T78	Patient 605 614	Pacientes
+T79	Patient 694 703	Pacientes
+T80	Patient 960 969	pacientes
+T81	Patient 1137 1146	pacientes
+T82	Patient 1395 1404	pacientes
+T83	Other 1420 1430	informante
+T84	Other 1450 1473	coordinador asistencial
+T85	Other 1475 1493	trabajador social,
+T86	Family_member 1494 1502	familiar
+T87	Other 1508 1518	informante
+T88	Patient 1571 1579	paciente
+T89	Patient 1744 1753	Pacientes
+T90	Patient 1795 1804	Pacientes
+T91	Patient 1875 1884	Pacientes
+T92	Patient 1949 1958	Pacientes
+T93	Patient 1991 2000	pacientes

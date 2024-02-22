@@ -105,3 +105,32 @@ T71	PROC 671 678	estudio
 T72	PROC 969 976	estudio
 T73	PROC 1453 1460	estudio
 T74	PHYS 1801 1811	embarazada
+T75	Quantifier_or_Qualifier 503 514	grados I-IV
+T76	Observation 645 678	Entender el propósito del estudio
+T77	Observation 687 743	disponibles para realizar frecuentes visitas al hospital
+T78	Quantifier_or_Qualifier 1272 1277	grave
+T79	Observation 1618 1647	participación en este estudio
+T80	Observation 1734 1769	participando en otro ensayo clínico
+T81	Patient 92 99	hombres
+T82	Patient 267 274	varones
+T83	Patient 341 348	hombres
+T84	Patient 375 382	Hombres
+T85	Patient 436 443	Varones
+T86	History_of 559 578	tratamiento capilar
+T87	Patient 788 795	varones
+T88	Family_member 800 806	pareja
+T89	Family_member 903 909	pareja
+T90	Patient 1006 1015	Pacientes
+T91	History_of 1036 1053	hipersensibilidad
+T92	Patient 1235 1244	Pacientes
+T93	Patient 1281 1290	Pacientes
+T94	History_of 1321 1340	tratamiento capilar
+T95	Patient 1405 1414	Pacientes
+T96	Patient 1502 1511	Pacientes
+T97	Other 1531 1543	investigador
+T98	Patient 1652 1661	Pacientes
+T99	History_of 1682 1694	drogadicción
+T100	History_of 1697 1709	toxicomanías
+T101	Patient 1714 1723	Pacientes
+T102	Patient 1774 1783	Pacientes
+T103	Family_member 1789 1795	pareja

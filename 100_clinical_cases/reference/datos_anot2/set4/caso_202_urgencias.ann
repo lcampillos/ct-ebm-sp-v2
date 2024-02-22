@@ -1,0 +1,112 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	55 años
+T3	DISO 56 73	dolor en el pecho
+#2	AnnotatorNotes T3	C0008031; Chest Pain; Sign or Symptom | C0235710; Chest discomfort; Sign or Symptom
+T4	DISO 125 128	HTA
+#3	AnnotatorNotes T4	C0020538; Hypertensive disease; Disease or Syndrome
+T5	PROC 132 135	tto
+#4	AnnotatorNotes T5	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T6	CHEM 140 149	Enalapril
+#5	AnnotatorNotes T6	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T7	Dose 150 156	20 mg.
+T8	Date 162 166	2012
+T9	DISO 168 173	Ictus
+#6	AnnotatorNotes T9	C0038454; Cerebrovascular accident; Disease or Syndrome
+T10	ANAT 194 208	PICA izquierda
+T11	Neg_cue 210 213	sin
+T12	DISO 214 222	secuelas
+#7	AnnotatorNotes T12	C0543419; Sequela of disorder; Pathologic Function
+T13	Negated 214 222	secuelas
+T14	Spec_cue 226 234	Probable
+T15	DISO 235 258	displasia fibromuscular
+#8	AnnotatorNotes T15	C0016052; Fibromuscular Dysplasia; Disease or Syndrome
+T16	Speculated 235 258	displasia fibromuscular
+T17	PROC 262 274	Embolización
+#9	AnnotatorNotes T17	C0013931; Embolization, Therapeutic; Therapeutic or Preventive Procedure
+T18	DISO 278 287	aneurisma
+#10	AnnotatorNotes T18	C0002940; Aneurysm; Pathologic Function | C0155740; Other aneurysm; Anatomical Abnormality
+T19	ANAT 303 316	ACM izquierda
+T20	DISO 321 331	Enfermedad
+#11	AnnotatorNotes T20	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T21	Date 332 338	actual
+T22	DISO 350 379	dolor centrotorácico opresivo
+T23	ANAT 392 400	garganta
+#12	AnnotatorNotes T23	C0031354; Pharyngeal structure; Body Part, Organ, or Organ Component | C1280698; Entire throat (surface region of neck); Body Part, Organ, or Organ Component
+T24	DISO 415 433	cortejo vegetativo
+T25	DISO 436 442	disnea
+#13	AnnotatorNotes T25	C0013404; Dyspnea; Sign or Symptom
+T26	Duration 446 453	2 horas
+T27	PROC 469 475	EXAMEN
+#14	AnnotatorNotes T27	C0031809; Physical Examination; Health Care Activity
+T28	PROC 480 498	Exploración física
+#15	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T29	PROC 502 504	PA
+T30	PROC 521 523	FC
+T31	PROC 534 539	SatO2
+#16	AnnotatorNotes T31	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T32	PROC 547 550	ACP
+#17	AnnotatorNotes T32	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T33	PROC 562 585	Pruebas complementarias
+#18	AnnotatorNotes T33	C1515980; Ancillary Study; Research Activity
+T34	PROC 589 592	ECG
+#19	AnnotatorNotes T34	C1623258; Electrocardiography; Diagnostic Procedure
+T35	PROC 732 740	Rx Tórax
+#20	AnnotatorNotes T35	C0039985; Plain chest X-ray; Diagnostic Procedure
+T36	Neg_cue 742 745	sin
+T37	Negated 746 758	signos de IC
+T38	PROC 762 771	Analítica
+#21	AnnotatorNotes T38	C0002778; Analysis of substances; Laboratory Procedure
+T39	PROC 789 798	Troponina
+#22	AnnotatorNotes T39	C0523952; Troponin measurement; Laboratory Procedure
+T40	PROC 803 814	TRATAMIENTO
+#23	AnnotatorNotes T40	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T41	PROC 831 842	Tratamiento
+#24	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	CHEM 857 860	AAS
+#25	AnnotatorNotes T42	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T43	Dose 861 867	300 mg
+T44	CHEM 870 880	ticagrelor
+#26	AnnotatorNotes T44	C1999375; ticagrelor; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T45	Dose 881 887	180 mg
+T46	CHEM 890 897	morfina
+#27	AnnotatorNotes T46	C0026549; morphine; Organic Chemical · Pharmacologic Substance
+T47	Route 901 906	bolos
+T48	Route 907 909	IV
+T49	PROC 912 921	perfusión
+#28	AnnotatorNotes T49	C0031001; Perfusion (procedure); Therapeutic or Preventive Procedure
+T50	Route 912 921	perfusión
+T51	CHEM 925 928	NTG
+T52	LIVB 954 967	hemodinamista
+T53	PROC 988 1000	ACTP + stent
+T54	DISO 1007 1035	lesión de circunfleja medial
+T55	DISO 1063 1109	Infarto agudo de miocardio con elevación de ST
+#29	AnnotatorNotes T55	C1303258; Acute ST segment elevation myocardial infarction (disorder); Disease or Syndrome
+T56	DISO 606 621	elevación de ST
+T57	ANAT 625 678	cara inferior (II, III y aVF) y anterolateral (V3-V6)
+T58	DISO 680 694	descenso de ST
+T59	ANAT 698 728	V2 y cara lateral alta I y aVL
+T60	DISO 746 758	signos de IC
+T61	PROC 1039 1050	DIAGNÓSTICO
+T62	Quantifier_or_Qualifier 48 55	intenso
+T63	Quantifier_or_Qualifier 342 349	Intenso
+T64	Observation 380 400	irradiado a garganta
+T65	Result_or_Value 505 518	197/130 mmHg.
+T66	Result_or_Value 524 530	89 lpm
+T67	Result_or_Value 540 544	99%.
+T68	Result_or_Value 551 557	normal
+T69	Observation 594 596	RS
+T70	Result_or_Value 599 605	84 x´,
+T72	Quantifier_or_Qualifier 625 638	cara inferior
+T73	Quantifier_or_Qualifier 657 670	anterolateral
+T76	Result_or_Value 772 778	normal
+T78	Patient 21 26	Mujer
+T79	History_of 125 128	HTA
+T80	History_of 168 208	Ictus en territorio de la PICA izquierda
+T81	History_of 214 222	secuelas
+T82	Other 954 967	hemodinamista
+T83	ANAT 68 73	pecho
+T84	History_of 235 258	displasia fibromuscular
+T85	History_of 262 274	Embolización
+T86	Quantifier_or_Qualifier 698 700	V2
+T75	Quantifier_or_Qualifier 703 728	cara lateral alta I y aVL

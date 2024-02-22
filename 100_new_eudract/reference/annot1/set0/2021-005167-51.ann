@@ -54,86 +54,134 @@ T38	LIVB 1480 1492	participante
 T39	PROC 1505 1521	estado funcional
 T40	PROC 1661 1691	Plan de Prevención de Embarazo
 T41	PROC 1693 1696	PPP
-T43	DISO 1783 1822	compromiso del sistema nervioso central
-T44	ANAT 1824 1827	SNC
-T45	DISO 1832 1834	MM
-#16	AnnotatorNotes T45	C0026764; Multiple Myeloma; Neoplastic Process
-T46	DISO 1839 1870	Leucemia de células plasmáticas
-#17	AnnotatorNotes T46	C0023484; Leukemia, Plasma Cell; Neoplastic Process
-T47	DISO 1872 1904	macroglobulinemia de Waldenstrom
-#18	AnnotatorNotes T47	C0024419; Waldenstrom Macroglobulinemia; Neoplastic Process
-T48	DISO 1906 1932	síndrome de polineuropatía
-T49	DISO 1934 1947	organomegalia
-#19	AnnotatorNotes T49	C4054315; Organomegaly; Finding
-T50	DISO 1949 1963	endocrinopatía
-#20	AnnotatorNotes T50	C0014130; Endocrine System Diseases; Disease or Syndrome
-T51	DISO 1965 1975	proteína M
-T52	DISO 1978 1996	cambios en la piel
-T53	DISO 1998 2003	POEMS
-#21	AnnotatorNotes T53	C0085404; POEMS Syndrome; Disease or Syndrome
-T54	DISO 2008 2036	amiloidosis de cadena ligera
-#22	AnnotatorNotes T54	C0268381; Primary amyloidosis; Neoplastic Process
-T55	DISO 2068 2100	Deterioro de la función cardíaca
-T56	DISO 2103 2122	enfermedad cardíaca
-#23	AnnotatorNotes T56	C0018799; Heart Diseases; Disease or Syndrome
-T57	LIVB 2157 2169	participante
-T58	DISO 2180 2211	infección previa por SARS-CoV-2
-T59	Duration 2222 2233	los 14 días
-T60	DISO 2239 2279	infecciones asintomáticas o sintomáticas
-T62	Duration 2288 2295	28 días
-T63	DISO 2301 2313	enfermedades
-#24	AnnotatorNotes T63	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
-T64	Date 2349 2354	día 1
-T65	PROC 2390 2397	terapia
-#25	AnnotatorNotes T65	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T66	CHEM 2409 2417	CC-92480
-T67	PROC 2447 2458	tratamiento
-#26	AnnotatorNotes T67	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T68	CHEM 2470 2478	CC-92480
-T69	CHEM 2480 2492	tazemetostat
-#27	AnnotatorNotes T69	C4086895; tazemetostat; Organic Chemical · Pharmacologic Substance
-T70	CHEM 2494 2504	BMS-986158
-T71	CHEM 2507 2517	trametinib
-#28	AnnotatorNotes T71	C2697961; trametinib; Organic Chemical · Pharmacologic Substance
-T72	PROC 2545 2575	alotrasplante de células madre
-T74	PROC 2610 2641	autotrasplante de células madre
-T75	Duration 2652 2666	las 12 semanas
-T76	PROC 2693 2704	tratamiento
-#29	AnnotatorNotes T76	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T77	Duration 2768 2779	los 14 días
-T78	PROC 2805 2816	tratamiento
-#30	AnnotatorNotes T78	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T79	PROC 2833 2846	Plasmaféresis
-#31	AnnotatorNotes T79	C0032134; Plasmapheresis; Therapeutic or Preventive Procedure
-T80	PROC 2850 2857	Cirujía
-T81	PROC 2872 2884	Radioterapia
-#32	AnnotatorNotes T81	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
-T82	Neg_cue 2885 2896	distinta de
-T83	PROC 2900 2913	terapia local
-T84	Negated 2900 2913	terapia local
-T85	DISO 2919 2933	lesiones óseas
-#33	AnnotatorNotes T85	C0238792; Bone lesion; Disease or Syndrome
-T86	DISO 2947 2954	mieloma
-#34	AnnotatorNotes T86	C0026764; Multiple Myeloma; Neoplastic Process | C0037930; Spinal Cord Neoplasms; Neoplastic Process
-T87	PROC 2975 3012	tratamiento farmacológico antimieloma
-#35	AnnotatorNotes T87	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure
-T88	Route 3013 3022	sistémico
-T89	CHEM 3040 3063	agente en investigación
-T90	Duration 3074 3085	los 28 días
-T91	Duration 3088 3102	5 vidas medias
-T92	PROC 3146 3157	tratamiento
-#36	AnnotatorNotes T92	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T93	CHEM 3175 3190	Vacuna COVID-19
-T94	Duration 3201 3212	los 14 días
-T95	PROC 725 732	estudio
-T96	PROC 930 933	ICF
-T42	DISO 1738 1755	Compromiso activo
-T97	PROC 3162 3169	estudio
-T98	DISO 1185 1192	Myeloma
-T100	PROC 1624 1628	ECOG
-T101	CHEM 1701 1709	CC-92480
-T61	PROC 2709 2716	estudio
-T73	PROC 2821 2828	estudio
-T102	Date 3226 3230	C1D1
-T103	Date 2356 2360	C1D1
-T99	Negated 2251 2264	asintomáticas
+T42	DISO 1783 1822	compromiso del sistema nervioso central
+T43	ANAT 1824 1827	SNC
+T44	DISO 1832 1834	MM
+#16	AnnotatorNotes T44	C0026764; Multiple Myeloma; Neoplastic Process
+T45	DISO 1839 1870	Leucemia de células plasmáticas
+#17	AnnotatorNotes T45	C0023484; Leukemia, Plasma Cell; Neoplastic Process
+T46	DISO 1872 1904	macroglobulinemia de Waldenstrom
+#18	AnnotatorNotes T46	C0024419; Waldenstrom Macroglobulinemia; Neoplastic Process
+T47	DISO 1906 1932	síndrome de polineuropatía
+T48	DISO 1934 1947	organomegalia
+#19	AnnotatorNotes T48	C4054315; Organomegaly; Finding
+T49	DISO 1949 1963	endocrinopatía
+#20	AnnotatorNotes T49	C0014130; Endocrine System Diseases; Disease or Syndrome
+T50	DISO 1965 1975	proteína M
+T51	DISO 1978 1996	cambios en la piel
+T52	DISO 1998 2003	POEMS
+#21	AnnotatorNotes T52	C0085404; POEMS Syndrome; Disease or Syndrome
+T53	DISO 2008 2036	amiloidosis de cadena ligera
+#22	AnnotatorNotes T53	C0268381; Primary amyloidosis; Neoplastic Process
+T54	DISO 2068 2100	Deterioro de la función cardíaca
+T55	DISO 2103 2122	enfermedad cardíaca
+#23	AnnotatorNotes T55	C0018799; Heart Diseases; Disease or Syndrome
+T56	LIVB 2157 2169	participante
+T57	DISO 2180 2211	infección previa por SARS-CoV-2
+T58	Duration 2222 2233	los 14 días
+T59	DISO 2239 2279	infecciones asintomáticas o sintomáticas
+T60	Duration 2288 2295	28 días
+T61	DISO 2301 2313	enfermedades
+#24	AnnotatorNotes T61	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T62	Date 2349 2354	día 1
+T63	PROC 2390 2397	terapia
+#25	AnnotatorNotes T63	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T64	CHEM 2409 2417	CC-92480
+T65	PROC 2447 2458	tratamiento
+#26	AnnotatorNotes T65	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T66	CHEM 2470 2478	CC-92480
+T67	CHEM 2480 2492	tazemetostat
+#27	AnnotatorNotes T67	C4086895; tazemetostat; Organic Chemical · Pharmacologic Substance
+T68	CHEM 2494 2504	BMS-986158
+T69	CHEM 2507 2517	trametinib
+#28	AnnotatorNotes T69	C2697961; trametinib; Organic Chemical · Pharmacologic Substance
+T70	PROC 2545 2575	alotrasplante de células madre
+T71	PROC 2610 2641	autotrasplante de células madre
+T72	Duration 2652 2666	las 12 semanas
+T73	PROC 2693 2704	tratamiento
+#29	AnnotatorNotes T73	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T74	Duration 2768 2779	los 14 días
+T75	PROC 2805 2816	tratamiento
+#30	AnnotatorNotes T75	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T76	PROC 2833 2846	Plasmaféresis
+#31	AnnotatorNotes T76	C0032134; Plasmapheresis; Therapeutic or Preventive Procedure
+T77	PROC 2850 2857	Cirujía
+T78	PROC 2872 2884	Radioterapia
+#32	AnnotatorNotes T78	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T79	Neg_cue 2885 2896	distinta de
+T80	PROC 2900 2913	terapia local
+T81	Negated 2900 2913	terapia local
+T82	DISO 2919 2933	lesiones óseas
+#33	AnnotatorNotes T82	C0238792; Bone lesion; Disease or Syndrome
+T83	DISO 2947 2954	mieloma
+#34	AnnotatorNotes T83	C0026764; Multiple Myeloma; Neoplastic Process | C0037930; Spinal Cord Neoplasms; Neoplastic Process
+T84	PROC 2975 3012	tratamiento farmacológico antimieloma
+#35	AnnotatorNotes T84	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure
+T85	Route 3013 3022	sistémico
+T86	CHEM 3040 3063	agente en investigación
+T87	Duration 3074 3085	los 28 días
+T88	Duration 3088 3102	5 vidas medias
+T89	PROC 3146 3157	tratamiento
+#36	AnnotatorNotes T89	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T90	CHEM 3175 3190	Vacuna COVID-19
+T91	Duration 3201 3212	los 14 días
+T92	PROC 725 732	estudio
+T93	PROC 930 933	ICF
+T94	DISO 1738 1755	Compromiso activo
+T95	PROC 3162 3169	estudio
+T96	DISO 1185 1192	Myeloma
+T97	PROC 1624 1628	ECOG
+T98	CHEM 1701 1709	CC-92480
+T99	PROC 2709 2716	estudio
+T100	PROC 2821 2828	estudio
+T101	Date 3226 3230	C1D1
+T102	Date 2356 2360	C1D1
+T103	Negated 2251 2264	asintomáticas
+T104	Observation 274 285	recidivante
+T105	Observation 288 298	resistente
+T106	Observation 434 442	responde
+T107	Observation 472 481	regresado
+T108	Observation 560 571	recidivante
+T109	Observation 574 584	resistente
+T110	Observation 690 732	elegibles para ser incluidos en el estudio
+T111	Observation 994 1005	recidivante
+T112	Observation 1008 1018	resistente
+T113	Observation 1280 1291	refractario
+T114	Observation 1397 1414	beneficio clínico
+T115	CONC 1531 1586	Grupo Oncológico Cooperativo del Este de Estados Unidos
+T116	CONC 1588 1622	Eastern Cooperative Oncology Group
+T117	CONC 1624 1628	ECOG
+T118	Result_or_Value 1633 1638	0 o 1
+T119	Observation 1738 1748	Compromiso
+T120	Quantifier_or_Qualifier 1749 1755	activo
+T121	Quantifier_or_Qualifier 2037 2063	clínicamente significativa
+T122	Quantifier_or_Qualifier 2123 2149	clínicamente significativa
+T123	Quantifier_or_Qualifier 2280 2285	leves
+T124	CONC 2682 2704	inicio del tratamiento
+T125	Quantifier_or_Qualifier 2858 2868	importante
+T126	Patient 239 252	participantes
+T127	Patient 397 405	personas
+T128	Patient 672 685	participantes
+T129	Future 719 732	en el estudio
+T130	Patient 941 953	participante
+T131	History_of 976 978	MM
+T132	History_of 1245 1256	tratamiento
+T133	History_of 1293 1304	intolerante
+T134	Patient 1429 1442	participantes
+T135	Patient 1480 1492	participante
+T136	History_of 1783 1822	compromiso del sistema nervioso central
+T137	History_of 1824 1827	SNC
+T138	Patient 2157 2169	participante
+T139	History_of 2180 2189	infección
+T140	History_of 2197 2211	por SARS-CoV-2
+T141	History_of 2390 2397	terapia
+T142	History_of 2409 2417	CC-92480
+T143	History_of 2447 2458	tratamiento
+T144	History_of 2470 2478	CC-92480
+T145	History_of 2480 2492	tazemetostat
+T146	History_of 2494 2504	BMS-986158
+T147	History_of 2507 2517	trametinib
+T148	History_of 2545 2575	alotrasplante de células madre
+T149	History_of 2610 2641	autotrasplante de células madre
+T150	History_of 3040 3063	agente en investigación
+T151	History_of 1738 1748	Compromiso

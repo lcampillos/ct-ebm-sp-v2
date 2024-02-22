@@ -1,0 +1,94 @@
+T1	PROC 47 163	Ensayo fase III multicéntrico, internacional, aleatorizado, controlado con placebo, doble ciego, de grupos paralelos
+T2	CHEM 195 231	inhibidor oral del FXIa - Asundexian
+T3	Route 205 209	oral
+T4	CHEM 233 244	BAY 2433334
+T5	PROC 255 265	prevención
+#1	AnnotatorNotes T5	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T6	DISO 269 285	ictus isquémicos
+#2	AnnotatorNotes T6	C0948008; Ischemic stroke; Disease or Syndrome
+T7	LIVB 289 313	pacientes de ambos sexos
+T8	Age 314 329	mayores de edad
+T9	DISO 339 378	ictus isquémico no cardioembólico agudo
+T10	Neg_cue 355 357	no
+T11	Negated 358 372	cardioembólico
+T12	DISO 381 384	AIT
+#3	AnnotatorNotes T12	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T13	PROC 424 434	Prevención
+#4	AnnotatorNotes T13	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T14	DISO 438 453	ictus isquémico
+#5	AnnotatorNotes T14	C0948008; Ischemic stroke; Disease or Syndrome
+T15	LIVB 457 466	pacientes
+#6	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	DISO 475 480	ictus
+#7	AnnotatorNotes T16	C0038454; Cerebrovascular accident; Disease or Syndrome
+T17	DISO 493 500	coágulo
+#8	AnnotatorNotes T17	C0302148; Blood Clot; Pathologic Function
+T18	ANAT 524 531	corazón
+#9	AnnotatorNotes T18	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T19	DISO 536 550	cardioembólico
+T20	ANAT 572 579	cerebro
+#10	AnnotatorNotes T20	C0242202; Cerebrum; Body Part, Organ, or Organ Component | C1269537; Entire brain; Body Part, Organ, or Organ Component | C1280654; Entire cerebrum; Body Part, Organ, or Organ Component
+T21	PROC 632 642	Prevención
+#11	AnnotatorNotes T21	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T22	DISO 646 661	ictus isquémico
+#12	AnnotatorNotes T22	C0948008; Ischemic stroke; Disease or Syndrome
+T23	LIVB 665 674	pacientes
+#13	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	DISO 683 722	ictus isquémico no cardioembólico agudo
+T25	Neg_cue 699 701	no
+T26	Negated 702 716	cardioembólico
+T27	DISO 725 753	ataque isquémico transitorio
+#14	AnnotatorNotes T27	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T28	Duration 742 753	transitorio
+T29	LIVB 798 807	Pacientes
+#15	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	Age 817 843	igual o superior a 18 años
+T31	DISO 847 876	Ictus no-cardioembólico agudo
+T32	DISO 879 882	AIT
+#16	AnnotatorNotes T32	C0007787; Transient Ischemic Attack; Disease or Syndrome
+T33	DISO 902 944	Aterosclerosis sistémica o cerebrovascular
+T34	DISO 947 971	infarto agudo no-lacunar
+T35	DISO 1001 1016	Ictus isquémico
+#17	AnnotatorNotes T35	C0948008; Ischemic stroke; Disease or Syndrome
+T36	Duration 1020 1030	los 7 días
+T37	DISO 1062 1067	ictus
+#18	AnnotatorNotes T37	C0038454; Cerebrovascular accident; Disease or Syndrome
+T38	DISO 1072 1077	Ictus
+#19	AnnotatorNotes T38	C0038454; Cerebrovascular accident; Disease or Syndrome
+T39	PROC 1105 1119	procedimientos
+T40	DISO 1122 1127	ictus
+#20	AnnotatorNotes T40	C0038454; Cerebrovascular accident; Disease or Syndrome
+T41	DISO 1206 1239	trombo en el ventrículo izquierdo
+T42	DEVI 1241 1257	válvula mecánica
+T43	DISO 1290 1295	ictus
+#21	AnnotatorNotes T43	C0038454; Cerebrovascular accident; Disease or Syndrome
+T44	PROC 1309 1324	anticoagulación
+#22	AnnotatorNotes T44	C0150457; Anticoagulant therapy; Therapeutic or Preventive Procedure
+T45	LIVB 314 329	mayores de edad
+T46	Neg_cue 533 535	no
+T47	Negated 536 550	cardioembólico
+T48	DISO 592 606	ictus temporal
+T49	Duration 598 606	temporal
+T50	Neg_cue 853 855	no
+T51	Negated 856 870	cardioembólico
+T52	Neg_cue 961 963	no
+T53	Negated 964 971	lacunar
+T54	DISO 1272 1286	cardioembólica
+T55	DISO 1176 1204	fibrilación/aleteo auricular
+T56	Quantifier_or_Qualifier 373 378	agudo
+T57	Observation 388 399	alto riesgo
+T58	CONC 514 519	fuera
+T59	Quantifier_or_Qualifier 717 722	agudo
+T60	Observation 757 768	alto riesgo
+T61	Observation 886 897	alto riesgo
+T62	Observation 1265 1271	fuente
+T63	Patient 289 329	pacientes de ambos sexos mayores de edad
+T64	Patient 457 466	pacientes
+T65	Patient 665 674	pacientes
+T66	Patient 798 807	Pacientes
+T67	History_of 1001 1016	Ictus isquémico
+T68	History_of 1176 1187	fibrilación
+T69	History_of 1188 1204	aleteo auricular
+T70	History_of 1206 1239	trombo en el ventrículo izquierdo
+T71	History_of 1241 1257	válvula mecánica
+T72	History_of 1290 1295	ictus

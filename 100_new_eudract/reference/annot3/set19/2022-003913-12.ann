@@ -1,0 +1,79 @@
+T1	PROC 44 49	Láser
+T2	PROC 52 72	terapia fotodinámica
+#1	AnnotatorNotes T2	C0031740; Photochemotherapy; Therapeutic or Preventive Procedure
+T3	CHEM 80 90	Ciclopirox
+#2	AnnotatorNotes T3	C0055711; ciclopirox; Organic Chemical · Pharmacologic Substance
+T4	PROC 105 119	Ensayo clínico
+#3	AnnotatorNotes T4	C0008976; Clinical Trials; Research Activity
+T5	PROC 155 175	terapia fotodinámica
+#4	AnnotatorNotes T5	C0031740; Photochemotherapy; Therapeutic or Preventive Procedure
+T6	CHEM 183 193	Ciclopirox
+#5	AnnotatorNotes T6	C0055711; ciclopirox; Organic Chemical · Pharmacologic Substance
+T7	CHEM 194 217	Hidroxipropil Quitosano
+T8	PROC 219 259	Ensayo clínico controlado y aleatorizado
+T9	DISO 325 337	Onicomicosis
+#6	AnnotatorNotes T9	C0040261; Onychomycosis; Disease or Syndrome
+T10	LIVB 367 376	Pacientes
+#7	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	PROC 377 391	diagnosticados
+#8	AnnotatorNotes T11	C0011900; Diagnosis; Diagnostic Procedure
+T12	DISO 395 407	onicomicosis
+#9	AnnotatorNotes T12	C0040261; Onychomycosis; Disease or Syndrome
+T13	ANAT 415 431	uñas de los pies
+#10	AnnotatorNotes T13	C0222007; Structure of nail of toe; Body Part, Organ, or Organ Component
+T14	PROC 436 458	cultivo microbiológico
+#11	AnnotatorNotes T14	C0430400; Laboratory culture; Laboratory Procedure
+T15	PROC 459 462	PCR
+#12	AnnotatorNotes T15	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T16	LIVB 476 485	Pacientes
+#13	AnnotatorNotes T16	C0030705; Patients; Patient or Disabled Group
+T17	Age 486 504	mayores de 18 años
+T18	LIVB 535 544	Pacientes
+#14	AnnotatorNotes T18	C0030705; Patients; Patient or Disabled Group
+T19	PROC 564 606	tratamiento antifúngico tópico o sistémico
+T20	Route 588 594	tópico
+T21	Date 610 625	el mes anterior
+T22	PHYS 630 638	Embarazo
+#15	AnnotatorNotes T22	C0032961; Pregnancy; Organism Function
+T23	PHYS 641 650	lactancia
+#16	AnnotatorNotes T23	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T24	LIVB 655 664	Pacientes
+#17	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	DISO 669 699	enfermedad vascular periférica
+#18	AnnotatorNotes T25	C0085096; Peripheral Vascular Diseases; Disease or Syndrome
+T26	LIVB 704 713	Pacientes
+#19	AnnotatorNotes T26	C0030705; Patients; Patient or Disabled Group
+T27	DISO 721 754	trastorno del sistema inmunitario
+#20	AnnotatorNotes T27	C0021053; Immune System Diseases; Disease or Syndrome
+T28	PROC 760 771	tratamiento
+#21	AnnotatorNotes T28	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T29	CHEM 776 792	inmunosupresores
+#22	AnnotatorNotes T29	C0021081; Immunosuppressive Agents; Immunologic Factor · Pharmacologic Substance
+T30	LIVB 797 806	Pacientes
+#23	AnnotatorNotes T30	C0030705; Patients; Patient or Disabled Group
+T31	DISO 825 856	neuropatía periférica o central
+T32	LIVB 861 870	Pacientes
+#24	AnnotatorNotes T32	C0030705; Patients; Patient or Disabled Group
+T33	DISO 891 918	trastorno de la coagulación
+#25	AnnotatorNotes T33	C0005779; Blood Coagulation Disorders; Disease or Syndrome
+T34	LIVB 923 932	Pacientes
+#26	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
+T35	DISO 937 958	enfermedad de Raynaud
+#27	AnnotatorNotes T35	C0034734; Raynaud Disease; Disease or Syndrome
+T36	DISO 972 1016	alteración de la percepción del frío o calor
+T37	Date 12 16	2022
+T38	Form 91 103	laca de uñas
+T39	PROC 141 152	Láser diodo
+T40	DISO 281 299	Hongos en las uñas
+T41	Route 597 606	sistémico
+T42	Result_or_Value 463 471	positivo
+T43	Quantifier_or_Qualifier 597 606	sistémico
+T44	Patient 367 376	Pacientes
+T45	Patient 476 485	Pacientes
+T46	Patient 535 544	Pacientes
+T47	History_of 564 606	tratamiento antifúngico tópico o sistémico
+T48	Patient 655 664	Pacientes
+T49	Patient 704 713	Pacientes
+T50	Patient 797 806	Pacientes
+T51	Patient 861 870	Pacientes
+T52	Patient 923 932	Pacientes

@@ -23,83 +23,130 @@ T18	PROC 672 683	diagnóstico
 #5	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
 T19	DISO 699 715	Miastenia gravis
 #6	AnnotatorNotes T19	C0026896; Myasthenia Gravis; Disease or Syndrome
-T21	LIVB 727 739	participante
-T22	PROC 804 835	autoadministración domiciliaria
-T23	LIVB 858 870	participante
-T24	CHEM 890 905	rozanolixizumab
-T25	PROC 918 929	Tratamiento
-#7	AnnotatorNotes T25	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T26	PROC 975 988	Peso corporal
-T27	LIVB 1003 1016	participantes
-T28	LIVB 1040 1047	hombres
-#8	AnnotatorNotes T28	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
-T29	LIVB 1050 1057	mujeres
-#9	AnnotatorNotes T29	C0043210; Woman; Population Group | C0242665; wife; Family Group
-T30	LIVB 1089 1101	participante
-T31	DISO 1124 1141	hipersensibilidad
-#10	AnnotatorNotes T31	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
-T32	CHEM 1187 1198	medicamento
-#11	AnnotatorNotes T32	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
-T33	CHEM 1219 1257	medicamentos anti-receptor Fc neonatal
-T34	CHEM 1259 1263	FcRn
-T35	LIVB 1268 1280	Participante
-T36	DISO 1301 1326	infección de tuberculosis
-T37	DISO 1328 1330	TB
-#12	AnnotatorNotes T37	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
-T38	Spec_cue 1351 1360	riesgo de
-T39	DISO 1374 1389	infección de TB
-T40	Speculated 1374 1389	infección de TB
-T41	DISO 1396 1429	infección de tuberculosis latente
-T42	Speculated 1396 1429	infección de tuberculosis latente
-T43	DISO 1431 1435	LTBI
-T44	Speculated 1431 1435	LTBI
-T45	DISO 1444 1487	infección por micobacterias no tuberculosas
-T46	Speculated 1444 1487	infección por micobacterias no tuberculosas
-T47	Date 1488 1494	actual
-T48	DISO 1507 1512	NTMBI
-T49	Speculated 1507 1512	NTMBI
-T50	LIVB 1519 1531	participante
-T51	DISO 1554 1563	infección
-#13	AnnotatorNotes T51	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T52	DISO 1612 1621	infección
-#14	AnnotatorNotes T52	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T53	PROC 1644 1659	hospitalización
-#15	AnnotatorNotes T53	C0019993; Hospitalization; Health Care Activity
-T54	PROC 1671 1682	tratamiento
-#16	AnnotatorNotes T54	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T55	CHEM 1687 1699	antibióticos
-#17	AnnotatorNotes T55	C0003232; Antibiotics; Antibiotic
-T56	Route 1704 1719	vía intravenosa
-T57	Duration 1731 1744	las 6 semanas
-T58	PROC 1761 1767	visita
-T59	LIVB 1781 1793	participante
-T60	CHEM 1852 1867	rozanolixizumab
-T61	PROC 1915 1921	retiro
-T62	PROC 1924 1960	interrupción obligatoria del fármaco
-T63	LIVB 1979 1991	participante
-T64	CHEM 2020 2031	vacuna viva
-T65	Duration 2042 2055	las 4 semanas
-T66	PROC 2077 2088	tratamiento
-#18	AnnotatorNotes T66	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T67	CHEM 2096 2130	vacuna de Bacillus Calmette Guérin
-T68	CHEM 2132 2135	BCG
-#19	AnnotatorNotes T68	C0004886; BCG Vaccine; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance | C2698319; Bacillus Calmette-Guerin Antigen; Immunologic Factor
-T69	Duration 2147 2152	1 año
-T70	PROC 2174 2185	tratamiento
-#20	AnnotatorNotes T70	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T71	CHEM 2223 2234	vacuna viva
-T72	Duration 2276 2289	las 8 semanas
-T74	CHEM 2323 2338	rozanolixizumab
-T75	LIVB 2341 2353	Participante
-T76	DISO 2370 2379	debilidad
-#21	AnnotatorNotes T76	C0424594; Frailty; Finding | C3714552; Weakness; Sign or Symptom
-T78	DISO 2467 2483	miastenia gravis
-#22	AnnotatorNotes T78	C0026896; Myasthenia Gravis; Disease or Syndrome
-T79	ANAT 2500 2537	músculos orofaríngeos o respiratorios
-T80	DISO 2555 2572	crisis miasténica
-T81	DISO 2579 2585	crisis
-#23	AnnotatorNotes T81	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
-T82	DISO 717 720	gMG
-T20	PROC 2415 2454	escala de actividades de la vida diaria
-T77	PROC 2456 2462	MG-ADL
-T83	DISO 1868 1870	MG
+T20	LIVB 727 739	participante
+T21	PROC 804 835	autoadministración domiciliaria
+T22	LIVB 858 870	participante
+T23	CHEM 890 905	rozanolixizumab
+T24	PROC 918 929	Tratamiento
+#7	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	PROC 975 988	Peso corporal
+T26	LIVB 1003 1016	participantes
+T27	LIVB 1040 1047	hombres
+#8	AnnotatorNotes T27	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T28	LIVB 1050 1057	mujeres
+#9	AnnotatorNotes T28	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T29	LIVB 1089 1101	participante
+T30	DISO 1124 1141	hipersensibilidad
+#10	AnnotatorNotes T30	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T31	CHEM 1187 1198	medicamento
+#11	AnnotatorNotes T31	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T32	CHEM 1219 1257	medicamentos anti-receptor Fc neonatal
+T33	CHEM 1259 1263	FcRn
+T34	LIVB 1268 1280	Participante
+T35	DISO 1301 1326	infección de tuberculosis
+T36	DISO 1328 1330	TB
+#12	AnnotatorNotes T36	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction | C0040586; Tracheobronchitis; Disease or Syndrome | C0041296; Tuberculosis; Disease or Syndrome
+T37	Spec_cue 1351 1360	riesgo de
+T38	DISO 1374 1389	infección de TB
+T39	Speculated 1374 1389	infección de TB
+T40	DISO 1396 1429	infección de tuberculosis latente
+T41	Speculated 1396 1429	infección de tuberculosis latente
+T42	DISO 1431 1435	LTBI
+T43	Speculated 1431 1435	LTBI
+T44	DISO 1444 1487	infección por micobacterias no tuberculosas
+T45	Speculated 1444 1487	infección por micobacterias no tuberculosas
+T46	Date 1488 1494	actual
+T47	DISO 1507 1512	NTMBI
+T48	Speculated 1507 1512	NTMBI
+T49	LIVB 1519 1531	participante
+T50	DISO 1554 1563	infección
+#13	AnnotatorNotes T50	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T51	DISO 1612 1621	infección
+#14	AnnotatorNotes T51	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T52	PROC 1644 1659	hospitalización
+#15	AnnotatorNotes T52	C0019993; Hospitalization; Health Care Activity
+T53	PROC 1671 1682	tratamiento
+#16	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	CHEM 1687 1699	antibióticos
+#17	AnnotatorNotes T54	C0003232; Antibiotics; Antibiotic
+T55	Route 1704 1719	vía intravenosa
+T56	Duration 1731 1744	las 6 semanas
+T57	PROC 1761 1767	visita
+T58	LIVB 1781 1793	participante
+T59	CHEM 1852 1867	rozanolixizumab
+T60	PROC 1915 1921	retiro
+T61	PROC 1924 1960	interrupción obligatoria del fármaco
+T62	LIVB 1979 1991	participante
+T63	CHEM 2020 2031	vacuna viva
+T64	Duration 2042 2055	las 4 semanas
+T65	PROC 2077 2088	tratamiento
+#18	AnnotatorNotes T65	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T66	CHEM 2096 2130	vacuna de Bacillus Calmette Guérin
+T67	CHEM 2132 2135	BCG
+#19	AnnotatorNotes T67	C0004886; BCG Vaccine; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance | C2698319; Bacillus Calmette-Guerin Antigen; Immunologic Factor
+T68	Duration 2147 2152	1 año
+T69	PROC 2174 2185	tratamiento
+#20	AnnotatorNotes T69	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T70	CHEM 2223 2234	vacuna viva
+T71	Duration 2276 2289	las 8 semanas
+T72	CHEM 2323 2338	rozanolixizumab
+T73	LIVB 2341 2353	Participante
+T74	DISO 2370 2379	debilidad
+#21	AnnotatorNotes T74	C0424594; Frailty; Finding | C3714552; Weakness; Sign or Symptom
+T75	DISO 2467 2483	miastenia gravis
+#22	AnnotatorNotes T75	C0026896; Myasthenia Gravis; Disease or Syndrome
+T76	ANAT 2500 2537	músculos orofaríngeos o respiratorios
+T77	DISO 2555 2572	crisis miasténica
+T78	DISO 2579 2585	crisis
+#23	AnnotatorNotes T78	C0036572; Seizures; Sign or Symptom | C0231224; Crisis; Finding
+T79	DISO 717 720	gMG
+T80	PROC 2415 2454	escala de actividades de la vida diaria
+T81	PROC 2456 2462	MG-ADL
+T82	DISO 1868 1870	MG
+T83	Observation 757 766	dispuesto
+T84	Observation 783 788	capaz
+T85	Result_or_Value 989 996	>=35 kg
+T86	Observation 1346 1360	alto riesgo de
+T87	Quantifier_or_Qualifier 1564 1570	activa
+T88	Quantifier_or_Qualifier 1571 1593	clínicamente relevante
+T89	Quantifier_or_Qualifier 1622 1627	grave
+T90	Quantifier_or_Qualifier 1768 1775	inicial
+T91	Observation 1806 1848	participó previamente en cualquier estudio
+T92	Observation 1881 1898	con los criterios
+T93	CONC 2307 2319	última dosis
+T94	Quantifier_or_Qualifier 2380 2385	grave
+T95	Result_or_Value 2401 2408	grado 3
+T96	CONC 2415 2454	escala de actividades de la vida diaria
+T97	CONC 2456 2462	MG-ADL
+T98	Quantifier_or_Qualifier 2586 2595	inminente
+T99	Patient 145 158	participantes
+T100	Patient 291 304	participantes
+T101	Patient 629 642	participantes
+T102	Patient 727 739	participante
+T103	Patient 858 870	participante
+T104	Patient 1003 1016	participantes
+T105	Patient 1040 1047	hombres
+T106	Patient 1050 1057	mujeres
+T107	Patient 1089 1101	participante
+T108	History_of 1124 1141	hipersensibilidad
+T109	Patient 1249 1257	neonatal
+T110	Patient 1268 1280	Participante
+T111	History_of 1301 1326	infección de tuberculosis
+T112	History_of 1328 1330	TB
+T113	History_of 1406 1421	de tuberculosis
+T114	History_of 1444 1487	infección por micobacterias no tuberculosas
+T115	History_of 1507 1512	NTMBI
+T116	Patient 1519 1531	participante
+T117	History_of 1612 1621	infección
+T118	Patient 1781 1793	participante
+T119	History_of 1852 1867	rozanolixizumab
+T120	Patient 1979 1991	participante
+T121	History_of 2020 2031	vacuna viva
+T122	History_of 2096 2102	vacuna
+T123	History_of 2106 2130	Bacillus Calmette Guérin
+T124	History_of 2132 2135	BCG
+T125	Future 2223 2234	vacuna viva
+T126	History_of 2323 2338	rozanolixizumab
+T127	Patient 2341 2353	Participante
+T128	Future 2555 2561	crisis
+T129	Future 2579 2585	crisis

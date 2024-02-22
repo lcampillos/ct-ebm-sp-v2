@@ -1,0 +1,131 @@
+T1	PROC 46 60	Estudio piloto
+#1	AnnotatorNotes T1	C0031928; Pilot Projects; Research Activity
+T2	CHEM 92 102	etravirina
+#2	AnnotatorNotes T2	C1456409; etravirine; Organic Chemical · Pharmacologic Substance
+T3	CHEM 104 107	ETR
+T4	CHEM 111 121	doravirina
+T5	CHEM 123 126	DOR
+T6	LIVB 131 138	adultos
+#3	AnnotatorNotes T6	C0001675; Adult; Age Group
+T7	Age 131 138	adultos
+T8	DISO 139 159	infectados por VIH-1
+T9	CHEM 205 208	ETR
+T10	PROC 231 286	Estudio abierto, de un solo brazo, unicéntrico y piloto
+T11	CHEM 318 328	etravirina
+#4	AnnotatorNotes T11	C1456409; etravirine; Organic Chemical · Pharmacologic Substance
+T12	CHEM 330 333	ETR
+T13	CHEM 337 347	doravirina
+T14	CHEM 349 352	DOR
+T15	LIVB 357 364	adultos
+#5	AnnotatorNotes T15	C0001675; Adult; Age Group
+T16	Age 357 364	adultos
+T17	DISO 365 385	infectados por VIH-1
+T18	CHEM 431 434	ETR
+T19	DISO 458 491	Virus de Inmunodeficiencia Humana
+T20	DISO 493 496	VIH
+#6	AnnotatorNotes T20	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T21	LIVB 526 533	Sujetos
+#7	AnnotatorNotes T21	C0681850; Study Subject; Group
+T22	DISO 534 557	infectados por el VIH-1
+T23	Age 567 575	≥18 años
+T24	LIVB 599 607	paciente
+#8	AnnotatorNotes T24	C0030705; Patients; Patient or Disabled Group
+T25	PROC 626 640	régimen de TAR
+T26	PROC 651 671	ARN plasmático VIH-1
+T27	Duration 695 729	al menos las 24 semanas anteriores
+T28	Date 734 745	Actualmente
+T29	PROC 760 767	régimen
+#9	AnnotatorNotes T29	C0012159; Diet therapy; Health Care Activity
+T30	CHEM 781 784	ETR
+T31	Neg_cue 786 789	sin
+T32	Negated 790 797	cambios
+T33	Duration 806 831	las 24 semanas anteriores
+T34	PROC 841 849	genotipo
+T35	CHEM 893 896	ADN
+#10	AnnotatorNotes T35	C0012854; DNA; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide
+T36	PROC 1008 1016	Genotipo
+T37	CHEM 1057 1060	ADN
+#11	AnnotatorNotes T37	C0012854; DNA; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide
+T38	DISO 1093 1103	Mutaciones
+T39	LIVB 1232 1241	lactantes
+#12	AnnotatorNotes T39	C0021270; Infant; Age Group
+T40	LIVB 1243 1250	mujeres
+#13	AnnotatorNotes T40	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T41	PROC 1259 1277	prueba de embarazo
+#14	AnnotatorNotes T41	C0032976; Pregnancy Tests; Diagnostic Procedure
+T42	PROC 1307 1316	detección
+#15	AnnotatorNotes T42	C1511790; Detection; Therapeutic or Preventive Procedure
+T43	LIVB 1318 1334	mujeres fértiles
+T44	PHYS 1366 1374	concebir
+#16	AnnotatorNotes T44	C0009637; Conception; Organism Function
+T45	Neg_cue 1377 1379	no
+T46	PROC 1417 1440	métodos anticonceptivos
+#17	AnnotatorNotes T46	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T47	Negated 1417 1440	métodos anticonceptivos
+T48	Neg_cue 1528 1534	evitar
+T49	PHYS 1538 1546	embarazo
+#18	AnnotatorNotes T49	C0032961; Pregnancy; Organism Function
+T50	Negated 1538 1546	embarazo
+T51	Duration 1589 1598	4 semanas
+T52	CHEM 1629 1640	medicamento
+#19	AnnotatorNotes T52	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T53	LIVB 1664 1671	mujeres
+#20	AnnotatorNotes T53	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T54	PROC 1731 1752	cirugía esterilizante
+T55	Age 1760 1778	mayores de 50 años
+T56	PHYS 1783 1792	amenorrea
+T57	Duration 1812 1827	más de 12 meses
+T58	PROC 1838 1845	ingreso
+#21	AnnotatorNotes T58	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T59	DISO 1862 1883	Infección tuberculosa
+#22	AnnotatorNotes T59	C0041296; Tuberculosis; Disease or Syndrome
+T60	DISO 1906 1923	condición clínica
+T61	PROC 1926 1933	terapia
+#23	AnnotatorNotes T61	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T62	LIVB 1954 1966	investigador
+#24	AnnotatorNotes T62	C0035173; Research Personnel; Professional or Occupational Group
+T63	LIVB 1981 1990	individuo
+#25	AnnotatorNotes T63	C0027361; Persons; Population Group
+T64	Neg_cue 1991 1993	no
+T65	Negated 1998 2022	adecuado para el estudio
+T66	Neg_cue 2025 2027	no
+T67	Negated 2034 2060	cumplir con los requisitos
+T68	CHEM 637 640	TAR
+T69	PROC 852 855	GRT
+T70	PROC 1050 1053	GRT
+T71	LIVB 1211 1230	Mujeres embarazadas
+T72	DISO 1084 1091	DOR-DRM
+#26	AnnotatorNotes T72	Doravirine (DOR) Drug-Resistance Mutation
+T73	Observation 160 186	virológicamente suprimidos
+T74	Observation 191 202	resistencia
+T75	Observation 386 412	virológicamente suprimidos
+T76	Observation 417 428	resistencia
+T77	Observation 589 594	Deseo
+T78	Result_or_Value 672 686	< 50 copias/ml
+T79	CONC 790 797	cambios
+T80	Quantifier_or_Qualifier 868 877	agrupado/
+T81	Quantifier_or_Qualifier 1017 1025	agrupado
+T82	Quantifier_or_Qualifier 1105 1108	106
+T83	Quantifier_or_Qualifier 1112 1115	188
+T84	Quantifier_or_Qualifier 1120 1123	230
+T85	Result_or_Value 1278 1286	positiva
+T86	Quantifier_or_Qualifier 1326 1334	fértiles
+T87	Quantifier_or_Qualifier 1335 1354	sexualmente activas
+T88	Observation 1359 1374	deseen concebir
+T89	Observation 1386 1396	dispuestas
+T90	Quantifier_or_Qualifier 1503 1522	altamente efectivos
+T91	Quantifier_or_Qualifier 1793 1803	espontánea
+T92	Quantifier_or_Qualifier 1884 1890	activa
+T93	Observation 1998 2022	adecuado para el estudio
+T94	Observation 2034 2076	cumplir con los requisitos de dosificación
+T95	Patient 131 138	adultos
+T96	Patient 357 364	adultos
+T97	Patient 526 533	Sujetos
+T98	Patient 599 607	paciente
+T99	Patient 1211 1230	Mujeres embarazadas
+T100	Patient 1232 1241	lactantes
+T101	Patient 1243 1250	mujeres
+T102	Patient 1318 1334	mujeres fértiles
+T103	History_of 1731 1752	cirugía esterilizante
+T104	Other 1954 1966	investigador
+T105	Patient 1981 1990	individuo

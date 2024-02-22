@@ -1,0 +1,192 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	84 años
+T3	DISO 48 54	disnea
+#2	AnnotatorNotes T3	C0013404; Dyspnea; Sign or Symptom
+T4	DISO 106 109	HTA
+#3	AnnotatorNotes T4	C0020538; Hypertensive disease; Disease or Syndrome
+T5	DISO 113 132	Hipercolesterolemia
+#4	AnnotatorNotes T5	C0020443; Hypercholesterolemia; Disease or Syndrome
+T6	DISO 136 140	EPOC
+#5	AnnotatorNotes T6	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T7	PROC 144 155	Tratamiento
+#6	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	CHEM 161 172	Perindopril
+#7	AnnotatorNotes T8	C0136123; perindopril; Organic Chemical · Pharmacologic Substance
+T9	Dose 173 177	4 mg
+T10	CHEM 179 192	Atorvastatina
+#8	AnnotatorNotes T10	C0286651; atorvastatin; Organic Chemical · Pharmacologic Substance
+T11	Dose 193 198	10 mg
+T12	CHEM 200 206	Foster
+T13	Dose 207 221	2 inhalaciones
+T14	Frequency 222 231	/12 horas
+T15	CHEM 233 241	Atrovent
+#9	AnnotatorNotes T15	C0591130; Atrovent; Organic Chemical · Pharmacologic Substance
+T16	Dose 242 256	3 inhalaciones
+T17	Frequency 257 266	/ 8 horas
+T18	DISO 271 281	Enfermedad
+#10	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 282 288	actual
+T20	DISO 302 308	disnea
+#11	AnnotatorNotes T20	C0013404; Dyspnea; Sign or Symptom
+T21	Neg_cue 309 312	sin
+T22	DISO 313 327	dolor torácico
+#12	AnnotatorNotes T22	C0008031; Chest Pain; Sign or Symptom
+T23	Negated 313 327	dolor torácico
+T24	Duration 331 339	12 horas
+T25	DISO 374 388	tos productiva
+#13	AnnotatorNotes T25	C0239134; Productive Cough; Finding
+T26	DISO 393 412	flemas blanquecinas
+T27	Duration 416 426	una semana
+T28	PROC 455 473	Exploración física
+#14	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T29	Observation 477 487	Consciente
+#15	AnnotatorNotes T29	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T30	Observation 490 499	orientada
+T31	DISO 534 553	Taquipnea en reposo
+T32	PROC 555 557	FR
+#16	AnnotatorNotes T32	C0201660; Rheumatoid Factor Measurement; Laboratory Procedure
+T33	Neg_cue 566 569	sin
+T34	DISO 570 583	tiraje costal
+T35	Negated 570 583	tiraje costal
+T36	PROC 587 589	PA
+T37	PROC 603 605	Fc
+T38	PROC 615 619	Temp
+T39	PROC 628 633	SatO2
+#17	AnnotatorNotes T39	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T40	PROC 657 659	AC
+T41	DISO 661 674	taquiarritmia
+#18	AnnotatorNotes T41	C0080203; Tachyarrhythmia; Finding
+T42	Neg_cue 675 678	sin
+T43	DISO 679 685	soplos
+#19	AnnotatorNotes T43	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T44	Negated 679 685	soplos
+T45	PROC 689 691	AP
+T46	DISO 693 709	roncus dispersos
+T47	DISO 720 729	sibilante
+#20	AnnotatorNotes T47	C0043144; Wheezing; Sign or Symptom
+T48	PROC 742 765	Pruebas complementarias
+#21	AnnotatorNotes T48	C1515980; Ancillary Study; Research Activity
+T49	PROC 769 772	ECG
+#22	AnnotatorNotes T49	C1623258; Electrocardiography; Diagnostic Procedure
+T50	DISO 774 779	ACxFA
+T51	PROC 793 808	Rx Tórax AP y L
+T52	DISO 817 830	cardiomegalia
+#23	AnnotatorNotes T52	C0018800; Cardiomegaly; Finding
+T53	Neg_cue 831 834	sin
+T54	Negated 835 848	signos de IVI
+T55	DISO 845 848	IVI
+#24	AnnotatorNotes T55	C0023212; Left-Sided Heart Failure; Disease or Syndrome
+T56	DISO 850 890	pinzamiento de seno costofrénico derecho
+T57	Neg_cue 892 894	no
+T58	DISO 905 917	condensación
+#25	AnnotatorNotes T58	C0333119; Inspissation; Pathologic Function | C0596312; chemical condensation; Phenomenon or Process
+T59	Negated 905 917	condensación
+T60	PROC 921 930	Analítica
+#26	AnnotatorNotes T60	C0002778; Analysis of substances; Laboratory Procedure
+T61	PROC 932 939	glucosa
+T62	PROC 945 958	función renal
+T63	PROC 961 966	iones
+T64	PROC 977 980	PCR
+#27	AnnotatorNotes T64	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T65	PROC 993 1003	Leucocitos
+T66	PROC 1025 1031	proBNP
+T67	PROC 1047 1066	Gasometría arterial
+#28	AnnotatorNotes T67	C0005800; Blood Gas Analysis; Laboratory Procedure | C0150411; Analysis of arterial blood gases and pH; Laboratory Procedure
+T68	PROC 1068 1072	FiO2
+#29	AnnotatorNotes T68	C2370852; fraction of inspired oxygen (FiO2) (treatment); Therapeutic or Preventive Procedure
+T69	PROC 1079 1081	pH
+T70	PROC 1088 1092	pCO2
+T71	PROC 1097 1100	pO2
+#30	AnnotatorNotes T71	C1283004; PO2 measurement; Laboratory Procedure
+T72	PROC 1105 1116	bicarbonato
+#31	AnnotatorNotes T72	C0202059; Bicarbonate measurement; Laboratory Procedure
+T73	PROC 1123 1127	PaFi
+T74	PROC 1135 1146	TRATAMIENTO
+#32	AnnotatorNotes T74	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T75	PROC 1163 1165	O2
+T76	Dose 1187 1190	3L.
+T77	CHEM 1193 1203	Furosemida
+#33	AnnotatorNotes T77	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T78	Dose 1204 1209	20 mg
+T79	Route 1210 1213	IV.
+T80	CHEM 1216 1224	Atrovent
+#34	AnnotatorNotes T80	C0591130; Atrovent; Organic Chemical · Pharmacologic Substance
+T81	Dose 1225 1232	100 mcg
+T82	Route 1233 1241	Inhalado
+T83	CHEM 1245 1256	Paracetamol
+#35	AnnotatorNotes T83	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T84	Dose 1257 1260	1 g
+T85	Route 1261 1264	IV.
+T86	CHEM 1267 1277	Bisoprolol
+#36	AnnotatorNotes T86	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T87	Dose 1278 1284	2,5 mg
+T88	Route 1285 1289	oral
+T89	CHEM 1293 1304	Enoxaparina
+#37	AnnotatorNotes T89	C0206460; enoxaparin; Organic Chemical · Pharmacologic Substance
+T90	Dose 1305 1311	120 mg
+T91	Route 1312 1316	s.c.
+T92	PROC 1328 1343	anticoagulación
+#38	AnnotatorNotes T92	C0150457; Anticoagulant therapy; Therapeutic or Preventive Procedure
+T93	PROC 1356 1368	monitorizada
+#39	AnnotatorNotes T93	C1283169; Monitoring - action; Activity
+T94	DISO 1379 1390	taquicardia
+#40	AnnotatorNotes T94	C0039231; Tachycardia; Finding
+T95	PROC 1392 1394	FC
+T96	PROC 1412 1414	PA
+T97	CHEM 1436 1444	Digoxina
+#41	AnnotatorNotes T97	C0012265; digoxin; Organic Chemical · Pharmacologic Substance
+T98	Dose 1445 1451	0,5 mg
+T99	Route 1452 1454	IV
+T100	Duration 1467 1474	8 horas
+T101	Dose 1485 1492	0,25 mg
+T102	Route 1493 1495	IV
+T103	Duration 1509 1517	otras 8h
+T104	Dose 1539 1546	0,25 mg
+T105	Route 1547 1549	IV
+T106	DISO 1584 1596	taquicárdica
+#42	AnnotatorNotes T106	C0039231; Tachycardia; Finding
+T107	DISO 1624 1665	Flutter auricular con conducción variable
+T108	PHYS 520 530	perfundida
+T109	DEVI 1169 1184	cánulas nasales
+T110	PROC 1600 1611	DIAGNÓSTICO
+T111	PROC 444 450	EXAMEN
+T112	Observation 503 517	Bien hidratada
+T114	Quantifier_or_Qualifier 544 553	en reposo
+T115	Result_or_Value 558 564	50 rpm
+T116	Result_or_Value 590 601	107/93 mmHg
+T117	Result_or_Value 606 613	165 lpm
+T118	Result_or_Value 620 626	37,3ºC
+T119	Result_or_Value 634 637	91%
+T120	Quantifier_or_Qualifier 639 652	aire ambiente
+T121	Quantifier_or_Qualifier 730 737	aislado
+T122	Result_or_Value 782 789	160 lpm
+T123	Quantifier_or_Qualifier 810 816	ligera
+T124	Result_or_Value 940 943	125
+T125	Result_or_Value 967 975	normales
+T126	Result_or_Value 981 985	42.2
+T127	Result_or_Value 987 990	0-5
+T129	Result_or_Value 1004 1010	13.060
+T130	Result_or_Value 1014 1017	86%
+T131	Result_or_Value 1020 1021	7
+T132	Result_or_Value 1032 1037	1,264
+T133	Result_or_Value 1039 1044	0-300
+T134	Result_or_Value 1074 1076	21
+T135	Result_or_Value 1082 1086	7,43
+T136	Result_or_Value 1093 1095	40
+T137	Result_or_Value 1101 1103	55
+T138	Result_or_Value 1117 1121	26,5
+T139	Result_or_Value 1128 1131	262
+T140	Result_or_Value 1395 1398	151
+T141	Observation 1404 1414	baja la PA
+T142	Result_or_Value 1417 1422	90/77
+T144	Patient 21 26	Mujer
+T145	History_of 106 109	HTA
+T146	History_of 136 140	EPOC
+T147	History_of 113 132	Hipercolesterolemia
+T148	History_of 144 155	Tratamiento
+T113	ANAT 865 882	seno costofrénico
+T149	Quantifier_or_Qualifier 883 890	derecho
+T128	PROC 1012 1013	N
+T150	PROC 1018 1019	L
+T152	Observation 1553 1576	Refiere sentirse mejor,

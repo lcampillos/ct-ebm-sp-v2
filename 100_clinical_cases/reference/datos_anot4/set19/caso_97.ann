@@ -1,0 +1,118 @@
+T1	DISO 21 35	Dolor torácico
+#1	AnnotatorNotes T1	C0008031; Chest Pain; Sign or Symptom
+T2	DISO 38 67	disnea de moderados esfuerzos
+T3	Duration 71 82	dos semanas
+T4	LIVB 118 123	Varón
+T5	Age 127 134	19 años
+T7	DISO 188 195	fumador
+#2	AnnotatorNotes T7	C0337664; Smoker; Finding
+T8	Frequency 205 209	/día
+T9	DISO 214 224	Enfermedad
+#3	AnnotatorNotes T9	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	Date 225 231	actual
+T11	DISO 245 270	dolor torácico precordial
+#4	AnnotatorNotes T11	C0232286; Precordial pain; Sign or Symptom
+T12	Duration 308 317	2 semanas
+T13	DISO 345 374	disnea de moderados esfuerzos
+T14	Neg_cue 376 379	sin
+T15	DISO 380 386	fiebre
+#5	AnnotatorNotes T15	C0015967; Fever; Sign or Symptom
+T16	Negated 380 386	fiebre
+T17	Neg_cue 387 389	ni
+T18	Negated 390 409	otra sintomatología
+T19	DISO 395 409	sintomatología
+#6	AnnotatorNotes T19	C3540840; Sign or Symptom; Finding
+T20	PROC 424 443	analgesia a demanda
+T21	Date 497 509	hacía 2 días
+T22	PROC 524 542	Exploración física
+#7	AnnotatorNotes T22	C0031809; Physical Examination; Health Care Activity
+T23	PROC 698 719	Auscultación cardíaca
+#8	AnnotatorNotes T23	C0018793; Heart Auscultation; Diagnostic Procedure
+T24	Neg_cue 729 732	sin
+T25	DISO 733 739	soplos
+#9	AnnotatorNotes T25	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T26	Negated 733 739	soplos
+T27	DISO 751 767	roce pericárdico
+#10	AnnotatorNotes T27	C0232267; Pericardial friction rub; Finding
+T28	Neg_cue 776 779	sin
+T29	Negated 780 795	otros hallazgos
+T30	PROC 799 820	Auscultación pulmonar
+#11	AnnotatorNotes T30	C2230255; auscultation of lungs; Diagnostic Procedure
+T31	Neg_cue 821 824	sin
+T32	DISO 825 837	alteraciones
+#12	AnnotatorNotes T32	C0012634; Disease; Disease or Syndrome
+T33	Negated 825 837	alteraciones
+T34	PROC 853 864	exploración
+#13	AnnotatorNotes T34	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T35	PROC 877 900	Pruebas complementarias
+#14	AnnotatorNotes T35	C1515980; Ancillary Study; Research Activity
+T36	PROC 904 922	Electrocardiograma
+#15	AnnotatorNotes T36	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T37	DISO 924 943	taquicardia sinusal
+#16	AnnotatorNotes T37	C0039239; Sinus Tachycardia; Disease or Syndrome
+T38	PROC 957 972	Ecocardioscopia
+T39	DISO 974 993	derrame pericárdico
+#17	AnnotatorNotes T39	C0031039; Pericardial effusion; Disease or Syndrome | C0349077; Pericardial effusion - noninflammatory; Pathologic Function
+T40	Neg_cue 994 997	sin
+T41	DISO 998 1021	compromiso hemodinámico
+T42	Negated 998 1021	compromiso hemodinámico
+T43	PROC 1024 1027	ICT
+#18	AnnotatorNotes T43	C0043162; Whole-Body Irradiation; Therapeutic or Preventive Procedure | C1512721; Inferential Current Treatment; Therapeutic or Preventive Procedure
+T44	PROC 1037 1052	ecocardioscopia
+T45	DISO 1066 1085	derrame pericárdico
+#19	AnnotatorNotes T45	C0031039; Pericardial effusion; Disease or Syndrome | C0349077; Pericardial effusion - noninflammatory; Pathologic Function
+T46	DISO 1097 1119	dilatación ventricular
+#20	AnnotatorNotes T46	C0264733; Ventricular dilatation (disorder); Disease or Syndrome
+T47	PROC 1123 1143	Radiografía de tórax
+#21	AnnotatorNotes T47	C0039985; Plain chest X-ray; Diagnostic Procedure
+T48	PROC 1146 1165	analítica de sangre
+T49	PROC 1168 1171	PCR
+#22	AnnotatorNotes T49	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T50	PROC 1174 1177	VSG
+#23	AnnotatorNotes T50	C1176468; Erythrocyte sedimentation rate measurement; Laboratory Procedure
+T51	PROC 1190 1200	troponinas
+#24	AnnotatorNotes T51	C0523952; Troponin measurement; Laboratory Procedure
+T52	DISO 1203 1215	leucocitosis
+#25	AnnotatorNotes T52	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T53	PROC 1261 1282	parámetros analíticos
+T54	PROC 1294 1305	TRATAMIENTO
+#26	AnnotatorNotes T54	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T55	Duration 1327 1333	2 días
+T56	PROC 1337 1344	ingreso
+#27	AnnotatorNotes T56	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T57	PROC 1349 1361	dado de alta
+#28	AnnotatorNotes T57	C0030685; Patient Discharge; Health Care Activity
+T58	DISO 1384 1405	miopericarditis aguda
+T59	DISO 1433 1448	Miopericarditis
+#29	AnnotatorNotes T59	C0854532; Myopericarditis; Disease or Syndrome
+T60	PROC 513 519	EXAMEN
+T61	PROC 1409 1420	DIAGNÓSTICO
+T62	Result_or_Value 199 210	10 cig/día.
+T63	Observation 275 304	se acentúa en decúbito supino
+T65	CONC 447 464	inicio del cuadro
+T66	Observation 469 482	empeoramiento
+T67	Observation 546 565	Buen estado general
+T68	Observation 590 601	colaborador
+T69	Observation 603 617	bien hidratado
+T70	Observation 620 630	perfundido
+T71	Observation 632 646	normocoloreado
+T72	Observation 648 667	eupneicao en reposo
+T73	Observation 669 694	hemodinámicamente estable
+T74	Observation 721 728	rítmico
+T75	Quantifier_or_Qualifier 744 750	ligero
+T78	Result_or_Value 865 871	normal
+T79	Result_or_Value 946 954	110 lpm.
+T81	Result_or_Value 1028 1032	>0.5
+T82	Quantifier_or_Qualifier 1034 1036	2ª
+T83	Quantifier_or_Qualifier 1086 1094	moderado
+T84	Observation 1180 1200	elevación troponinas
+T86	Result_or_Value 1283 1291	normales
+T87	Patient 118 123	Varón
+T88	History_of 188 195	fumador
+T64	Observation 567 577	consciente
+T89	Observation 578 587	orientado
+T76	Observation 776 795	sin otros hallazgos
+T77	Quantifier_or_Qualifier 768 775	audible
+T6	Patient 147 155	camarero
+T90	LIVB 147 155	camarero
+T80	Result_or_Value 1219 1250	163000 con desviación izquierda

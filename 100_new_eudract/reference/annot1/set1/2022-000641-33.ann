@@ -14,125 +14,162 @@ T9	PROC 268 279	tratamiento
 T10	LIVB 285 294	pacientes
 #5	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
 T11	DISO 299 321	Síndrome post-COVID-19
-T13	PROC 323 364	Estudio piloto aleatorizado y doble ciego
-T14	DISO 388 405	Covid Persistente
-T15	DISO 407 429	Síndrome post-COVID-19
-T17	DISO 456 478	Síndrome post-COVID-19
-T19	LIVB 508 541	Individuos masculinos o femeninos
-T20	Age 545 558	18 años o más
-T21	DISO 576 607	infección previa por SARS-CoV-2
-T22	Duration 608 624	al menos 90 días
-T23	PROC 661 691	prueba SARS-CoV-2 nasofaríngea
-T24	PROC 693 718	Polymerase chain reaction
-T25	PROC 720 723	PCR
-#6	AnnotatorNotes T25	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
-T26	PROC 777 810	test de antígenos rápido COVID-19
-T27	PROC 812 815	TAR
-#7	AnnotatorNotes T27	C1963724; Antiretroviral therapy; Therapeutic or Preventive Procedure
-T28	PROC 824 847	serología de SARS-CoV-2
-T29	PROC 860 891	vacunación contra el SARS-CoV-2
-#8	AnnotatorNotes T29	C5203672; SARS-CoV-2 vaccination; Therapeutic or Preventive Procedure
-T30	PROC 898 934	Serología SARS-CoV-2 antiproteína N.
-T31	DISO 939 954	Síntomas de SPC
-T32	Duration 966 973	90 días
-T33	DISO 980 989	infección
-#9	AnnotatorNotes T33	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T34	Duration 1002 1018	al menos 2 meses
-T35	Neg_cue 1021 1023	no
-T36	Negated 1024 1041	pueden explicarse
-T37	Negated 1049 1072	diagnóstico alternativo
-T39	Neg_cue 1077 1079	No
-T40	Negated 1080 1094	puede realizar
-T41	DISO 1146 1154	síntomas
-#10	AnnotatorNotes T41	C1457887; Symptoms; Sign or Symptom
-T42	DISO 1160 1165	dolor
-#11	AnnotatorNotes T42	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
-T43	DISO 1167 1176	depresión
-#12	AnnotatorNotes T43	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
-T44	DISO 1179 1187	ansiedad
-#13	AnnotatorNotes T44	C0003467; Anxiety; Mental or Behavioral Dysfunction
-T45	PROC 1223 1276	escala de estado funcional de pacientes post-COVID-19
-T48	PROC 1318 1348	canalización venosa periférica
-T49	LIVB 1356 1378	mujeres en edad fértil
-T50	Age 1367 1378	edad fértil
-T51	PROC 1416 1437	método anticonceptivo
-#15	AnnotatorNotes T51	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
-T52	CHEM 1469 1495	anticonceptivos hormonales
-T53	DEVI 1497 1521	dispositivo intrauterino
-#16	AnnotatorNotes T53	C0021900; Intrauterine Devices; Medical Device
-T54	DEVI 1523 1526	DIU
-#17	AnnotatorNotes T54	C0021900; Intrauterine Devices; Medical Device
-T55	DISO 1531 1552	esterilidad anatómica
-T56	PROC 1617 1626	protocolo
-#18	AnnotatorNotes T56	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T57	PROC 1645 1656	seguimiento
-#19	AnnotatorNotes T57	C0420316; Other follow-up; Health Care Activity
-T58	PHYS 1702 1713	Comprensión
-#20	AnnotatorNotes T58	C0162340; Comprehension; Mental Process
-T59	PROC 1738 1762	consentimiento informado
-#21	AnnotatorNotes T59	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
-T60	DISO 1793 1817	Infección por SARS-CoV-2
-#22	AnnotatorNotes T60	C5203670; COVID19 (disease); Disease or Syndrome
-T61	PROC 1818 1831	diagnosticada
-#23	AnnotatorNotes T61	C0011900; Diagnosis; Diagnostic Procedure
-T62	Duration 1840 1862	los 90 días anteriores
-T64	CHEM 1883 1910	vacuna contra el SARS-CoV-2
-T65	Duration 1919 1941	los 30 días anteriores
-T66	Neg_cue 1946 1948	No
-T67	Negated 1953 1965	limitaciones
-T68	LIVB 2001 2007	sujeto
-#24	AnnotatorNotes T68	C0681850; Study Subject; Group
-T69	PROC 2097 2118	escala funcional PCFS
-T70	Dose 2157 2163	250 ml
-T71	Route 2175 2186	intravenoso
-T72	DISO 2223 2259	insuficiencia cardíaca descompensada
-T73	DISO 2262 2308	insuficiencia renal con sobrecarga de líquidos
-#25	AnnotatorNotes T73	C0035078; Kidney Failure; Disease or Syndrome | C1565489; Renal Insufficiency; Disease or Syndrome
-T75	LIVB 2327 2372	Mujeres embarazadas o en periodo de lactancia
-T76	PROC 2404 2429	plasmaféresis terapéutica
-T77	Contraindicated 2404 2429	plasmaféresis terapéutica
-T78	Neg_cue 2431 2433	No
-T79	Negated 2455 2480	catéter venoso periférico
-#26	AnnotatorNotes T79	C2985513; Peripheral Venous Catheter; Medical Device
-T81	DISO 2491 2517	inestabilidad hemodinámica
-T82	DISO 2520 2530	septicemia
-#27	AnnotatorNotes T82	C0036690; Septicemia; Disease or Syndrome | C0243026; Sepsis; Disease or Syndrome
-T83	DISO 2532 2539	alergia
-#28	AnnotatorNotes T83	C0020517; Hypersensitivity; Pathologic Function
-T84	CHEM 2552 2575	plasma fresco congelado
-T85	CHEM 2578 2585	coloide
-#29	AnnotatorNotes T85	C0009361; Colloids; Biomedical or Dental Material
-T86	CHEM 2588 2596	albúmina
-#30	AnnotatorNotes T86	C0001924; Albumins; Amino Acid, Peptide, or Protein · Biologically Active Substance
-T87	DISO 2611 2618	alergia
-#31	AnnotatorNotes T87	C0020517; Hypersensitivity; Pathologic Function
-T88	CHEM 2633 2641	heparina
-#32	AnnotatorNotes T88	C0019134; heparin; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
-T89	PROC 2646 2668	Ingresos hospitalarios
-#33	AnnotatorNotes T89	C0184666; Hospital admission; Health Care Activity
-T90	Date 2669 2677	actuales
-T91	PROC 2721 2744	seguimiento del estudio
-#34	AnnotatorNotes T91	C0420316; Other follow-up; Health Care Activity
-T93	PROC 2776 2800	consentimiento informado
-#35	AnnotatorNotes T93	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
-T96	LIVB 2864 2876	investigador
-#36	AnnotatorNotes T96	C0035173; Research Personnel; Professional or Occupational Group
-T97	Date 2895 2901	actual
-T98	PROC 2950 2964	ensayo clínico
-#37	AnnotatorNotes T98	C0008976; Clinical Trials; Research Activity
-T99	Date 2971 2980	el día 90
-T100	PROC 2984 2995	seguimiento
-#38	AnnotatorNotes T100	C0420316; Other follow-up; Health Care Activity
-T12	PROC 728 764	Transcription-Mediated Amplification
-T16	PROC 766 769	TMA
-T18	PROC 1278 1282	PCFS
-T38	PROC 1456 1467	abstinencia
-T63	Negated 2434 2448	disponibilidad
-T92	Neg_cue 2749 2760	Incapacidad
-T94	Spec_cue 2904 2917	planteamiento
-T95	Speculated 2921 2931	participar
-T101	Form 2167 2174	líquido
-T103	DEVI 2455 2480	catéter venoso periférico
-T80	Negated 2776 2800	consentimiento informado
-T104	Negated 2807 2845	cumplir con los requisitos del estudio
-T74	PROC 1049 1072	diagnóstico alternativo
+T12	PROC 323 364	Estudio piloto aleatorizado y doble ciego
+T13	DISO 388 405	Covid Persistente
+T14	DISO 407 429	Síndrome post-COVID-19
+T15	DISO 456 478	Síndrome post-COVID-19
+T16	LIVB 508 541	Individuos masculinos o femeninos
+T17	Age 545 558	18 años o más
+T18	DISO 576 607	infección previa por SARS-CoV-2
+T19	Duration 608 624	al menos 90 días
+T20	PROC 661 691	prueba SARS-CoV-2 nasofaríngea
+T21	PROC 693 718	Polymerase chain reaction
+T22	PROC 720 723	PCR
+#6	AnnotatorNotes T22	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T23	PROC 777 810	test de antígenos rápido COVID-19
+T24	PROC 812 815	TAR
+#7	AnnotatorNotes T24	C1963724; Antiretroviral therapy; Therapeutic or Preventive Procedure
+T25	PROC 824 847	serología de SARS-CoV-2
+T26	PROC 860 891	vacunación contra el SARS-CoV-2
+#8	AnnotatorNotes T26	C5203672; SARS-CoV-2 vaccination; Therapeutic or Preventive Procedure
+T27	PROC 898 934	Serología SARS-CoV-2 antiproteína N.
+T28	DISO 939 954	Síntomas de SPC
+T29	Duration 966 973	90 días
+T30	DISO 980 989	infección
+#9	AnnotatorNotes T30	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T31	Duration 1002 1018	al menos 2 meses
+T32	Neg_cue 1021 1023	no
+T33	Negated 1024 1041	pueden explicarse
+T34	Negated 1049 1072	diagnóstico alternativo
+T35	Neg_cue 1077 1079	No
+T36	Negated 1080 1094	puede realizar
+T37	DISO 1146 1154	síntomas
+#10	AnnotatorNotes T37	C1457887; Symptoms; Sign or Symptom
+T38	DISO 1160 1165	dolor
+#11	AnnotatorNotes T38	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T39	DISO 1167 1176	depresión
+#12	AnnotatorNotes T39	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T40	DISO 1179 1187	ansiedad
+#13	AnnotatorNotes T40	C0003467; Anxiety; Mental or Behavioral Dysfunction
+T41	PROC 1223 1276	escala de estado funcional de pacientes post-COVID-19
+T42	PROC 1318 1348	canalización venosa periférica
+T43	LIVB 1356 1378	mujeres en edad fértil
+T44	Age 1367 1378	edad fértil
+T45	PROC 1416 1437	método anticonceptivo
+#14	AnnotatorNotes T45	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T46	CHEM 1469 1495	anticonceptivos hormonales
+T47	DEVI 1497 1521	dispositivo intrauterino
+#15	AnnotatorNotes T47	C0021900; Intrauterine Devices; Medical Device
+T48	DEVI 1523 1526	DIU
+#16	AnnotatorNotes T48	C0021900; Intrauterine Devices; Medical Device
+T49	DISO 1531 1552	esterilidad anatómica
+T50	PROC 1617 1626	protocolo
+#17	AnnotatorNotes T50	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T51	PROC 1645 1656	seguimiento
+#18	AnnotatorNotes T51	C0420316; Other follow-up; Health Care Activity
+T52	PHYS 1702 1713	Comprensión
+#19	AnnotatorNotes T52	C0162340; Comprehension; Mental Process
+T53	PROC 1738 1762	consentimiento informado
+#20	AnnotatorNotes T53	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T54	DISO 1793 1817	Infección por SARS-CoV-2
+#21	AnnotatorNotes T54	C5203670; COVID19 (disease); Disease or Syndrome
+T55	PROC 1818 1831	diagnosticada
+#22	AnnotatorNotes T55	C0011900; Diagnosis; Diagnostic Procedure
+T56	Duration 1840 1862	los 90 días anteriores
+T57	CHEM 1883 1910	vacuna contra el SARS-CoV-2
+T58	Duration 1919 1941	los 30 días anteriores
+T59	Neg_cue 1946 1948	No
+T60	Negated 1953 1965	limitaciones
+T61	LIVB 2001 2007	sujeto
+#23	AnnotatorNotes T61	C0681850; Study Subject; Group
+T62	PROC 2097 2118	escala funcional PCFS
+T63	Dose 2157 2163	250 ml
+T64	Route 2175 2186	intravenoso
+T65	DISO 2223 2259	insuficiencia cardíaca descompensada
+T66	DISO 2262 2308	insuficiencia renal con sobrecarga de líquidos
+#24	AnnotatorNotes T66	C0035078; Kidney Failure; Disease or Syndrome | C1565489; Renal Insufficiency; Disease or Syndrome
+T67	LIVB 2327 2372	Mujeres embarazadas o en periodo de lactancia
+T68	PROC 2404 2429	plasmaféresis terapéutica
+T69	Contraindicated 2404 2429	plasmaféresis terapéutica
+T70	Neg_cue 2431 2433	No
+T71	Negated 2455 2480	catéter venoso periférico
+#25	AnnotatorNotes T71	C2985513; Peripheral Venous Catheter; Medical Device
+T72	DISO 2491 2517	inestabilidad hemodinámica
+T73	DISO 2520 2530	septicemia
+#26	AnnotatorNotes T73	C0036690; Septicemia; Disease or Syndrome | C0243026; Sepsis; Disease or Syndrome
+T74	DISO 2532 2539	alergia
+#27	AnnotatorNotes T74	C0020517; Hypersensitivity; Pathologic Function
+T75	CHEM 2552 2575	plasma fresco congelado
+T76	CHEM 2578 2585	coloide
+#28	AnnotatorNotes T76	C0009361; Colloids; Biomedical or Dental Material
+T77	CHEM 2588 2596	albúmina
+#29	AnnotatorNotes T77	C0001924; Albumins; Amino Acid, Peptide, or Protein · Biologically Active Substance
+T78	DISO 2611 2618	alergia
+#30	AnnotatorNotes T78	C0020517; Hypersensitivity; Pathologic Function
+T79	CHEM 2633 2641	heparina
+#31	AnnotatorNotes T79	C0019134; heparin; Biologically Active Substance · Organic Chemical · Pharmacologic Substance
+T80	PROC 2646 2668	Ingresos hospitalarios
+#32	AnnotatorNotes T80	C0184666; Hospital admission; Health Care Activity
+T81	Date 2669 2677	actuales
+T82	PROC 2721 2744	seguimiento del estudio
+#33	AnnotatorNotes T82	C0420316; Other follow-up; Health Care Activity
+T83	PROC 2776 2800	consentimiento informado
+#34	AnnotatorNotes T83	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T84	LIVB 2864 2876	investigador
+#35	AnnotatorNotes T84	C0035173; Research Personnel; Professional or Occupational Group
+T85	Date 2895 2901	actual
+T86	PROC 2950 2964	ensayo clínico
+#36	AnnotatorNotes T86	C0008976; Clinical Trials; Research Activity
+T87	Date 2971 2980	el día 90
+T88	PROC 2984 2995	seguimiento
+#37	AnnotatorNotes T88	C0420316; Other follow-up; Health Care Activity
+T89	PROC 728 764	Transcription-Mediated Amplification
+T90	PROC 766 769	TMA
+T91	PROC 1278 1282	PCFS
+T92	PROC 1456 1467	abstinencia
+T93	Negated 2434 2448	disponibilidad
+T94	Neg_cue 2749 2760	Incapacidad
+T95	Spec_cue 2904 2917	planteamiento
+T96	Speculated 2921 2931	participar
+T97	Form 2167 2174	líquido
+T98	DEVI 2455 2480	catéter venoso periférico
+T99	Negated 2776 2800	consentimiento informado
+T100	Negated 2807 2845	cumplir con los requisitos del estudio
+T101	PROC 1049 1072	diagnóstico alternativo
+T102	Quantifier_or_Qualifier 394 405	Persistente
+T103	CONC 1031 1041	explicarse
+T104	CONC 1049 1060	diagnóstico
+T105	Observation 1080 1125	puede realizar todas las tareas / actividades
+T106	Result_or_Value 1204 1216	grados 3 o 4
+T107	Quantifier_or_Qualifier 1438 1454	altamente eficaz
+T108	Observation 1586 1612	cumplir con los requisitos
+T109	Observation 1702 1713	Comprensión
+T110	Observation 1716 1725	capacidad
+T111	Quantifier_or_Qualifier 1867 1879	Última dosis
+T112	Quantifier_or_Qualifier 1966 1980	significativas
+T113	Result_or_Value 2075 2090	grados 0, 1 o 2
+T114	CONC 2097 2118	escala funcional PCFS
+T115	Quantifier_or_Qualifier 2201 2211	peligrosos
+T116	Observation 2286 2308	sobrecarga de líquidos
+T117	Quantifier_or_Qualifier 2481 2489	adecuado
+T118	Quantifier_or_Qualifier 2680 2689	previstos
+T119	Observation 2807 2833	cumplir con los requisitos
+T120	Observation 2881 2894	Participación
+T121	Observation 2918 2920	de
+T122	Observation 2921 2964	participar en cualquier otro ensayo clínico
+T123	Patient 119 128	pacientes
+T124	Patient 285 294	pacientes
+T125	Patient 507 541		Individuos masculinos o femeninos
+T126	History_of 576 585	infección
+T127	History_of 593 607	por SARS-CoV-2
+T128	Patient 1253 1262	pacientes
+T129	Patient 1356 1378	mujeres en edad fértil
+T130	History_of 1883 1889	vacuna
+T131	Patient 2001 2007	sujeto
+T132	Patient 2327 2372	Mujeres embarazadas o en periodo de lactancia
+T133	History_of 2532 2539	alergia
+T134	History_of 2611 2618	alergia
+T135	Future 2646 2668	Ingresos hospitalarios
+T136	Other 2864 2876	investigador
+T137	Future 2921 2931	participar
+T138	Future 2950 2964	ensayo clínico

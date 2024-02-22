@@ -1,51 +1,67 @@
-T2	CHEM 98 110	Upadacitinib
-T3	LIVB 114 129	sujetos adultos
-T4	Age 122 129	adultos
-T5	DISO 134 152	dermatitis atópica
-#1	AnnotatorNotes T5	C0011615; Dermatitis, Atopic; Disease or Syndrome
-T6	PROC 195 260	Estudio de fase 3b/4, aleatorizado, doble ciego y dosis flexibles
-T7	Dose 245 260	dosis flexibles
-T8	CHEM 264 276	upadacitinib
-T9	LIVB 280 287	adultos
-#2	AnnotatorNotes T9	C0001675; Adult; Age Group
-T10	Age 280 287	adultos
-T11	DISO 292 310	dermatitis atópica
-#3	AnnotatorNotes T11	C0011615; Dermatitis, Atopic; Disease or Syndrome
-T12	DISO 363 381	Dermatitis atópica
-#4	AnnotatorNotes T12	C0011615; Dermatitis, Atopic; Disease or Syndrome
-T13	LIVB 430 460	Sujetos masculinos o femeninos
-T14	Age 461 477	≥ 18 y > 65 años
-T15	LIVB 488 495	Sujetos
-#5	AnnotatorNotes T15	C0681850; Study Subject; Group
-T18	DISO 517 525	síntomas
-#6	AnnotatorNotes T18	C1457887; Symptoms; Sign or Symptom
-T19	Duration 538 553	al menos 3 años
-T20	PROC 643 664	tratamiento sistémico
-T21	PROC 697 718	tratamiento sistémico
-T22	DISO 727 729	DA
-T23	CHEM 788 804	inhibidor de JAK
-T24	Neg_cue 807 809	No
-T25	Negated 810 815	poder
-T26	Neg_cue 818 820	no
-T27	PROC 828 856	interrumpir los tratamientos
-T28	Negated 828 856	interrumpir los tratamientos
-T30	DISO 876 878	EA
-#7	AnnotatorNotes T30	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
-T31	CHEM 912 924	medicamentos
-#8	AnnotatorNotes T31	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
-T32	Contraindicated 912 924	medicamentos
-T33	PROC 947 958	tratamiento
-#9	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T35	Spec_cue 1027 1035	pensando
-T36	PHYS 1048 1058	embarazada
-#10	AnnotatorNotes T36	C0032961; Pregnancy; Organism Function
-T37	Speculated 1048 1058	embarazada
-T43	PHYS 1006 1015	lactancia
-T38	DISO 500 510	DA crónica
-#11	AnnotatorNotes T38	Atopic dermatitis, chronic (MTHU003868) / Dermatitis, Atopic C0011615
-#13	AnnotatorNotes T20	Systemic Therapy C1515119
-#14	AnnotatorNotes T43	Lactation C0022925
-T17	LIVB 974 990	Mujer embarazada
-T1	PROC 46 94	Estudio para evaluar la flexibilidad de la dosis
-T16	Route 655 664	sistémico
-T29	Route 709 718	sistémico
+T1	CHEM 98 110	Upadacitinib
+T2	LIVB 114 129	sujetos adultos
+T3	Age 122 129	adultos
+T4	DISO 134 152	dermatitis atópica
+#1	AnnotatorNotes T4	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T5	PROC 195 260	Estudio de fase 3b/4, aleatorizado, doble ciego y dosis flexibles
+T6	Dose 245 260	dosis flexibles
+T7	CHEM 264 276	upadacitinib
+T8	LIVB 280 287	adultos
+#2	AnnotatorNotes T8	C0001675; Adult; Age Group
+T9	Age 280 287	adultos
+T10	DISO 292 310	dermatitis atópica
+#3	AnnotatorNotes T10	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T11	DISO 363 381	Dermatitis atópica
+#4	AnnotatorNotes T11	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T12	LIVB 430 460	Sujetos masculinos o femeninos
+T13	Age 461 477	≥ 18 y > 65 años
+T14	LIVB 488 495	Sujetos
+#5	AnnotatorNotes T14	C0681850; Study Subject; Group
+T15	DISO 517 525	síntomas
+#6	AnnotatorNotes T15	C1457887; Symptoms; Sign or Symptom
+T16	Duration 538 553	al menos 3 años
+T17	PROC 643 664	tratamiento sistémico
+#7	AnnotatorNotes T17	Systemic Therapy C1515119
+T18	PROC 697 718	tratamiento sistémico
+T19	DISO 727 729	DA
+T20	CHEM 788 804	inhibidor de JAK
+T21	Neg_cue 807 809	No
+T22	Negated 810 815	poder
+T23	Neg_cue 818 820	no
+T24	PROC 828 856	interrumpir los tratamientos
+T25	Negated 828 856	interrumpir los tratamientos
+T26	DISO 876 878	EA
+#8	AnnotatorNotes T26	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
+T27	CHEM 912 924	medicamentos
+#9	AnnotatorNotes T27	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T28	Contraindicated 912 924	medicamentos
+T29	PROC 947 958	tratamiento
+#10	AnnotatorNotes T29	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T30	Spec_cue 1027 1035	pensando
+T31	PHYS 1048 1058	embarazada
+#11	AnnotatorNotes T31	C0032961; Pregnancy; Organism Function
+T32	Speculated 1048 1058	embarazada
+T33	PHYS 1006 1015	lactancia
+#12	AnnotatorNotes T33	Lactation C0022925
+T34	DISO 500 510	DA crónica
+#13	AnnotatorNotes T34	Atopic dermatitis, chronic (MTHU003868) / Dermatitis, Atopic C0011615
+T35	LIVB 974 990	Mujer embarazada
+T36	PROC 46 94	Estudio para evaluar la flexibilidad de la dosis
+T37	Route 655 664	sistémico
+T38	Route 709 718	sistémico
+T39	Quantifier_or_Qualifier 156 172	moderada a grave
+T40	Quantifier_or_Qualifier 311 329	moderada o intensa
+T41	Quantifier_or_Qualifier 385 401	moderada a grave
+T42	CONC 564 577	momento basal
+T43	Observation 810 815	poder
+T44	Observation 821 827	querer
+T45	Observation 1027 1058	pensando en quedarse embarazada
+T46	Patient 114 129	sujetos adultos
+T47	Patient 280 287	adultos
+T48	Patient 430 460	Sujetos masculinos o femeninos
+T49	Patient 488 495	Sujetos
+T50	Future 643 664	tratamiento sistémico
+T51	History_of 697 718	tratamiento sistémico
+T52	History_of 788 804	inhibidor de JAK
+T53	Patient 974 1015	Mujer embarazada, en periodo de lactancia
+T54	Future 1048 1058	embarazada

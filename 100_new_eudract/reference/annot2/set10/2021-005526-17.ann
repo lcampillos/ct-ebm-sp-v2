@@ -1,0 +1,140 @@
+T1	PROC 47 149	Ensayo de fase II/III, multicéntrico, aleatorizado, con enmascaramiento doble y controlado con placebo
+T2	PROC 155 207	evaluar la eficacia, la tolerabilidad y la seguridad
+T3	Date 208 221	a largo plazo
+T4	CHEM 225 238	sibeprenlimab
+T5	Route 256 270	vía subcutánea
+T6	LIVB 273 282	pacientes
+#1	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	DISO 287 319	nefropatía por inmunoglobulina A
+#2	AnnotatorNotes T7	C0017661; IGA Glomerulonephritis; Disease or Syndrome
+T8	DISO 345 361	enfermedad renal
+#3	AnnotatorNotes T8	C0022658; Kidney Diseases; Disease or Syndrome | C1542676; (Renal disease NOS) or (pyoureter); Disease or Syndrome
+T9	ANAT 424 431	riñones
+#4	AnnotatorNotes T9	C0022646; Kidney; Body Part, Organ, or Organ Component | C1278978; Entire kidney; Body Part, Organ, or Organ Component
+T10	LIVB 517 524	Sujetos
+#5	AnnotatorNotes T10	C0681850; Study Subject; Group
+T11	Dose 566 593	al menos 20 de las 26 dosis
+T12	PROC 599 605	visita
+T13	Dose 651 677	al menos 9 de las 12 dosis
+T14	PROC 683 689	visita
+T15	Neg_cue 711 714	sin
+T16	DISO 715 737	problemas de seguridad
+T17	Negated 715 737	problemas de seguridad
+T18	LIVB 760 772	investigador
+#6	AnnotatorNotes T18	C0035173; Research Personnel; Professional or Occupational Group
+T19	Spec_cue 774 781	podrían
+T20	PROC 814 825	tratamiento
+#7	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T21	CHEM 830 843	sibeprenlimab
+T22	DISO 852 856	NIgA
+T23	LIVB 864 870	sujeto
+#8	AnnotatorNotes T23	C0681850; Study Subject; Group
+T24	PROC 881 884	FGe
+T25	PROC 993 1000	CKD-EPI
+T26	PROC 1101 1114	procedimiento
+T27	LIVB 1165 1187	investigador principal
+#9	AnnotatorNotes T27	C1521895; Principal Investigator; Professional or Occupational Group
+T28	LIVB 1267 1274	Sujetos
+#10	AnnotatorNotes T28	C0681850; Study Subject; Group
+T29	LIVB 1362 1369	Sujetos
+#11	AnnotatorNotes T29	C0681850; Study Subject; Group
+T30	DISO 1374 1390	eventos adversos
+#12	AnnotatorNotes T30	C0877248; Adverse event; Pathologic Function
+T31	DISO 1392 1394	EA
+#13	AnnotatorNotes T31	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
+T32	PROC 1413 1424	tratamiento
+#14	AnnotatorNotes T32	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T33	LIVB 1517 1529	investigador
+#15	AnnotatorNotes T33	C0035173; Research Personnel; Professional or Occupational Group
+T34	Neg_cue 1534 1543	impediría
+T35	LIVB 1611 1617	sujeto
+#16	AnnotatorNotes T35	C0681850; Study Subject; Group
+T36	Neg_cue 1618 1620	no
+T37	Negated 1651 1665	procedimientos
+T38	LIVB 1765 1772	sujetos
+#17	AnnotatorNotes T38	C0681850; Study Subject; Group
+T39	Neg_cue 1794 1796	no
+T40	PROC 1827 1834	visitas
+T41	PROC 1840 1852	evaluaciones
+#18	AnnotatorNotes T41	C1261322; Evaluation procedure; Health Care Activity
+T42	PROC 1869 1891	régimen de tratamiento
+T43	LIVB 1915 1929	monitor médico
+T44	LIVB 1936 1948	investigador
+#19	AnnotatorNotes T44	C0035173; Research Personnel; Professional or Occupational Group
+T45	LIVB 1989 1995	sujeto
+#20	AnnotatorNotes T45	C0681850; Study Subject; Group
+T46	LIVB 2000 2007	Sujetos
+#21	AnnotatorNotes T46	C0681850; Study Subject; Group
+T47	PROC 2047 2065	prueba de embarazo
+#22	AnnotatorNotes T47	C0032976; Pregnancy Tests; Diagnostic Procedure
+T48	LIVB 2091 2113	Varones heterosexuales
+T49	LIVB 2139 2161	sujetos en edad fértil
+T50	Age 2150 2161	edad fértil
+T51	LIVB 2169 2176	parejas
+#23	AnnotatorNotes T51	C0682323; Partner in relationship; Family Group
+T52	Neg_cue 2182 2184	no
+T53	CHEM 2220 2235	anticonceptivos
+#24	AnnotatorNotes T53	C0009871; Contraceptive Agents; Pharmacologic Substance
+T54	PROC 2257 2271	consentimiento
+T55	LIVB 2311 2317	sujeto
+#25	AnnotatorNotes T55	C0681850; Study Subject; Group
+T56	Duration 2333 2340	90 días
+T57	LIVB 2354 2383	sujetos biológicos masculinos
+T58	Duration 2387 2394	30 días
+T59	LIVB 2396 2424	sujetos biológicos femeninos
+T60	LIVB 405 416	anticuerpos
+T61	DISO 456 488	Nefropatía por inmunoglobulina A
+T62	PROC 928 991	fórmula de la Chronic Kidney Disease Epidemiology Collaboration
+T63	Speculated 814 825	tratamiento
+T64	PROC 1034 1058	consentimiento informado
+T65	PROC 1547 1560	transferencia
+T66	Negated 1547 1560	transferencia
+T67	PROC 1491 1494	IMP
+T68	PROC 1651 1665	procedimientos
+T69	Speculated 830 843	sibeprenlimab
+T70	Negated 1827 1834	visitas
+T71	Negated 1840 1852	evaluaciones
+T72	Negated 1869 1891	régimen de tratamiento
+T73	PROC 2083 2086	IMP
+T74	Negated 2220 2235	anticonceptivos
+T75	Observation 529 550	completaron el Ensayo
+T76	Quantifier_or_Qualifier 606 614	de final
+T77	Quantifier_or_Qualifier 690 698	de final
+T78	Result_or_Value 885 903	≥20 ml/min/1,73 m2
+T79	Observation 1006 1015	Capacidad
+T80	Observation 1139 1148	capacidad
+T81	Observation 1194 1226	cumplir con todos los requisitos
+T82	Observation 1288 1315	completado su participación
+T83	Observation 1579 1593	Incumplimiento
+T84	Observation 1621 1665	cumplió repetidamente con los procedimientos
+T85	Observation 1797 1835	cumplieron con el programa de visitas,
+T86	Observation 1957 1963	seguro
+T87	Result_or_Value 2022 2040	resultado positivo
+T88	Quantifier_or_Qualifier 2114 2136	biológicamente activos
+T89	CONC 2281 2286	final
+T90	Observation 2293 2317	participación del sujeto
+T91	Patient 273 282	pacientes
+T92	Patient 517 524	Sujetos
+T93	History_of 544 550	Ensayo
+T94	History_of 632 638	Ensayo
+T95	Other 760 772	investigador
+T96	Patient 864 870	sujeto
+T97	Other 1165 1187	investigador principal
+T98	Patient 1267 1274	Sujetos
+T99	History_of 1288 1330	completado su participación en los Ensayos
+T100	Patient 1362 1369	Sujetos
+T101	History_of 1437 1444	Ensayos
+T102	Other 1517 1529	investigador
+T103	Patient 1611 1617	sujeto
+T104	History_of 1721 1728	Ensayos
+T105	Patient 1765 1772	sujetos
+T106	Other 1915 1929	monitor médico
+T107	Other 1936 1948	investigador
+T108	Patient 1989 1995	sujeto
+T109	Patient 2000 2007	Sujetos
+T110	Patient 2091 2098	Varones
+T111	Patient 2139 2161	sujetos en edad fértil
+T112	Family_member 2169 2176	parejas
+T113	Patient 2311 2317	sujeto
+T114	Patient 2354 2383	sujetos biológicos masculinos
+T115	Patient 2396 2424	sujetos biológicos femeninos

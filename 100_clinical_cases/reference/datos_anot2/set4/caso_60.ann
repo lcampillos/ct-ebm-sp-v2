@@ -1,0 +1,97 @@
+T1	LIVB 21 29	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T2	DISO 76 86	odinofagia
+#2	AnnotatorNotes T2	C0221150; Swallowing painful; Sign or Symptom
+T3	Duration 90 99	3 semanas
+T4	LIVB 135 140	Varón
+T5	Age 144 151	27 años
+T6	Date 156 169	recientemente
+T7	LIVB 197 203	padres
+#3	AnnotatorNotes T7	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T8	Neg_cue 250 252	No
+T9	PROC 261 272	tratamiento
+#4	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	Negated 261 272	tratamiento
+T11	DISO 327 337	Enfermedad
+#5	AnnotatorNotes T11	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T12	Date 338 344	actual
+T13	DISO 348 358	Odinofagia
+#6	AnnotatorNotes T13	C0221150; Swallowing painful; Sign or Symptom
+T14	Duration 362 371	3 semanas
+T15	DISO 386 393	afebril
+#7	AnnotatorNotes T15	C0277797; Apyrexial; Finding
+T16	Negated 386 393	afebril
+T17	Neg_cue 395 397	no
+T18	DISO 403 417	sintomatología
+#8	AnnotatorNotes T18	C3540840; Sign or Symptom; Finding
+T19	PROC 508 512	alta
+#9	AnnotatorNotes T19	C0030685; Patient Discharge; Health Care Activity
+T20	PROC 517 528	diagnóstico
+#10	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	DISO 532 546	afta amigdalar
+T22	PROC 549 560	tratamiento
+#11	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	CHEM 565 575	ibuprofeno
+#12	AnnotatorNotes T23	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T24	Dose 576 593	600mg 1comprimido
+T25	Frequency 594 601	cada 8h
+T26	PROC 698 716	Exploración física
+#13	AnnotatorNotes T26	C0031809; Physical Examination; Health Care Activity
+T27	Observation 741 751	consciente
+#14	AnnotatorNotes T27	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T28	Observation 754 763	orientado
+T29	ANAT 801 812	mucocutánea
+#15	AnnotatorNotes T29	C4516595; Entire skin and mucous membrane; Body System
+T30	ANAT 816 819	ORL
+T31	ANAT 824 840	amígdala derecha
+T33	PROC 903 926	Pruebas complementarias
+#16	AnnotatorNotes T33	C1515980; Ancillary Study; Research Activity
+T34	PROC 931 949	Análisis sanguíneo
+T35	PROC 954 963	hemograma
+#17	AnnotatorNotes T35	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T36	PROC 966 976	bioquímica
+#18	AnnotatorNotes T36	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T37	Neg_cue 988 991	sin
+T38	DISO 992 1004	alteraciones
+#19	AnnotatorNotes T38	C0012634; Disease; Disease or Syndrome
+T39	Negated 992 1004	alteraciones
+T40	PROC 1007 1024	Exudado amigdalar
+T41	PROC 1027 1046	serologías CMV, VEB
+T42	PROC 1049 1066	despistaje de ETS
+T43	LIVB 1115 1123	paciente
+#20	AnnotatorNotes T43	C0030705; Patients; Patient or Disabled Group
+T44	Date 1181 1196	semanas previas
+T45	PROC 1200 1217	Serología sífilis
+T46	PROC 1230 1241	TRATAMIENTO
+#21	AnnotatorNotes T46	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T47	Dose 1275 1293	2.4 millones de UI
+T48	CHEM 1297 1319	penicilina G benzatina
+#22	AnnotatorNotes T48	C0030829; penicillin G benzathine; Antibiotic · Organic Chemical
+T49	Route 1320 1322	IM
+T50	Dose 1326 1341	una única dosis
+T51	Duration 1353 1373	los meses siguientes
+T52	PROC 1414 1432	pruebas reagínicas
+T53	DISO 1505 1521	Sífilis primaria
+#23	AnnotatorNotes T53	C2931317; Primary syphilis; Disease or Syndrome
+T54	Negated 403 417	sintomatología
+T57	PROC 1068 1103	estudio de hepatitis, sífilis y VIH
+T58	PROC 1397 1404	títulos
+T59	PROC 687 693	EXAMEN
+T60	PROC 1481 1492	DIAGNÓSTICO
+T61	Observation 176 203	independizado de sus padres
+T62	Observation 611 618	mejorar
+T63	Observation 720 739	Buen estado general
+T64	Observation 765 783	eupneico en reposo
+T65	Observation 785 812	normocoloración mucocutánea
+T66	Observation 881 897	bordes indurados
+T67	Observation 1148 1177	relaciones sexuales de riesgo
+T68	Result_or_Value 1218 1226	positiva
+T69	Patient 21 29	Paciente
+T70	Patient 135 140	Varón
+T71	Family_member 197 203	padres
+T72	Patient 1115 1123	paciente
+T73	Observation 848 859	eritematosa
+T74	Observation 862 877	hiperpigmentada
+T32	Quantifier_or_Qualifier 833 840	derecha
+T55	Neg_cue 608 610	no
+T56	Negated 611 618	mejorar

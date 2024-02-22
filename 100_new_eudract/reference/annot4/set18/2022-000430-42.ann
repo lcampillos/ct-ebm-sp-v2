@@ -1,0 +1,228 @@
+T1	CHEM 71 81	aticaprant
+T2	CHEM 96 109	antidepresivo
+#1	AnnotatorNotes T2	C0003289; Antidepressive Agents; Pharmacologic Substance
+T3	Date 110 116	actual
+T4	Duration 142 148	un año
+T5	Spec_cue 161 169	ayudaría
+T6	Speculated 172 179	mejorar
+T7	DISO 183 192	depresión
+#2	AnnotatorNotes T7	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T8	PROC 217 248	estudio abierto y a largo plazo
+T9	Duration 235 248	a largo plazo
+T10	PROC 254 288	evaluar la seguridad y la eficacia
+T11	CHEM 292 302	aticaprant
+T12	PROC 308 334	tratamiento complementario
+#3	AnnotatorNotes T12	C0936077; Complementary therapies; Therapeutic or Preventive Procedure
+T13	LIVB 338 359	participantes adultos
+T14	Age 352 359	adultos
+T15	Age 365 378	edad avanzada
+T16	DISO 383 408	trastorno depresivo mayor
+#4	AnnotatorNotes T16	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T17	DISO 410 413	TDM
+#5	AnnotatorNotes T17	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T18	DISO 437 446	Depresión
+#6	AnnotatorNotes T18	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T19	DISO 471 496	Trastorno depresivo mayor
+#7	AnnotatorNotes T19	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T20	DISO 498 501	TDM
+#8	AnnotatorNotes T20	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T21	LIVB 529 542	Participantes
+T22	LIVB 574 587	participantes
+T23	PROC 619 642	tratamiento doble ciego
+T24	LIVB 697 709	participante
+T25	PROC 750 763	examen físico
+#9	AnnotatorNotes T25	C0031809; Physical Examination; Health Care Activity
+T26	PROC 790 804	signos vitales
+T27	PROC 818 834	presión arterial
+T28	PROC 841 863	ECG de 12 derivaciones
+T29	PROC 907 918	tratamiento
+#10	AnnotatorNotes T29	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T30	LIVB 940 953	Participantes
+T31	Age 1007 1022	de 18 a 74 años
+T32	DISO 1178 1181	TDM
+#11	AnnotatorNotes T32	C1269683; Major Depressive Disorder; Mental or Behavioral Dysfunction
+T33	Neg_cue 1214 1217	sin
+T34	Negated 1218 1244	características psicóticas
+T35	LIVB 1250 1263	participantes
+T36	Age 1267 1280	65 años o más
+T37	DISO 1325 1334	depresión
+#12	AnnotatorNotes T37	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T38	Age 1348 1355	55 años
+T39	Neg_cue 1421 1423	no
+T40	Negated 1424 1447	más de 3 antidepresivos
+T41	CHEM 1433 1447	antidepresivos
+#13	AnnotatorNotes T41	C0003289; Antidepressive Agents; Pharmacologic Substance
+T42	Date 1523 1529	actual
+T43	DISO 1533 1542	depresión
+#14	AnnotatorNotes T43	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T44	CHEM 1584 1588	ISRS
+#15	AnnotatorNotes T44	C0360105; Selective Serotonin Reuptake Inhibitors; Pharmacologic Substance
+T45	CHEM 1589 1593	IRSN
+#16	AnnotatorNotes T45	C3537213; Serotonin and Norepinephrine Reuptake Inhibitor [EPC]; Pharmacologic Substance
+T46	DISO 1599 1618	síntomas depresivos
+#17	AnnotatorNotes T46	C0086132; Depressive Symptoms; Sign or Symptom
+T47	Duration 1673 1691	al menos 6 semanas
+T48	PROC 1755 1778	entrevista de selección
+T49	PROC 1785 1849	Escala de evaluación de la depresión de Hamilton de 17 elementos
+T50	Neg_cue 1860 1863	sin
+T51	Negated 1868 1891	mejora superior al 20 %
+T52	PROC 1919 1929	evaluación
+#18	AnnotatorNotes T52	C1261322; Evaluation procedure; Health Care Activity
+T53	LIVB 1958 1971	Participantes
+T54	LIVB 2002 2014	participante
+T55	Neg_cue 2015 2017	no
+T56	Negated 2018 2025	cumplió
+T57	PROC 2033 2066	administración de la intervención
+T58	PROC 2093 2116	tratamiento doble ciego
+T59	PROC 2118 2120	DB
+T60	PROC 2193 2234	evaluación del beneficio frente al riesgo
+#19	AnnotatorNotes T60	C1261322; Evaluation procedure; Health Care Activity
+T61	CHEM 2267 2279	aticacaprant
+T62	Neg_cue 2280 2282	no
+T63	Negated 2286 2295	favorable
+T64	LIVB 2304 2316	participante
+T65	LIVB 2332 2344	investigador
+#20	AnnotatorNotes T65	C0035173; Research Personnel; Professional or Occupational Group
+T66	LIVB 2352 2364	participante
+T67	DISO 2376 2390	ideas suicidas
+T68	DISO 2417 2439	comportamiento suicida
+#21	AnnotatorNotes T68	C1760428; Suicidal behavior; Finding
+T69	LIVB 2469 2481	participante
+T70	PROC 2502 2509	terapia
+#22	AnnotatorNotes T70	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T71	Contraindicated 2502 2509	terapia
+T72	Neg_cue 2524 2526	no
+T73	Negated 2527 2553	permitiría la dosificación
+T74	Date 2557 2565	el Día 1
+T75	PROC 2599 2606	terapia
+#23	AnnotatorNotes T75	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T76	LIVB 2647 2659	participante
+T77	LIVB 2737 2749	investigador
+#24	AnnotatorNotes T77	C0035173; Research Personnel; Professional or Occupational Group
+T78	Neg_cue 2768 2770	no
+T79	LIVB 2794 2806	participante
+T80	Spec_cue 2848 2854	podría
+T81	Speculated 2855 2862	impedir
+T82	Speculated 2864 2871	limitar
+T83	Speculated 2874 2883	confundir
+T84	PROC 2888 2900	evaluaciones
+#25	AnnotatorNotes T84	C1261322; Evaluation procedure; Health Care Activity
+T85	PROC 2921 2930	protocolo
+#26	AnnotatorNotes T85	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T86	LIVB 2932 2945	Participantes
+T87	LIVB 2972 2984	participante
+T88	Neg_cue 2985 2991	carece
+T89	Negated 2999 3032	mejora clínicamente significativa
+T90	CHEM 3049 3053	ISRS
+#27	AnnotatorNotes T90	C0360105; Selective Serotonin Reuptake Inhibitors; Pharmacologic Substance
+T91	CHEM 3054 3058	IRSN
+#28	AnnotatorNotes T91	C3537213; Serotonin and Norepinephrine Reuptake Inhibitor [EPC]; Pharmacologic Substance
+T92	Date 3059 3065	actual
+T93	PROC 3152 3173	terapia antidepresiva
+T94	Date 3174 3180	actual
+T95	DISO 3207 3242	trastorno por consumo de sustancias
+T96	DISO 3276 3308	trastorno por consumo de alcohol
+T97	Duration 3342 3353	los 6 meses
+T98	Duration 3399 3417	los últimos 5 años
+T99	PROC 3424 3449	tratamiento antidepresivo
+T100	CHEM 3461 3469	ketamina
+#29	AnnotatorNotes T100	C0022614; ketamine; Organic Chemical · Pharmacologic Substance
+T101	CHEM 3470 3480	esketamina
+T102	PROC 3482 3507	terapia electroconvulsiva
+#30	AnnotatorNotes T102	C0013806; Electroconvulsive Therapy; Therapeutic or Preventive Procedure
+T103	PROC 3530 3542	tratamientos
+#31	AnnotatorNotes T103	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T104	PROC 3545 3574	estimulación del nervio vagal
+T105	DEVI 3580 3625	dispositivo de estimulación cerebral profunda
+T106	Date 3663 3669	actual
+T107	LIVB 3699 3711	investigador
+#32	AnnotatorNotes T107	C0035173; Research Personnel; Professional or Occupational Group
+T108	DISO 3721 3735	ideas suicidas
+#33	AnnotatorNotes T108	C0424000; Feeling suicidal (finding); Finding
+T109	Duration 3777 3788	los 3 meses
+T110	PROC 47 54	estudio
+T111	PROC 60 67	evaluar
+T112	PROC 1851 1858	HDRS-17
+T113	Negated 2771 2785	sería lo mejor
+T114	PROC 2251 2262	tratamiento
+T115	PROC 2454 2461	estudio
+T116	PROC 2617 2624	estudio
+T117	LIVB 980 1005	sexo masculino o femenino
+T118	Quantifier_or_Qualifier 152 158	seguro
+T119	Observation 172 179	mejorar
+T120	Observation 605 642	completado el tratamiento doble ciego
+T121	Observation 721 740	médicamente estable
+T122	CONC 768 784	historial médico
+T123	CONC 903 906	del
+T124	CONC 1105 1164	Manual Diagnóstico y Estadístico de los Trastornos Mentales
+T125	CONC 1166 1171	DSM-5
+T126	Observation 1182 1192	recurrente
+T127	Quantifier_or_Qualifier 1198 1212	episodio único
+T128	Observation 1218 1244	características psicóticas
+T129	Quantifier_or_Qualifier 1306 1321	primer episodio
+T130	Observation 1377 1397	respuesta inadecuada
+T131	Quantifier_or_Qualifier 1403 1415	mínimo de 1,
+T132	Quantifier_or_Qualifier 1424 1432	más de 3
+T133	Observation 1566 1580	tolerando bien
+T134	Result_or_Value 1726 1730	≥ 20
+T135	Quantifier_or_Qualifier 1737 1744	primera
+T136	Quantifier_or_Qualifier 1747 1754	segunda
+T137	CONC 1785 1833	Escala de evaluación de la depresión de Hamilton
+T138	CONC 1837 1849	17 elementos
+T139	CONC 1851 1858	HDRS-17
+T140	CONC 1868 1874	mejora
+T141	Result_or_Value 1875 1891	superior al 20 %
+T142	Quantifier_or_Qualifier 1898 1905	primera
+T143	Quantifier_or_Qualifier 1911 1918	segunda
+T144	Observation 2018 2047	cumplió con la administración
+T145	Observation 2228 2234	riesgo
+T146	Observation 2286 2295	favorable
+T147	Observation 2395 2414	intención de actuar
+T148	CONC 2443 2461	inicio del estudio
+T149	CONC 2541 2553	dosificación
+T150	Observation 2816 2840	comprometer el bienestar
+T151	CONC 2874 2883	confundir
+T152	Observation 2999 3005	mejora
+T153	Quantifier_or_Qualifier 3006 3032	clínicamente significativa
+T154	Observation 3103 3117	incumplimiento
+T155	Quantifier_or_Qualifier 3118 3144	clínicamente significativo
+T156	Quantifier_or_Qualifier 3246 3262	moderado a grave
+T157	Food 3301 3308	alcohol
+T158	CONC 3333 3338	DSM-5
+T159	Quantifier_or_Qualifier 3519 3529	al menos 7
+T160	Observation 3747 3766	intención de actuar
+T161	CONC 3803 3809	inicio
+T162	CONC 3821 3823	de
+T163	Patient 338 378	participantes adultos y de edad avanzada
+T164	Patient 529 542	Participantes
+T165	Patient 574 587	participantes
+T166	History_of 619 642	tratamiento doble ciego
+T167	Patient 697 709	participante
+T168	Patient 940 953	Participantes
+T169	Patient 980 1005	sexo masculino o femenino
+T170	Patient 1250 1263	participantes
+T171	History_of 1325 1334	depresión
+T172	History_of 1433 1447	antidepresivos
+T173	Patient 1958 1971	Participantes
+T174	Patient 2002 2014	participante
+T175	Patient 2304 2316	participante
+T176	Other 2332 2344	investigador
+T177	Patient 2352 2364	participante
+T178	Patient 2469 2481	participante
+T179	History_of 2599 2606	terapia
+T180	Patient 2647 2659	participante
+T181	Other 2737 2749	investigador
+T182	Patient 2794 2806	participante
+T183	Patient 2932 2945	Participantes
+T184	Patient 2972 2984	participante
+T185	History_of 3207 3242	trastorno por consumo de sustancias
+T186	History_of 3276 3308	trastorno por consumo de alcohol
+T187	History_of 3424 3449	tratamiento antidepresivo
+T188	History_of 3461 3469	ketamina
+T189	History_of 3470 3480	esketamina
+T190	History_of 3482 3507	terapia electroconvulsiva
+T191	History_of 3545 3574	estimulación del nervio vagal
+T192	History_of 3580 3625	dispositivo de estimulación cerebral profunda
+T193	Other 3699 3711	investigador
+T194	History_of 1377 1397	respuesta inadecuada
+T195	History_of 3103 3117	incumplimiento

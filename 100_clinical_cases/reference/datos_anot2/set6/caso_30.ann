@@ -1,0 +1,144 @@
+T1	DISO 21 39	Síndrome diarreico
+T2	LIVB 62 67	Mujer
+#1	AnnotatorNotes T2	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T3	Age 71 78	74 años
+T4	Neg_cue 104 109	Niega
+T5	DISO 110 114	RAMc
+T6	Negated 110 115	RAMc.
+T7	DISO 118 126	Fumadora
+#2	AnnotatorNotes T7	C0337664; Smoker; Finding
+T8	Frequency 141 145	/día
+T9	DISO 155 158	HTA
+#3	AnnotatorNotes T9	C0020538; Hypertensive disease; Disease or Syndrome
+T10	DISO 160 169	DM tipo 2
+#4	AnnotatorNotes T10	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T11	DISO 174 195	retinopatía diabética
+#5	AnnotatorNotes T11	C0011884; Diabetic Retinopathy; Disease or Syndrome
+T12	DISO 197 207	Dislipemia
+#6	AnnotatorNotes T12	C0242339; Dyslipidemias; Disease or Syndrome
+T13	DISO 211 224	FA permanente
+T14	DISO 226 253	Infartos lacunares crónicos
+T15	Duration 245 253	crónicos
+T16	DISO 255 275	insuficiencia mitral
+#7	AnnotatorNotes T16	C0026266; Mitral Valve Insufficiency; Disease or Syndrome
+T17	DISO 286 297	bicitopenia
+T18	DISO 299 305	anemia
+#8	AnnotatorNotes T18	C0002871; Anemia; Disease or Syndrome
+T19	DISO 307 318	trombopenia
+#9	AnnotatorNotes T19	C0040034; Thrombocytopenia; Disease or Syndrome
+T20	PROC 334 336	IQ
+T21	PROC 338 353	colecistectomía
+#10	AnnotatorNotes T21	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T22	PROC 355 366	Tratamiento
+#11	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	CHEM 377 386	enalapril
+#12	AnnotatorNotes T23	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T24	CHEM 388 403	espironolactona
+#13	AnnotatorNotes T24	C0037982; spironolactone; Organic Chemical · Pharmacologic Substance
+T25	CHEM 405 415	ibuprofeno
+#14	AnnotatorNotes T25	C0020740; ibuprofen; Organic Chemical · Pharmacologic Substance
+T26	CHEM 417 426	omeprazol
+#15	AnnotatorNotes T26	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T27	CHEM 428 438	alopurinol
+#16	AnnotatorNotes T27	C0002144; allopurinol; Organic Chemical · Pharmacologic Substance
+T28	CHEM 440 449	aldocumar
+#17	AnnotatorNotes T28	C1564393; Aldocumar; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T29	CHEM 451 461	gliclazida
+#18	AnnotatorNotes T29	C0017631; gliclazide; Organic Chemical · Pharmacologic Substance
+T30	CHEM 463 471	atenolol
+#19	AnnotatorNotes T30	C0004147; atenolol; Organic Chemical · Pharmacologic Substance
+T31	DISO 474 484	Enfermedad
+#20	AnnotatorNotes T31	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T32	Date 485 491	actual
+T33	Date 537 555	hace unos 4-5 días
+T34	DISO 565 572	vómitos
+#21	AnnotatorNotes T34	C0042963; Vomiting; Sign or Symptom
+T35	DISO 575 582	diarrea
+#22	AnnotatorNotes T35	C0011991; Diarrhea; Sign or Symptom
+T36	DISO 615 624	hiporexia
+#23	AnnotatorNotes T36	C0232462; Decrease in appetite; Sign or Symptom
+T37	DISO 627 634	astenia
+#24	AnnotatorNotes T37	C0004093; Asthenia; Sign or Symptom
+T38	PROC 651 660	analítica
+#25	AnnotatorNotes T38	C0002778; Analysis of substances; Laboratory Procedure
+T39	Duration 685 694	la semana
+T40	PROC 696 700	urea
+#26	AnnotatorNotes T40	C0523961; Urea measurement; Laboratory Procedure
+T41	PROC 714 724	creatinina
+#27	AnnotatorNotes T41	C0201975; Creatinine measurement; Laboratory Procedure
+T42	Duration 758 765	5 meses
+T43	PROC 766 779	función renal
+T44	PROC 789 791	EF
+#28	AnnotatorNotes T44	C0013855; Electrophoresis; Laboratory Procedure
+T45	Neg_cue 793 796	sin
+T46	Negated 797 818	hallazgos patológicos
+T47	DISO 834 852	corazón arrítmicos
+T48	DISO 857 876	tonos taquicárdicos
+T49	Neg_cue 878 880	no
+T50	Negated 881 905	signos de deshidratación
+T51	PROC 934 953	ecografía abdominal
+#29	AnnotatorNotes T51	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T52	PROC 968 985	control analítico
+T53	PROC 987 991	urea
+#30	AnnotatorNotes T53	C0523961; Urea measurement; Laboratory Procedure
+T54	PROC 1002 1012	creatinina
+#31	AnnotatorNotes T54	C0201975; Creatinine measurement; Laboratory Procedure
+T55	PROC 1019 1022	GSV
+T56	DISO 1024 1043	acidosis metabólica
+#32	AnnotatorNotes T56	C0220981; Metabolic acidosis; Pathologic Function | C1854704; Metabolic Ketosis; Pathologic Function
+T57	PROC 1045 1059	Iones en orina
+T58	PROC 1061 1066	sodio
+#33	AnnotatorNotes T58	C0337443; Sodium measurement; Laboratory Procedure
+T59	PROC 1071 1078	potasio
+#34	AnnotatorNotes T59	C0202194; Potassium measurement; Laboratory Procedure
+T60	PROC 1086 1091	cloro
+T61	PROC 1096 1100	EFNa
+T62	PROC 1109 1133	Tira reactiva leucocitos
+T63	PROC 1210 1222	sueroterapia
+#35	AnnotatorNotes T63	C0242348; Serotherapy; Therapeutic or Preventive Procedure
+T64	PROC 1244 1261	antibioterapia iv
+T65	Route 1259 1261	iv
+T66	PROC 1267 1281	cifras de urea
+T67	PROC 1284 1294	creatinina
+#36	AnnotatorNotes T67	C0201975; Creatinine measurement; Laboratory Procedure
+T68	Neg_cue 1319 1326	cesando
+T69	DISO 1330 1344	sintomatología
+#37	AnnotatorNotes T69	C3540840; Sign or Symptom; Finding
+T70	Negated 1330 1344	sintomatología
+T71	DISO 1372 1397	Insuficiencia renal aguda
+#38	AnnotatorNotes T71	C0022660; Kidney Failure, Acute; Disease or Syndrome | C1565662; Acute Kidney Insufficiency; Disease or Syndrome | C3854173; Pre-renal acute kidney injury; Disease or Syndrome
+T72	DISO 881 905	signos de deshidratación
+T73	PROC 1348 1359	DIAGNÓSTICO
+T74	PROC 639 645	EXAMEN
+T76	Observation 149 153	FRCV
+T77	Quantifier_or_Qualifier 276 284	moderada
+T78	Quantifier_or_Qualifier 586 600	escasa cuantía
+T79	Result_or_Value 704 712	173mg/dl
+T80	Result_or_Value 725 734	2.17mg/dl
+T81	Observation 766 786	función renal normal
+T82	Observation 797 818	hallazgos patológicos
+T83	Result_or_Value 954 960	normal
+T84	Result_or_Value 992 1000	154mg/dl
+T85	Result_or_Value 1013 1018	2,05.
+T86	Result_or_Value 1067 1069	38
+T87	Result_or_Value 1079 1084	78,32
+T88	Result_or_Value 1092 1095	12.
+T89	Result_or_Value 1102 1108	0.26%.
+T90	Result_or_Value 1134 1136	+.
+T91	Result_or_Value 1305 1317	normalizando
+T92	Patient 62 67	Mujer
+T93	History_of 110 114	RAMc
+T94	History_of 155 158	HTA
+T95	History_of 160 169	DM tipo 2
+T96	History_of 174 195	retinopatía diabética
+T97	History_of 197 207	Dislipemia
+T98	History_of 211 224	FA permanente
+T99	History_of 226 253	Infartos lacunares crónicos
+T100	History_of 255 275	insuficiencia mitral
+T101	History_of 334 336	IQ
+T102	History_of 338 353	colecistectomía
+T103	History_of 149 153	FRCV
+T75	Quantifier_or_Qualifier 130 132	10
+T104	History_of 286 297	bicitopenia
+T105	History_of 299 305	anemia
+T106	History_of 307 318	trombopenia

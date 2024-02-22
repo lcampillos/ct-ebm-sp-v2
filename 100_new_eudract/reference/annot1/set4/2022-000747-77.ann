@@ -1,0 +1,89 @@
+T1	Form 77 88	comprimidos
+T2	CHEM 89 96	BIIB122
+T3	DISO 150 173	enfermedad de Parkinson
+#1	AnnotatorNotes T3	C0030567; Parkinson Disease; Disease or Syndrome
+T4	LIVB 195 208	participantes
+T5	Age 271 281	de 30 y 80
+T6	DISO 325 348	Enfermedad de Parkinson
+#2	AnnotatorNotes T6	C0030567; Parkinson Disease; Disease or Syndrome
+T7	PROC 425 505	Estudio Fase 3, multicéntrico, aleatorizado, doble ciego, controlado con placebo
+T8	PROC 511 545	determinar la eficacia y seguridad
+T9	CHEM 549 556	BIIB122
+T10	CHEM 557 563	DNL151
+T11	LIVB 567 580	participantes
+T12	DISO 585 608	Enfermedad de Parkinson
+#3	AnnotatorNotes T12	C0030567; Parkinson Disease; Disease or Syndrome
+T13	DISO 663 686	Enfermedad de Parkinson
+#4	AnnotatorNotes T13	C0030567; Parkinson Disease; Disease or Syndrome
+T14	PROC 751 770	Diagnóstico clínico
+#5	AnnotatorNotes T14	C0332140; Diagnosis, clinical; Finding
+T15	DISO 774 776	EP
+#6	AnnotatorNotes T15	C0028797; Occupational Diseases; Disease or Syndrome | C0034065; Pulmonary Embolism; Pathologic Function | C1956257; Pulmonary Stenosis; Disease or Syndrome
+T16	PROC 805 824	diagnóstico clínico
+#7	AnnotatorNotes T16	C0332140; Diagnosis, clinical; Finding
+T17	Duration 872 882	los 5 años
+T18	PROC 899 918	visita de selección
+T19	Age 939 955	al menos 30 años
+T20	PROC 982 993	diagnóstico
+#8	AnnotatorNotes T20	C0011900; Diagnosis; Diagnostic Procedure
+T21	Neg_cue 1058 1069	ausencia de
+T22	Negated 1070 1079	respuesta
+T23	Neg_cue 1181 1192	ausencia de
+T24	Negated 1193 1202	respuesta
+T25	PROC 1249 1266	pruebas genéticas
+#9	AnnotatorNotes T25	C0679560; Genetic screening method; Laboratory Procedure
+T26	CHEM 1339 1379	cinasa rica en repeticiones de leucina 2
+T27	DISO 1453 1474	Trastorno neurológico
+#10	AnnotatorNotes T27	C0027765; nervous system disorder; Disease or Syndrome
+T28	Neg_cue 1502 1513	distinto de
+T29	DISO 1517 1519	EP
+#11	AnnotatorNotes T29	C0028797; Occupational Diseases; Disease or Syndrome | C0034065; Pulmonary Embolism; Pathologic Function | C1956257; Pulmonary Stenosis; Disease or Syndrome
+T30	Negated 1517 1519	EP
+T31	DISO 1545 1570	accidente cerebrovascular
+#12	AnnotatorNotes T31	C0038454; Cerebrovascular accident; Disease or Syndrome
+T32	DISO 1572 1580	demencia
+#13	AnnotatorNotes T32	C0497327; Dementia; Mental or Behavioral Dysfunction
+T33	DISO 1583 1601	crisis epilépticas
+#14	AnnotatorNotes T33	C0014544; Epilepsy; Disease or Syndrome | C4317109; Epileptic Seizures; Disease or Syndrome
+T34	Duration 1606 1616	los 5 años
+T35	PROC 1633 1652	visita de selección
+T36	LIVB 1669 1681	investigador
+#15	AnnotatorNotes T36	C0035173; Research Personnel; Professional or Occupational Group
+T37	Spec_cue 1685 1693	Indicios
+T38	DISO 1706 1727	parkinsonismo atípico
+T39	Speculated 1706 1727	parkinsonismo atípico
+T40	DISO 1737 1759	atrofia multisistémica
+#16	AnnotatorNotes T40	C0393571; Multiple System Atrophy; Pathologic Function
+T41	Speculated 1737 1759	atrofia multisistémica
+T42	DISO 1762 1795	parálisis supranuclear progresiva
+#17	AnnotatorNotes T42	C0038868; Progressive supranuclear palsy; Disease or Syndrome
+T43	Speculated 1762 1795	parálisis supranuclear progresiva
+T44	Spec_cue 1799 1810	indicios de
+T45	Speculated 1811 1846	parkinsonismo inducido por fármacos
+T46	DISO 1811 1824	parkinsonismo
+#18	AnnotatorNotes T46	C0242422; Parkinsonian Disorders; Disease or Syndrome
+T47	CHEM 1838 1846	fármacos
+#19	AnnotatorNotes T47	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T48	PROC 1020 1052	escala modificada de Hoehn y Yah
+T49	PROC 1167 1176	MDS-UPDRS
+T50	Quantifier_or_Qualifier 101 108	seguros
+T51	CONC 118 126	retrasar
+T52	Observation 130 143	empeoramiento
+T53	Quantifier_or_Qualifier 177 191	etapa temprana
+T54	CONC 296 358	Escala de Calificación de la Enfermedad de Parkinson Unificada
+T55	Result_or_Value 997 1013	Estadios 1 a 2.5
+T56	Observation 1070 1079	respuesta
+T57	Result_or_Value 1145 1160	partes II y III
+T58	CONC 1167 1176	MDS-UPDRS
+T59	Observation 1193 1202	respuesta
+T60	Result_or_Value 1207 1211	<=40
+T61	Quantifier_or_Qualifier 1324 1332	patógena
+T62	Quantifier_or_Qualifier 1475 1501	clínicamente significativo
+T63	Quantifier_or_Qualifier 1720 1727	atípico
+T64	Patient 195 208	participantes
+T65	Patient 567 580	participantes
+T66	History_of 1453 1474	Trastorno neurológico
+T67	History_of 1545 1570	accidente cerebrovascular
+T68	History_of 1572 1580	demencia
+T69	History_of 1583 1601	crisis epilépticas
+T70	Other 1669 1681	investigador

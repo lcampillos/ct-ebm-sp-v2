@@ -1,0 +1,196 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	40 años
+T3	DISO 55 62	bultoma
+T4	ANAT 66 87	región axilar derecha
+T5	DISO 112 122	Enfermedad
+#1	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	Date 123 129	actual
+T7	Date 146 160	hace dos meses
+T8	DISO 164 171	bultoma
+T9	ANAT 175 196	región axilar derecha
+T10	DISO 199 220	adenopatías dolorosas
+T11	Date 246 257	hace un mes
+T12	DISO 267 273	fiebre
+#2	AnnotatorNotes T12	C0015967; Fever; Sign or Symptom
+T13	DISO 309 317	mialgias
+#3	AnnotatorNotes T13	C0231528; Myalgia; Sign or Symptom
+T14	DISO 319 326	cefalea
+#4	AnnotatorNotes T14	C0018681; Headache; Sign or Symptom
+T15	DISO 329 347	mal estado general
+T16	Date 350 365	Hace unos meses
+T17	LIVB 411 419	animales
+#5	AnnotatorNotes T17	C0003062; Animals; Animal
+T18	Spec_cue 421 437	No recuerda bien
+T19	DISO 459 465	herida
+#6	AnnotatorNotes T19	C0043250; Injury wounds; Injury or Poisoning
+T20	Speculated 459 493	herida por parte de estos animales
+T21	LIVB 485 493	animales
+#7	AnnotatorNotes T21	C0003062; Animals; Animal
+T22	Neg_cue 525 527	No
+T23	DISO 528 551	alergias medicamentosas
+#8	AnnotatorNotes T23	C0013182; Drug Allergy; Pathologic Function
+T24	Negated 528 551	alergias medicamentosas
+T25	DISO 564 574	hipertenso
+#9	AnnotatorNotes T25	C0020538; Hypertensive disease; Disease or Syndrome
+T26	PROC 578 589	tratamiento
+#10	AnnotatorNotes T26	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T27	CHEM 594 603	enalapril
+#11	AnnotatorNotes T27	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T28	Dose 604 608	20mg
+T29	Frequency 608 612	/día
+T30	Frequency 632 636	/día
+T31	Date 643 655	hace 15 años
+T33	PROC 690 708	Exploración física
+#13	AnnotatorNotes T33	C0031809; Physical Examination; Health Care Activity
+T34	PROC 819 840	Auscultación cardíaca
+#14	AnnotatorNotes T34	C0018793; Heart Auscultation; Diagnostic Procedure
+T35	Neg_cue 877 880	sin
+T36	DISO 881 887	soplos
+#15	AnnotatorNotes T36	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T37	Negated 881 887	soplos
+T38	PROC 891 912	Auscultación pulmonar
+#16	AnnotatorNotes T38	C2230255; auscultation of lungs; Diagnostic Procedure
+T39	Neg_cue 955 958	sin
+T40	DISO 959 979	ruidos sobreañadidos
+T41	Negated 959 979	ruidos sobreañadidos
+T42	ANAT 984 991	Abdomen
+#17	AnnotatorNotes T42	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T43	Neg_cue 1013 1015	no
+T44	DISO 1016 1039	doloroso a la palpación
+T45	Negated 1016 1039	doloroso a la palpación
+T46	Neg_cue 1041 1044	sin
+T47	DISO 1045 1050	masas
+#18	AnnotatorNotes T47	C0577559; Mass of body structure; Finding
+T48	Negated 1045 1050	masas
+T49	Neg_cue 1051 1053	ni
+T50	DISO 1054 1062	megalias
+T51	Negated 1054 1062	megalias
+T52	Neg_cue 1064 1067	sin
+T53	DISO 1068 1099	signos de irritación peritoneal
+T54	Negated 1068 1099	signos de irritación peritoneal
+T55	ANAT 1103 1122	Miembros inferiores
+#19	AnnotatorNotes T55	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T56	Neg_cue 1124 1126	no
+T57	DISO 1127 1133	edemas
+#20	AnnotatorNotes T57	C0013604; Edema; Pathologic Function
+T58	Negated 1127 1133	edemas
+T59	Neg_cue 1135 1137	ni
+T61	Negated 1138 1173	signos de trombosis venosa profunda
+T62	DISO 1138 1173	signos de trombosis venosa profunda
+#22	AnnotatorNotes T62	C0149871; Deep Vein Thrombosis; Disease or Syndrome
+T63	ANAT 1177 1181	Piel
+#23	AnnotatorNotes T63	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T64	ANAT 1186 1199	axila derecha
+T65	DISO 1209 1219	tumoración
+#24	AnnotatorNotes T65	C0577559; Mass of body structure; Finding
+T66	DISO 1263 1284	adenopatías dolorosas
+T67	ANAT 1314 1330	región anatómica
+T68	DISO 1335 1345	tumoración
+#25	AnnotatorNotes T68	C0577559; Mass of body structure; Finding
+T69	DISO 1355 1363	dolorosa
+#26	AnnotatorNotes T69	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T70	Neg_cue 1365 1368	sin
+T71	DISO 1369 1376	eritema
+#27	AnnotatorNotes T71	C0041834; Erythema; Disease or Syndrome
+T72	Negated 1369 1376	eritema
+T73	Neg_cue 1377 1379	ni
+T74	Observation 1380 1405	aumento de la temperatura
+T75	Negated 1380 1405	aumento de la temperatura
+T76	Neg_cue 1407 1409	No
+T77	DISO 1419 1430	adenopatías
+#28	AnnotatorNotes T77	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T78	Negated 1419 1430	adenopatías
+T80	PROC 1450 1473	Pruebas complementarias
+#30	AnnotatorNotes T80	C1515980; Ancillary Study; Research Activity
+T81	PROC 1510 1527	estudio analítico
+T82	PROC 1546 1555	analítica
+#31	AnnotatorNotes T82	C0002778; Analysis of substances; Laboratory Procedure
+T83	PROC 1596 1607	radiografía
+#32	AnnotatorNotes T83	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T84	PROC 1621 1648	ecografía de partes blandas
+#33	AnnotatorNotes T84	C2584991; Ultrasonography of soft tissue; Diagnostic Procedure
+T85	DISO 1666 1701	edema del tejido celular subcutáneo
+T86	ANAT 1708 1713	axila
+#34	AnnotatorNotes T86	C0004454; Axilla; Body Location or Region | C1279154; Entire axilla; Body Part, Organ, or Organ Component | C1283835; Entire axillary fossa; Body Location or Region
+T87	Spec_cue 1750 1765	compatibles con
+T88	DISO 1766 1789	adenopatías patológicas
+T89	Speculated 1766 1789	adenopatías patológicas
+T90	PROC 1791 1800	Serología
+#35	AnnotatorNotes T90	C0036743; Serologic tests; Laboratory Procedure
+T91	LIVB 1802 1805	VIH
+#36	AnnotatorNotes T91	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T92	Negated 1802 1805	VIH
+T93	LIVB 1807 1810	VHB
+T94	Negated 1807 1810	VHB
+T95	LIVB 1813 1816	VHC
+T96	Negated 1813 1816	VHC
+T97	Neg_cue 1817 1826	negativas
+T98	LIVB 1828 1839	B. henselae
+#37	AnnotatorNotes T98	C0242631; Bartonella henselae; Bacterium
+T99	PROC 1840 1843	IgG
+#38	AnnotatorNotes T99	C0202087; Immunoglobulin G measurement; Laboratory Procedure
+T100	PROC 1854 1857	IgM
+#39	AnnotatorNotes T100	C0202084; Immunoglobulin M measurement; Laboratory Procedure
+T101	PROC 1870 1881	TRATAMIENTO
+#40	AnnotatorNotes T101	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T102	LIVB 1919 1927	paciente
+#41	AnnotatorNotes T102	C0030705; Patients; Patient or Disabled Group
+T103	PROC 1936 1947	tratamiento
+#42	AnnotatorNotes T103	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T104	CHEM 1952 1964	Azitromicina
+#43	AnnotatorNotes T104	C0052796; azithromycin; Antibiotic · Organic Chemical
+T105	Dose 1965 1971	500 mg
+T106	Frequency 1972 1981	cada 24 h
+T107	Route 1986 1994	vía oral
+T108	Duration 2003 2009	5 días
+T109	Duration 2013 2025	los dos días
+T110	Neg_cue 2026 2037	desapareció
+T111	DISO 2041 2047	fiebre
+#44	AnnotatorNotes T111	C0015967; Fever; Sign or Symptom
+T112	Negated 2041 2047	fiebre
+T113	Duration 2053 2064	dos semanas
+T114	DISO 2068 2078	tumoración
+#45	AnnotatorNotes T114	C0577559; Mass of body structure; Finding
+T115	DISO 2085 2096	adenopatías
+#46	AnnotatorNotes T115	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T116	DISO 2125 2155	Enfermedad por arañazo de gato
+#47	AnnotatorNotes T116	C0007361; Cat-Scratch Disease; Disease or Syndrome | C0238909; Cat scratch; Injury or Poisoning
+T117	DISO 615 622	fumador
+T118	PROC 1485 1492	derivar
+T119	PROC 1530 1541	radiológico
+T120	PROC 679 685	EXAMEN
+T121	PROC 2101 2112	DIAGNÓSTICO
+T122	Result_or_Value 277 289	hasta 38,2ºC
+T123	Dose 626 632	10 cig
+T125	Observation 735 746	colaborador
+T126	Observation 748 766	eupneico en reposo
+T127	Observation 768 782	normohidratado
+T128	Observation 784 799	normoperfundido
+T129	Observation 801 815	normocoloreado
+T130	Observation 842 875	tonos rítmicos a buena frecuencia
+T131	Observation 914 953	murmullo vesicular bilateral conservado
+T132	Observation 984 1011	Abdomen: blando, depresible
+T134	Result_or_Value 1223 1239	2cms de diámetro
+T135	Quantifier_or_Qualifier 1259 1262	dos
+T136	Quantifier_or_Qualifier 1288 1300	menor tamaño
+T137	Result_or_Value 1572 1578	normal
+T138	Result_or_Value 1817 1826	negativas
+T139	Result_or_Value 1844 1852	positiva
+T140	Result_or_Value 1858 1866	positiva
+T141	Patient 21 26	Varón
+T142	History_of 528 551	alergias medicamentosas
+T143	History_of 564 574	hipertenso
+T144	Patient 1919 1927	paciente
+T145	Quantifier_or_Qualifier 80 87	derecha
+T146	Quantifier_or_Qualifier 189 196	derecha
+T147	Observation 366 419	estuvo trabajando en una granja con diversos animales
+T148	History_of 366 419	estuvo trabajando en una granja con diversos animales
+T124	Quantifier_or_Qualifier 666 676	esporádico
+T149	Observation 724 733	orientado
+T150	Observation 712 722	Consciente
+T151	Quantifier_or_Qualifier 757 766	en reposo
+T60	Quantifier_or_Qualifier 1192 1199	derecha
+T133	Quantifier_or_Qualifier 1349 1353	dura
+T153	Negated 2068 2078	tumoración
+T154	Negated 2085 2096	adenopatías
+T32	Observation 658 676	bebedor esporádico

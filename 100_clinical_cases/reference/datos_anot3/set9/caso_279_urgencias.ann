@@ -1,0 +1,75 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	60 años
+T3	DISO 48 65	dolor en el pecho
+#1	AnnotatorNotes T3	C0008031; Chest Pain; Sign or Symptom | C0235710; Chest discomfort; Sign or Symptom
+T4	DISO 117 124	Fumador
+#2	AnnotatorNotes T4	C0337664; Smoker; Finding
+T5	Frequency 139 144	/días
+T6	Neg_cue 145 148	sin
+T7	Negated 149 159	otros FRCV
+T8	Observation 155 159	FRCV
+T9	DISO 164 174	Enfermedad
+#3	AnnotatorNotes T9	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	DISO 185 210	Dolor precordial opresivo
+T11	Duration 214 222	una hora
+T12	Date 257 267	esta noche
+T13	PROC 282 300	Exploración física
+#4	AnnotatorNotes T13	C0031809; Physical Examination; Health Care Activity
+T14	PROC 304 306	PA
+T15	PROC 321 323	FC
+T16	PROC 332 337	SatO2
+#5	AnnotatorNotes T16	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T17	DISO 362 367	dolor
+#6	AnnotatorNotes T17	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T18	PROC 371 374	ACP
+#7	AnnotatorNotes T18	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T19	PROC 386 409	Pruebas complementarias
+#8	AnnotatorNotes T19	C1515980; Ancillary Study; Research Activity
+T20	PROC 413 422	Analítica
+#9	AnnotatorNotes T20	C0002778; Analysis of substances; Laboratory Procedure
+T21	PROC 435 446	Troponina T
+T22	Duration 467 474	6 horas
+T23	PROC 478 481	ECG
+#10	AnnotatorNotes T23	C1623258; Electrocardiography; Diagnostic Procedure
+T24	DISO 496 504	IM agudo
+T25	PROC 508 523	Coronariografía
+#11	AnnotatorNotes T25	C0085532; Coronary angiography; Diagnostic Procedure
+T26	DISO 525 556	ateromarosis coronaria monovaso
+T27	DISO 558 564	Lesión
+#12	AnnotatorNotes T27	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T28	ANAT 576 587	CD proximal
+T29	Spec_cue 588 602	susceptible de
+T30	PROC 603 623	valoración funcional
+T31	Speculated 603 623	valoración funcional
+T32	PROC 627 638	TRATAMIENTO
+#13	AnnotatorNotes T32	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T33	Dose 670 676	2 pufs
+T34	CHEM 680 683	NTG
+T35	CHEM 686 689	AAS
+#14	AnnotatorNotes T35	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T36	Dose 690 696	300 mg
+T37	Route 697 701	oral
+T38	CHEM 704 714	ticagrelor
+#15	AnnotatorNotes T38	C1999375; ticagrelor; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T39	Dose 715 721	180 mg
+T40	Route 722 726	oral
+T41	PROC 741 754	ACTP primaria
+T42	DISO 764 783	lesión de DA medial
+T43	PROC 786 819	colocación de STENT farmacológico
+T44	DISO 847 863	IAM-EST anterior
+T45	Date 175 181	actual
+T46	PROC 823 834	DIAGNÓSTICO
+T47	PROC 271 277	EXAMEN
+T48	Result_or_Value 128 144	20 cigarros/días
+T49	Quantifier_or_Qualifier 149 154	otros
+T50	Result_or_Value 307 320	189/101 mmHg.
+T51	Result_or_Value 324 330	98 lpm
+T52	Result_or_Value 338 343	100%.
+T53	Result_or_Value 376 382	normal
+T54	Result_or_Value 447 455	515 ng/L
+T55	Observation 483 492	hallazgos
+T56	Quantifier_or_Qualifier 499 504	agudo
+T58	Quantifier_or_Qualifier 777 783	medial
+T59	Patient 21 26	Varón
+T60	Observation 240 256	le ha despertado
+T61	Observation 346 354	Afectado

@@ -1,0 +1,184 @@
+T1	DISO 21 37	Erupción cutánea
+#1	AnnotatorNotes T1	C0015230; Exanthema; Sign or Symptom
+T2	ANAT 41 48	piernas
+#2	AnnotatorNotes T2	C1140621; Leg; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region
+T3	ANAT 51 57	brazos
+#3	AnnotatorNotes T3	C0446516; Upper arm; Body Location or Region | C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269612; Entire upper arm; Body Part, Organ, or Organ Component
+T4	Duration 61 70	tres días
+T5	LIVB 87 95	paciente
+#4	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	Date 100 116	hace cuatro días
+T7	CHEM 122 136	ciprofloxacino
+#5	AnnotatorNotes T7	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T8	Dose 137 143	500 mg
+T9	Route 148 156	vía oral
+T10	Dose 158 169	dosis única
+T11	PROC 176 186	profilaxis
+#6	AnnotatorNotes T11	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T12	LIVB 204 215	meningococo
+#7	AnnotatorNotes T12	C0027575; Neisseria meningitidis; Bacterium
+T13	LIVB 238 243	Varón
+T14	Age 245 252	27 años
+T16	LIVB 282 288	pareja
+#9	AnnotatorNotes T16	C0682323; Partner in relationship; Family Group
+T17	Neg_cue 298 301	sin
+T18	LIVB 302 307	hijos
+T19	Negated 302 307	hijos
+T20	DISO 338 346	Alérgico
+#10	AnnotatorNotes T20	C0020517; Hypersensitivity; Pathologic Function
+T21	CHEM 349 359	penicilina
+#11	AnnotatorNotes T21	C0030842; penicillins; Antibiotic · Organic Chemical | C0304323; Natural penicillin; Antibiotic · Organic Chemical
+T22	DISO 364 374	Enfermedad
+#12	AnnotatorNotes T22	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T23	Date 375 381	actual
+T24	PROC 393 401	consulta
+#13	AnnotatorNotes T24	C0009818; Consultation; Health Care Activity
+T26	Date 438 454	hace cuatro días
+T27	PROC 532 546	punción lumbar
+#15	AnnotatorNotes T27	C0037943; Spinal Puncture; Health Care Activity | C0553794; Diagnostic lumbar puncture; Diagnostic Procedure
+T28	LIVB 553 561	paciente
+#16	AnnotatorNotes T28	C0030705; Patients; Patient or Disabled Group
+T29	Spec_cue 566 577	sospecha de
+T30	DISO 578 599	meningitis bacteriana
+#17	AnnotatorNotes T30	C0085437; Meningitis, Bacterial; Disease or Syndrome
+T31	Speculated 578 599	meningitis bacteriana
+T32	PROC 635 646	diagnóstico
+#18	AnnotatorNotes T32	C0011900; Diagnosis; Diagnostic Procedure
+T33	LIVB 656 674	personal sanitario
+T34	LIVB 697 705	paciente
+#19	AnnotatorNotes T34	C0030705; Patients; Patient or Disabled Group
+T35	CHEM 721 735	ciprofloxacino
+#20	AnnotatorNotes T35	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T36	Dose 736 754	500 mg dosis única
+T37	Route 759 767	vía oral
+T38	PROC 773 792	medida profiláctica
+T39	Duration 796 813	Menos de 24 horas
+T40	DISO 850 875	lesiones cutáneas rosadas
+T41	DISO 902 914	pruriginosas
+#21	AnnotatorNotes T41	C0033771; Prurigo; Disease or Syndrome | C0033774; Pruritus; Sign or Symptom
+T42	ANAT 933 939	tronco
+#22	AnnotatorNotes T42	C0460005; Trunk structure; Body Location or Region | C1280632; Entire trunk; Body Part, Organ, or Organ Component
+T43	ANAT 941 947	brazos
+#23	AnnotatorNotes T43	C0446516; Upper arm; Body Location or Region | C1140618; Upper Extremity; Body Part, Organ, or Organ Component | C1269612; Entire upper arm; Body Part, Organ, or Organ Component
+T44	ANAT 950 957	piernas
+#24	AnnotatorNotes T44	C1140621; Leg; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region
+T45	DISO 1042 1048	placas
+#25	AnnotatorNotes T45	C0011389; Dental Plaque; Disease or Syndrome | C0332461; Plaque (lesion); Finding
+T46	ANAT 1063 1087	cara anterior de piernas
+T47	Date 1091 1102	Actualmente
+T48	Neg_cue 1103 1105	no
+T49	DISO 1106 1113	prurito
+#26	AnnotatorNotes T49	C0033774; Pruritus; Sign or Symptom
+T50	Negated 1106 1113	prurito
+T51	Neg_cue 1114 1116	ni
+T52	DISO 1117 1123	fiebre
+#27	AnnotatorNotes T52	C0015967; Fever; Sign or Symptom
+T53	Negated 1117 1123	fiebre
+T54	Neg_cue 1127 1132	Niega
+T55	DISO 1133 1143	enfermedad
+#28	AnnotatorNotes T55	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T56	Negated 1133 1150	enfermedad previa
+T57	Neg_cue 1151 1153	ni
+T58	Negated 1154 1182	conductas sexuales de riesgo
+T59	PROC 1197 1215	Exploración física
+#29	AnnotatorNotes T59	C0031809; Physical Examination; Health Care Activity
+T61	DISO 1323 1330	ampolla
+#30	AnnotatorNotes T61	C0005758; Bulla; Finding
+T62	Neg_cue 1375 1377	No
+T63	DISO 1378 1409	alteración de mucosas ni labios
+T64	Negated 1378 1409	alteración de mucosas ni labios
+T65	PROC 1415 1438	Pruebas complementarias
+#31	AnnotatorNotes T65	C1515980; Ancillary Study; Research Activity
+T66	PROC 1442 1451	Hemograma
+#32	AnnotatorNotes T66	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T67	DISO 1456 1468	leucocitosis
+#33	AnnotatorNotes T67	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T68	PROC 1476 1486	leucocitos
+T69	DISO 1490 1501	neutrofilia
+#34	AnnotatorNotes T69	C3665444; Neutrophilia (disorder); Disease or Syndrome
+T70	PROC 1509 1520	neutrófilos
+T71	PROC 1529 1564	Velocidad de Sedimentación globular
+#35	AnnotatorNotes T71	C1176468; Erythrocyte sedimentation rate measurement; Laboratory Procedure
+T72	PROC 1566 1569	VSG
+#36	AnnotatorNotes T72	C1176468; Erythrocyte sedimentation rate measurement; Laboratory Procedure
+T73	PROC 1580 1590	Bioquímica
+#37	AnnotatorNotes T73	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T74	PROC 1592 1599	glucosa
+T75	PROC 1612 1631	Proteína C Reactiva
+#38	AnnotatorNotes T75	C0201657; C-reactive protein measurement; Laboratory Procedure
+T76	PROC 1633 1636	PCR
+#39	AnnotatorNotes T76	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T77	PROC 1665 1676	Coagulación
+#40	AnnotatorNotes T77	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T78	PROC 1690 1701	fibrinógeno
+#41	AnnotatorNotes T78	C0337428; Fibrinogen assay; Laboratory Procedure
+T79	PROC 1713 1718	Orina
+T80	PROC 1728 1739	TRATAMIENTO
+#42	AnnotatorNotes T80	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T83	Dose 1797 1802	30 mg
+T84	Duration 1833 1840	18 días
+T85	DISO 1910 1918	lesiones
+#44	AnnotatorNotes T85	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T86	ANAT 1963 1970	piernas
+#45	AnnotatorNotes T86	C1140621; Leg; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region
+T87	PROC 1974 1986	Se prescribe
+T88	CHEM 1987 2006	loción epitelizante
+T89	Form 1987 1993	loción
+T90	PROC 2026 2034	revisión
+#46	AnnotatorNotes T90	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T92	DISO 2059 2067	lesiones
+#48	AnnotatorNotes T92	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T93	DISO 2121 2157	Eritema multiforme o polimorfo menor
+T94	PROC 1186 1192	EXAMEN
+T95	PROC 2097 2108	DIAGNÓSTICO
+T96	Observation 265 272	soltero
+T98	Quantifier_or_Qualifier 877 885	pequeñas
+T99	Quantifier_or_Qualifier 888 901	discretamente
+T101	Observation 998 1018	aumentando de tamaño
+T102	Quantifier_or_Qualifier 1033 1041	pequeñas
+T103	Observation 1154 1182	conductas sexuales de riesgo
+T104	Observation 1219 1238	Buen estado general
+T105	Quantifier_or_Qualifier 1288 1298	circulares
+T106	Quantifier_or_Qualifier 1299 1308	"en diana
+T107	Quantifier_or_Qualifier 1331 1338	central
+T108	Quantifier_or_Qualifier 1340 1350	simétricas
+T109	Result_or_Value 1470 1486	15390 leucocitos
+T110	Result_or_Value 1503 1508	13560
+T111	Result_or_Value 1522 1526	88%)
+T112	Result_or_Value 1571 1577	33 mm.
+T113	Result_or_Value 1600 1609	120 mg/dl
+T114	Result_or_Value 1638 1647	24.4 mg/l
+T115	Result_or_Value 1677 1683	normal
+T116	Result_or_Value 1702 1710	6.0 g/l.
+T117	Result_or_Value 1719 1725	normal
+T119	Quantifier_or_Qualifier 1919 1929	residuales
+T120	Observation 1933 1959	tonalidad tirando a marrón
+T121	Observation 2059 2093	lesiones han remitido por completo
+T122	Patient 87 95	paciente
+T123	Patient 238 243	Varón
+T125	Family_member 282 288	pareja
+T126	Family_member 302 307	hijos
+T127	History_of 338 346	Alérgico
+T128	Patient 553 561	paciente
+T129	Other 656 674	personal sanitario
+T130	Patient 697 705	paciente
+T131	History_of 1133 1143	enfermedad
+T132	History_of 1154 1182	conductas sexuales de riesgo
+T133	Observation 191 215	contacto con meningococo
+T97	Observation 282 296	pareja estable
+T124	Observation 298 307	sin hijos
+T25	History_of 532 546	punción lumbar
+T134	History_of 635 646	diagnóstico
+T135	History_of 721 735	ciprofloxacino
+T136	History_of 773 792	medida profiláctica
+T60	DISO 1256 1277	lesiones eritematosas
+T137	Quantifier_or_Qualifier 1278 1287	violáceas
+T138	Observation 1355 1371	predominio acral
+T81	PROC 1777 1785	se pauta
+T82	CHEM 1786 1796	prednisona
+T118	Observation 1865 1882	bastante mejorado
+T91	Observation 511 599	ayudó a realizar una punción lumbar a una paciente con sospecha de meningitis bacteriana
+T139	Observation 675 705	en contacto con dicha paciente
+T15	LIVB 254 263	enfermero
+T140	Patient 254 263	enfermero
+T100	Quantifier_or_Qualifier 986 995	violáceas

@@ -1,0 +1,200 @@
+T1	DISO 38 44	disnea
+#1	AnnotatorNotes T1	C0013404; Dyspnea; Sign or Symptom
+T3	DISO 120 150	Carcinoma Epidemoide de pulmón
+T4	PROC 151 164	diagnosticado
+#2	AnnotatorNotes T4	C0011900; Diagnosis; Diagnostic Procedure
+T5	Date 168 172	2013
+T6	PROC 203 209	quimio
+#3	AnnotatorNotes T6	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T7	PROC 212 235	radioterapia paliativas
+T8	PROC 237 248	Tratamiento
+#4	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	Date 249 255	actual
+T10	PROC 260 272	radioterapia
+#5	AnnotatorNotes T10	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T11	DISO 276 280	EPOC
+#6	AnnotatorNotes T11	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T12	DISO 284 294	DM tipo II
+#7	AnnotatorNotes T12	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T13	PROC 298 313	Colecistectomía
+#8	AnnotatorNotes T13	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T14	PROC 317 336	Tratamiento crónico
+T15	Duration 329 336	crónico
+T16	CHEM 338 347	omeprazol
+#9	AnnotatorNotes T16	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T17	Dose 348 353	20 mg
+T18	Frequency 353 358	/24 h
+T19	CHEM 360 368	insulina
+#10	AnnotatorNotes T19	C0021641; Insulin; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance | C3537244; Insulins; Pharmacologic Substance
+T20	Dose 369 374	24 UI
+T21	Frequency 375 382	diarias
+T22	CHEM 384 394	metformina
+#11	AnnotatorNotes T22	C0025598; metformin; Organic Chemical · Pharmacologic Substance
+T23	Dose 395 400	85 mg
+T24	Frequency 400 403	/8h
+T25	CHEM 405 412	codeína
+#12	AnnotatorNotes T25	C0009214; codeine; Organic Chemical · Pharmacologic Substance
+T26	Dose 413 419	28.7mg
+T27	Frequency 419 424	/12 h
+T28	CHEM 426 433	morfina
+#13	AnnotatorNotes T28	C0026549; morphine; Organic Chemical · Pharmacologic Substance
+T29	Dose 434 439	30 mg
+T30	Frequency 439 444	/12 h
+T31	CHEM 445 453	Atrovent
+#14	AnnotatorNotes T31	C0591130; Atrovent; Organic Chemical · Pharmacologic Substance
+T32	CHEM 456 462	Foster
+T33	DISO 467 477	Enfermedad
+#15	AnnotatorNotes T33	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T34	Date 478 484	actual
+T35	LIVB 488 494	Hombre
+#16	AnnotatorNotes T35	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T36	Age 498 505	60 años
+T37	DISO 523 529	disnea
+#17	AnnotatorNotes T37	C0013404; Dyspnea; Sign or Symptom
+T38	DISO 557 565	ortopnea
+#18	AnnotatorNotes T38	C0085619; Orthopnea; Finding
+T40	PROC 606 624	Exploración física
+#19	AnnotatorNotes T40	C0031809; Physical Examination; Health Care Activity
+T43	DISO 730 739	taquipnea
+#21	AnnotatorNotes T43	C0231835; Tachypnea; Finding
+T46	DISO 845 875	circulación colateral torácica
+T47	PROC 879 891	Auscultación
+#22	AnnotatorNotes T47	C0004339; Auscultation; Diagnostic Procedure
+T48	DISO 893 927	disminución del murmullo vesicular
+T49	ANAT 968 975	Corazón
+#23	AnnotatorNotes T49	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T50	ANAT 1006 1025	Miembros inferiores
+#24	AnnotatorNotes T50	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T51	Neg_cue 1026 1029	sin
+T52	DISO 1030 1036	edemas
+#25	AnnotatorNotes T52	C0013604; Edema; Pathologic Function
+T53	Negated 1030 1036	edemas
+T54	Neg_cue 1037 1039	ni
+T56	Negated 1040 1059	signos de trombosis
+T58	PROC 1075 1086	exploración
+#28	AnnotatorNotes T58	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T59	Neg_cue 1087 1090	sin
+T60	Negated 1091 1112	hallazgos patológicos
+T61	PROC 1128 1151	Pruebas complementarias
+#29	AnnotatorNotes T61	C1515980; Ancillary Study; Research Activity
+T62	PROC 1155 1160	SatO2
+#30	AnnotatorNotes T62	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T63	PROC 1166 1168	FC
+T64	PROC 1179 1199	Radiografía de tórax
+#31	AnnotatorNotes T64	C0039985; Plain chest X-ray; Diagnostic Procedure
+T65	ANAT 1240 1263	lóbulo superior derecho
+T66	PROC 1279 1290	radiografía
+#32	AnnotatorNotes T66	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T67	Neg_cue 1299 1302	sin
+T68	Negated 1303 1318	otros hallazgos
+T69	PROC 1322 1331	Analítica
+#33	AnnotatorNotes T69	C0002778; Analysis of substances; Laboratory Procedure
+T70	Neg_cue 1333 1335	no
+T72	Negated 1336 1387	signos de descompensación de Insuficiencia cardiaca
+T74	Neg_cue 1388 1390	ni
+T75	DISO 1394 1416	infección respiratoria
+#35	AnnotatorNotes T75	C0035243; Respiratory Tract Infections; Disease or Syndrome
+T76	Negated 1394 1416	infección respiratoria
+T77	PROC 1420 1436	AngioTC de tórax
+T78	DISO 1470 1502	lesión pulmonar paramediastínica
+T79	ANAT 1506 1509	LSD
+T80	ANAT 1533 1546	hilio derecho
+T81	Spec_cue 1547 1561	compatible con
+T82	DISO 1562 1571	neoplasia
+#36	AnnotatorNotes T82	C0027651; Neoplasms; Neoplastic Process | C1882062; Neoplastic disease; Neoplastic Process
+T83	Speculated 1562 1571	neoplasia
+T84	DISO 1603 1612	estenosis
+#37	AnnotatorNotes T84	C1261287; Stenosis; Pathologic Function
+T85	DISO 1615 1646	trombosis de vena cava superior
+#38	AnnotatorNotes T85	C0038834; Superior Vena Cava Thrombosis; Disease or Syndrome
+T86	ANAT 1675 1691	aurícula derecha
+#39	AnnotatorNotes T86	C0225844; Right atrial structure; Body Part, Organ, or Organ Component | C1269890; Entire right atrium; Body Part, Organ, or Organ Component
+T87	ANAT 1706 1725	cayado de la ácigos
+T88	Spec_cue 1737 1752	compatibles con
+T89	DISO 1753 1783	síndrome de vena cava superior
+T90	Speculated 1753 1838	síndrome de vena cava superior secundaria a progresión de neoplasia pulmonar primaria
+T91	DISO 1811 1829	neoplasia pulmonar
+#40	AnnotatorNotes T91	C0024121; Lung Neoplasms; Neoplastic Process
+T92	DISO 1858 1886	circulación colateral venosa
+T93	PROC 1890 1901	TRATAMIENTO
+#41	AnnotatorNotes T93	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T94	PROC 1918 1945	Tratamiento con corticoides
+#42	AnnotatorNotes T94	C0149783; Steroid therapy; Therapeutic or Preventive Procedure
+T95	Dose 1948 1959	dosis altas
+T96	CHEM 1961 1973	dexametasona
+#43	AnnotatorNotes T96	C0011777; dexamethasone; Organic Chemical · Pharmacologic Substance
+T97	Dose 1974 1977	8mg
+T98	Frequency 1977 1982	/24 h
+T99	CHEM 1985 1995	diuréticos
+#44	AnnotatorNotes T99	C0012798; Diuretics; Pharmacologic Substance
+T100	CHEM 1997 2007	furosemida
+#45	AnnotatorNotes T100	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T101	Dose 2008 2013	40 mg
+T102	Frequency 2013 2018	/24 h
+T103	CHEM 2021 2036	anticoagulantes
+#46	AnnotatorNotes T103	C0003280; Anticoagulants; Pharmacologic Substance
+T104	CHEM 2038 2049	enoxaparina
+#47	AnnotatorNotes T104	C0206460; enoxaparin; Organic Chemical · Pharmacologic Substance
+T105	Dose 2050 2057	6000 UI
+T106	Frequency 2057 2062	/12 h
+T107	PROC 2088 2126	tratamiento con radioterapia paliativa
+T108	PROC 2164 2178	corticoterapia
+#48	AnnotatorNotes T108	C0149783; Steroid therapy; Therapeutic or Preventive Procedure
+T109	Date 2182 2193	Actualmente
+T110	Duration 2195 2203	1 semana
+T111	DISO 2221 2227	disnea
+#49	AnnotatorNotes T111	C0013404; Dyspnea; Sign or Symptom
+T112	DISO 2233 2238	edema
+#50	AnnotatorNotes T112	C0013604; Edema; Pathologic Function
+T113	DISO 2307 2337	Síndrome de vena cava superior
+T114	PROC 595 601	EXAMEN
+T115	PROC 2283 2294	DIAGNÓSTICO
+T116	DISO 1215 1236	masa paramediastínica
+T117	Observation 21 34	Empeoramiento
+T118	Quantifier_or_Qualifier 173 183	estadio IV
+T119	Observation 628 647	Buen estado general
+T120	Observation 649 663	bien hidratado
+T121	Observation 665 680	normoperfundido
+T122	Quantifier_or_Qualifier 682 687	leves
+T123	Quantifier_or_Qualifier 723 729	mínima
+T124	Observation 740 754	en sedestación
+T125	Quantifier_or_Qualifier 806 812	mínima
+T129	Observation 976 983	rítmico
+T130	Observation 1091 1112	hallazgos patológicos
+T131	Result_or_Value 1161 1165	94%.
+T132	Result_or_Value 1169 1175	85 lpm
+T135	Observation 1438 1463	crecimiento significativo
+T138	Quantifier_or_Qualifier 1830 1838	primaria
+T141	History_of 276 280	EPOC
+T142	History_of 284 294	DM tipo II
+T143	Patient 488 494	Hombre
+T2	DISO 47 52	edema
+T144	ANAT 56 68	cara y manos
+T145	History_of 120 150	Carcinoma Epidemoide de pulmón
+T146	History_of 151 164	diagnosticado
+T147	History_of 203 209	quimio
+T148	History_of 212 235	radioterapia paliativas
+T149	History_of 298 313	Colecistectomía
+T150	Quantifier_or_Qualifier 519 522	más
+T39	DISO 569 575	edemas
+T152	ANAT 579 591	cara y manos
+T41	DISO 688 718	signos de trabajo respiratorio
+T42	DISO 758 763	Edema
+T44	ANAT 767 801	miembros superiores, cara y cuello
+T45	DISO 813 821	cianosis
+T153	ANAT 825 831	labios
+T126	Quantifier_or_Qualifier 931 944	campo derecho
+T127	Quantifier_or_Qualifier 945 966	de forma generalizada
+T128	Observation 986 1002	buena frecuencia
+T55	DISO 1040 1059	signos de trombosis
+T57	Observation 1201 1208	aumento
+T154	Observation 1268 1297	respecto a radiografía previa
+T133	Observation 1303 1318	otros hallazgos
+T71	DISO 1336 1387	signos de descompensación de Insuficiencia cardiaca
+T134	Observation 1579 1590	crecimiento
+T137	Quantifier_or_Qualifier 1784 1807	secundaria a progresión
+T139	Observation 2247 2279	descendiendo de forma progresiva
+T73	Observation 1514 1526	distribución
+T136	Observation 1659 1670	confluencia
+T140	Observation 1692 1702	implicando
+T151	Observation 519 544	más disnea de lo habitual

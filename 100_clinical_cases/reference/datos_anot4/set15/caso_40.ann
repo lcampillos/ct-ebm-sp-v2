@@ -1,0 +1,170 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	20 años
+T3	PROC 42 50	consulta
+#2	AnnotatorNotes T3	C0009818; Consultation; Health Care Activity
+T4	DISO 83 111	dolor en hemitórax izquierdo
+#3	AnnotatorNotes T4	C0541828; Left sided chest pain; Sign or Symptom
+T5	DISO 136 146	Enfermedad
+#4	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	Date 147 153	actual
+T7	DISO 155 183	Dolor en hemitórax izquierdo
+#5	AnnotatorNotes T7	C0541828; Left sided chest pain; Sign or Symptom
+T8	Date 194 207	hace 24 horas
+T9	DISO 244 270	sensación de palpitaciones
+T10	PHYS 293 304	respiración
+#6	AnnotatorNotes T10	C0035203; Respiration; Physiologic Function
+T11	Neg_cue 319 321	no
+T12	Negated 322 341	con la movilización
+T13	PHYS 329 341	movilización
+T14	Neg_cue 343 345	No
+T15	DISO 346 361	cuadro catarral
+#7	AnnotatorNotes T15	C0009443; Common Cold; Disease or Syndrome
+T16	Negated 346 361	cuadro catarral
+T17	DISO 363 369	fiebre
+#8	AnnotatorNotes T17	C0015967; Fever; Sign or Symptom
+T18	Negated 363 369	fiebre
+T19	Neg_cue 370 372	ni
+T20	DISO 373 379	disnea
+#9	AnnotatorNotes T20	C0013404; Dyspnea; Sign or Symptom
+T21	Negated 373 387	disnea referid
+T23	DISO 420 430	enfermedad
+#10	AnnotatorNotes T23	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T24	Duration 445 454	tres días
+T25	PROC 467 475	consulta
+#11	AnnotatorNotes T25	C0009818; Consultation; Health Care Activity
+T26	PROC 482 500	exploración física
+#12	AnnotatorNotes T26	C0031809; Physical Examination; Health Care Activity
+T27	Neg_cue 518 529	se descartó
+T28	DISO 530 547	patología urgente
+T29	Negated 530 547	patología urgente
+T30	PROC 554 566	dada de alta
+#13	AnnotatorNotes T30	C0030685; Patient Discharge; Health Care Activity
+T31	PROC 569 579	Reconsultó
+T32	Date 603 616	día siguiente
+T33	DISO 663 677	sintomatología
+#14	AnnotatorNotes T33	C3540840; Sign or Symptom; Finding
+T34	LIVB 682 709	médico de Atención Primaria
+#15	AnnotatorNotes T34	C0033131; Primary Care Physicians; Professional or Occupational Group
+T35	PROC 722 740	exploración física
+#16	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	PROC 796 798	TA
+T37	PROC 812 814	FC
+T38	PROC 823 830	Sat. O2
+T39	ANAT 849 854	tórax
+#17	AnnotatorNotes T39	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T40	ANAT 884 911	interlínea axilar izquierda
+T41	PROC 913 916	ACR
+#18	AnnotatorNotes T41	C0584615; Urine microalbumin/creatinine ratio measurement; Laboratory Procedure
+T42	Neg_cue 932 935	sin
+T43	DISO 936 942	soplos
+#19	AnnotatorNotes T43	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T44	Negated 936 942	soplos
+T45	ANAT 982 996	ápex izquierdo
+T46	Neg_cue 998 1001	sin
+T47	DISO 1002 1018	ruidos anormales
+T48	Negated 1002 1018	ruidos anormales
+T49	PROC 1036 1059	pruebas complementarias
+#20	AnnotatorNotes T49	C1515980; Ancillary Study; Research Activity
+T50	Neg_cue 1109 1111	No
+T51	DISO 1112 1135	alergias medicamentosas
+#21	AnnotatorNotes T51	C0013182; Drug Allergy; Pathologic Function
+T52	Negated 1112 1145	alergias medicamentosas conocidas
+T53	Neg_cue 1149 1151	No
+T54	DISO 1152 1160	fumadora
+#22	AnnotatorNotes T54	C0337664; Smoker; Finding
+T55	Negated 1152 1160	fumadora
+T56	Neg_cue 1161 1163	ni
+T57	DISO 1164 1186	consumidora de tóxicos
+T58	Negated 1164 1186	consumidora de tóxicos
+T59	LIVB 1218 1225	Hermana
+#23	AnnotatorNotes T59	C0037047; Sibling; Family Group
+T60	DISO 1230 1248	Cáncer de tiroides
+#24	AnnotatorNotes T60	C0007115; Malignant neoplasm of thyroid; Neoplastic Process | C0549473; Thyroid carcinoma; Neoplastic Process
+T61	LIVB 1252 1257	Madre
+#25	AnnotatorNotes T61	C0026591; Mother (person); Family Group
+T62	DISO 1258 1268	hipertensa
+#26	AnnotatorNotes T62	C0020538; Hypertensive disease; Disease or Syndrome
+T63	PROC 1283 1306	Pruebas complementarias
+#27	AnnotatorNotes T63	C1515980; Ancillary Study; Research Activity
+T64	PROC 1310 1313	ECG
+#28	AnnotatorNotes T64	C1623258; Electrocardiography; Diagnostic Procedure
+T65	Neg_cue 1340 1342	No
+T66	Negated 1343 1364	aumento de intervalos
+T67	Neg_cue 1365 1367	ni
+T68	DISO 1368 1386	signos de isquemia
+T69	Negated 1368 1386	signos de isquemia
+T70	PROC 1390 1398	Rx tórax
+#29	AnnotatorNotes T70	C0039985; Plain chest X-ray; Diagnostic Procedure
+T71	DISO 1400 1417	escoliosis dorsal
+T72	PROC 1419 1422	ICT
+#30	AnnotatorNotes T72	C0043162; Whole-Body Irradiation; Therapeutic or Preventive Procedure | C1512721; Inferential Current Treatment; Therapeutic or Preventive Procedure
+T73	DISO 1431 1456	Neumotórax ápex izquierdo
+T74	PROC 1460 1471	TRATAMIENTO
+#31	AnnotatorNotes T74	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T75	PROC 1500 1511	radiológico
+T76	PROC 1551 1573	Ingresa en Observación
+T77	Duration 1574 1582	24 horas
+T78	PROC 1601 1612	seguimiento
+#32	AnnotatorNotes T78	C0420316; Other follow-up; Health Care Activity
+T79	PROC 1624 1642	manejo conservador
+#33	AnnotatorNotes T79	C0459914; Conservative Treatment; Therapeutic or Preventive Procedure
+T80	Duration 1691 1699	dos días
+T81	PROC 1716 1723	ingreso
+#34	AnnotatorNotes T81	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T82	PROC 1736 1762	TAC torácico con contraste
+T83	Neg_cue 1773 1781	descartó
+T84	DISO 1798 1819	focos endometriósicos
+T85	Negated 1782 1829	la presencia de focos endometriósicos en pulmón
+T86	ANAT 1823 1829	pulmón
+#35	AnnotatorNotes T86	C0024109; Lung; Body Part, Organ, or Organ Component | C1278908; Entire lung; Body Part, Organ, or Organ Component
+T87	PROC 1871 1883	dada de alta
+T88	DEVI 1922 1944	inspirómetro incentivo
+T89	PROC 1947 1974	recomendaciones de cuidados
+T90	Spec_cue 1993 2001	posibles
+T91	Speculated 2002 2040	cambios bruscos de presión atmosférica
+T92	PROC 2069 2077	revisada
+T93	Duration 2123 2140	semanas sucesivas
+T94	DISO 2220 2241	Neumotórax catamenial
+T96	DISO 944 978	Murmullo vesicular algo disminuido
+T97	PROC 1272 1278	EXAMEN
+T99	PROC 1914 1920	reposo
+T100	PROC 2196 2207	DIAGNÓSTICO
+T101	Negated 837 844	afebril
+T102	Quantifier_or_Qualifier 209 221	intermitente
+T103	Quantifier_or_Qualifier 224 237	tipo pinchazo
+T104	Observation 272 285	Se incrementa
+T107	Observation 509 516	anodina
+T109	Observation 780 794	normoconstante
+T110	Result_or_Value 799 810	120/70 mmHg
+T111	Result_or_Value 815 821	96 lpm
+T112	Result_or_Value 831 833	98
+T113	Quantifier_or_Qualifier 861 865	leve
+T114	Observation 917 931	tonos rítmicos
+T116	Observation 1315 1317	RS
+T117	Result_or_Value 1320 1326	75 lpm
+T118	Observation 1328 1338	Eje normal
+T119	Observation 1343 1364	aumento de intervalos
+T121	Observation 1491 1511	hallazgo radiológico
+T122	Observation 1843 1858	buena evolución
+T124	Observation 2157 2178	resolución espontánea
+T125	Patient 21 26	Mujer
+T129	History_of 1112 1135	alergias medicamentosas
+T130	Family_member 1218 1225	Hermana
+T131	Family_member 1252 1257	Madre
+T132	Quantifier_or_Qualifier 305 313	profunda
+T105	DISO 401 415	ansiedad basal
+T133	Observation 390 397	Aumento
+T108	Observation 643 656	empeoramiento
+T126	Other 682 709	médico de Atención Primaria
+T115	Observation 1060 1077	de manera urgente
+T128	History_of 1152 1160	fumadora
+T135	History_of 1164 1186	consumidora de tóxicos
+T98	Observation 1423 1429	normal
+T95	DISO 855 860	dolor
+T136	Quantifier_or_Qualifier 866 880	a la palpación
+T120	DISO 837 844	afebril
+T22	LIVB 431 439	familiar
+T127	Family_member 431 439	familiar
+T106	CONC 441 444	FUR
+T123	Quantifier_or_Qualifier 501 508	inicial

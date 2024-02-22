@@ -1,0 +1,140 @@
+T1	LIVB 22 27	Varón
+T2	Age 31 38	56 años
+T3	DISO 65 81	malestar general
+#1	AnnotatorNotes T3	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T4	DISO 84 96	dolor lumbar
+#2	AnnotatorNotes T4	C0024031; Low Back Pain; Sign or Symptom
+T5	DISO 146 161	Hernia de hiato
+#3	AnnotatorNotes T5	C3489393; Hiatal Hernia; Disease or Syndrome
+T6	DISO 164 174	esofagitis
+#4	AnnotatorNotes T6	C0014868; Esophagitis; Disease or Syndrome
+T7	PROC 186 189	tto
+#5	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	CHEM 194 205	Pantoprazol
+#6	AnnotatorNotes T8	C0081876; pantoprazole; Organic Chemical · Pharmacologic Substance
+T9	DISO 211 221	Enfermedad
+#7	AnnotatorNotes T9	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T10	Date 245 259	hace 2 semanas
+T11	DISO 270 286	malestar general
+#8	AnnotatorNotes T11	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T12	DISO 301 321	sensación distérmica
+T13	DISO 326 337	escalofríos
+#9	AnnotatorNotes T13	C0085593; Chills; Sign or Symptom | C0424790; Rigor - Temperature-associated observation; Sign or Symptom
+T14	Neg_cue 338 341	sin
+T15	DISO 342 362	focalidad infecciosa
+T16	Negated 342 362	focalidad infecciosa
+T18	PROC 396 416	se pauta tratamiento
+#10	AnnotatorNotes T18	Prescription of drug (procedure) (C2239117)
+T19	CHEM 421 431	Cefuroxima
+#11	AnnotatorNotes T19	C0007562; cefuroxime; Antibiotic · Organic Chemical
+T20	DISO 453 465	leucocituria
+#12	AnnotatorNotes T20	C0555120; Urine microscopy leukocytes present finding; Finding
+T21	DISO 499 511	leucocituria
+#13	AnnotatorNotes T21	C0555120; Urine microscopy leukocytes present finding; Finding
+T22	Neg_cue 513 516	sin
+T23	DISO 517 534	clínica miccional
+T24	Negated 517 534	clínica miccional
+T25	DISO 537 553	malestar general
+#14	AnnotatorNotes T25	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T26	DISO 556 578	dolor lumbar izquierdo
+#15	AnnotatorNotes T26	C2168111; left-sided low back pain; Sign or Symptom
+T27	PROC 581 587	EXAMEN
+#16	AnnotatorNotes T27	C0031809; Physical Examination; Health Care Activity
+T28	PROC 590 609	Exploración general
+T29	PROC 611 613	Tª
+T30	PROC 622 624	TA
+T31	PROC 639 641	Fc
+T32	PROC 671 700	Puñopercusión renal izquierda
+T33	DISO 713 721	dolorosa
+#17	AnnotatorNotes T33	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T34	Neg_cue 729 732	sin
+T35	DISO 733 745	alteraciones
+#18	AnnotatorNotes T35	C0012634; Disease; Disease or Syndrome
+T36	Negated 733 745	alteraciones
+T37	PROC 759 782	PRUEBAS COMPLEMENTARIAS
+#19	AnnotatorNotes T37	C1515980; Ancillary Study; Research Activity
+T38	PROC 787 796	Analitica
+#20	AnnotatorNotes T38	C0002778; Analysis of substances; Laboratory Procedure
+T39	PROC 798 807	Cratinina
+T40	PROC 813 817	Urea
+#21	AnnotatorNotes T40	C0523961; Urea measurement; Laboratory Procedure
+T41	PROC 821 831	Leucocitos
+T42	PROC 839 852	Tira de orina
+T43	PROC 858 868	Leucocitos
+T44	PROC 869 877	Nitritos
+T45	PROC 885 893	Hematies
+T46	PROC 897 905	Rx Tórax
+#22	AnnotatorNotes T46	C0039985; Plain chest X-ray; Diagnostic Procedure
+T47	PROC 917 930	Rx de Abdomen
+T48	PROC 933 952	Ecografía Abdominal
+#23	AnnotatorNotes T48	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T49	DISO 963 987	dilatación pielocalicial
+#24	AnnotatorNotes T49	C4313419; Pyelocalyceal dilatation; Finding
+T50	ANAT 993 1018	uréter proximal izquierdo
+T51	DISO 1023 1043	litiasis obstructiva
+#25	AnnotatorNotes T51	Lithiasis (C0023869)
+T52	DISO 1146 1154	litiasis
+#26	AnnotatorNotes T52	C0023869; Lithiasis; Pathologic Function
+T53	ANAT 1173 1186	Riñón derecho
+T54	Neg_cue 1187 1190	sin
+T55	DISO 1191 1203	alteraciones
+#27	AnnotatorNotes T55	C0012634; Disease; Disease or Syndrome
+T56	Negated 1191 1203	alteraciones
+T57	PROC 1233 1242	Ingresado
+#28	AnnotatorNotes T57	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T58	PROC 1264 1291	se coloca DOBLE J izquierdo
+#29	AnnotatorNotes T58	Catheterization (C0007430)
+T59	PROC 1310 1314	Alta
+#30	AnnotatorNotes T59	C0030685; Patient Discharge; Health Care Activity
+T60	PROC 1326 1336	Litotricia
+#31	AnnotatorNotes T60	C0023878; Lithotripsy; Therapeutic or Preventive Procedure
+T61	PROC 1339 1350	DIAGNÓSTICO
+#32	AnnotatorNotes T61	C0011900; Diagnosis; Diagnostic Procedure
+T62	DISO 1363 1375	Cólico renal
+#33	AnnotatorNotes T62	C0152169; Renal Colic; Sign or Symptom
+T63	PROC 1389 1400	TRATAMIENTO
+#34	AnnotatorNotes T63	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T64	CHEM 1403 1417	Ciprofloxacino
+#35	AnnotatorNotes T64	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T65	Dose 1418 1424	400 mg
+T66	Route 1425 1428	IV.
+T67	PROC 1453 1465	hemocultivos
+#36	AnnotatorNotes T67	C0200949; Blood culture; Laboratory Procedure
+T68	PROC 1468 1478	Urocultivo
+#37	AnnotatorNotes T68	C0430404; Urine culture; Laboratory Procedure
+T69	ANAT 1057 1082	tercio proximal de uréter
+#38	AnnotatorNotes T69	stricture of proximal third of ureter (C2036437)
+T70	ANAT 1087 1129	grupo calicial inferior de riñón izquierdo
+#39	AnnotatorNotes T70	Lower renal calyx (C0444448)
+T71	Date 222 228	actual
+T72	Quantifier_or_Qualifier 175 182	grado I
+T73	Result_or_Value 614 620	36,7ºC
+T74	Result_or_Value 625 636	128/74 mmHg
+T75	Result_or_Value 642 648	62 lpm
+T76	Observation 650 669	Buen estado general
+T77	Quantifier_or_Qualifier 701 712	ligeramente
+T78	Result_or_Value 808 812	1,06
+T79	Result_or_Value 818 820	29
+T80	Result_or_Value 832 838	13.800
+T81	Result_or_Value 854 857	500
+T82	Result_or_Value 878 881	(-)
+T83	Result_or_Value 907 913	normal
+T84	Quantifier_or_Qualifier 954 962	moderada
+T86	Quantifier_or_Qualifier 1057 1072	tercio proximal
+T87	Quantifier_or_Qualifier 1142 1145	dos
+T88	Result_or_Value 1158 1172	1 cm y 0,9 cm.
+T89	Quantifier_or_Qualifier 1204 1218	significativas
+T90	Observation 1293 1308	Mejoría clínica
+T91	Quantifier_or_Qualifier 1376 1386	complicado
+T92	Quantifier_or_Qualifier 1451 1452	2
+T93	Patient 22 27	Varón
+T94	History_of 146 161	Hernia de hiato
+T95	History_of 164 180	esofagitis grado
+T96	Other 389 395	médico
+T97	Future 1316 1320	Cita
+T98	Future 1326 1336	Litotricia
+T99	LIVB 389 395	médico
+T17	Quantifier_or_Qualifier 483 495	persistencia
+T100	Quantifier_or_Qualifier 1000 1018	proximal izquierdo
+T102	Result_or_Value 882 884	25
+T85	Result_or_Value 1047 1053	1,2 cm

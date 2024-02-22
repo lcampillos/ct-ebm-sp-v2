@@ -25,9 +25,26 @@ Texts were annotated with the following entity types:
   - Dose or strength: e.g. _150 mg_
   - Form: e.g. _pastillas_ (‘pills’) 
   - Route or administration mode: e.g. _oral_
+- Miscellaneous medical entities:
+  - Concept: e.g. _inicio del ensayo_ (‘at study start’)
+  - Food or Dring: e.g. _alcohol_ 
+  - Observation or Finding: e.g. _normotenso_ (‘normal blood pressure’)
+  - Quantifier or Qualifier: e.g. _grave_ (‘severe’)
+  - Result or Value: e.g. _> 90 mmHg_
 - Assertion and uncertainty information:
   - Negation cue (```Neg_cue```) and Negated events: e.g. _sin fiebre_ (‘no fever’)
   - Speculation cue (```Spec_cue```) and Speculated events: e.g. _sospecha de carcinoma_ (‘carcinoma suspected’)
+- Experiencer and event temporality attributes:
+  - Experiencer attributes:
+    - Patient: e.g. _mujer embarazada_ (‘pregnant woman’)
+    - Family\_member: e.g. _padres_ (‘parents’)
+    - Other: e.g. _cirujano_ (‘surgeon’)
+  - Event temporality attributes:
+    - History\_of: e.g. _antecedentes de migraña_ (‘history of migraine’)
+    - Family_history\_of: e.g. _antecedentes familiares de diabetes_ (‘family history of diabetes’)
+    - Hypothetical: e.g. _si el paciente tuviera fiebre_ (‘if the patient had a fever’)
+    - Future: e.g. _cirugía pendiente_ (‘pending surgery’)
+    - Other: e.g. _cirujano_ (‘surgeon’)
 
 A companion annotated guideline is available in this repository.
 
@@ -38,8 +55,10 @@ A companion annotated guideline is available in this repository.
 # Data for human evaluation of the medical entity recognizer (MedSpaNER)
 This repository includes the data used for the human evaluation:
 
-- 100 clinical trial announcements from [EudraCT](https://www.clinicaltrialsregister.eu/) not used for system development: we provide files with the system's annotations (```Hypothesis``` folder) and the revised version (```Reference``` folder)
-- 100 clinical cases with Creative Commons license: we provide files with the system's annotations (```Hypothesis``` folder) and the revised version (```Reference``` folder). Data come from:
+- 100 clinical trial announcements from [EudraCT](https://www.clinicaltrialsregister.eu/) not used for system development: we provide files of the version revised by medical professionals (```Reference``` folder)
+- 100 clinical cases with Creative Commons license: we provide files with the files revised by medical professionals (```Reference``` folder). 
+
+The data come from:
   - [Urgencias Bidasoa](https://urgenciasbidasoa.wordpress.com/casos-clinicos-3/)
   - [Hipocampo.org](https://www.hipocampo.org/)
   - Cases published by [Sociedad Andaluza de Medicina Familiar y Comunitaria (SAMFyC)](https://www.samfyc.es/): we are greatly thankful for giving us permission to use these cases and we acknowledge that the copyright belongs to the authors' contents. Clinical cases were extracted from [books published from 2016 to 2022](https://www.samfyc.es/tipos-publicacion/publicaciones/).
@@ -52,8 +71,22 @@ If you use this second version of the corpus, please cite the reference as follo
 
 ```
 @article{medspaner,
-  title={Hybrid tool for semantic annotation of medical texts in Spanish},
+  title={Hybrid natural language processing tool for semantic annotation of medical texts in Spanish},
   author={L. Campillos-Llanos, A. Valverde-Mateos and A. Capllonch-Carrión},
   title={Under review}
 }
 ```
+
+## Contact
+
+Leonardo Campillos-Llanos, CSIC (Spanish National Research Council)
+
+```leonardo.campillos AT csic.es```
+
+
+CLARA-MeD Project (PID2020-116001RA-C33), 2021-24
+
+Funded by MCIN/AEI/10.13039/501100011033/, in project call: "Proyectos I+D+i Retos Investigación"
+
+
+

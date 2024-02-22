@@ -1,0 +1,244 @@
+T1	DISO 21 27	Fiebre
+#1	AnnotatorNotes T1	C0015967; Fever; Sign or Symptom
+T2	Date 34 45	hace un mes
+T3	DISO 48 76	dolor en región paratiroidea
+T4	LIVB 99 104	Mujer
+#2	AnnotatorNotes T4	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T5	Age 108 115	52 años
+T6	Neg_cue 185 188	Sin
+T7	DISO 189 201	enfermedades
+#3	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	Negated 189 201	enfermedades
+T9	Neg_cue 202 204	ni
+T10	DISO 205 228	alergias medicamentosas
+#4	AnnotatorNotes T10	C0013182; Drug Allergy; Pathologic Function
+T11	Negated 205 238	alergias medicamentosas conocidas
+T12	DISO 242 250	Fumadora
+#5	AnnotatorNotes T12	C0337664; Smoker; Finding
+T13	Frequency 270 274	/día
+T14	Neg_cue 278 281	Sin
+T15	Negated 282 303	otros hábitos tóxicos
+T16	DISO 288 303	hábitos tóxicos
+T17	PROC 307 321	Apendicectomía
+#6	AnnotatorNotes T17	C0003611; Appendectomy; Therapeutic or Preventive Procedure
+T18	Date 325 329	1980
+T19	Neg_cue 333 335	No
+T20	Negated 353 371	factores de riesgo
+T21	PROC 382 389	cribado
+#7	AnnotatorNotes T21	C0220908; Screening procedure; Diagnostic Procedure | C1698960; research subject screening; Research Activity | C1710031; Disease Screening; Diagnostic Procedure
+T22	DISO 393 419	carcinoma de cérvix y mama
+T23	Neg_cue 421 424	sin
+T24	DISO 425 437	alteraciones
+#8	AnnotatorNotes T24	C0012634; Disease; Disease or Syndrome
+T25	Negated 425 437	alteraciones
+T26	LIVB 490 505	Hermano pequeño
+T28	Date 539 555	hace dos semanas
+T29	LIVB 585 612	Médico de Atención Primaria
+#9	AnnotatorNotes T29	C0033131; Primary Care Physicians; Professional or Occupational Group
+T30	LIVB 616 621	Padre
+#10	AnnotatorNotes T30	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T31	DISO 622 631	fallecido
+#11	AnnotatorNotes T31	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T32	DISO 636 657	carcinoma de páncreas
+#12	AnnotatorNotes T32	C0235974; Pancreatic carcinoma; Neoplastic Process
+T33	LIVB 661 666	Madre
+#13	AnnotatorNotes T33	C0026591; Mother (person); Family Group
+T34	DISO 671 680	Alzheimer
+#14	AnnotatorNotes T34	C0002395; Alzheimer's Disease; Disease or Syndrome
+T35	DISO 685 695	Enfermedad
+#15	AnnotatorNotes T35	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T36	DISO 706 712	Fiebre
+#16	AnnotatorNotes T36	C0015967; Fever; Sign or Symptom
+T37	Date 734 745	hace un mes
+T38	Time 754 764	vespertina
+T39	DISO 779 790	escalofríos
+#17	AnnotatorNotes T39	C0085593; Chills; Sign or Symptom | C0424790; Rigor - Temperature-associated observation; Sign or Symptom
+T40	DISO 794 799	Dolor
+#18	AnnotatorNotes T40	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T41	ANAT 803 822	región paratiroidea
+T42	DISO 879 896	sensación de masa
+T43	ANAT 903 927	cara anterior del cuello
+T44	DISO 933 953	dolor a la palpación
+#19	AnnotatorNotes T44	C0234233; Sore to touch; Sign or Symptom
+T45	DISO 989 1009	esputos amarillentos
+T46	Date 1016 1031	hace una semana
+T47	Neg_cue 1033 1036	sin
+T48	DISO 1037 1051	dolor torácico
+#20	AnnotatorNotes T48	C0008031; Chest Pain; Sign or Symptom
+T49	Negated 1037 1051	dolor torácico
+T50	Neg_cue 1052 1054	ni
+T51	DISO 1055 1061	disnea
+#21	AnnotatorNotes T51	C0013404; Dyspnea; Sign or Symptom
+T52	Negated 1055 1061	disnea
+T53	Neg_cue 1065 1070	Niega
+T54	DISO 1071 1079	anorexia
+#22	AnnotatorNotes T54	C0003123; Anorexia; Disease or Syndrome | C1971624; Loss of appetite (finding); Finding
+T55	Negated 1071 1079	anorexia
+T56	DISO 1082 1097	pérdida de peso
+#23	AnnotatorNotes T56	C1262477; Weight decreased; Finding
+T57	Negated 1082 1097	pérdida de peso
+T58	PROC 1112 1130	Exploración física
+#24	AnnotatorNotes T58	C0031809; Physical Examination; Health Care Activity
+T59	DISO 1134 1148	Bocio doloroso
+T60	ANAT 1152 1176	cara anterior del cuello
+T61	Neg_cue 1206 1209	Sin
+T62	DISO 1210 1231	adenopatías dolorosas
+T63	Negated 1210 1231	adenopatías dolorosas
+T64	ANAT 1235 1242	Faringe
+#25	AnnotatorNotes T64	C0031354; Pharyngeal structure; Body Part, Organ, or Organ Component | C1278903; Entire pharynx; Body Part, Organ, or Organ Component
+T65	DISO 1248 1258	hiperémica
+#26	AnnotatorNotes T65	C0020452; Hyperemia; Disease or Syndrome
+T66	ANAT 1274 1278	moco
+#27	AnnotatorNotes T66	C0026727; Mucous body substance; Body Substance
+T67	ANAT 1282 1287	cavum
+T68	PROC 1292 1315	Pruebas complementarias
+#28	AnnotatorNotes T68	C1515980; Ancillary Study; Research Activity
+T69	PROC 1319 1328	Hemograma
+#29	AnnotatorNotes T69	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T70	PROC 1331 1349	analítica completa
+T71	PROC 1361 1379	Hormonas tiroideas
+T72	PROC 1390 1419	Anticuerpos antitiroglobulina
+#30	AnnotatorNotes T72	C0201512; Thyroglobulin antibody measurement; Laboratory Procedure
+T73	PROC 1431 1434	PCR
+#31	AnnotatorNotes T73	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T74	PROC 1446 1466	Radiografía de tórax
+#32	AnnotatorNotes T74	C0039985; Plain chest X-ray; Diagnostic Procedure
+T75	PROC 1478 1497	Ecografía de cuello
+#33	AnnotatorNotes T75	C0845880; Ultrasound of neck; Diagnostic Procedure
+T76	DISO 1499 1519	imagen hipoecogénica
+T77	DISO 1551 1566	vascularización
+#34	AnnotatorNotes T77	C0027686; Pathologic Neovascularization; Pathologic Function
+T78	Spec_cue 1583 1598	pudiera sugerir
+T79	DISO 1603 1613	tiroiditis
+#35	AnnotatorNotes T79	C0040147; Thyroiditis; Disease or Syndrome
+T80	Speculated 1603 1613	tiroiditis
+T81	Spec_cue 1615 1627	posiblemente
+T82	DISO 1628 1650	subaguda granulomatosa
+T83	Speculated 1628 1650	subaguda granulomatosa
+T84	PROC 1655 1674	Ecografía de cuello
+#36	AnnotatorNotes T84	C0845880; Ultrasound of neck; Diagnostic Procedure
+T85	Duration 1676 1682	un mes
+T86	DISO 1693 1717	imágenes pseudonodulares
+T87	DISO 1747 1773	enfermedad tiroidea difusa
+T88	Spec_cue 1775 1783	probable
+T89	DISO 1784 1794	tiroiditis
+#37	AnnotatorNotes T89	C0040147; Thyroiditis; Disease or Syndrome
+T90	Speculated 1784 1794	tiroiditis
+T91	PROC 1838 1847	ecografía
+#38	AnnotatorNotes T91	C0041618; Ultrasonography; Diagnostic Procedure
+T92	PROC 1858 1878	Gammagrafía tiroidea
+#39	AnnotatorNotes T92	C0860843; Thyroid scintigraphy; Diagnostic Procedure
+T93	Neg_cue 1880 1888	ausencia
+T94	Negated 1906 1932	captación del radiofármaco
+T95	CHEM 1920 1932	radiofármaco
+#40	AnnotatorNotes T95	C1644726; radiopharmaceutical agent; Indicator, Reagent, or Diagnostic Aid
+T96	Spec_cue 1933 1959	compatible con la sospecha
+T98	DISO 1975 1994	tiroiditis subaguda
+#41	AnnotatorNotes T98	C0040149; Subacute thyroiditis; Disease or Syndrome
+T99	Speculated 1975 1994	tiroiditis subaguda
+T100	PROC 1998 2031	Punción Aspiración con Aguja Fina
+#42	AnnotatorNotes T100	C1510483; Fine needle aspiration biopsy; Diagnostic Procedure
+T101	Spec_cue 2043 2060	muy sugerentes de
+T102	DISO 2061 2092	tiroiditis subaguda de Quervain
+T103	Speculated 2061 2092	tiroiditis subaguda de Quervain
+T104	PROC 2137 2149	Hemocultivos
+#43	AnnotatorNotes T104	C0200949; Blood culture; Laboratory Procedure
+T105	PROC 2152 2162	serologías
+#44	AnnotatorNotes T105	C0036743; Serologic tests; Laboratory Procedure
+T106	PROC 2176 2187	TRATAMIENTO
+#45	AnnotatorNotes T106	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T107	PROC 2204 2215	Tratamiento
+#46	AnnotatorNotes T107	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T108	CHEM 2220 2229	metamizol
+#47	AnnotatorNotes T108	C0012586; dipyrone; Organic Chemical · Pharmacologic Substance
+T109	CHEM 2232 2246	acetilcisteina
+#48	AnnotatorNotes T109	C0001047; acetylcysteine; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T110	PROC 2250 2261	Tratamiento
+#49	AnnotatorNotes T110	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T111	CHEM 2266 2278	indometacina
+#50	AnnotatorNotes T111	C0021246; indomethacin; Organic Chemical · Pharmacologic Substance
+T112	Dose 2279 2283	25mg
+T113	Frequency 2283 2286	/8h
+T114	PROC 2287 2296	prescrito
+#51	AnnotatorNotes T114	C0033080; Prescription procedure; Health Care Activity
+T115	DISO 2335 2350	hipertiroidismo
+#52	AnnotatorNotes T115	C0020550; Hyperthyroidism; Disease or Syndrome
+T116	CHEM 2374 2379	AINEs
+#53	AnnotatorNotes T116	C0003211; Anti-Inflammatory Agents, Non-Steroidal; Pharmacologic Substance
+T117	PROC 2401 2412	tratamiento
+#54	AnnotatorNotes T117	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T118	CHEM 2417 2429	indometacina
+#55	AnnotatorNotes T118	C0021246; indomethacin; Organic Chemical · Pharmacologic Substance
+T119	PROC 2466 2476	prescribió
+#56	AnnotatorNotes T119	C0033080; Prescription procedure; Health Care Activity
+T120	CHEM 2477 2487	prednisona
+T121	Dose 2488 2492	30mg
+T122	Duration 2501 2508	10 días
+T123	PROC 2524 2541	pauta descendente
+T124	DISO 2575 2582	Afebril
+#57	AnnotatorNotes T124	C0277797; Apyrexial; Finding
+T125	Negated 2575 2582	Afebril
+T126	Neg_cue 2585 2588	sin
+T127	DISO 2589 2594	dolor
+#58	AnnotatorNotes T127	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T128	Negated 2589 2594	dolor
+T129	PROC 2609 2630	analíticas de control
+T130	LIVB 2647 2674	médico de Atención Primaria
+#59	AnnotatorNotes T130	C0033131; Primary Care Physicians; Professional or Occupational Group
+T131	PROC 2680 2687	control
+#60	AnnotatorNotes T131	C1522577; follow-up; Health Care Activity
+T132	DISO 2702 2714	eutiroidismo
+#61	AnnotatorNotes T132	C1848783; Euthyroidism; Finding
+T133	Spec_cue 2719 2726	posible
+T134	Speculated 2727 2754	progresión a hipotiroidismo
+T135	DISO 2740 2754	hipotiroidismo
+#62	AnnotatorNotes T135	C0020676; Hypothyroidism; Disease or Syndrome
+T136	DISO 2782 2813	Tiroiditis subaguda de Quervein
+T137	PROC 1101 1107	EXAMEN
+T138	PROC 2758 2769	DIAGNÓSTICO
+T139	LIVB 130 138	celadora
+T140	Date 696 702	actual
+T141	Date 447 457	actualidad
+T142	Date 2545 2556	Actualmente
+T143	Result_or_Value 254 275	tres cigarrillos/día.
+T144	Quantifier_or_Qualifier 347 352	otros
+T145	Observation 353 371	factores de riesgo
+T146	Observation 510 524	cuadro clínico
+T147	Result_or_Value 716 727	hasta 38.3o
+T148	Quantifier_or_Qualifier 823 832	bilateral
+T150	Result_or_Value 1351 1359	normales
+T151	Result_or_Value 1380 1388	normales
+T152	Result_or_Value 1420 1429	positivos
+T153	Result_or_Value 1467 1473	normal
+T154	Quantifier_or_Qualifier 1520 1534	mal delimitada
+T156	Result_or_Value 1538 1541	2cm
+T157	Quantifier_or_Qualifier 1546 1550	leve
+T159	Quantifier_or_Qualifier 1718 1727	dispersas
+T160	Quantifier_or_Qualifier 1767 1773	difusa
+T161	Observation 1801 1826	progresión de los cambios
+T163	Quantifier_or_Qualifier 1889 1902	casi completa
+T164	Observation 2033 2042	hallazgos
+T165	Quantifier_or_Qualifier 2126 2132	escaso
+T166	Result_or_Value 2164 2172	normales
+T169	Observation 2434 2450	escasa respuesta
+T170	Observation 2558 2573	mejoría clínica
+T171	Observation 2727 2737	progresión
+T172	Patient 99 104	Mujer
+T173	Patient 130 138	celadora
+T174	History_of 205 228	alergias medicamentosas
+T176	Family_member 490 505	Hermano pequeño
+T178	Other 585 612	Médico de Atención Primaria
+T179	Family_member 616 621	Padre
+T180	Family_member 661 666	Madre
+T181	Future 2609 2630	analíticas de control
+T182	Other 2647 2674	médico de Atención Primaria
+T183	Quantifier_or_Qualifier 282 287	otros
+T27	PROC 570 580	valoración
+T149	Quantifier_or_Qualifier 1178 1202	más acusado en lado izdo
+T184	Quantifier_or_Qualifier 834 863	más acusado en zona izquierda
+T185	Result_or_Value 1435 1442	elevada
+T155	Quantifier_or_Qualifier 1567 1574	interna
+T158	ANAT 2104 2112	material
+T167	Observation 2357 2379	mala respuesta a AINEs
+T97	History_of 189 201	enfermedades
+T162	Future 570 580	valoración

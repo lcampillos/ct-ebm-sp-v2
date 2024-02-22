@@ -1,0 +1,90 @@
+T1	PROC 47 104	Ensayo en fase III, aleatorizado, abierto y multicéntrico
+T2	CHEM 108 120	domvanalimab
+T3	CHEM 122 134	zimberelimab
+T4	PROC 137 150	quimioterapia
+#1	AnnotatorNotes T4	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T5	CHEM 170 179	nivolumab
+#2	AnnotatorNotes T5	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T6	PROC 182 195	quimioterapia
+#3	AnnotatorNotes T6	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T7	LIVB 199 212	participantes
+T8	DISO 296 307	metastásico
+#4	AnnotatorNotes T8	C4255448; Metastasis; Pathologic Function
+T9	Neg_cue 332 334	no
+T10	PROC 343 350	tratado
+T11	Negated 343 350	tratado
+T12	DISO 388 409	Esofágico metastásico
+T13	DISO 412 427	Cáncer Gástrico
+#5	AnnotatorNotes T13	C0024623; Malignant neoplasm of stomach; Neoplastic Process
+T14	LIVB 456 469	Participantes
+T15	PROC 474 485	diagnóstico
+#6	AnnotatorNotes T15	C0011900; Diagnosis; Diagnostic Procedure
+T16	PROC 497 513	histológicamente
+T17	DISO 517 563	adenocarcinoma gástrico, esofágico o de la UGE
+T18	DISO 578 589	metastásico
+#7	AnnotatorNotes T18	C4255448; Metastasis; Pathologic Function
+T19	PROC 613 629	Estado funcional
+T20	DISO 723 729	lesión
+#8	AnnotatorNotes T20	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T21	ANAT 884 891	órganos
+#9	AnnotatorNotes T21	C0178784; Organ; Body Part, Organ, or Organ Component | C1280836; Entire body organ; Body Part, Organ, or Organ Component
+T22	ANAT 897 908	médula ósea
+#10	AnnotatorNotes T22	C0005953; Bone Marrow; Tissue
+T23	ANAT 944 959	muestra tumoral
+T24	DISO 990 996	cáncer
+#11	AnnotatorNotes T24	C0006826; Malignant Neoplasms; Neoplastic Process
+T25	CHEM 1054 1107	ligando 1 de la proteína de muerte celular programada
+T26	CHEM 1109 1114	PD-L1
+#12	AnnotatorNotes T26	C0965245; CD274 protein, human; Amino Acid, Peptide, or Protein · Immunologic Factor
+T27	DISO 1144 1162	Afecciones médicas
+T28	DISO 1165 1189	trastornos psiquiátricos
+#13	AnnotatorNotes T28	C0004936; Mental disorders; Mental or Behavioral Dysfunction
+T29	LIVB 1222 1234	investigador
+#14	AnnotatorNotes T29	C0035173; Research Personnel; Professional or Occupational Group
+T30	PROC 1264 1294	administración del tratamiento
+T31	DISO 1349 1354	tumor
+#15	AnnotatorNotes T31	C0027651; Neoplasms; Neoplastic Process | C0038999; Swelling; Finding
+T32	PROC 1369 1373	HER2
+T33	DISO 1391 1461	metástasis en el sistema nervioso central (SNC o cerebro) sintomáticas
+T34	Neg_cue 1463 1466	sin
+T35	PROC 1467 1473	tratar
+T36	Negated 1467 1473	tratar
+T37	PROC 1513 1534	tratamiento sistémico
+T38	DISO 1550 1596	adenocarcinoma gástrico, esofágico o de la UGE
+T39	DISO 1611 1622	metastásico
+#16	AnnotatorNotes T39	C4255448; Metastasis; Pathologic Function
+T40	CHEM 1653 1680	vacunas con microbios vivos
+T41	Duration 1684 1695	los 28 días
+T42	PROC 1709 1723	aleatorización
+#17	AnnotatorNotes T42	C0034656; Randomization; Research Activity
+T43	PROC 837 843	RECIST
+T44	PROC 764 822	Criterios de evaluación de la respuesta en tumores sólidos
+T45	PROC 1033 1041	análisis
+T46	LIVB 1241 1249	promotor
+T47	Contraindicated 1264 1294	administración del tratamiento
+T48	DISO 217 281	adenocarcinoma gástrico, de la unión gastroesofágica y esofágico
+T49	Route 1525 1534	sistémico
+T50	Observation 282 293	irresecable
+T51	Quantifier_or_Qualifier 308 327	localmente avanzado
+T52	Observation 564 575	irresecable
+T53	Quantifier_or_Qualifier 590 609	localmente avanzado
+T54	CONC 634 679	Grupo Oncológico Cooperativo de la Costa Este
+T55	CONC 681 685	ECOG
+T56	Result_or_Value 705 708	0-1
+T57	Quantifier_or_Qualifier 712 722	Mínimo una
+T58	CONC 764 835	Criterios de evaluación de la respuesta en tumores sólidos, versión 1.1
+T59	CONC 837 843	RECIST
+T60	Observation 853 908	Funcionamiento adecuado de los órganos y la médula ósea
+T61	Observation 912 921	Capacidad
+T62	Quantifier_or_Qualifier 960 970	de archivo
+T63	Quantifier_or_Qualifier 971 985	representativa
+T64	Result_or_Value 1355 1363	positivo
+T65	Observation 1479 1489	progresión
+T66	Quantifier_or_Qualifier 1490 1496	activa
+T67	Observation 1597 1608	irresecable
+T68	Quantifier_or_Qualifier 1623 1642	localmente avanzado
+T69	Patient 199 212	participantes
+T70	History_of 343 350	tratado
+T71	Patient 456 469	Participantes
+T72	Other 1222 1234	investigador
+T73	History_of 1513 1534	tratamiento sistémico

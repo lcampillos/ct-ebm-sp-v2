@@ -1,0 +1,114 @@
+T1	LIVB 21 27	Hombre
+#1	AnnotatorNotes T1	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T2	Age 31 38	59 años
+T3	DISO 49 55	disnea
+#2	AnnotatorNotes T3	C0013404; Dyspnea; Sign or Symptom
+T4	DISO 65 98	dolor torácico de tipo pleurítico
+#3	AnnotatorNotes T4	Pleuritic pain (C0008033)
+T5	DISO 150 153	HTA
+#4	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	PROC 157 160	tto
+#5	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	CHEM 165 175	olmesartan
+#6	AnnotatorNotes T7	C1098320; olmesartan; Organic Chemical · Pharmacologic Substance
+T8	Dose 176 181	20 mg
+T9	Frequency 181 185	/dia
+T10	DISO 189 196	Fumador
+#7	AnnotatorNotes T10	C0337664; Smoker; Finding
+T12	Date 227 244	hace unos 25 años
+T13	DISO 248 265	EPOC enfisematoso
+T14	PROC 269 272	tto
+#8	AnnotatorNotes T14	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T15	CHEM 277 294	broncodilatadores
+#9	AnnotatorNotes T15	C0006280; Bronchodilator Agents; Pharmacologic Substance
+T16	CHEM 296 306	Vilanterol
+#10	AnnotatorNotes T16	C2935023; vilanterol; Organic Chemical · Pharmacologic Substance
+T17	CHEM 307 318	umeclidinio
+T18	DISO 323 333	Enfermedad
+#11	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	DISO 354 360	disnea
+#12	AnnotatorNotes T19	C0013404; Dyspnea; Sign or Symptom
+T20	Date 389 399	esta noche
+T21	DISO 402 428	dolor en hemitórax derecho
+#13	AnnotatorNotes T21	C0563275; Right sided chest pain; Sign or Symptom
+T22	PROC 492 510	Exploración física
+#14	AnnotatorNotes T22	C0031809; Physical Examination; Health Care Activity
+T23	PROC 514 516	PA
+T24	PROC 526 528	FC
+T25	PROC 533 538	SatO2
+#15	AnnotatorNotes T25	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T26	Observation 546 554	Afectado
+#16	AnnotatorNotes T26	C2945640; compromise; Finding
+T27	DISO 562 567	dolor
+#17	AnnotatorNotes T27	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T28	DISO 571 580	Taquipnea
+#18	AnnotatorNotes T28	C0231835; Tachypnea; Finding
+T29	Neg_cue 581 584	sin
+T30	DISO 585 591	tiraje
+#19	AnnotatorNotes T30	C0425469; Indrawing of ribs during respiration; Finding
+T31	Negated 585 591	tiraje
+T32	ANAT 633 644	mucocutánea
+#20	AnnotatorNotes T32	C4516595; Entire skin and mucous membrane; Body System
+T33	Neg_cue 655 657	No
+T34	DISO 658 679	ingurgitación yugular
+#21	AnnotatorNotes T34	C0425687; Jugular venous engorgement; Finding
+T35	Negated 658 679	ingurgitación yugular
+T36	PROC 683 685	AC
+T37	Neg_cue 694 697	sin
+T38	DISO 698 704	soplos
+#22	AnnotatorNotes T38	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T39	Negated 698 704	soplos
+T40	PROC 708 710	AP
+T41	DISO 712 727	hipoventilación
+#23	AnnotatorNotes T41	C3203358; Hypoventilation; Pathologic Function
+T42	ANAT 731 748	hemicampo derecho
+T43	PROC 768 791	Pruebas complementarias
+#24	AnnotatorNotes T43	C1515980; Ancillary Study; Research Activity
+T44	PROC 795 798	ECG
+#25	AnnotatorNotes T44	C1623258; Electrocardiography; Diagnostic Procedure
+T45	Neg_cue 825 828	sin
+T47	Negated 829 841	alteraciones
+T48	PROC 860 868	Rx Tórax
+#27	AnnotatorNotes T48	C0039985; Plain chest X-ray; Diagnostic Procedure
+T49	DISO 870 888	neumotórax derecho
+T50	PROC 893 905	TAC torácica
+#28	AnnotatorNotes T50	C0202823; Chest CT; Diagnostic Procedure
+T51	DISO 907 923	enfisema bulloso
+T52	DISO 925 936	Bulla en LM
+T53	PROC 940 951	TRATAMIENTO
+#29	AnnotatorNotes T53	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T54	PROC 979 1003	drenaje con catéter fino
+T55	DEVI 1005 1015	Pleurecath
+T56	PROC 1031 1042	bullectomía
+T57	PROC 1045 1066	pleurectomía parietal
+T58	PROC 1071 1075	VATS
+#30	AnnotatorNotes T58	video assisted thoracic surgery
+T59	DISO 1103 1124	Neumotórax espontáneo
+#31	AnnotatorNotes T59	C0149781; Spontaneous pneumothorax; Disease or Syndrome
+T60	DISO 1129 1145	rotura una bulla
+#32	AnnotatorNotes T60	Pulmonary bullae rupture (C5577855)
+T61	PHYS 452 477	movimientos respiratorios
+#33	AnnotatorNotes T61	C0035203; Respiration; Physiologic Function
+T62	PROC 481 487	EXAMEN
+T63	PROC 1079 1090	DIAGNÓSTICO
+T64	Date 334 340	actual
+T65	Observation 801 814	ritmo sinusal
+T66	Quantifier_or_Qualifier 56 62	brusca
+T68	Quantifier_or_Qualifier 361 367	brusca
+T69	Observation 433 477	se acentua con los movimientos respiratorios
+T70	Result_or_Value 517 524	132/106
+T71	Result_or_Value 529 531	79
+T72	Result_or_Value 539 543	93%.
+T73	Observation 593 607	bien hidratado
+T74	Observation 610 620	perfundido
+T75	Observation 622 651	Coloración mucocutánea normal
+T76	Observation 686 693	rítmica
+T78	Result_or_Value 817 823	80 lpm
+T79	Quantifier_or_Qualifier 842 856	significativas
+T80	Patient 21 27	Hombre
+T81	History_of 150 153	HTA
+T82	History_of 248 265	EPOC enfisematoso
+T11	Observation 829 841	alteraciones
+T67	Result_or_Value 205 220	20 cigarros/dia
+T77	Frequency 217 220	dia
+T83	History_of 189 196	Fumador

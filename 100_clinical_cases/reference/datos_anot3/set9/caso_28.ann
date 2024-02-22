@@ -1,0 +1,118 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	84 años
+T3	DISO 88 94	disnea
+#2	AnnotatorNotes T3	C0013404; Dyspnea; Sign or Symptom
+T4	Date 109 124	el día anterior
+T5	DISO 186 192	disnea
+#3	AnnotatorNotes T5	C0013404; Dyspnea; Sign or Symptom
+T6	Neg_cue 229 231	No
+T7	DISO 253 267	dolor torácico
+#4	AnnotatorNotes T7	C0008031; Chest Pain; Sign or Symptom
+T8	Negated 253 267	dolor torácico
+T9	DISO 269 282	palpitaciones
+#5	AnnotatorNotes T9	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T10	Negated 269 282	palpitaciones
+T11	DISO 284 292	síncopes
+#6	AnnotatorNotes T11	C0039070; Syncope; Sign or Symptom
+T12	Negated 284 292	síncopes
+T13	Negated 294 311	aumento de edemas
+T14	DISO 305 311	edemas
+#7	AnnotatorNotes T14	C0013604; Edema; Pathologic Function
+T15	Neg_cue 312 314	ni
+T16	DISO 315 338	disminución de diuresis
+T17	Negated 315 338	disminución de diuresis
+T18	DISO 370 391	Hipertensión Arterial
+#8	AnnotatorNotes T18	C0020538; Hypertensive disease; Disease or Syndrome
+T19	DISO 394 418	Diabetes mellitus tipo 2
+#9	AnnotatorNotes T19	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T20	DISO 421 460	Síndrome de apnea obstructiva del sueño
+#10	AnnotatorNotes T20	C0520679; Sleep Apnea, Obstructive; Disease or Syndrome
+T21	DISO 463 480	Estenosis Aórtica
+#11	AnnotatorNotes T21	C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0345011; Stricture of aorta; Disease or Syndrome
+T22	PROC 492 500	Ingresos
+#12	AnnotatorNotes T22	C0184666; Hospital admission; Health Care Activity
+T23	DISO 513 554	descompensación de Insuficiencia Cardiaca
+T24	DISO 575 586	bradicardia
+#13	AnnotatorNotes T24	C0428977; Bradycardia; Finding | C2230138; Pulse slow (finding); Finding
+T25	PROC 596 612	Tensión Arterial
+T26	PROC 720 741	auscultación cardiaca
+#14	AnnotatorNotes T26	C0018793; Heart Auscultation; Diagnostic Procedure
+T27	DISO 742 753	bradicardia
+#15	AnnotatorNotes T27	C0428977; Bradycardia; Finding | C2230138; Pulse slow (finding); Finding
+T28	DISO 759 790	soplo sistólico en foco aórtico
+T29	PROC 817 835	electrocardiograma
+#16	AnnotatorNotes T29	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T30	DISO 854 891	bloqueo auriculo-ventricular completo
+T31	DISO 894 905	bradicardia
+#17	AnnotatorNotes T31	C0428977; Bradycardia; Finding | C2230138; Pulse slow (finding); Finding
+T32	PROC 927 947	radiografía de tórax
+#18	AnnotatorNotes T32	C0039985; Plain chest X-ray; Diagnostic Procedure
+T33	DISO 961 974	cardiomegalia
+#19	AnnotatorNotes T33	C0018800; Cardiomegaly; Finding
+T34	Neg_cue 976 979	sin
+T35	DISO 980 1002	infiltrados pulmonares
+#20	AnnotatorNotes T35	C0235896; Pulmonary Infiltrate; Finding | C0277877; Radiologic infiltrate of lung; Finding
+T36	Negated 980 1002	infiltrados pulmonares
+T37	Neg_cue 1003 1005	ni
+T38	DISO 1006 1040	pinzamiento de senos costofrénicos
+T39	Negated 1006 1040	pinzamiento de senos costofrénicos
+T40	PROC 1045 1054	analítica
+#21	AnnotatorNotes T40	C0002778; Analysis of substances; Laboratory Procedure
+T41	DISO 1066 1094	anemia de perfil ferropénico
+T42	PROC 1101 1114	diagnosticada
+#22	AnnotatorNotes T42	C0011900; Diagnosis; Diagnostic Procedure
+T43	Neg_cue 1115 1118	sin
+T45	DISO 1123 1135	alteraciones
+#23	AnnotatorNotes T45	C0012634; Disease; Disease or Syndrome
+T46	DISO 1178 1184	disnea
+#24	AnnotatorNotes T46	C0013404; Dyspnea; Sign or Symptom
+T47	PROC 1238 1261	pruebas complementarias
+#25	AnnotatorNotes T47	C1515980; Ancillary Study; Research Activity
+T48	PROC 1263 1266	ECG
+#26	AnnotatorNotes T48	C1623258; Electrocardiography; Diagnostic Procedure
+T49	PROC 1269 1289	radiografía de tórax
+#27	AnnotatorNotes T49	C0039985; Plain chest X-ray; Diagnostic Procedure
+T50	CHEM 1436 1448	isoprenalina
+#28	AnnotatorNotes T50	C0022245; isoproterenol; Organic Chemical · Pharmacologic Substance
+T51	PROC 1478 1487	Ingresada
+#29	AnnotatorNotes T51	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T52	PROC 1522 1546	colocación de marcapasos
+T54	PROC 1584 1594	revisiones
+#30	AnnotatorNotes T54	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T55	DISO 1604 1616	asintomática
+#31	AnnotatorNotes T55	C0231221; Asymptomatic (finding); Finding
+T56	Negated 1604 1616	asintomática
+T57	DEVI 1700 1710	marcapasos
+#32	AnnotatorNotes T57	C0030163; Artificial cardiac pacemaker; Medical Device
+T58	PROC 10 18	CONSULTA
+T59	PROC 153 163	entrevista
+T60	PROC 1620 1631	DIAGNÓSTICO
+T61	PROC 558 564	EXAMEN
+T62	Observation 689 698	orientada
+T63	DISO 1644 1668	Bloqueo atrioventricular
+T64	Observation 73 100	aumentos de su disnea basal
+T65	Observation 172 201	aumento de su disnea habitual
+T66	Quantifier_or_Qualifier 218 227	de reposo
+T67	Quantifier_or_Qualifier 481 489	moderada
+T68	Result_or_Value 589 595	44 lpm
+T69	Result_or_Value 613 619	180/95
+T70	Observation 620 644	Aceptable estado general
+T71	Observation 646 664	eupneica en reposo
+T72	Result_or_Value 678 681	97%
+T73	Observation 701 713	colaboradora
+T74	Quantifier_or_Qualifier 810 816	primer
+T75	Result_or_Value 908 914	44 lpm
+T76	Quantifier_or_Qualifier 1136 1146	relevantes
+T77	Observation 1167 1184	aumento de disnea
+T78	Observation 1321 1330	hallazgos
+T79	Observation 1449 1476	revirtiendo a ritmo sinusal
+T80	Quantifier_or_Qualifier 1672 1684	tercer grado
+T81	Patient 21 26	Mujer
+T82	History_of 370 391	Hipertensión Arterial
+T83	History_of 421 460	Síndrome de apnea obstructiva del sueño
+T87	History_of 463 489	Estenosis Aórtica moderada
+T88	History_of 394 418	Diabetes mellitus tipo 2
+T85	History_of 513 554	descompensación de Insuficiencia Cardiaca
+T44	Negated 1119 1146	más alteraciones relevantes
+T89	PROC 665 674	saturando

@@ -1,0 +1,159 @@
+T1	PROC 45 76	Estudio de eficacia y seguridad
+T2	CHEM 80 89	ianalumab
+T3	LIVB 93 102	pacientes
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	PROC 115 123	tratados
+T5	PROC 203 250	Estudio de fase III, aleatorizado y doble ciego
+T6	PROC 264 298	evalúan la eficacia y la seguridad
+T7	CHEM 302 311	ianalumab
+T8	CHEM 313 319	VAY736
+T9	PROC 330 337	placebo
+#2	AnnotatorNotes T9	C0032042; Placebos; Therapeutic or Preventive Procedure
+T10	LIVB 341 350	pacientes
+#3	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 355 409	anemia hemolítica autoinmune por anticuerpos calientes
+T12	DISO 411 416	AHAIc
+T13	PROC 466 477	tratamiento
+#4	AnnotatorNotes T13	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T14	DISO 500 554	Anemia hemolítica autoinmune por anticuerpos calientes
+T15	DISO 556 561	AHAIc
+T16	Age 591 598	18 años
+T17	Age 607 612	o más
+T18	PROC 636 650	consentimiento
+T19	LIVB 654 667	Participantes
+T20	PROC 759 790	prueba de antiglobulina directa
+T21	DISO 891 898	recaído
+T22	PROC 932 943	tratamiento
+#5	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	LIVB 959 968	pacientes
+#6	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	DISO 986 997	dependencia
+#7	AnnotatorNotes T24	C0439857; Dependence; Mental or Behavioral Dysfunction | C1510472; Drug Dependence; Mental or Behavioral Dysfunction
+T25	DISO 1000 1012	intolerancia
+T26	CHEM 1019 1029	esteroides
+#8	AnnotatorNotes T26	C0038317; Steroids; Organic Chemical · Pharmacologic Substance
+T27	PROC 1033 1061	Concentración de hemoglobina
+T28	DISO 1115 1123	síntomas
+#9	AnnotatorNotes T28	C1457887; Symptoms; Sign or Symptom
+T29	DISO 1144 1150	anemia
+#10	AnnotatorNotes T29	C0002871; Anemia; Disease or Syndrome
+T30	PROC 1167 1189	tratamiento de soporte
+T31	Duration 1215 1233	al menos 4 semanas
+T32	PROC 1246 1260	aleatorización
+#11	AnnotatorNotes T32	C0034656; Randomization; Research Activity
+T33	Speculated 1268 1290	criterios de inclusión
+T34	PROC 1305 1314	protocolo
+#12	AnnotatorNotes T34	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T35	Spec_cue 1315 1321	pueden
+T36	LIVB 1358 1367	Pacientes
+#13	AnnotatorNotes T36	C0030705; Patients; Patient or Disabled Group
+T37	DISO 1391 1414	enfermedad hematológica
+#14	AnnotatorNotes T37	C0018939; Hematological Disease; Disease or Syndrome
+T38	ANAT 1431 1442	médula ósea
+#15	AnnotatorNotes T38	C0005953; Bone Marrow; Tissue
+T39	DISO 1457 1460	LLC
+#16	AnnotatorNotes T39	C0023434; Chronic Lymphocytic Leukemia; Neoplastic Process
+T40	DISO 1469 1492	enfermedad inmunológica
+#17	AnnotatorNotes T40	C0021053; Immune System Diseases; Disease or Syndrome
+T41	PROC 1506 1535	tratamientos inmunosupresores
+T42	Neg_cue 1540 1542	no
+T43	Negated 1549 1559	permitidos
+T44	DISO 1608 1612	AHAI
+#18	AnnotatorNotes T44	C0002880; Autoimmune hemolytic anemia; Disease or Syndrome
+T45	DISO 1647 1664	síndrome de Evans
+#19	AnnotatorNotes T45	C0272126; Evans syndrome; Disease or Syndrome
+T46	DISO 1673 1683	citopenias
+#20	AnnotatorNotes T46	C0010828; Cytopenia; Pathologic Function
+T47	PROC 1703 1736	terapia de depleción de células B
+T48	CHEM 1743 1752	rituximab
+#21	AnnotatorNotes T48	C0393022; rituximab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T49	PROC 1793 1807	aleatorización
+#22	AnnotatorNotes T49	C0034656; Randomization; Research Activity
+T50	PROC 1811 1822	Neutrófilos
+T51	PROC 1836 1853	Creatinina sérica
+#23	AnnotatorNotes T51	C0201976; Creatinine measurement, serum (procedure); Laboratory Procedure
+T52	DISO 1909 1941	Infecciones víricas, bacterianas
+T53	DISO 1983 1995	tuberculosis
+#24	AnnotatorNotes T53	C0041296; Tuberculosis; Disease or Syndrome | C0041327; Tuberculosis, Pulmonary; Disease or Syndrome
+T54	LIVB 1998 2008	SARS-CoV-2
+#25	AnnotatorNotes T54	C5203676; SARS-CoV-2; Virus
+T55	PROC 2024 2045	tratamiento sistémico
+T56	DISO 2095 2106	infecciones
+#26	AnnotatorNotes T56	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T57	DISO 2160 2183	infecciones bacterianas
+#27	AnnotatorNotes T57	C0004623; Bacterial Infections; Disease or Syndrome
+T58	DISO 2233 2256	virus de la hepatitis C
+T59	PROC 2258 2298	antígeno de superficie de la hepatitis B
+#28	AnnotatorNotes T59	C0201477; Hepatitis B surface antigen measurement; Laboratory Procedure
+T60	PROC 2300 2305	HBsAg
+#29	AnnotatorNotes T60	C0201477; Hepatitis B surface antigen measurement; Laboratory Procedure
+T61	PROC 2309 2348	anticuerpo del núcleo de la hepatitis B
+T62	PROC 2350 2355	HBcAb
+T63	DISO 2386 2425	inmunodeficiencia primaria o secundaria
+T64	PROC 2445 2449	test
+#30	AnnotatorNotes T64	C0022885; Laboratory Procedures; Laboratory Procedure
+T65	DISO 2462 2498	virus de la inmunodeficiencia humana
+T66	DISO 2500 2503	HIV
+T67	CHEM 2508 2533	Vacunas vivas o atenuadas
+T68	PROC 2572 2586	aleatorización
+#31	AnnotatorNotes T68	C0034656; Randomization; Research Activity
+T69	PROC 2602 2615	esplenectomía
+#32	AnnotatorNotes T69	C0037995; Splenectomy; Therapeutic or Preventive Procedure
+T70	PROC 2659 2668	protocolo
+#33	AnnotatorNotes T70	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T71	Spec_cue 2669 2675	pueden
+T72	Date 12 16	2022
+T73	DISO 128 182	anemia hemolítica autoinmune por anticuerpos calientes
+T74	PROC 792 795	PAD
+T75	PROC 797 832	específica para anti-IgG o anti-IgA
+T76	DISO 1372 1377	AHAIc
+T77	DISO 1638 1644	mixtas
+T78	DISO 1618 1635	anticuerpos fríos
+T79	PROC 1568 1575	estudio
+T80	LIVB 2188 2211	organismos encapsulados
+T81	DISO 1950 1961	infecciones
+T82	DISO 672 677	AHAIc
+T83	DISO 973 984	resistencia
+T84	Duration 1766 1776	12 semanas
+T85	Speculated 2676 2683	aplicar
+T86	Duration 2546 2555	4 semanas
+T87	Route 2036 2045	sistémico
+T88	Observation 434 443	fracasado
+T89	Quantifier_or_Qualifier 444 462	al menos una línea
+T90	Quantifier_or_Qualifier 678 686	primaria
+T91	Quantifier_or_Qualifier 689 699	secundaria
+T92	Result_or_Value 734 752	resultado positivo
+T93	Observation 860 882	respuesta insuficiente
+T94	Quantifier_or_Qualifier 910 928	al menos una línea
+T95	Observation 973 984	resistencia
+T96	Result_or_Value 1078 1086	<10 g/dl
+T97	CONC 1268 1290	criterios de inclusión
+T98	Quantifier_or_Qualifier 1549 1559	permitidos
+T99	Quantifier_or_Qualifier 1592 1597	otras
+T100	Quantifier_or_Qualifier 1638 1644	mixtas
+T101	Result_or_Value 1824 1833	<1000/mm3
+T102	Result_or_Value 1854 1906	>1.5 por encima del límite superior de la normalidad
+T103	Quantifier_or_Qualifier 1962 1969	activas
+T104	Quantifier_or_Qualifier 2107 2134	clínicamente significativas
+T105	Observation 2135 2146	recurrentes
+T106	Quantifier_or_Qualifier 2199 2211	encapsulados
+T107	Quantifier_or_Qualifier 2404 2412	primaria
+T108	Quantifier_or_Qualifier 2415 2425	secundaria
+T109	Result_or_Value 2450 2458	positivo
+T110	CONC 2622 2644	criterios de exclusión
+T111	Patient 93 102	pacientes
+T112	History_of 115 123	tratados
+T113	Patient 341 350	pacientes
+T114	History_of 466 477	tratamiento
+T115	History_of 479 485	VAYHIA
+T116	Patient 654 667	Participantes
+T117	History_of 932 943	tratamiento
+T118	Patient 959 968	pacientes
+T119	Patient 1358 1367	Pacientes
+T120	History_of 1703 1736	terapia de depleción de células B
+T121	History_of 1743 1752	rituximab
+T122	History_of 2095 2106	infecciones
+T123	History_of 2386 2425	inmunodeficiencia primaria o secundaria
+T124	History_of 2462 2498	virus de la inmunodeficiencia humana
+T125	History_of 2500 2503	HIV
+T126	History_of 2602 2615	esplenectomía

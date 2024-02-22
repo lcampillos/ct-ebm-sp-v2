@@ -1,0 +1,131 @@
+T1	PROC 46 63	Estudio de fase 2
+T2	CHEM 67 73	BA3011
+T3	PROC 77 88	monoterapia
+#1	AnnotatorNotes T3	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T4	CHEM 110 119	nivolumab
+#2	AnnotatorNotes T4	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T5	LIVB 123 140	pacientes adultos
+T6	Age 133 140	adultos
+T7	DISO 145 188	cáncer de pulmón no microcítico metastásico
+#3	AnnotatorNotes T7	C4744562; Metastatic Lung Non-Small Cell Carcinoma; Neoplastic Process
+T8	Neg_cue 162 164	no
+T9	Negated 165 176	microcítico
+T10	PROC 211 228	Estudio de fase 2
+T11	CHEM 263 281	mecbotamab vedotin
+T12	CHEM 283 289	BA3011
+T13	PROC 294 305	monoterapia
+#4	AnnotatorNotes T13	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T14	CHEM 327 336	nivolumab
+#5	AnnotatorNotes T14	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T15	LIVB 340 357	pacientes adultos
+T16	Age 350 357	adultos
+T17	DISO 362 405	cáncer de pulmón no microcítico metastásico
+#6	AnnotatorNotes T17	C4744562; Metastatic Lung Non-Small Cell Carcinoma; Neoplastic Process
+T18	Neg_cue 379 381	no
+T19	Negated 382 393	microcítico
+T20	DISO 427 454	progresión de la enfermedad
+#7	AnnotatorNotes T20	C0242656; Disease Progression; Pathologic Function
+T21	PROC 466 477	tratamiento
+#8	AnnotatorNotes T21	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T22	CHEM 521 524	ALK
+T23	DISO 527 539	intolerancia
+T24	PROC 548 559	tratamiento
+#9	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	DISO 583 599	Cáncer de pulmón
+#10	AnnotatorNotes T25	C0242379; Malignant neoplasm of lung; Neoplastic Process | C0684249; Carcinoma of lung; Neoplastic Process
+T26	DISO 626 677	Cáncer de pulmón de células no pequeñas metastásico
+T27	Neg_cue 654 656	no
+T28	Negated 657 665	pequeñas
+T29	LIVB 708 717	pacientes
+#11	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	DISO 737 768	cáncer de pulmón no microcítico
+#12	AnnotatorNotes T30	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T31	Neg_cue 754 756	no
+T32	Negated 757 768	microcítico
+T33	DISO 770 774	CPNM
+#13	AnnotatorNotes T33	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T34	DISO 812 823	metastásico
+#14	AnnotatorNotes T34	C4255448; Metastasis; Pathologic Function
+T35	Age 877 885	≥18 años
+T36	PHYS 897 910	Función renal
+#15	AnnotatorNotes T36	C0232804; Renal function; Organ or Tissue Function
+T37	PHYS 923 939	Función hepática
+T38	PHYS 952 972	Función hematológica
+T39	Duration 1108 1124	al menos 3 meses
+T40	DISO 1154 1165	Cardiopatía
+#16	AnnotatorNotes T40	C0018799; Heart Diseases; Disease or Syndrome
+T41	DISO 1209 1219	metástasis
+#17	AnnotatorNotes T41	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T42	ANAT 1240 1264	sistema nervioso central
+#18	AnnotatorNotes T42	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T43	ANAT 1266 1269	SNC
+#19	AnnotatorNotes T43	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T44	PROC 1274 1285	Tratamiento
+#20	AnnotatorNotes T44	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T45	CHEM 1300 1326	derivado de la auristatina
+T46	CHEM 1405 1410	vinca
+T47	DISO 1430 1450	reacciones alérgicas
+#21	AnnotatorNotes T47	C0020517; Hypersensitivity; Pathologic Function | C1527304; Allergic Reaction; Pathologic Function
+T48	PROC 1466 1477	tratamiento
+#22	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	CHEM 1482 1485	AcM
+#23	AnnotatorNotes T49	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T50	Spec_cue 1508 1516	sospecha
+T51	DISO 1520 1527	alergia
+#24	AnnotatorNotes T51	C0020517; Hypersensitivity; Pathologic Function
+T52	Speculated 1520 1527	alergia
+T53	DISO 1530 1542	intolerancia
+T54	Speculated 1530 1542	intolerancia
+T55	CHEM 1563 1575	medicamentos
+#25	AnnotatorNotes T55	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T56	PROC 1644 1673	intervención de cirugía mayor
+T57	Duration 1694 1707	las 4 semanas
+T58	PROC 1732 1746	administración
+#26	AnnotatorNotes T58	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T59	CHEM 1750 1756	BA3011
+T60	PROC 1800 1848	pruebas del virus de la inmunodeficiencia humana
+T61	LIVB 1850 1853	VIH
+#27	AnnotatorNotes T61	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T62	DISO 1870 1897	inmunodeficiencia adquirida
+#28	AnnotatorNotes T62	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T63	DISO 1899 1903	sida
+#29	AnnotatorNotes T63	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T64	PROC 234 259	evaluar la administración
+T65	CHEM 511 515	EGFR
+T66	CHEM 485 506	inhibidor del PD-1/L1
+T67	LIVB 1908 1927	Mujeres embarazadas
+T68	Date 1933 1953	período de lactancia
+T69	PROC 1583 1596	administrarán
+T70	PROC 836 847	histológica
+T71	PROC 852 867	citológicamente
+T72	PHYS 1944 1953	lactancia
+T73	Quantifier_or_Qualifier 776 795	localmente avanzado
+T74	Observation 798 809	irresecable
+T75	Observation 897 919	Función renal adecuada
+T76	Quantifier_or_Qualifier 940 948	adecuada
+T77	Observation 952 981	Función hematológica adecuada
+T78	CONC 1023 1057	Eastern Cooperative Oncology Group
+T79	CONC 1059 1063	ECOG
+T80	Result_or_Value 1068 1073	0 o 1
+T81	CONC 1087 1104	esperanza de vida
+T82	Quantifier_or_Qualifier 1166 1192	clínicamente significative
+T83	CONC 1224 1233	controlar
+T84	Quantifier_or_Qualifier 1328 1337	conjugado
+T85	CONC 1344 1352	conjugar
+T86	Quantifier_or_Qualifier 1454 1462	grado ≥3
+T87	Result_or_Value 1776 1796	resultados positivos
+T88	Patient 123 140	pacientes adultos
+T89	Patient 340 357	pacientes adultos
+T90	History_of 527 539	intolerancia
+T91	Patient 708 717	pacientes
+T92	History_of 1274 1285	Tratamiento
+T93	History_of 1300 1326	derivado de la auristatina
+T94	History_of 1430 1450	reacciones alérgicas
+T95	History_of 1520 1527	alergia
+T96	History_of 1530 1542	intolerancia
+T97	History_of 1644 1673	intervención de cirugía mayor
+T98	History_of 1812 1848	virus de la inmunodeficiencia humana
+T99	History_of 1850 1853	VIH
+T100	History_of 1870 1897	inmunodeficiencia adquirida
+T101	History_of 1899 1903	sida
+T102	Patient 1908 1953	Mujeres embarazadas o en período de lactancia

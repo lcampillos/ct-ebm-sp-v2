@@ -1,0 +1,142 @@
+T1	LIVB 21 29	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T2	PROC 34 42	consulta
+#2	AnnotatorNotes T2	C0009818; Consultation; Health Care Activity
+T3	DISO 60 68	ampollas
+#3	AnnotatorNotes T3	C0005758; Bulla; Finding
+T4	ANAT 72 77	manos
+T5	ANAT 80 84	pies
+#4	AnnotatorNotes T5	C0016504; Foot; Body Part, Organ, or Organ Component | C1281587; Entire foot; Body Part, Organ, or Organ Component
+T6	Duration 88 94	2 días
+T7	LIVB 129 134	Mujer
+#5	AnnotatorNotes T7	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T8	Age 138 145	89 años
+T9	LIVB 159 163	hija
+T10	Neg_cue 195 200	niega
+T11	DISO 201 224	alergias medicamentosas
+#6	AnnotatorNotes T11	C0013182; Drug Allergy; Pathologic Function
+T12	Negated 201 234	alergias medicamentosas conocidas
+T13	DISO 238 259	hipertensión arterial
+#7	AnnotatorNotes T13	C0020538; Hypertensive disease; Disease or Syndrome
+T14	Duration 263 270	10 años
+T15	PROC 287 298	tratamiento
+#8	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	CHEM 303 313	manidipino
+T17	Dose 314 318	10mg
+T18	Frequency 318 322	/24h
+T19	CHEM 325 335	torasemida
+#9	AnnotatorNotes T19	C0076840; torsemide; Organic Chemical · Pharmacologic Substance
+T20	Dose 336 339	5mg
+T21	Frequency 339 343	/24h
+T22	DISO 347 361	Nefropatía IgA
+#10	AnnotatorNotes T22	C0017661; IGA Glomerulonephritis; Disease or Syndrome
+T23	Neg_cue 403 405	No
+T24	Negated 406 413	refiere
+T25	DISO 418 428	Enfermedad
+#11	AnnotatorNotes T25	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T26	Date 429 435	actual
+T27	PROC 444 463	visita domiciliaria
+T28	DISO 481 489	ampollas
+#12	AnnotatorNotes T28	C0005758; Bulla; Finding
+T29	ANAT 493 498	manos
+T30	ANAT 501 505	pies
+#13	AnnotatorNotes T30	C0016504; Foot; Body Part, Organ, or Organ Component | C1281587; Entire foot; Body Part, Organ, or Organ Component
+T31	Duration 509 515	2 días
+T32	Neg_cue 532 537	Niega
+T33	Negated 538 562	antecedentes traumáticos
+T34	Neg_cue 592 595	sin
+T35	DISO 602 608	fiebre
+#14	AnnotatorNotes T35	C0015967; Fever; Sign or Symptom
+T36	Negated 602 608	fiebre
+T37	Neg_cue 610 612	ni
+T38	DISO 613 618	picor
+T39	Negated 613 634	picor de las lesiones
+T40	PROC 649 667	Exploración física
+#15	AnnotatorNotes T40	C0031809; Physical Examination; Health Care Activity
+T41	DISO 671 689	erupción ampollosa
+#16	AnnotatorNotes T41	C0235818; Bullous eruption; Finding | C0235819; Rash bullous; Finding
+T42	ANAT 693 703	ambos pies
+T43	ANAT 712 719	plantar
+#17	AnnotatorNotes T43	C0442036; Plantar - anatomical location; Body Location or Region
+T44	ANAT 725 736	ambas manos
+T45	ANAT 745 751	palmar
+#18	AnnotatorNotes T45	C0224297; Entire palmar interosseous muscle; Body Part, Organ, or Organ Component | C0443349; Volar; Body Location or Region | C1184147; Palmar; Spatial Concept
+T46	ANAT 754 766	interdigital
+T47	DISO 772 780	ampollas
+#19	AnnotatorNotes T47	C0005758; Bulla; Finding
+T48	DISO 835 844	erosiones
+#20	AnnotatorNotes T48	C0015256; Excoriation; Injury or Poisoning | C0040436; Tooth Erosion; Disease or Syndrome | C0333307; Superficial ulcer; Acquired Abnormality | C3887524; Skin Erosion; Disease or Syndrome
+T49	ANAT 886 890	piel
+#21	AnnotatorNotes T49	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T50	DISO 901 918	Signo de Nikolsky
+#22	AnnotatorNotes T50	C0241128; Nikolsky sign; Finding
+T51	Neg_cue 931 933	No
+T52	DISO 945 962	afectación mucosa
+T53	Negated 945 962	afectación mucosa
+T54	PROC 981 1004	Pruebas complementarias
+#23	AnnotatorNotes T54	C1515980; Ancillary Study; Research Activity
+T55	PROC 1008 1016	Biopsias
+#24	AnnotatorNotes T55	C0005558; Biopsy; Diagnostic Procedure
+T56	DISO 1024 1032	lesiones
+#25	AnnotatorNotes T56	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T57	PROC 1037 1060	estudio histopatológico
+T58	PROC 1062 1101	inmunofluorescencia directa e indirecta
+T59	PROC 1105 1116	TRATAMIENTO
+#26	AnnotatorNotes T59	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T60	PROC 1141 1147	tratar
+T61	LIVB 1151 1159	paciente
+#27	AnnotatorNotes T61	C0030705; Patients; Patient or Disabled Group
+T62	CHEM 1179 1189	prednisona
+#28	AnnotatorNotes T62	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T63	Dose 1191 1200	0,5 mg/kg
+T64	Frequency 1200 1204	/día
+T65	Duration 1212 1218	un mes
+T66	PROC 1222 1233	tratamiento
+#29	AnnotatorNotes T66	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T67	Neg_cue 1247 1254	ninguna
+T68	Negated 1255 1262	mejoría
+T69	PROC 1274 1294	incrementar la dosis
+T70	CHEM 1298 1308	prednisona
+#30	AnnotatorNotes T70	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T71	Dose 1311 1317	1mg/kg
+T72	Frequency 1317 1321	/día
+T73	Duration 1325 1336	los 2 meses
+T74	DISO 1354 1372	erupción ampollosa
+#31	AnnotatorNotes T74	C0235818; Bullous eruption; Finding | C0235819; Rash bullous; Finding
+T75	LIVB 1376 1384	paciente
+#32	AnnotatorNotes T75	C0030705; Patients; Patient or Disabled Group
+T76	DISO 1385 1392	fallece
+#33	AnnotatorNotes T76	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T77	DISO 1397 1418	fracaso multiorgánico
+#34	AnnotatorNotes T77	C0026766; Multiple Organ Failure; Disease or Syndrome
+T78	PROC 1427 1456	diagnóstico anatomopatológico
+T79	DISO 1460 1474	pénfigo vulgar
+#35	AnnotatorNotes T79	C0030809; Pemphigus Vulgaris; Disease or Syndrome | C4303496; Pemphigus of vulva; Disease or Syndrome
+T80	PROC 1502 1531	Diagnóstico anatomopatológico
+T81	DISO 1535 1549	pénfigo vulgar
+#36	AnnotatorNotes T81	C0030809; Pemphigus Vulgaris; Disease or Syndrome | C4303496; Pemphigus of vulva; Disease or Syndrome
+T82	Neg_cue 964 965	n
+T83	Negated 967 976	sistémica
+T84	DISO 626 634	lesiones
+T85	PROC 638 644	EXAMEN
+T86	DISO 538 562	antecedentes traumáticos
+T87	PROC 1478 1489	DIAGNÓSTICO
+T88	Observation 147 163	Vive con su hija
+T89	Observation 574 590	encontrarse bien
+T90	Observation 853 868	contenido claro
+T91	Quantifier_or_Qualifier 891 897	normal
+T92	Observation 1255 1262	mejoría
+T93	Patient 21 29	Paciente
+T94	Patient 129 134	Mujer
+T95	Family_member 159 163	hija
+T96	History_of 201 224	alergias medicamentosas
+T97	History_of 238 259	hipertensión arterial
+T98	Patient 1151 1159	paciente
+T99	Patient 1376 1384	paciente
+T101	History_of 538 562	antecedentes traumáticos
+T102	Observation 788 805	distintos tamaños
+T103	Observation 807 826	algunas están rotas
+T104	Observation 871 897	asientan sobre piel normal
+T105	Observation 967 976	sistémica
+T106	Quantifier_or_Qualifier 1164 1175	bajas dosis
+T100	History_of 347 361	Nefropatía IgA

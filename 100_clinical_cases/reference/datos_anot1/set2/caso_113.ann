@@ -1,0 +1,171 @@
+T1	DISO 21 37	Lesión en calota
+T2	LIVB 60 65	Varón
+T3	Age 69 76	60 años
+T4	LIVB 78 88	agricultor
+T5	LIVB 105 110	mujer
+#1	AnnotatorNotes T5	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T6	Neg_cue 142 144	No
+T7	DISO 145 168	alergias medicamentosas
+#2	AnnotatorNotes T7	C0013182; Drug Allergy; Pathologic Function
+T8	Negated 145 168	alergias medicamentosas
+T9	Neg_cue 182 184	No
+T10	DISO 185 200	hábitos tóxicos
+T11	Negated 185 200	hábitos tóxicos
+T12	PROC 204 226	Hernioplastia inguinal
+T13	Age 233 240	58 años
+T14	DISO 245 255	Enfermedad
+#3	AnnotatorNotes T14	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T15	Date 256 262	actual
+T16	DISO 294 303	espinilla
+T17	ANAT 308 314	calota
+#4	AnnotatorNotes T17	C0037303; Bone structure of cranium; Body Part, Organ, or Organ Component | C0205950; Calvaria; Body Part, Organ, or Organ Component | C1277638; Entire calvaria; Body Part, Organ, or Organ Component
+T18	Date 321 333	hace 20 días
+T19	PROC 378 389	exploración
+#5	AnnotatorNotes T19	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T20	DISO 401 422	picadura de garrapata
+#6	AnnotatorNotes T20	C0241407; Tick bite (disorder); Injury or Poisoning
+T21	ANAT 426 447	zona parietal derecha
+T22	LIVB 452 460	arácnido
+#7	AnnotatorNotes T22	C0003704; Arachnida (invertebrate); Eukaryote
+T23	DISO 474 499	adenopatía retroauricular
+T24	Neg_cue 528 530	no
+T25	Negated 531 539	adherida
+T26	PROC 579 613	extracción del parásito con pinzas
+T27	PROC 616 641	se pauta quimioprofilaxis
+T28	CHEM 646 657	doxiciclina
+#8	AnnotatorNotes T28	C0013090; doxycycline; Antibiotic · Organic Chemical
+T29	Dose 658 676	200 mg dosis única
+T30	Duration 682 692	los 5 días
+T31	DISO 766 772	fiebre
+#9	AnnotatorNotes T31	C0015967; Fever; Sign or Symptom
+T32	DISO 795 809	poliartralgias
+#10	AnnotatorNotes T32	C0162296; Polyarthralgia; Disease or Syndrome
+T33	DISO 811 818	cefalea
+#11	AnnotatorNotes T33	C0018681; Headache; Sign or Symptom
+T34	DISO 838 850	mancha negra
+T35	DISO 862 870	picadura
+#12	AnnotatorNotes T35	C0038340; Sting Injury; Injury or Poisoning
+T36	PROC 885 903	Exploración física
+#13	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	Observation 933 943	Consciente
+#14	AnnotatorNotes T37	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T38	Observation 946 955	orientado
+T39	PROC 1008 1024	Tensión arterial
+T40	PROC 1037 1056	frecuencia cardíaca
+T41	PROC 1065 1078	saturación O2
+T42	PROC 1084 1095	temperatura
+T43	ANAT 1106 1121	Cabeza y cuello
+#15	AnnotatorNotes T43	C0460004; Head and neck structure; Body Location or Region
+T44	DISO 1123 1135	Mancha negra
+T45	DISO 1147 1155	picadura
+#16	AnnotatorNotes T45	C0038340; Sting Injury; Injury or Poisoning
+T46	DISO 1157 1190	Adenopatía retroauricular derecha
+T47	Neg_cue 1211 1213	no
+T48	Negated 1214 1222	adherida
+T49	ANAT 1251 1263	Cavidad oral
+#17	AnnotatorNotes T49	C0226896; Oral cavity; Body Space or Junction | C1278910; Entire oral cavity; Body Location or Region
+T50	Neg_cue 1264 1267	sin
+T51	DISO 1268 1276	lesiones
+#18	AnnotatorNotes T51	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T52	Negated 1268 1276	lesiones
+T53	ANAT 1279 1286	faringe
+#19	AnnotatorNotes T53	C0031354; Pharyngeal structure; Body Part, Organ, or Organ Component | C1278903; Entire pharynx; Body Part, Organ, or Organ Component
+T54	PROC 1297 1329	Auscultación cardiorrespiratoria
+T55	Neg_cue 1339 1342	sin
+T56	DISO 1343 1349	soplos
+#20	AnnotatorNotes T56	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T57	Negated 1343 1349	soplos
+T58	ANAT 1384 1391	Abdomen
+#21	AnnotatorNotes T58	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T59	Neg_cue 1413 1415	no
+T60	DISO 1416 1439	doloroso a la palpación
+T61	Negated 1416 1439	doloroso a la palpación
+T62	ANAT 1473 1492	Miembros inferiores
+#22	AnnotatorNotes T62	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T63	Neg_cue 1493 1496	sin
+T64	DISO 1497 1503	edemas
+#23	AnnotatorNotes T64	C0013604; Edema; Pathologic Function
+T65	Negated 1497 1503	edemas
+T66	Neg_cue 1504 1506	ni
+T68	Negated 1507 1533	signos de trombosis venosa
+T69	DISO 1507 1533	signos de trombosis venosa
+#25	AnnotatorNotes T69	C0042487; Venous Thrombosis; Pathologic Function
+T70	ANAT 1537 1541	Piel
+#26	AnnotatorNotes T70	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T71	ANAT 1544 1551	mucosas
+#27	AnnotatorNotes T71	C0026724; Mucous Membrane; Tissue | C0026727; Mucous body substance; Body Substance | C1284117; Entire mucous membrane; Tissue
+T72	Neg_cue 1570 1573	sin
+T73	Negated 1574 1583	hallazgos
+T74	PROC 1598 1609	TRATAMIENTO
+#28	AnnotatorNotes T74	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T75	PROC 1626 1649	Tratamiento antibiótico
+T76	CHEM 1654 1665	doxiciclina
+#29	AnnotatorNotes T76	C0013090; doxycycline; Antibiotic · Organic Chemical
+T77	Dose 1666 1672	100 mg
+T78	Frequency 1672 1677	/12 h
+T79	Duration 1686 1693	20 días
+T80	PROC 1704 1727	tratamiento sintomático
+#30	AnnotatorNotes T80	C2146147; treat symptoms; Therapeutic or Preventive Procedure
+T81	CHEM 1732 1743	paracetamol
+#31	AnnotatorNotes T81	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T82	Date 1748 1759	segundo día
+T83	PROC 1763 1774	tratamiento
+#32	AnnotatorNotes T83	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T84	DISO 1824 1830	fiebre
+#33	AnnotatorNotes T84	C0015967; Fever; Sign or Symptom
+T86	Spec_cue 1850 1860	compatible
+T87	DISO 1865 1894	reacción de Jarish-Herxheimer
+T88	Speculated 1865 1894	reacción de Jarish-Herxheimer
+T89	Duration 1901 1921	los días posteriores
+T90	Neg_cue 1953 1965	desaparición
+T91	DISO 1972 1978	fiebre
+#35	AnnotatorNotes T91	C0015967; Fever; Sign or Symptom
+T92	Negated 1972 1978	fiebre
+T93	Neg_cue 1981 1989	ausencia
+T94	Observation 1993 2030	signos de progresión de la enfermedad
+T95	Negated 1993 2030	signos de progresión de la enfermedad
+T96	DISO 2058 2086	Fiebre botonosa mediterránea
+#36	AnnotatorNotes T96	C1320317; African Tick-Bite Fever; Disease or Syndrome
+T97	Observation 974 984	perfundido
+T98	PROC 874 880	EXAMEN
+T99	PROC 2034 2045	DIAGNÓSTICO
+T100	Observation 90 110	convive con su mujer
+T101	Result_or_Value 511 526	1cm de diámetro
+T102	Quantifier_or_Qualifier 531 539	adherida
+T103	Observation 545 566	consistencia elástica
+T104	Quantifier_or_Qualifier 773 784	persistente
+T105	Result_or_Value 788 793	38.5o
+T106	Observation 907 931	Aceptable estado general
+T107	Observation 957 971	Bien hidratado
+T109	Observation 986 1004	Eupneico en reposo
+T110	Result_or_Value 1025 1035	125/68mmHg
+T111	Result_or_Value 1057 1063	95 lpm
+T112	Result_or_Value 1079 1081	99
+T113	Result_or_Value 1096 1102	38.7oC
+T114	Result_or_Value 1194 1209	1cm de diámetro
+T115	Quantifier_or_Qualifier 1214 1222	adherida
+T116	Observation 1228 1249	consistencia elástica
+T117	Observation 1279 1293	faringe normal
+T118	Observation 1331 1338	Rítmico
+T119	Observation 1351 1380	Murmullo vesicular conservado
+T120	Observation 1384 1411	Abdomen blando y depresible
+T122	Observation 1441 1469	Ruidos hidroaéreos presentes
+T123	Observation 1552 1567	normocoloreadas
+T124	Observation 1574 1583	hallazgos
+T125	Observation 1784 1805	empeoramiento clínico
+T126	Observation 1810 1848	aumento de la fiebre y malestar genera
+T127	Observation 1922 1948	mejoría clínica progresiva
+T128	Patient 60 65	Varón
+T129	Patient 78 88	agricultor
+T130	Family_member 105 110	mujer
+T131	History_of 145 168	alergias medicamentosas
+T132	History_of 204 226	Hernioplastia inguinal
+T133	ANAT 31 37	calota
+T134	Observation 338 370	ha ido creciendo progresivamente
+T135	LIVB 413 422	garrapata
+T136	Quantifier_or_Qualifier 440 447	derecha
+T137	Observation 452 471	arácnido incrustado
+T138	Quantifier_or_Qualifier 500 507	derecha
+T139	Observation 693 721	acude de nuevo a la consulta
+T108	Quantifier_or_Qualifier 995 1004	en reposo
+T140	Quantifier_or_Qualifier 1183 1190	derecha

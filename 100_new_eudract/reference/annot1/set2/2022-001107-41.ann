@@ -63,34 +63,62 @@ T49	Neg_cue 1599 1612	Imposibilidad
 T50	PROC 1630 1653	citorreducción completa
 #14	AnnotatorNotes T50	C0439805; Tumor Debulking; Therapeutic or Preventive Procedure
 T51	Negated 1630 1653	citorreducción completa
-T53	Negated 1655 1659	CC-0
-T54	PROC 1668 1678	evaluación
-#15	AnnotatorNotes T54	C1261322; Evaluation procedure; Health Care Activity
-T56	PROC 1694 1711	pruebas de imagen
-T57	Time 1716 1731	intraoperatoria
-T58	PROC 1764 1784	anstomosis digestiva
-T59	DISO 1812 1821	Infección
-#16	AnnotatorNotes T59	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T60	PROC 1852 1872	Trasplante alogénico
-#17	AnnotatorNotes T60	C0040739; Transplantation, Homologous; Therapeutic or Preventive Procedure
-T61	PROC 1876 1901	Trasplante de médula ósea
-#18	AnnotatorNotes T61	C0005961; Bone Marrow Transplantation; Therapeutic or Preventive Procedure
-T62	PROC 1912 1925	quimioterapia
-#19	AnnotatorNotes T62	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
-T63	Dose 1928 1939	altas dosis
-T64	PROC 1944 1982	rescate de médula ósea o células madre
-T65	PROC 2003 2017	ensayo clínico
-#20	AnnotatorNotes T65	C0008976; Clinical Trials; Research Activity
-T66	CHEM 2025 2049	fármaco en investigación
-T67	Duration 2053 2072	los últimos 30 años
-T68	Neg_cue 2076 2078	No
-T69	PROC 2089 2113	consentimiento informado
-T70	Negated 2089 2113	consentimiento informado
-T71	Route 81 96	intraperitoneal
-T72	Dose 1217 1229	3 o 4 ciclos
-T73	Route 1230 1240	sistémicos
-T74	PROC 1383 1385	CI
-T52	PROC 1655 1659	CC-0
-T75	PROC 1280 1283	CC0
-T55	Date 1679 1692	preoperatoria
+T52	Negated 1655 1659	CC-0
+T53	PROC 1668 1678	evaluación
+#15	AnnotatorNotes T53	C1261322; Evaluation procedure; Health Care Activity
+T54	PROC 1694 1711	pruebas de imagen
+T55	Time 1716 1731	intraoperatoria
+T56	PROC 1764 1784	anstomosis digestiva
+T57	DISO 1812 1821	Infección
+#16	AnnotatorNotes T57	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T58	PROC 1852 1872	Trasplante alogénico
+#17	AnnotatorNotes T58	C0040739; Transplantation, Homologous; Therapeutic or Preventive Procedure
+T59	PROC 1876 1901	Trasplante de médula ósea
+#18	AnnotatorNotes T59	C0005961; Bone Marrow Transplantation; Therapeutic or Preventive Procedure
+T60	PROC 1912 1925	quimioterapia
+#19	AnnotatorNotes T60	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T61	Dose 1928 1939	altas dosis
+T62	PROC 1944 1982	rescate de médula ósea o células madre
+T63	PROC 2003 2017	ensayo clínico
+#20	AnnotatorNotes T63	C0008976; Clinical Trials; Research Activity
+T64	CHEM 2025 2049	fármaco en investigación
+T65	Duration 2053 2072	los últimos 30 años
+T66	Neg_cue 2076 2078	No
+T67	PROC 2089 2113	consentimiento informado
+T68	Negated 2089 2113	consentimiento informado
+T69	Route 81 96	intraperitoneal
+T70	Dose 1217 1229	3 o 4 ciclos
+T71	Route 1230 1240	sistémicos
+T72	PROC 1383 1385	CI
+T73	PROC 1655 1659	CC-0
+T74	PROC 1280 1283	CC0
+T75	Date 1679 1692	preoperatoria
 T76	Route 1467 1476	sistémico
+T77	Quantifier_or_Qualifier 150 158	avanzado
+T78	Quantifier_or_Qualifier 325 342	estadío IIIB-C/IV
+T79	Observation 436 457	Buen estado funcional
+T80	Result_or_Value 476 479	>70
+T81	Result_or_Value 501 505	<=2.
+T82	Observation 508 533	Función hepática correcta
+T83	Result_or_Value 561 611	<0 1,5 veces el límite superior de normalidad (LSN
+T84	Result_or_Value 668 683	<=2,5 veces LSN
+T85	Result_or_Value 706 720	<=3 veces LSN.
+T86	Observation 723 745	Función renal correcta
+T87	Result_or_Value 779 796	<= 1,5 veces LSN.
+T88	Result_or_Value 861 875	>1,5 x 106 l-1
+T89	Result_or_Value 888 899	> 10 g/dl-1
+T90	Result_or_Value 912 930	> 100.0 x 109 l-1.
+T91	Result_or_Value 1044 1062	Resultado negativo
+T92	Quantifier_or_Qualifier 1217 1229	3 o 4 ciclos
+T93	Quantifier_or_Qualifier 1230 1240	sistémicos
+T94	Quantifier_or_Qualifier 1271 1279	completa
+T95	Observation 1657 1658	-
+T96	Quantifier_or_Qualifier 1750 1763	al menos, una
+T97	Quantifier_or_Qualifier 1822 1828	activa
+T98	Patient 234 241	Mujeres
+T99	Patient 1107 1129	mujeres en edad fértil
+T100	Patient 1314 1323	Pacientes
+T101	History_of 1852 1872	Trasplante alogénico
+T102	History_of 1876 1901	Trasplante de médula ósea
+T103	History_of 2003 2017	ensayo clínico
+T104	History_of 2025 2049	fármaco en investigación

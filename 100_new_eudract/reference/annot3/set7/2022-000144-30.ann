@@ -13,44 +13,57 @@ T7	LIVB 278 287	pacientes
 T8	DISO 292 298	Sepsis
 #6	AnnotatorNotes T8	C0243026; Sepsis; Disease or Syndrome
 T9	PROC 304 335	evaluar la seguridad y eficacia
-T12	CHEM 407 416	LINezolid
-#8	AnnotatorNotes T12	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
-T13	DISO 440 446	Sepsis
-#9	AnnotatorNotes T13	C0243026; Sepsis; Disease or Syndrome
-T14	LIVB 476 493	Pacientes adultos
-T15	Age 486 493	adultos
-T16	Age 495 508	18 años o más
-T17	PROC 512 523	tratamiento
-#10	AnnotatorNotes T17	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T18	CHEM 528 537	linezolid
-#11	AnnotatorNotes T18	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
-T19	PROC 543 554	Diagnóstico
-#12	AnnotatorNotes T19	C0011900; Diagnosis; Diagnostic Procedure
-T20	DISO 558 564	sepsis
-#13	AnnotatorNotes T20	C0243026; Sepsis; Disease or Syndrome
-T24	PROC 707 730	tratamiento antibiótico
-T25	CHEM 735 744	linezolid
-#14	AnnotatorNotes T25	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
-T26	PROC 751 767	práctica clínica
-T27	PROC 807 835	Interrupción del tratamiento
-T28	PROC 856 873	muestra de sangre
-T30	DISO 929 936	Alergia
-#15	AnnotatorNotes T30	C0020517; Hypersensitivity; Pathologic Function
-T31	DISO 939 956	hipersensibilidad
-#16	AnnotatorNotes T31	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
-T32	CHEM 968 977	linezolid
-#17	AnnotatorNotes T32	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
-T33	LIVB 987 996	pacientes
-#18	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
-T34	Negated 987 996	pacientes
-T35	Neg_cue 1003 1012	excluidos
-T36	PROC 1043 1065	ensayo de intervención
-T39	PHYS 914 923	lactancia
-T10	PROC 369 374	Pk/Pd
-T11	LIVB 878 897	Mujeres embarazadas
-T29	DISO 602 629	disfunción orgánica crónica
-#7	AnnotatorNotes T29	chronic failure C0231178
-T21	PROC 190 205	Estudio SePkLin
-T23	Dose 128 154	dosificación personalizada
+T10	CHEM 407 416	LINezolid
+#7	AnnotatorNotes T10	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T11	DISO 440 446	Sepsis
+#8	AnnotatorNotes T11	C0243026; Sepsis; Disease or Syndrome
+T12	LIVB 476 493	Pacientes adultos
+T13	Age 486 493	adultos
+T14	Age 495 508	18 años o más
+T15	PROC 512 523	tratamiento
+#9	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	CHEM 528 537	linezolid
+#10	AnnotatorNotes T16	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T17	PROC 543 554	Diagnóstico
+#11	AnnotatorNotes T17	C0011900; Diagnosis; Diagnostic Procedure
+T18	DISO 558 564	sepsis
+#12	AnnotatorNotes T18	C0243026; Sepsis; Disease or Syndrome
+T19	PROC 707 730	tratamiento antibiótico
+T20	CHEM 735 744	linezolid
+#13	AnnotatorNotes T20	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T21	PROC 751 767	práctica clínica
+T22	PROC 807 835	Interrupción del tratamiento
+T23	PROC 856 873	muestra de sangre
+T24	DISO 929 936	Alergia
+#14	AnnotatorNotes T24	C0020517; Hypersensitivity; Pathologic Function
+T25	DISO 939 956	hipersensibilidad
+#15	AnnotatorNotes T25	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T26	CHEM 968 977	linezolid
+#16	AnnotatorNotes T26	C0663241; linezolid; Organic Chemical · Pharmacologic Substance
+T27	LIVB 987 996	pacientes
+#17	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	Negated 987 996	pacientes
+T29	Neg_cue 1003 1012	excluidos
+T30	PROC 1043 1065	ensayo de intervención
+T31	PHYS 914 923	lactancia
+T32	PROC 369 374	Pk/Pd
+T33	LIVB 878 897	Mujeres embarazadas
+T34	DISO 602 629	disfunción orgánica crónica
+#18	AnnotatorNotes T34	chronic failure C0231178
+T35	PROC 190 205	Estudio SePkLin
+T36	Dose 128 154	dosificación personalizada
 T37	Dose 342 368	dosificación personalizada
-T40	Dose 382 403	dosificación estándar
+T38	Dose 382 403	dosificación estándar
+T39	Quantifier_or_Qualifier 141 154	personalizada
+T40	Result_or_Value 578 588	≥ 2 puntos
+T41	Result_or_Value 631 650	aumento de 2 puntos
+T42	CONC 665 681	puntuación basal
+T43	Observation 1019 1065	están en cualquier otro ensayo de intervención
+T44	Patient 64 73	pacientes
+T45	Patient 278 287	pacientes
+T46	Patient 476 493	Pacientes adultos
+T47	Patient 878 923	Mujeres embarazadas o en periodo de lactancia
+T48	History_of 929 936	Alergia
+T49	History_of 939 956	hipersensibilidad
+T50	Patient 987 996	pacientes
+T51	Future 1003 1012	excluidos

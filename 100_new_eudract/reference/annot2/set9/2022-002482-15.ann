@@ -1,0 +1,113 @@
+T1	PROC 47 102	Estudio de fase 3b/4 aleatorizado, abierto, enmascarado
+T2	PROC 145 192	comparar la seguridad y la eficacia enmascarada
+T3	LIVB 202 213	evaluadores
+T4	CHEM 217 229	upadacitinib
+T5	CHEM 239 248	dupilumab
+#1	AnnotatorNotes T5	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T6	LIVB 252 261	pacientes
+#2	AnnotatorNotes T6	C0030705; Patients; Patient or Disabled Group
+T7	DISO 266 284	dermatitis atópica
+#3	AnnotatorNotes T7	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T8	DISO 327 345	Dermatitis atópica
+#4	AnnotatorNotes T8	C0011615; Dermatitis, Atopic; Disease or Syndrome
+T9	DISO 367 373	Eczema
+#5	AnnotatorNotes T9	C0013595; Eczema; Disease or Syndrome
+T10	LIVB 403 412	Pacientes
+#6	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	Age 413 421	≥12 años
+T12	Age 455 463	<65 años
+T13	LIVB 468 475	Sujetos
+#7	AnnotatorNotes T13	C0681850; Study Subject; Group
+T14	DISO 480 490	DA crónica
+T15	Duration 483 490	crónica
+T16	DISO 497 505	síntomas
+#8	AnnotatorNotes T16	C1457887; Symptoms; Sign or Symptom
+T17	Duration 518 533	al menos 3 años
+T18	ANAT 654 673	superficie corporal
+T19	ANAT 675 677	SC
+#9	AnnotatorNotes T19	C0456944; Coronary sinus structure; Body Part, Organ, or Organ Component | C1269893; Entire coronary sinus; Body Part, Organ, or Organ Component
+T20	DISO 695 697	DA
+T21	PROC 710 716	visita
+T22	Frequency 736 743	semanal
+T23	Frequency 767 773	diaria
+T24	PROC 780 786	WP-NRS
+T25	PROC 849 870	tratamiento sistémico
+T26	PROC 967 988	tratamiento sistémico
+T27	DISO 1004 1006	DA
+T28	PROC 1070 1093	tratamientos sistémicos
+T29	Contraindicated 1070 1093	tratamientos sistémicos
+T30	CHEM 1179 1195	inhibidor de JAK
+T31	Route 1196 1200	oral
+T32	Route 1203 1209	tópico
+T33	CHEM 1235 1247	upadacitinib
+T34	CHEM 1249 1255	Rinvoq
+T35	CHEM 1259 1270	tofacitinib
+#10	AnnotatorNotes T35	C2930696; tofacitinib; Organic Chemical · Pharmacologic Substance
+T36	CHEM 1272 1279	Xeljanz
+T37	CHEM 1283 1294	ruxolitinib
+#11	AnnotatorNotes T37	C2931926; ruxolitinib; Organic Chemical · Pharmacologic Substance
+T38	CHEM 1296 1302	Jakafi
+#12	AnnotatorNotes T38	C3247913; Jakafi; Organic Chemical · Pharmacologic Substance
+T39	CHEM 1306 1314	Opzelura
+T40	CHEM 1318 1329	baricitinib
+#13	AnnotatorNotes T40	C4044947; baricitinib; Organic Chemical · Pharmacologic Substance
+T41	CHEM 1331 1339	Olumiant
+T42	CHEM 1343 1354	peficitinib
+T43	CHEM 1356 1362	Smyraf
+T44	CHEM 1366 1377	abrocitinib
+T45	CHEM 1379 1386	Cibinqo
+T46	CHEM 1391 1401	filgotinib
+#14	AnnotatorNotes T46	C4310256; Filgotinib; Organic Chemical · Pharmacologic Substance
+T47	CHEM 1403 1411	Jyseleca
+T48	CHEM 1437 1446	dupilumab
+#15	AnnotatorNotes T48	C3660996; dupilumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T49	CHEM 1448 1460	tralokinumab
+T50	CHEM 1463 1475	lebrikizumab
+T51	LIVB 112 123	evaluadores
+T52	PROC 576 604	criterios de Hanifin y Rajka
+T53	PROC 620 624	EASI
+T54	Route 979 988	sistémico
+T55	Route 861 870	sistémico
+T56	Route 1083 1093	sistémicos
+T57	Quantifier_or_Qualifier 285 301	moderada o grave
+T58	Quantifier_or_Qualifier 349 365	moderada a grave
+T59	Result_or_Value 425 431	≥40 kg
+T60	CONC 438 451	momento basal
+T61	CONC 544 557	momento basal
+T62	CONC 620 624	EASI
+T63	Result_or_Value 625 628	≥16
+T64	CONC 641 648	vIGA-AD
+T65	Result_or_Value 649 651	≥3
+T66	Result_or_Value 698 703	≥10 %
+T67	Quantifier_or_Qualifier 717 722	basal
+T68	Quantifier_or_Qualifier 744 749	basal
+T69	Result_or_Value 787 789	≥4
+T70	Observation 823 845	respuesta insuficiente
+T71	Observation 923 945	respuesta insuficiente
+T72	Quantifier_or_Qualifier 955 966	al menos un
+T73	Patient 252 261	pacientes
+T74	Patient 403 412	Pacientes
+T75	Patient 468 475	Sujetos
+T76	History_of 849 870	tratamiento sistémico
+T77	History_of 967 988	tratamiento sistémico
+T78	History_of 1179 1195	inhibidor de JAK
+T79	History_of 1235 1247	upadacitinib
+T80	History_of 1249 1255	Rinvoq
+T81	History_of 1259 1270	tofacitinib
+T82	History_of 1272 1279	Xeljanz
+T83	History_of 1283 1294	ruxolitinib
+T84	History_of 1296 1302	Jakafi
+T85	History_of 1306 1314	Opzelura
+T86	History_of 1318 1329	baricitinib
+T87	History_of 1331 1339	Olumiant
+T88	History_of 1343 1354	peficitinib
+T89	History_of 1356 1362	Smyraf
+T90	History_of 1366 1377	abrocitinib
+T91	History_of 1379 1386	Cibinqo
+T92	History_of 1391 1401	filgotinib
+T93	History_of 1403 1411	Jyseleca
+T94	History_of 1437 1446	dupilumab
+T95	History_of 1448 1460	tralokinumab
+T96	History_of 1463 1475	lebrikizumab
+T97	History_of 823 845	respuesta insuficiente
+T98	History_of 923 945	respuesta insuficiente

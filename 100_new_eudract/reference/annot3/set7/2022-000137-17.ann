@@ -6,77 +6,110 @@ T4	LIVB 125 134	pacientes
 #2	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
 T5	DISO 139 154	tumores sólidos
 #3	AnnotatorNotes T5	C0280100; Solid Neoplasm; Neoplastic Process
-T8	CHEM 246 265	ozuriftamab vedotin
-T9	CHEM 267 273	BA3021
-T10	PROC 278 289	monoterapia
-#4	AnnotatorNotes T10	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
-T11	CHEM 311 320	nivolumab
-#5	AnnotatorNotes T11	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
-T12	LIVB 324 333	pacientes
-#6	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
-T13	DISO 338 353	tumores sólidos
-#7	AnnotatorNotes T13	C0280100; Solid Neoplasm; Neoplastic Process
-T14	DISO 397 412	Tumores sólidos
-#8	AnnotatorNotes T14	C0280100; Solid Neoplasm; Neoplastic Process
-T15	LIVB 463 472	pacientes
-#9	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
-T16	DISO 492 523	cáncer de pulmón no microcítico
-#10	AnnotatorNotes T16	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
-T17	Neg_cue 509 511	no
-T18	Negated 512 523	microcítico
-T19	DISO 525 529	CPNM
-#11	AnnotatorNotes T19	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
-T20	DISO 533 541	melanoma
-#12	AnnotatorNotes T20	C0025202; melanoma; Neoplastic Process
-T21	DISO 577 588	metastásico
-#13	AnnotatorNotes T21	C4255448; Metastasis; Pathologic Function
-T22	PROC 601 630	histológica o citológicamente
-T23	Age 639 647	≥18 años
-T24	PROC 651 664	Función renal
-#14	AnnotatorNotes T24	C0232804; Renal function; Organ or Tissue Function
-T25	PROC 677 693	Función hepática
-T26	PROC 706 726	Función hematológica
-T27	Duration 847 863	al menos 3 meses
-T28	DISO 892 903	Cardiopatía
-#15	AnnotatorNotes T28	C0018799; Heart Diseases; Disease or Syndrome
-T29	DISO 947 957	metástasis
-#16	AnnotatorNotes T29	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
-T30	Neg_cue 958 961	sin
-T31	Negated 962 1002	controlar en el sistema nervioso central
-T32	ANAT 978 1002	sistema nervioso central
-#17	AnnotatorNotes T32	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
-T33	PROC 1006 1017	Tratamiento
-#18	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T34	CHEM 1032 1058	derivado de la auristatina
-T35	Neg_cue 1072 1075	sin
-T36	Negated 1076 1084	conjugar
-T37	CHEM 1137 1142	vinca
-T38	DISO 1162 1182	reacciones alérgicas
-#19	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function | C1527304; Allergic Reaction; Pathologic Function
-T39	PROC 1198 1209	tratamiento
-#20	AnnotatorNotes T39	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T40	CHEM 1214 1217	AcM
-#21	AnnotatorNotes T40	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
-T41	Spec_cue 1240 1251	sospecha de
-T42	DISO 1252 1259	alergia
-#22	AnnotatorNotes T42	C0020517; Hypersensitivity; Pathologic Function
-T43	Speculated 1252 1259	alergia
-T44	DISO 1262 1274	intolerancia
-T45	Speculated 1262 1274	intolerancia
-T46	CHEM 1295 1307	medicamentos
-#23	AnnotatorNotes T46	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
-T47	PROC 1375 1404	intervención de cirugía mayor
-T49	PROC 1463 1477	administración
-#24	AnnotatorNotes T49	C1533734; Administration procedure; Therapeutic or Preventive Procedure
-T50	CHEM 1481 1487	BA3021
-T51	PROC 1531 1579	pruebas del virus de la inmunodeficiencia humana
-T52	DISO 1581 1584	VIH
-#25	AnnotatorNotes T52	C0458074; Human immunodeficiency virus (HIV) status; Finding
-T53	DISO 1602 1641	síndrome de inmunodeficiencia adquirida
-#26	AnnotatorNotes T53	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
-T54	DISO 1643 1647	sida
-#27	AnnotatorNotes T54	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
-T58	PHYS 1688 1697	lactancia
-T55	LIVB 1652 1671	Mujeres embarazadas
-T56	Duration 1429 1438	4 semanas
-T6	PROC 187 242	Estudio de fase 1/2 de aumento y ampliación de la dosis
+T6	CHEM 246 265	ozuriftamab vedotin
+T7	CHEM 267 273	BA3021
+T8	PROC 278 289	monoterapia
+#4	AnnotatorNotes T8	C4763675; Single Agent Therapy; Therapeutic or Preventive Procedure
+T9	CHEM 311 320	nivolumab
+#5	AnnotatorNotes T9	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T10	LIVB 324 333	pacientes
+#6	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 338 353	tumores sólidos
+#7	AnnotatorNotes T11	C0280100; Solid Neoplasm; Neoplastic Process
+T12	DISO 397 412	Tumores sólidos
+#8	AnnotatorNotes T12	C0280100; Solid Neoplasm; Neoplastic Process
+T13	LIVB 463 472	pacientes
+#9	AnnotatorNotes T13	C0030705; Patients; Patient or Disabled Group
+T14	DISO 492 523	cáncer de pulmón no microcítico
+#10	AnnotatorNotes T14	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T15	Neg_cue 509 511	no
+T16	Negated 512 523	microcítico
+T17	DISO 525 529	CPNM
+#11	AnnotatorNotes T17	C0007131; Non-Small Cell Lung Carcinoma; Neoplastic Process
+T18	DISO 533 541	melanoma
+#12	AnnotatorNotes T18	C0025202; melanoma; Neoplastic Process
+T19	DISO 577 588	metastásico
+#13	AnnotatorNotes T19	C4255448; Metastasis; Pathologic Function
+T20	PROC 601 630	histológica o citológicamente
+T21	Age 639 647	≥18 años
+T22	PROC 651 664	Función renal
+#14	AnnotatorNotes T22	C0232804; Renal function; Organ or Tissue Function
+T23	PROC 677 693	Función hepática
+T24	PROC 706 726	Función hematológica
+T25	Duration 847 863	al menos 3 meses
+T26	DISO 892 903	Cardiopatía
+#15	AnnotatorNotes T26	C0018799; Heart Diseases; Disease or Syndrome
+T27	DISO 947 957	metástasis
+#16	AnnotatorNotes T27	C0027627; Neoplasm Metastasis; Neoplastic Process | C2939419; Secondary Neoplasm; Neoplastic Process
+T28	Neg_cue 958 961	sin
+T29	Negated 962 1002	controlar en el sistema nervioso central
+T30	ANAT 978 1002	sistema nervioso central
+#17	AnnotatorNotes T30	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T31	PROC 1006 1017	Tratamiento
+#18	AnnotatorNotes T31	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T32	CHEM 1032 1058	derivado de la auristatina
+T33	Neg_cue 1072 1075	sin
+T34	Negated 1076 1084	conjugar
+T35	CHEM 1137 1142	vinca
+T36	DISO 1162 1182	reacciones alérgicas
+#19	AnnotatorNotes T36	C0020517; Hypersensitivity; Pathologic Function | C1527304; Allergic Reaction; Pathologic Function
+T37	PROC 1198 1209	tratamiento
+#20	AnnotatorNotes T37	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T38	CHEM 1214 1217	AcM
+#21	AnnotatorNotes T38	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T39	Spec_cue 1240 1251	sospecha de
+T40	DISO 1252 1259	alergia
+#22	AnnotatorNotes T40	C0020517; Hypersensitivity; Pathologic Function
+T41	Speculated 1252 1259	alergia
+T42	DISO 1262 1274	intolerancia
+T43	Speculated 1262 1274	intolerancia
+T44	CHEM 1295 1307	medicamentos
+#23	AnnotatorNotes T44	C0013227; Pharmaceutical Preparations; Pharmacologic Substance | C0304228; Proprietary drug, NOS; Pharmacologic Substance | C0456386; Medicament; Pharmacologic Substance
+T45	PROC 1375 1404	intervención de cirugía mayor
+T46	PROC 1463 1477	administración
+#24	AnnotatorNotes T46	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T47	CHEM 1481 1487	BA3021
+T48	PROC 1531 1579	pruebas del virus de la inmunodeficiencia humana
+T49	DISO 1581 1584	VIH
+#25	AnnotatorNotes T49	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T50	DISO 1602 1641	síndrome de inmunodeficiencia adquirida
+#26	AnnotatorNotes T50	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T51	DISO 1643 1647	sida
+#27	AnnotatorNotes T51	C0001175; Acquired Immunodeficiency Syndrome; Disease or Syndrome
+T52	PHYS 1688 1697	lactancia
+T53	LIVB 1652 1671	Mujeres embarazadas
+T54	Duration 1429 1438	4 semanas
+T55	PROC 187 242	Estudio de fase 1/2 de aumento y ampliación de la dosis
+T56	Quantifier_or_Qualifier 86 90	solo
+T57	Quantifier_or_Qualifier 155 164	avanzados
+T58	Quantifier_or_Qualifier 357 373	estadio avanzado
+T59	Quantifier_or_Qualifier 416 432	estadio avanzado
+T60	Quantifier_or_Qualifier 542 561	localmente avanzado
+T61	Observation 563 574	irresecable
+T62	Observation 651 673	Función renal adecuada
+T63	Quantifier_or_Qualifier 694 702	adecuada
+T64	Observation 706 735	Función hematológica adecuada
+T65	CONC 772 806	Eastern Cooperative Oncology Group
+T66	CONC 808 812	ECOG
+T67	Result_or_Value 817 822	0 o 1
+T68	CONC 826 843	Esperanza de vida
+T69	Quantifier_or_Qualifier 904 930	clínicamente significativa
+T70	CONC 962 971	controlar
+T71	Quantifier_or_Qualifier 1060 1069	conjugado
+T72	CONC 1076 1084	conjugar
+T73	Quantifier_or_Qualifier 1186 1194	grado ≥3
+T74	Result_or_Value 1507 1527	resultados positivos
+T75	Patient 125 134	pacientes
+T76	Patient 324 333	pacientes
+T77	Patient 463 472	pacientes
+T78	History_of 1006 1017	Tratamiento
+T79	History_of 1032 1058	derivado de la auristatina
+T80	History_of 1162 1182	reacciones alérgicas
+T81	History_of 1252 1259	alergia
+T82	History_of 1262 1274	intolerancia
+T83	History_of 1375 1404	intervención de cirugía mayor
+T84	History_of 1543 1579	virus de la inmunodeficiencia humana
+T85	History_of 1581 1584	VIH
+T86	History_of 1602 1641	síndrome de inmunodeficiencia adquirida
+T87	History_of 1643 1647	sida
+T88	Patient 1652 1697	Mujeres embarazadas o en período de lactancia

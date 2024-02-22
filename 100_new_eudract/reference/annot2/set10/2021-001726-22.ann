@@ -1,0 +1,50 @@
+T1	DEVI 47 60	Balón de Cook
+T2	CHEM 68 80	dinoprostona
+#1	AnnotatorNotes T2	C0012472; dinoprostone; Hormone · Organic Chemical · Pharmacologic Substance
+T3	PROC 97 126	inducción del parto a término
+T4	DISO 133 173	restricción del crecimiento intrauterino
+#2	AnnotatorNotes T4	C0015934; Fetal Growth Retardation; Pathologic Function
+T5	PROC 216 245	Inducción del parto a término
+T6	DISO 252 292	restricción del crecimiento intrauterino
+#3	AnnotatorNotes T6	C0015934; Fetal Growth Retardation; Pathologic Function
+T7	PROC 319 348	Inducción del parto a término
+T8	DISO 355 395	restricción del crecimiento intrauterino
+#4	AnnotatorNotes T8	C0015934; Fetal Growth Retardation; Pathologic Function
+T9	PHYS 425 440	Gestación única
+T10	Age 448 457	≥ 18 años
+T11	PROC 460 476	Edad gestacional
+T12	PROC 488 497	ecografía
+#5	AnnotatorNotes T12	C0041618; Ultrasonography; Diagnostic Procedure
+T13	Date 501 517	primer trimestre
+T14	Date 518 532	≥ 37+0 semanas
+T15	DISO 559 599	Restricción del crecimiento intrauterino
+#6	AnnotatorNotes T15	C0015934; Fetal Growth Retardation; Pathologic Function
+T16	PROC 664 683	Peso fetal estimado
+T17	PROC 701 720	Peso fetal estimado
+T18	PROC 772 792	IP arteria umbilical
+T19	PROC 812 838	Índice cerebro-placentario
+T20	Neg_cue 908 910	No
+T21	PROC 911 918	cesárea
+#7	AnnotatorNotes T21	C0007876; Cesarean section; Therapeutic or Preventive Procedure
+T22	Negated 911 918	cesárea
+T23	PROC 955 968	parto vaginal
+#8	AnnotatorNotes T23	C1541822; Vaginal delivery procedure; Therapeutic or Preventive Procedure
+T24	PROC 980 999	inducción del parto
+#9	AnnotatorNotes T24	C0200066; Medical induction of labor; Therapeutic or Preventive Procedure | C0259787; Induction of labor procedure; Therapeutic or Preventive Procedure
+T25	DISO 1029 1047	Malformación fetal
+#10	AnnotatorNotes T25	C0000768; Congenital Abnormality; Congenital Abnormality
+T26	DISO 1050 1073	Anomalía genética fetal
+T27	DISO 1076 1101	Infección congénita fetal
+T28	Route 81 88	vaginal
+T29	PROC 855 875	Puntuación de Bishop
+T30	ANAT 882 897	Bolsa amniótica
+T31	ANAT 548 556	cefálica
+T32	Observation 535 556	Presentación cefálica
+T33	Quantifier_or_Qualifier 600 609	estadio I
+T34	Result_or_Value 684 697	< percentil 3
+T35	Result_or_Value 721 735	< percentil 10
+T36	Result_or_Value 793 809	> percentil 95 o
+T37	Result_or_Value 839 852	< percentil 5
+T38	Result_or_Value 876 879	< 7
+T39	CONC 933 949	contraindicación
+T40	History_of 911 918	cesárea

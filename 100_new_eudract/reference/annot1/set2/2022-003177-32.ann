@@ -8,20 +8,25 @@ T6	DISO 298 320	baja respuesta ovárica
 T7	PROC 336 362	estimulación ovárica doble
 T8	LIVB 401 410	Pacientes
 #2	AnnotatorNotes T8	C0030705; Patients; Patient or Disabled Group
-T11	Age 461 468	43 años
-T12	Date 470 507	hasta un día antes de cumplir 44 años
-T13	Age 500 507	44 años
-T14	PROC 534 546	estimulación
-#4	AnnotatorNotes T14	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
-T15	PROC 592 613	protocolo del estudio
-#5	AnnotatorNotes T15	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
-T16	PROC 630 656	consentimiento por escrito
-T17	DISO 697 714	patología ovárica
-T18	PROC 742 754	estimulación
-#6	AnnotatorNotes T18	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
-T19	DISO 761 777	quistes ováricos
-#7	AnnotatorNotes T19	C0029927; Ovarian Cysts; Disease or Syndrome
-T20	PROC 145 152	DUOSTIM
-T21	PROC 364 371	DUOSTIM
-T22	PROC 429 446	protocolo DUOSTIM
-T23	PROC 814 821	estudio
+T9	Age 461 468	43 años
+T10	Date 470 507	hasta un día antes de cumplir 44 años
+T11	Age 500 507	44 años
+T12	PROC 534 546	estimulación
+#3	AnnotatorNotes T12	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T13	PROC 592 613	protocolo del estudio
+#4	AnnotatorNotes T13	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T14	PROC 630 656	consentimiento por escrito
+T15	DISO 697 714	patología ovárica
+T16	PROC 742 754	estimulación
+#5	AnnotatorNotes T16	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T17	DISO 761 777	quistes ováricos
+#6	AnnotatorNotes T17	C0029927; Ovarian Cysts; Disease or Syndrome
+T18	PROC 145 152	DUOSTIM
+T19	PROC 364 371	DUOSTIM
+T20	PROC 429 446	protocolo DUOSTIM
+T21	PROC 814 821	estudio
+T22	Observation 549 601	Capacidad para participar y cumplir con el protocolo
+T23	CONC 732 738	inicio
+T24	Observation 780 821	Participación concurrente en otro estudio
+T25	Patient 257 266	Pacientes
+T26	Patient 401 410	Pacientes

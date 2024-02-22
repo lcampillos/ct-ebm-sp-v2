@@ -40,3 +40,9 @@ T27	DISO 869 876	alergia
 #13	AnnotatorNotes T27	C0020517; Hypersensitivity; Pathologic Function
 T28	CHEM 892 911	anestésicos locales
 #14	AnnotatorNotes T28	C0002934; Local Anesthetics; Organic Chemical · Pharmacologic Substance
+T29	Quantifier_or_Qualifier 231 242	hiperbárica
+T30	Result_or_Value 594 595	I
+T31	Result_or_Value 601 603	II
+T32	Result_or_Value 610 614	III.
+T33	Patient 579 589	-Pacientes
+T34	History_of 869 876	alergia

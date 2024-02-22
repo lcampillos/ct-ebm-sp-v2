@@ -1,0 +1,114 @@
+T1	PROC 44 59	Estudio clínico
+#1	AnnotatorNotes T1	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T2	LIVB 74 83	pacientes
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	PROC 100 142	cirugía de reemplazo total de articulación
+T4	PROC 185 197	tratamientos
+#3	AnnotatorNotes T4	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T5	PROC 217 227	prevención
+#4	AnnotatorNotes T5	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T6	DISO 231 242	infecciones
+#5	AnnotatorNotes T6	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T7	PROC 264 296	Evaluación aleatoria prospectiva
+T8	PROC 307 319	tratamientos
+#6	AnnotatorNotes T8	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T9	PROC 339 364	profilaxis de infecciones
+T10	PROC 371 404	reemplazo total de articulaciones
+T11	PROC 409 423	estudio piloto
+#7	AnnotatorNotes T11	C0031928; Pilot Projects; Research Activity
+T12	PROC 465 490	irrigaciones antisépticas
+T13	CHEM 493 504	antibiótico
+#8	AnnotatorNotes T13	C0003232; Antibiotics; Antibiotic
+T14	PROC 523 559	cirugía de reemplazo articular total
+T15	ANAT 561 568	rodilla
+#9	AnnotatorNotes T15	C0022742; Knee; Body Part, Organ, or Organ Component | C1283838; Entire knee region; Body Location or Region | C1963703; Knee region structure; Body Location or Region
+T16	ANAT 571 577	cadera
+#10	AnnotatorNotes T16	C0019552; Hip structure; Body Part, Organ, or Organ Component | C1281585; Entire hip region; Body Location or Region
+T17	PROC 584 606	tratamiento preventivo
+#11	AnnotatorNotes T17	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T18	DISO 612 640	infecciones post-quirúrgicas
+T19	Date 624 640	post-quirúrgicas
+T20	PROC 666 676	Prevención
+#12	AnnotatorNotes T20	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T21	DISO 680 718	infecciones articulares periprotésicas
+T22	PROC 721 739	drenaje de heridas
+#13	AnnotatorNotes T22	C0920263; Wound drainage procedure; Therapeutic or Preventive Procedure
+T23	LIVB 755 764	pacientes
+#14	AnnotatorNotes T23	C0030705; Patients; Patient or Disabled Group
+T24	PROC 785 810	reemplazo articular total
+T25	LIVB 839 848	Pacientes
+#15	AnnotatorNotes T25	C0030705; Patients; Patient or Disabled Group
+T26	Age 849 867	mayores de 18 años
+T27	PROC 889 926	cirugía de RTA primaria o de revisión
+T28	PROC 945 969	Consentimiento informado
+#16	AnnotatorNotes T28	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T29	CHEM 1015 1027	antibióticos
+#17	AnnotatorNotes T29	C0003232; Antibiotics; Antibiotic
+T30	Duration 1057 1072	las dos semanas
+T31	PROC 1089 1103	cirugía de RTA
+T32	DISO 1109 1134	Infección crónica o aguda
+T33	DISO 1160 1163	RTA
+T34	DISO 1188 1211	infección periprotésica
+T35	PROC 1232 1239	cirugía
+#18	AnnotatorNotes T35	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T36	PROC 1247 1258	diagnóstico
+#19	AnnotatorNotes T36	C0011900; Diagnosis; Diagnostic Procedure
+T37	DISO 1266 1274	fractura
+#20	AnnotatorNotes T37	C0016658; Fracture; Injury or Poisoning
+T38	DISO 1286 1302	heridas abiertas
+#21	AnnotatorNotes T38	C0332798; Open wound; Injury or Poisoning
+T39	ANAT 1309 1319	extremidad
+#22	AnnotatorNotes T39	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T40	PROC 1350 1374	cirugía de RTA bilateral
+T41	CHEM 1409 1424	povidona yodada
+#23	AnnotatorNotes T41	C0032857; povidone-iodine; Organic Chemical · Pharmacologic Substance
+T42	Contraindicated 1409 1424	povidona yodada
+T43	CHEM 1459 1471	clorhexidina
+#24	AnnotatorNotes T43	C0008196; chlorhexidine; Organic Chemical · Pharmacologic Substance
+T44	Contraindicated 1459 1471	clorhexidina
+T45	CHEM 1506 1517	vancomicina
+#25	AnnotatorNotes T45	C0042313; vancomycin; Amino Acid, Peptide, or Protein · Antibiotic
+T46	Contraindicated 1506 1517	vancomicina
+T47	Date 1540 1546	actual
+T48	DISO 1564 1583	Enfermedad terminal
+T49	Duration 1611 1633	inferior a los 90 días
+T50	Date 1659 1670	actualmente
+T51	Neg_cue 1689 1691	no
+T52	Neg_cue 1739 1741	No
+T53	PROC 1759 1783	consentimiento informado
+#26	AnnotatorNotes T53	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T54	Negated 1759 1783	consentimiento informado
+T55	LIVB 1844 1852	personal
+T56	PROC 1883 1894	seguimiento
+#27	AnnotatorNotes T56	C0420316; Other follow-up; Health Care Activity
+T57	LIVB 1899 1907	paciente
+#28	AnnotatorNotes T57	C0030705; Patients; Patient or Disabled Group
+T58	Neg_cue 1980 1987	excluir
+T59	LIVB 1991 1999	paciente
+#29	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
+T60	Negated 1991 1999	paciente
+T61	Negated 1703 1716	participación
+T62	PROC 1703 1716	participación
+T63	PROC 157 175	de forma aleatoria
+T64	Quantifier_or_Qualifier 505 510	local
+T65	Quantifier_or_Qualifier 740 751	persistente
+T66	Quantifier_or_Qualifier 904 912	primaria
+T67	CONC 1141 1146	cerca
+T68	Observation 1524 1539	Encarcelamiento
+T69	Quantifier_or_Qualifier 1549 1557	previsto
+T70	CONC 1588 1610	supervivencia esperada
+T71	Observation 1646 1684	participando actualmente en un estudio
+T72	Observation 1703 1732	participación en otro estudio
+T73	Observation 1820 1829	Problemas
+T74	Observation 1914 1919	Haber
+T75	Observation 1920 1957	participado previamente en el ensayo.
+T76	Patient 74 83	pacientes
+T77	Patient 755 764	pacientes
+T78	Patient 839 848	Pacientes
+T79	History_of 1015 1027	antibióticos
+T80	History_of 1188 1211	infección periprotésica
+T81	Other 1844 1852	personal
+T82	Patient 1899 1907	paciente
+T83	History_of 1914 1956	Haber participado previamente en el ensayo
+T84	Patient 1991 1999	paciente
+T85	Future 1524 1539	Encarcelamiento

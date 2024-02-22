@@ -1,0 +1,191 @@
+T1	DISO 21 37	Malestar general
+#1	AnnotatorNotes T1	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T2	DISO 40 61	focalidad neurológica
+#2	AnnotatorNotes T2	C1848821; Focal neurologic signs; Finding
+T3	LIVB 84 89	Varón
+T4	Age 91 98	66 años
+T5	Neg_cue 156 158	No
+T6	DISO 159 182	alergias medicamentosas
+#3	AnnotatorNotes T6	C0013182; Drug Allergy; Pathologic Function
+T7	Negated 159 192	alergias medicamentosas conocidas
+T8	DISO 196 217	Hipertensión arterial
+#4	AnnotatorNotes T8	C0020538; Hypertensive disease; Disease or Syndrome
+T9	PROC 221 232	tratamiento
+#5	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 237 247	Olmesartán
+#6	AnnotatorNotes T10	C1098320; olmesartan; Organic Chemical · Pharmacologic Substance
+T11	DISO 277 289	rectorragias
+#7	AnnotatorNotes T11	C0018932; Hematochezia; Disease or Syndrome | C0267596; Rectal hemorrhage; Pathologic Function
+T12	Date 296 306	hace meses
+T13	PROC 310 322	Colonoscopia
+#8	AnnotatorNotes T13	C0009378; colonoscopy; Diagnostic Procedure
+T14	DISO 338 359	neoformación en colon
+T15	ANAT 371 386	ángulo hepático
+T16	PROC 403 410	biopsia
+#9	AnnotatorNotes T16	C0005558; Biopsy; Diagnostic Procedure
+T17	PROC 424 458	TAC abdomino-pélvico con contraste
+#10	AnnotatorNotes T17	C2315935; Computed tomography of abdomen and pelvis with contrast; Diagnostic Procedure
+T18	Duration 462 470	las 72 h
+T19	PROC 484 505	consulta en urgencias
+T20	DISO 510 520	Enfermedad
+#11	AnnotatorNotes T20	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T21	Date 521 527	actual
+T22	DISO 541 548	astenia
+#12	AnnotatorNotes T22	C0004093; Asthenia; Sign or Symptom
+T23	DISO 550 568	mareo inespecífico
+T24	DISO 575 583	síncopes
+#13	AnnotatorNotes T24	C0039070; Syncope; Sign or Symptom
+T25	Duration 587 607	las últimas 24 horas
+T26	DISO 620 648	inestabilidad para la marcha
+#14	AnnotatorNotes T26	C0231686; Gait, Unsteady; Finding
+T27	DISO 650 695	alteración de la percepción de la profundidad
+T28	DISO 724 750	disminución de la diuresis
+T29	DISO 757 765	síncopes
+#15	AnnotatorNotes T29	C0039070; Syncope; Sign or Symptom
+T30	Neg_cue 775 778	sin
+T31	DISO 779 788	pródromos
+#16	AnnotatorNotes T31	C0240805; Prodrome; Sign or Symptom
+T32	Negated 779 788	pródromos
+T33	Neg_cue 800 802	No
+T34	DISO 817 823	fiebre
+#17	AnnotatorNotes T34	C0015967; Fever; Sign or Symptom
+T35	Negated 817 823	fiebre
+T36	DISO 825 832	diarrea
+#18	AnnotatorNotes T36	C0011991; Diarrhea; Sign or Symptom
+T37	Negated 825 832	diarrea
+T38	DISO 834 841	vómitos
+#19	AnnotatorNotes T38	C0042963; Vomiting; Sign or Symptom
+T39	Negated 834 841	vómitos
+T40	Neg_cue 842 844	ni
+T41	Negated 845 868	otra clínica infecciosa
+T42	DISO 850 868	clínica infecciosa
+T43	PROC 871 877	EXAMEN
+#20	AnnotatorNotes T43	C0031809; Physical Examination; Health Care Activity
+T44	PROC 882 900	Exploración física
+#21	AnnotatorNotes T44	C0031809; Physical Examination; Health Care Activity
+T45	PROC 904 906	TA
+T46	PROC 919 921	FC
+T47	PROC 929 934	SatO2
+#22	AnnotatorNotes T47	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T48	PROC 1006 1033	Auscultación cardiopulmonar
+T49	ANAT 1044 1051	Abdomen
+#23	AnnotatorNotes T49	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T50	Neg_cue 1075 1077	no
+T51	DISO 1078 1086	doloroso
+#24	AnnotatorNotes T51	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T52	Negated 1078 1086	doloroso
+T53	Neg_cue 1088 1091	sin
+T54	DISO 1092 1097	masas
+#25	AnnotatorNotes T54	C0577559; Mass of body structure; Finding
+T55	Negated 1092 1097	masas
+T56	Neg_cue 1098 1100	ni
+T57	DISO 1101 1109	megalias
+T58	Negated 1101 1109	megalias
+T59	Neg_cue 1113 1115	No
+T60	DISO 1116 1145	edemas en miembros inferiores
+#26	AnnotatorNotes T60	C0239340; Edema of lower extremity; Pathologic Function
+T61	Negated 1116 1145	edemas en miembros inferiores
+T62	Neg_cue 1146 1148	ni
+T63	Negated 1149 1184	signos de trombosis venosa profunda
+T64	PROC 1188 1211	Exploración neurológica
+T65	PROC 1213 1220	Glasgow
+T67	Neg_cue 1259 1261	no
+T68	DISO 1262 1290	focalidad en pares craneales
+T69	Negated 1262 1290	focalidad en pares craneales
+T70	Neg_cue 1294 1296	No
+T71	DISO 1297 1330	perdida de fuerza ni sensibilidad
+T72	Negated 1297 1361	perdida de fuerza ni sensibilidad en ninguna de las extremidades
+T73	ANAT 1349 1361	extremidades
+#27	AnnotatorNotes T73	C0015385; Limb structure; Body Part, Organ, or Organ Component | C1280090; Entire limb; Body Part, Organ, or Organ Component
+T74	PROC 1363 1370	Romberg
+T75	PHYS 1420 1426	Marcha
+T76	Neg_cue 1427 1429	no
+T77	Negated 1430 1439	valorable
+T78	Neg_cue 1443 1445	No
+T79	DISO 1446 1452	afasia
+#28	AnnotatorNotes T79	C0003537; Aphasia; Mental or Behavioral Dysfunction
+T80	Negated 1446 1452	afasia
+T81	Neg_cue 1453 1455	ni
+T82	DISO 1456 1465	disartria
+#29	AnnotatorNotes T82	C0013362; Dysarthria; Mental or Behavioral Dysfunction
+T83	Negated 1456 1465	disartria
+T84	PROC 1470 1493	Pruebas complementarias
+#30	AnnotatorNotes T84	C1515980; Ancillary Study; Research Activity
+T85	PROC 1497 1506	Hemograma
+#31	AnnotatorNotes T85	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T86	PROC 1508 1518	bioquímica
+#32	AnnotatorNotes T86	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T87	PROC 1520 1531	coagulación
+#33	AnnotatorNotes T87	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T88	PROC 1533 1550	gasometría venosa
+#34	AnnotatorNotes T88	C0201919; Blood gases, venous measurement; Diagnostic Procedure
+T89	PROC 1552 1581	análisis sistemático de orina
+T90	PROC 1586 1591	iones
+T91	PROC 1593 1611	electrocardiograma
+#35	AnnotatorNotes T91	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T92	PROC 1615 1640	TAC craneal sin contraste
+T93	Neg_cue 1627 1630	sin
+T94	Negated 1631 1640	contraste
+T95	ANAT 1675 1681	sangre
+#36	AnnotatorNotes T95	C0005767; Blood; Body Substance
+T96	PROC 1683 1693	creatinina
+#37	AnnotatorNotes T96	C0201975; Creatinine measurement; Laboratory Procedure
+T97	PROC 1707 1711	urea
+#38	AnnotatorNotes T97	C0523961; Urea measurement; Laboratory Procedure
+T98	PROC 1757 1762	orina
+T99	PROC 1764 1769	sodio
+#39	AnnotatorNotes T99	C0337443; Sodium measurement; Laboratory Procedure
+T100	PROC 1781 1791	Creatinina
+#40	AnnotatorNotes T100	C0201975; Creatinine measurement; Laboratory Procedure
+T101	PROC 1817 1836	ecografía abdominal
+#41	AnnotatorNotes T101	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T102	PROC 1842 1858	valoración renal
+T103	PROC 1890 1909	Ecografía abdominal
+#42	AnnotatorNotes T103	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T104	PROC 1915 1931	valoración renal
+T105	PROC 1943 1954	TRATAMIENTO
+#43	AnnotatorNotes T105	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T106	PROC 2021 2051	Tratamiento de nefroprotección
+T107	CHEM 2056 2072	N-Acetilcisteína
+#44	AnnotatorNotes T107	C0001047; acetylcysteine; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T108	PROC 2075 2107	sueroterapia intensa intravenosa
+T109	Route 2096 2107	intravenosa
+T110	DISO 2135 2153	IRA parenquimatosa
+T111	CHEM 2168 2184	contraste yodado
+#45	AnnotatorNotes T111	C1960405; Iodinated contrast media; Indicator, Reagent, or Diagnostic Aid
+T115	DISO 1149 1184	signos de trombosis venosa profunda
+T116	DISO 1381 1390	inestable
+T117	PROC 2111 2122	DIAGNÓSTICO
+T118	Observation 100 124	vive solo en medio rural
+T119	Quantifier_or_Qualifier 571 574	dos
+T120	Quantifier_or_Qualifier 753 756	dos
+T121	Quantifier_or_Qualifier 766 773	súbitos
+T122	Result_or_Value 907 917	85/55 mmHg
+T123	Result_or_Value 922 927	74lpm
+T124	Quantifier_or_Qualifier 935 948	aire ambiente
+T125	Result_or_Value 951 955	98%.
+T126	DISO 958 980	Regular estado general
+T127	DISO 983 1002	regular hidratación
+T128	Result_or_Value 1034 1040	normal
+T129	Observation 1052 1061	globuloso
+T130	Observation 1063 1073	depresible
+T131	Result_or_Value 1221 1226	15/15
+T133	Quantifier_or_Qualifier 1430 1439	valorable
+T134	Result_or_Value 1694 1704	3,81 mg/dl
+T135	Result_or_Value 1712 1721	150 mg/dl
+T136	Result_or_Value 1742 1750	normales
+T137	Result_or_Value 1770 1778	46 meq/L
+T138	Result_or_Value 1792 1804	126,3 meq/L.
+T139	Result_or_Value 1880 1886	normal
+T140	Result_or_Value 1933 1939	normal
+T141	Patient 84 89	Varón
+T142	History_of 159 182	alergias medicamentosas
+T143	History_of 196 217	Hipertensión arterial
+T144	History_of 252 259	Estudio
+T145	History_of 277 289	rectorragias
+T146	History_of 424 458	TAC abdomino-pélvico con contraste
+T147	History_of 310 322	Colonoscopia
+T148	ANAT 354 359	colon
+T149	ANAT 1126 1145	miembros inferiores
+T150	Observation 1228 1257	orientado en las tres esferas
+T66	Result_or_Value 1371 1379	positivo

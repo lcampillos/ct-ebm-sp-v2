@@ -1,77 +1,114 @@
 T1	PROC 46 95	ENSAYO CLÍNICO ABIERTO, ALEATORIZADO Y CONTROLADO
-T4	Route 143 157	INTRABRONQUIAL
-T7	LIVB 207 216	PACIENTES
-#2	AnnotatorNotes T7	C0030705; Patients; Patient or Disabled Group
-T12	LIVB 305 314	PACIENTES
-#4	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
-T17	LIVB 392 401	pacientes
-#6	AnnotatorNotes T17	C0030705; Patients; Patient or Disabled Group
-T19	LIVB 466 483	Pacientes adultos
-T20	Age 476 483	adultos
-T21	Age 484 492	≥18 años
-T22	LIVB 536 545	Pacientes
-#7	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
-T23	PROC 563 590	trasplante uni o bipulmonar
-T24	PROC 594 605	Diagnóstico
-#8	AnnotatorNotes T24	C0011900; Diagnosis; Diagnostic Procedure
-T25	DISO 621 624	BOS
-T26	PROC 631 635	FEV1
-T27	PROC 645 648	FEF
-T28	Neg_cue 674 677	sin
-T29	Negated 678 688	otra causa
-T30	Duration 711 730	los últimos 6 meses
-T31	PROC 774 792	trasplante lobular
-T32	PROC 809 839	trasplante de corazón y pulmón
-T33	DISO 843 852	Infección
-#9	AnnotatorNotes T33	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
-T34	Neg_cue 915 917	no
-T35	PROC 918 925	tratado
-T36	Negated 918 925	tratado
-T37	Neg_cue 981 988	excepto
-T38	DISO 989 1008	basocelular cutáneo
-T39	Negated 989 1008	basocelular cutáneo
-T40	DISO 1011 1028	carcinoma in situ
-#10	AnnotatorNotes T40	C0007099; Carcinoma in Situ; Neoplastic Process | C0851135; In situ cancer; Neoplastic Process
-T41	Negated 1011 1028	carcinoma in situ
-T42	DISO 1033 1068	Enfermedades autoinmunes sistémicas
-T43	DISO 1073 1105	Infección activa por VIH/VHB/VHC
-T44	PROC 1122 1131	serología
-#11	AnnotatorNotes T44	C0036743; Serologic tests; Laboratory Procedure
-T45	PROC 1134 1137	PCR
-#12	AnnotatorNotes T45	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
-T46	DISO 1142 1176	Estenosis de la vía aérea proximal
-T48	LIVB 1201 1208	mujeres
-#14	AnnotatorNotes T48	C0043210; Woman; Population Group | C0242665; wife; Family Group
-T49	PROC 1329 1345	Estado funcional
-T52	PHYS 1418 1425	vigilia
-#15	AnnotatorNotes T52	C0043012; Wakefulness; Mental Process
-T55	Duration 1518 1536	inferior a 3 meses
-T56	DISO 1542 1559	Hipersensibilidad
-#16	AnnotatorNotes T56	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
-T57	CHEM 1618 1621	SCC
-#17	AnnotatorNotes T57	C0206651; Clear Cell Sarcoma of Soft Tissue; Neoplastic Process
-T58	LIVB 1680 1692	investigador
-#18	AnnotatorNotes T58	C0035173; Research Personnel; Professional or Occupational Group
-T59	LIVB 1722 1730	paciente
-#19	AnnotatorNotes T59	C0030705; Patients; Patient or Disabled Group
-T60	PROC 1753 1767	ensayo clínico
-#20	AnnotatorNotes T60	C0008976; Clinical Trials; Research Activity
-T61	DISO 894 907	Rechazo agudo
-#21	AnnotatorNotes T61	Acute rejection of lung transplant (C2315624)
-T62	DISO 960 979	Historia oncológica
-T5	DISO 221 260	RECHAZO CRÓNICO DE TRASPLANTE DE PULMÓN
-#1	AnnotatorNotes T5	Chronic rejection of lung transplant C2317104 (pathological function)
-T6	DISO 319 358	RECHAZO CRÓNICO DE TRASPLANTE DE PULMÓN
-T10	Spec_cue 1229 1238	planeando
-T11	PHYS 1248 1259	embarazadas
-T13	Speculated 1248 1259	embarazadas
-T15	PROC 1318 1324	ensayo
-T16	Spec_cue 1266 1273	quieran
-T47	PHYS 1283 1293	embarazada
-T64	Speculated 1283 1293	embarazada
+T2	Route 143 157	INTRABRONQUIAL
+T3	LIVB 207 216	PACIENTES
+#1	AnnotatorNotes T3	C0030705; Patients; Patient or Disabled Group
+T4	LIVB 305 314	PACIENTES
+#2	AnnotatorNotes T4	C0030705; Patients; Patient or Disabled Group
+T5	LIVB 392 401	pacientes
+#3	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	LIVB 466 483	Pacientes adultos
+T7	Age 476 483	adultos
+T8	Age 484 492	≥18 años
+T9	LIVB 536 545	Pacientes
+#4	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	PROC 563 590	trasplante uni o bipulmonar
+T11	PROC 594 605	Diagnóstico
+#5	AnnotatorNotes T11	C0011900; Diagnosis; Diagnostic Procedure
+T12	DISO 621 624	BOS
+T13	PROC 631 635	FEV1
+T14	PROC 645 648	FEF
+T15	Neg_cue 674 677	sin
+T16	Negated 678 688	otra causa
+T17	Duration 711 730	los últimos 6 meses
+T18	PROC 774 792	trasplante lobular
+T19	PROC 809 839	trasplante de corazón y pulmón
+T20	DISO 843 852	Infección
+#6	AnnotatorNotes T20	C0009450; Communicable Diseases; Disease or Syndrome | C3714514; Infection; Pathologic Function
+T21	Neg_cue 915 917	no
+T22	PROC 918 925	tratado
+T23	Negated 918 925	tratado
+T24	Neg_cue 981 988	excepto
+T25	DISO 989 1008	basocelular cutáneo
+T26	Negated 989 1008	basocelular cutáneo
+T27	DISO 1011 1028	carcinoma in situ
+#7	AnnotatorNotes T27	C0007099; Carcinoma in Situ; Neoplastic Process | C0851135; In situ cancer; Neoplastic Process
+T28	Negated 1011 1028	carcinoma in situ
+T29	DISO 1033 1068	Enfermedades autoinmunes sistémicas
+T30	DISO 1073 1105	Infección activa por VIH/VHB/VHC
+T31	PROC 1122 1131	serología
+#8	AnnotatorNotes T31	C0036743; Serologic tests; Laboratory Procedure
+T32	PROC 1134 1137	PCR
+#9	AnnotatorNotes T32	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T33	DISO 1142 1176	Estenosis de la vía aérea proximal
+T34	LIVB 1201 1208	mujeres
+#10	AnnotatorNotes T34	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T35	PROC 1329 1345	Estado funcional
+T36	PHYS 1418 1425	vigilia
+#11	AnnotatorNotes T36	C0043012; Wakefulness; Mental Process
+T37	Duration 1518 1536	inferior a 3 meses
+T38	DISO 1542 1559	Hipersensibilidad
+#12	AnnotatorNotes T38	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T39	CHEM 1618 1621	SCC
+#13	AnnotatorNotes T39	C0206651; Clear Cell Sarcoma of Soft Tissue; Neoplastic Process
+T40	LIVB 1680 1692	investigador
+#14	AnnotatorNotes T40	C0035173; Research Personnel; Professional or Occupational Group
+T41	LIVB 1722 1730	paciente
+#15	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	PROC 1753 1767	ensayo clínico
+#16	AnnotatorNotes T42	C0008976; Clinical Trials; Research Activity
+T43	DISO 894 907	Rechazo agudo
+#17	AnnotatorNotes T43	Acute rejection of lung transplant (C2315624)
+T44	DISO 960 979	Historia oncológica
+T45	DISO 221 260	RECHAZO CRÓNICO DE TRASPLANTE DE PULMÓN
+#18	AnnotatorNotes T45	Chronic rejection of lung transplant C2317104 (pathological function)
+T46	DISO 319 358	RECHAZO CRÓNICO DE TRASPLANTE DE PULMÓN
+T47	Spec_cue 1229 1238	planeando
+T48	PHYS 1248 1259	embarazadas
+T49	Speculated 1248 1259	embarazadas
+T50	PROC 1318 1324	ensayo
+T51	Spec_cue 1266 1273	quieran
+T52	PHYS 1283 1293	embarazada
+T53	Speculated 1283 1293	embarazada
 T54	PROC 101 157	EVALUAR LA SEGURIDAD DE LA ADMINISTRACIÓN INTRABRONQUIAL
-T3	LIVB 1180 1199	Mujeres embarazadas
-T18	CHEM 1575 1586	componentes
-T9	PROC 425 461	consentimiento informado por escrito
-T2	PROC 262 281	Estudio ENDOSC-CLAD
-T14	CHEM 161 203	CÉLULAS DEL ESTROMA MESENQUIMAL ALOGÉNICAS
+T55	LIVB 1180 1199	Mujeres embarazadas
+T56	CHEM 1575 1586	componentes
+T57	PROC 425 461	consentimiento informado por escrito
+T58	PROC 262 281	Estudio ENDOSC-CLAD
+T59	CHEM 161 203	CÉLULAS DEL ESTROMA MESENQUIMAL ALOGÉNICAS
+T60	Quantifier_or_Qualifier 193 203	ALOGÉNICAS
+T61	Quantifier_or_Qualifier 229 236	CRÓNICO
+T62	Quantifier_or_Qualifier 606 617	establecido
+T63	Result_or_Value 625 629	≥ 0p
+T64	Result_or_Value 636 640	≤90%
+T65	Result_or_Value 649 655	25-75%
+T66	Result_or_Value 656 673	≤ del valor basal
+T67	CONC 683 688	causa
+T68	Quantifier_or_Qualifier 853 859	activa
+T69	CONC 880 889	inclusión
+T70	Quantifier_or_Qualifier 908 914	activo
+T71	CONC 946 955	inclusión
+T72	Observation 1213 1220	quieran
+T73	Observation 1229 1259	planeando quedarse embarazadas
+T74	Observation 1266 1293	quieran quedarse embarazada
+T75	Result_or_Value 1346 1351	3 o 4
+T76	Observation 1427 1489	capaz solo de realizar algunas actividades de cuidado personal
+T77	CONC 1495 1517	Supervivencia estimada
+T78	Quantifier_or_Qualifier 1622 1632	alogénicos
+T79	Observation 1694 1717	comprometa la capacidad
+T80	Observation 1736 1767	participar en el ensayo clínico
+T81	Patient 207 216	PACIENTES
+T82	Patient 305 314	PACIENTES
+T83	Patient 392 401	pacientes
+T84	Patient 466 483	Pacientes adultos
+T85	Patient 536 545	Pacientes
+T86	History_of 774 792	trasplante lobular
+T87	History_of 809 839	trasplante de corazón y pulmón
+T88	History_of 989 1008	basocelular cutáneo
+T89	History_of 1011 1028	carcinoma in situ
+T90	Patient 1180 1199	Mujeres embarazadas
+T91	Patient 1201 1208	mujeres
+T92	Future 1248 1259	embarazadas
+T93	Future 1283 1293	embarazada
+T94	History_of 1542 1559	Hipersensibilidad
+T95	Other 1680 1692	investigador
+T96	Patient 1722 1730	paciente

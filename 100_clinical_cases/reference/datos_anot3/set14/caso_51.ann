@@ -1,0 +1,261 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	71 años
+T3	PROC 50 58	consulta
+#2	AnnotatorNotes T3	C0009818; Consultation; Health Care Activity
+T4	DISO 78 83	torpe
+T5	DISO 108 118	Enfermedad
+#3	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	Date 119 125	actual
+T7	PROC 136 144	consulta
+#4	AnnotatorNotes T7	C0009818; Consultation; Health Care Activity
+T8	LIVB 151 168	Médico de Familia
+#5	AnnotatorNotes T8	C1704221; Physicians, Family; Professional or Occupational Group
+T9	Date 185 204	hace más de 20 años
+T10	LIVB 225 229	hijo
+T11	LIVB 232 238	marido
+#6	AnnotatorNotes T11	C0242664; husband; Family Group
+T12	Date 254 266	últimos días
+T13	DISO 280 285	torpe
+T14	DISO 311 343	empeoramiento del estado general
+T15	DISO 348 359	decaimiento
+#7	AnnotatorNotes T15	C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T16	DISO 362 388	torpeza en los movimientos
+T17	DISO 401 408	temblor
+#8	AnnotatorNotes T17	C0040822; Tremor; Sign or Symptom | C0040823; Tremor NEC in MDR; Sign or Symptom | C0234369; Trembling; Sign or Symptom
+T18	DISO 411 433	trastorno de la marcha
+#9	AnnotatorNotes T18	C0575081; Gait abnormality; Finding
+T19	DISO 438 455	pérdida de fuerza
+#10	AnnotatorNotes T19	C3714552; Weakness; Sign or Symptom
+T20	ANAT 459 478	miembros inferiores
+#11	AnnotatorNotes T20	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T21	DISO 484 493	dismetría
+#12	AnnotatorNotes T21	C0234162; Cerebellar Dysmetria; Finding
+T22	DISO 496 505	disartria
+#13	AnnotatorNotes T22	C0013362; Dysarthria; Mental or Behavioral Dysfunction
+T23	DISO 517 524	nauseas
+#14	AnnotatorNotes T23	C0027497; Nausea; Sign or Symptom
+T24	Date 531 544	hace 4-5 días
+T25	CHEM 605 615	medicación
+#15	AnnotatorNotes T25	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T26	DISO 622 629	diarrea
+#16	AnnotatorNotes T26	C0011991; Diarrhea; Sign or Symptom
+T27	Date 636 649	hace 2-3 días
+T28	ANAT 655 660	heces
+#17	AnnotatorNotes T28	C0015733; Feces; Body Substance
+T29	Neg_cue 685 688	sin
+T30	Negated 702 723	productos patológicos
+T31	ANAT 727 733	orinas
+#18	AnnotatorNotes T31	C0042036; Urine; Body Substance
+T32	DISO 767 773	caídas
+#19	AnnotatorNotes T32	C0085639; Falls; Finding
+T33	Date 797 810	últimos meses
+T34	DISO 816 829	inestabilidad
+#20	AnnotatorNotes T34	C0231444; Flail motion; Finding | C0281825; Dysequilibrium; Finding | C0427108; General unsteadiness; Finding | C1444783; Instability; Finding
+T35	DISO 873 878	mareo
+#21	AnnotatorNotes T35	C0012833; Dizziness; Sign or Symptom | C0220870; Lightheadedness; Sign or Symptom
+T36	Neg_cue 884 887	sin
+T37	DISO 888 920	pérdida del nivel de consciencia
+T38	Negated 888 920	pérdida del nivel de consciencia
+T39	Neg_cue 923 925	No
+T41	DISO 932 960	signos de alarma neurológica
+T42	Neg_cue 963 968	Niega
+T43	DISO 969 981	traumatismos
+#22	AnnotatorNotes T43	C3263723; Traumatic injury; Injury or Poisoning | C3714660; Trauma; Injury or Poisoning
+T44	Negated 969 981	traumatismos
+T45	Neg_cue 984 986	No
+T46	DISO 987 1001	dolor torácico
+#23	AnnotatorNotes T46	C0008031; Chest Pain; Sign or Symptom
+T47	Negated 987 1001	dolor torácico
+T48	Neg_cue 1002 1004	ni
+T49	DISO 1005 1011	disnea
+#24	AnnotatorNotes T49	C0013404; Dyspnea; Sign or Symptom
+T50	Negated 1005 1011	disnea
+T51	Neg_cue 1013 1015	No
+T52	DISO 1016 1031	dolor abdominal
+#25	AnnotatorNotes T52	C0000737; Abdominal Pain; Sign or Symptom
+T53	Negated 1016 1031	dolor abdominal
+T54	Neg_cue 1034 1036	No
+T55	DISO 1037 1043	fiebre
+#26	AnnotatorNotes T55	C0015967; Fever; Sign or Symptom
+T56	Negated 1037 1043	fiebre
+T57	PROC 1049 1060	seguimiento
+#27	AnnotatorNotes T57	C0420316; Other follow-up; Health Care Activity
+T58	DISO 1101 1127	inestabilidad de la marcha
+#28	AnnotatorNotes T58	C0231686; Gait, Unsteady; Finding
+T59	DISO 1130 1137	temblor
+#29	AnnotatorNotes T59	C0040822; Tremor; Sign or Symptom | C0040823; Tremor NEC in MDR; Sign or Symptom | C0234369; Trembling; Sign or Symptom
+T60	Spec_cue 1141 1149	probable
+T61	Speculated 1150 1196	origen multifactorial (poliartrosis/yatrogeno)
+T62	Date 1199 1222	Hace algo más de un mes
+T63	PROC 1241 1265	tratamiento psiquiátrico
+T64	PROC 1273 1281	suspende
+T65	Neg_cue 1273 1281	suspende
+T66	CHEM 1285 1295	quetiapina
+#30	AnnotatorNotes T66	C0123091; quetiapine; Organic Chemical · Pharmacologic Substance
+T67	Negated 1285 1295	quetiapina
+T68	Spec_cue 1302 1321	sospecha de posible
+T69	Speculated 1322 1339	causa del temblor
+T70	DISO 1332 1339	temblor
+#31	AnnotatorNotes T70	C0040822; Tremor; Sign or Symptom | C0040823; Tremor NEC in MDR; Sign or Symptom | C0234369; Trembling; Sign or Symptom
+T71	Frequency 1402 1408	diaria
+T72	DISO 1414 1437	limitación de movilidad
+T73	Date 1441 1453	largo tiempo
+T74	Neg_cue 1473 1476	sin
+T75	Negated 1477 1506	necesidad de ayuda ortopédica
+T76	PROC 1496 1506	ortopédica
+T77	Neg_cue 1538 1541	Sin
+T78	DISO 1542 1565	alergias medicamentosas
+#32	AnnotatorNotes T78	C0013182; Drug Allergy; Pathologic Function
+T80	DISO 1578 1599	Hipertensión arterial
+#33	AnnotatorNotes T80	C0020538; Hypertensive disease; Disease or Syndrome
+T81	DISO 1602 1612	Dislipemia
+#34	AnnotatorNotes T81	C0242339; Dyslipidemias; Disease or Syndrome
+T82	DISO 1616 1630	Hipotiroidismo
+#35	AnnotatorNotes T82	C0020676; Hypothyroidism; Disease or Syndrome
+T83	DISO 1633 1650	Trastorno bipolar
+#36	AnnotatorNotes T83	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction
+T84	DISO 1654 1666	Fibromialgia
+#37	AnnotatorNotes T84	C0016053; Fibromyalgia; Disease or Syndrome
+T85	Neg_cue 1671 1674	Sin
+T86	Negated 1675 1699	antecedentes quirúrgicos
+T87	Neg_cue 1700 1702	ni
+T88	DISO 1703 1718	hábitos tóxicos
+T89	Negated 1703 1718	hábitos tóxicos
+T90	PROC 1722 1733	Tratamiento
+#38	AnnotatorNotes T90	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T91	Date 1734 1740	actual
+T92	CHEM 1745 1755	lisinopril
+#39	AnnotatorNotes T92	C0065374; lisinopril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T93	Dose 1756 1762	20 mg/
+T94	CHEM 1762 1779	hidroclorotiacida
+#40	AnnotatorNotes T94	C0020261; hydrochlorothiazide; Organic Chemical · Pharmacologic Substance
+T95	Dose 1780 1800	12.5 mg 1 comprimido
+T96	Frequency 1800 1808	/24horas
+T97	CHEM 1811 1824	atorvastatina
+#41	AnnotatorNotes T97	C0286651; atorvastatin; Organic Chemical · Pharmacologic Substance
+T98	Dose 1825 1843	20 mg 1 comprimido
+T99	Frequency 1843 1851	/24horas
+T100	CHEM 1854 1862	tiroxina
+#42	AnnotatorNotes T100	C0202231; Thyroxine measurement; Laboratory Procedure
+T101	Dose 1863 1883	150 mcg 1 comprimido
+T102	Frequency 1883 1891	/24horas
+T103	CHEM 1894 1899	litio
+#43	AnnotatorNotes T103	C0023870; lithium; Element, Ion, or Isotope · Pharmacologic Substance
+T104	Dose 1900 1920	400 mg (0.5- 0.5- 1)
+T105	CHEM 1923 1934	lamotrigina
+#44	AnnotatorNotes T105	C0064636; lamotrigine; Organic Chemical · Pharmacologic Substance
+T106	Dose 1935 1950	50 mg (1- 0- 2)
+T107	CHEM 1953 1963	alprazolam
+#45	AnnotatorNotes T107	C0002333; alprazolam; Organic Chemical · Pharmacologic Substance
+T108	Dose 1964 1971	0.25 mg
+T109	Frequency 1971 1974	/8h
+T110	CHEM 1978 1998	tramadol/paracetamol
+T111	PROC 2024 2042	Exploración física
+#46	AnnotatorNotes T111	C0031809; Physical Examination; Health Care Activity
+T112	Observation 2044 2054	Consciente
+#47	AnnotatorNotes T112	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T115	DISO 2109 2142	marcha con anteflexión del tronco
+T116	DISO 2144 2156	pasos cortos
+T117	DISO 2159 2171	braceo pobre
+T118	DISO 2174 2215	Temblor de miembros superiores de actitud
+T119	DISO 2218 2240	Mioclonías palpebrales
+T120	ANAT 2243 2258	Pares craneales
+#48	AnnotatorNotes T120	C0010268; Cranial Nerves; Body Part, Organ, or Organ Component | C1269897; Entire cranial nerve; Body Part, Organ, or Organ Component
+T121	DISO 2269 2278	disartria
+#49	AnnotatorNotes T121	C0013362; Dysarthria; Mental or Behavioral Dysfunction
+T122	PHYS 2280 2289	motilidad
+#50	AnnotatorNotes T122	C1510470; Motility; Functional Concept
+T123	PHYS 2292 2304	sensibilidad
+#51	AnnotatorNotes T123	C0312418; Personality Sensitivity; Mental Process
+T124	ANAT 2308 2316	miembros
+#52	AnnotatorNotes T124	C0015385; Limb structure; Body Part, Organ, or Organ Component
+T125	DISO 2327 2347	dismetría dedo-nariz
+T126	PHYS 2350 2369	Reflejos posturales
+#53	AnnotatorNotes T126	C0234154; Postural reflex; Organ or Tissue Function
+T127	PROC 2393 2428	exploración por aparatos y sistemas
+T128	PROC 2494 2517	Pruebas complementarias
+#54	AnnotatorNotes T128	C1515980; Ancillary Study; Research Activity
+T129	PROC 2519 2530	TAC craneal
+#55	AnnotatorNotes T129	C0412603; CT of skull; Diagnostic Procedure
+T130	PROC 2533 2551	análisis sanguíneo
+T131	PROC 2607 2617	creatinina
+#56	AnnotatorNotes T131	C0201975; Creatinine measurement; Laboratory Procedure
+T132	PROC 2633 2651	Electrocardiograma
+#57	AnnotatorNotes T132	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T134	PROC 2679 2697	Control de litemia
+T135	PROC 2727 2738	TRATAMIENTO
+#59	AnnotatorNotes T135	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T136	LIVB 2755 2772	Médico de Familia
+#60	AnnotatorNotes T136	C1704221; Physicians, Family; Professional or Occupational Group
+T137	PROC 2780 2789	suspender
+T138	Neg_cue 2780 2789	suspender
+T139	CHEM 2790 2809	diurético tiacídico
+T140	Negated 2790 2809	diurético tiacídico
+T141	DISO 2861 2880	cuadro psiquiátrico
+T142	PROC 2893 2904	se suspende
+T143	Neg_cue 2893 2904	se suspende
+T144	CHEM 2905 2910	litio
+#61	AnnotatorNotes T144	C0023870; lithium; Element, Ion, or Isotope · Pharmacologic Substance
+T145	Negated 2905 2910	litio
+T146	PROC 2923 2934	tratamiento
+#62	AnnotatorNotes T146	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T147	DISO 2939 2956	trastorno bipolar
+#63	AnnotatorNotes T147	C0005586; Bipolar Disorder; Mental or Behavioral Dysfunction
+T148	CHEM 2961 2972	lamotrigina
+#64	AnnotatorNotes T148	C0064636; lamotrigine; Organic Chemical · Pharmacologic Substance
+T149	PROC 3025 3039	Se diagnostica
+T150	DISO 3043 3069	sobredosificación de litio
+T151	DISO 3124 3138	deshidratación
+#65	AnnotatorNotes T151	C0011175; Dehydration; Disease or Syndrome
+T152	DISO 3156 3171	gastroenteritis
+#66	AnnotatorNotes T152	C0017160; Gastroenteritis; Disease or Syndrome
+T153	DISO 1173 1185	poliartrosis
+T154	LIVB 2826 2836	Psiquiatra
+T155	PROC 2013 2019	EXAMEN
+T156	PROC 3001 3012	DIAGNÓSTICO
+T157	PROC 3092 3110	toma de medicación
+T159	Observation 664 684	consistencia líquida
+T160	Observation 702 723	productos patológicos
+T161	Quantifier_or_Qualifier 734 745	más oscuras
+T162	Quantifier_or_Qualifier 757 766	numerosas
+T163	Quantifier_or_Qualifier 774 789	de forma casual
+T164	Observation 849 867	cambios posturales
+T165	Quantifier_or_Qualifier 879 883	leve
+T166	CONC 1150 1171	origen multifactorial
+T167	CONC 1322 1327	causa
+T168	Observation 1345 1349	cede
+T169	Observation 1352 1408	Independiente para actividades básicas de la vida diaria
+T170	Observation 2120 2142	anteflexión del tronco
+T171	Observation 2243 2267	Pares craneales normales
+T174	Observation 2350 2381	Reflejos posturales conservados
+T175	Result_or_Value 2429 2452	dentro de la normalidad
+T178	Result_or_Value 2621 2631	1.6 mg/dl.
+T179	Observation 2654 2667	ritmo sinusal
+T180	Result_or_Value 2670 2677	70 lpm.
+T181	Result_or_Value 2712 2723	2.68 mEq/l.
+T182	Observation 2846 2857	estabilidad
+T183	Patient 21 26	Mujer
+T184	Other 151 168	Médico de Familia
+T185	Family_member 225 229	hijo
+T186	Family_member 232 238	marido
+T187	History_of 1542 1565	alergias medicamentosas
+T188	History_of 1578 1599	Hipertensión arterial
+T189	History_of 1602 1612	Dislipemia
+T190	History_of 1654 1666	Fibromialgia
+T191	Other 2755 2772	Médico de Familia
+T192	Other 2826 2836	Psiquiatra
+T193	Future 2987 2996	evolución
+T40	Negated 932 960	signos de alarma neurológica
+T158	Quantifier_or_Qualifier 926 931	otros
+T194	History_of 1616 1630	Hipotiroidismo
+T195	History_of 1633 1650	Trastorno bipolar
+T196	History_of 1703 1718	hábitos tóxicos
+T172	Observation 2280 2325	motilidad y sensibilidad de miembros normales
+T173	Result_or_Value 2566 2589	dentro de la normalidad
+T133	Observation 574 598	haya saltado alguna toma
+T79	Negated 1542 1565	alergias medicamentosas
+T176	DISO 1186 1195	yatrogeno
+#58	AnnotatorNotes T176	Iatrogenic Disease (C0020732) Disease or syndrome
+T177	History_of 1675 1699	antecedentes quirúrgicos
+T113	Observation 2057 2095	orientada en persona, espacio y tiempo

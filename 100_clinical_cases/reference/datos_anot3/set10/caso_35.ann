@@ -1,0 +1,137 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	55 años
+T3	DISO 72 94	debilidad generalizada
+#2	AnnotatorNotes T3	C3714552; Weakness; Sign or Symptom
+T4	LIVB 134 139	hijas
+T5	DISO 144 154	Enfermedad
+#3	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	DISO 199 218	síntomas catarrales
+#4	AnnotatorNotes T6	C0863093; Cold symptoms; Disease or Syndrome
+T7	DISO 235 256	molestias abdominales
+#5	AnnotatorNotes T7	C0232487; Abdominal discomfort; Sign or Symptom
+T9	DISO 366 382	malestar general
+#6	AnnotatorNotes T9	C0231218; Malaise; Sign or Symptom | C2364135; Discomfort; Sign or Symptom
+T10	DISO 384 403	síntomas catarrales
+#7	AnnotatorNotes T10	C0863093; Cold symptoms; Disease or Syndrome
+T11	DISO 405 412	astenia
+#8	AnnotatorNotes T11	C0004093; Asthenia; Sign or Symptom
+T12	DISO 414 436	disminución de apetito
+#9	AnnotatorNotes T12	C0232462; Decrease in appetite; Sign or Symptom
+T13	DISO 447 476	pérdida de algunos kilogramos
+T15	Neg_cue 499 502	Sin
+T16	Negated 503 538	respuesta a tratamiento sintomático
+T17	Spec_cue 543 554	sospecha de
+T18	DISO 555 568	mononucleosis
+#10	AnnotatorNotes T18	C0021345; Infectious Mononucleosis; Disease or Syndrome
+T19	Speculated 555 568	mononucleosis
+T20	DISO 601 611	Dislipemia
+#11	AnnotatorNotes T20	C0242339; Dyslipidemias; Disease or Syndrome
+T21	DISO 613 639	síndrome ansioso-depresivo
+#12	AnnotatorNotes T21	C0338908; Mixed anxiety and depressive disorder; Mental or Behavioral Dysfunction
+T22	DISO 641 658	cefalea tensional
+#13	AnnotatorNotes T22	C0033893; Tension Headache; Disease or Syndrome
+T23	DISO 674 714	taquicardia supraventricular paroxística
+#14	AnnotatorNotes T23	C0030590; Paroxysmal supraventricular tachycardia; Disease or Syndrome | C1406795; tachycardia; paroxysmal, atrioventricular (AV); Disease or Syndrome
+T24	PROC 718 729	Intervenida
+#15	AnnotatorNotes T24	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T25	PROC 733 757	timpanoplastia izquierda
+T26	Date 761 765	2001
+T27	LIVB 798 803	Padre
+#16	AnnotatorNotes T27	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T28	DISO 804 813	fallecido
+#17	AnnotatorNotes T28	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T29	DISO 818 836	neoplasia de colon
+#18	AnnotatorNotes T29	C0007102; Malignant tumor of colon; Neoplastic Process
+T30	LIVB 840 845	Madre
+#19	AnnotatorNotes T30	C0026591; Mother (person); Family Group
+T31	DISO 850 859	depresión
+#20	AnnotatorNotes T31	C0011570; Mental Depression; Mental or Behavioral Dysfunction | C0011581; Depressive disorder; Mental or Behavioral Dysfunction | C0344315; Depressed mood; Mental or Behavioral Dysfunction
+T32	LIVB 862 875	prima paterna
+T33	DISO 880 894	cáncer de mama
+#21	AnnotatorNotes T33	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T34	Age 901 908	58 años
+T35	PROC 921 939	Exploración física
+#22	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	DISO 944 966	Dolor abdominal difuso
+#23	AnnotatorNotes T36	C0344304; Generalized abdominal pain; Sign or Symptom
+T37	DISO 969 990	malestar generalizado
+T38	Duration 994 1004	tres meses
+T39	DISO 1022 1040	Palpación dolorosa
+T40	ANAT 1045 1064	hipocondrio derecho
+#24	AnnotatorNotes T40	C0738590; Right hypochondriac region structure; Body Location or Region
+T41	ANAT 1075 1090	epi-mesogastrio
+T42	DISO 1094 1123	Pérdida de tres kilos de peso
+T43	Date 1127 1140	el último mes
+T44	DISO 1146 1153	astenia
+#25	AnnotatorNotes T44	C0004093; Asthenia; Sign or Symptom
+T46	Date 1169 1174	ahora
+T47	Neg_cue 1175 1186	inexistente
+T48	PROC 1189 1212	Pruebas complementarias
+#26	AnnotatorNotes T48	C1515980; Ancillary Study; Research Activity
+T49	PROC 1216 1236	Ecografía de abdomen
+#27	AnnotatorNotes T49	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T52	Spec_cue 1299 1312	sugestivas de
+T53	DISO 1313 1333	metástasis hepáticas
+#29	AnnotatorNotes T53	C0494165; Secondary malignant neoplasm of liver; Neoplastic Process
+T54	Speculated 1313 1333	metástasis hepáticas
+T55	PROC 1337 1340	TAC
+#30	AnnotatorNotes T55	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T57	ANAT 1360 1378	cuerpo pancreático
+T60	ANAT 1481 1486	tórax
+#31	AnnotatorNotes T60	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T62	DISO 1538 1541	TEP
+#32	AnnotatorNotes T62	C0034065; Pulmonary Embolism; Pathologic Function | C0524702; Pulmonary Thromboembolisms; Disease or Syndrome
+T63	PROC 1545 1556	TRATAMIENTO
+#33	AnnotatorNotes T63	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T64	PROC 1571 1594	Tratamiento sintomático
+#34	AnnotatorNotes T64	C2146147; treat symptoms; Therapeutic or Preventive Procedure
+T65	CHEM 1599 1610	paracetamol
+#35	AnnotatorNotes T65	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T66	CHEM 1612 1621	omeprazol
+#36	AnnotatorNotes T66	C0028978; omeprazole; Organic Chemical · Pharmacologic Substance
+T67	PROC 1624 1636	dieta blanda
+#37	AnnotatorNotes T67	C0301569; Soft diet; Therapeutic or Preventive Procedure
+T68	DISO 1724 1748	Tromboembolismo pulmonar
+#38	AnnotatorNotes T68	C0034065; Pulmonary Embolism; Pathologic Function | C0524702; Pulmonary Thromboembolisms; Disease or Syndrome
+T69	DISO 1750 1771	Neoplasia pancreática
+#39	AnnotatorNotes T69	C0030297; Pancreatic Neoplasm; Neoplastic Process
+T70	DISO 1784 1803	Metástasis hepática
+#40	AnnotatorNotes T70	C0494165; Secondary malignant neoplasm of liver; Neoplastic Process
+T72	PROC 912 918	EXAMEN
+T73	PROC 1700 1711	DIAGNÓSTICO
+T74	PROC 38 67	consulta en Atención Primaria
+T75	Date 155 161	actual
+T76	PROC 165 194	Consulta en Atención Primaria
+T78	Observation 117 123	Casada
+T79	Quantifier_or_Qualifier 219 232	mal definidos
+T80	Quantifier_or_Qualifier 257 264	difusas
+T83	Quantifier_or_Qualifier 1154 1162	moderada
+T85	Quantifier_or_Qualifier 1269 1278	múltiples
+T86	Observation 1382 1407	contornos mal delimitados
+T87	Quantifier_or_Qualifier 1409 1418	Múltiples
+T88	Quantifier_or_Qualifier 1772 1783	estadio IV.
+T89	Patient 21 26	Mujer
+T90	Family_member 134 139	hijas
+T91	History_of 601 611	Dislipemia
+T92	History_of 613 639	síndrome ansioso-depresivo
+T93	History_of 641 658	cefalea tensional
+T94	History_of 674 714	taquicardia supraventricular paroxística
+T97	Family_member 798 803	Padre
+T98	Family_member 840 845	Madre
+T99	Family_member 862 875	prima paterna
+T8	PROC 312 329	Atención Primaria
+T101	PROC 337 346	urgencias
+T14	History_of 447 476	pérdida de algunos kilogramos
+T81	Observation 503 538	respuesta a tratamiento sintomático
+T45	Date 484 498	meses previos.
+T82	Date 281 303	las siguientes semanas
+T50	DISO 1238 1264	Hígado aumentado de tamaño
+T51	DISO 1279 1298	lesiones hipodensas
+T56	DISO 1342 1356	masa hipodensa
+T58	DISO 1419 1448	lesiones hipodensas en hígado
+T59	DISO 1450 1476	Infiltración carcinomatosa
+T61	DISO 1499 1521	trombos intraluminares
+T71	DISO 1805 1827	Infiltración de omento
+T84	Quantifier_or_Qualifier 130 133	dos
+T77	Future 1687 1696	oncología

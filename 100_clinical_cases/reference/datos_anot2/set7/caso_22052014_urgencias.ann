@@ -1,0 +1,134 @@
+T1	DISO 22 46	Acorchamiento de la cara
+T2	DISO 51 60	parálisis
+#1	AnnotatorNotes T2	C0522224; Paralysed; Finding
+T3	LIVB 83 88	Varón
+T4	Age 92 99	32 años
+T5	Neg_cue 132 134	no
+T6	Negated 135 145	relevantes
+T7	DISO 151 161	Enfermedad
+#2	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	Date 162 168	actual
+T9	DISO 180 213	acorchamiento de hemicara derecha
+T10	Duration 277 285	24 horas
+T11	Neg_cue 302 304	No
+T12	DISO 305 341	pérdida de fuerza ni de sensibilidad
+T13	Negated 305 364	pérdida de fuerza ni de sensibilidad en el resto del cuerpo
+T14	ANAT 358 364	cuerpo
+#3	AnnotatorNotes T14	C0229960; Entire body as a whole; Fully Formed Anatomical Structure | C1268086; Body structure; Anatomical Structure
+T15	Neg_cue 368 370	No
+T16	DISO 371 378	cefalea
+#4	AnnotatorNotes T16	C0018681; Headache; Sign or Symptom
+T17	Negated 371 378	cefalea
+T18	Neg_cue 380 382	no
+T19	DISO 383 393	hipoacusia
+#5	AnnotatorNotes T19	C1384666; hearing impairment; Disease or Syndrome
+T20	Negated 383 393	hipoacusia
+T21	Neg_cue 395 397	no
+T22	DISO 398 405	náuseas
+#6	AnnotatorNotes T22	C0027497; Nausea; Sign or Symptom
+T23	Negated 398 405	náuseas
+T24	Neg_cue 406 408	ni
+T25	DISO 409 416	vómitos
+#7	AnnotatorNotes T25	C0042963; Vomiting; Sign or Symptom
+T26	Negated 409 416	vómitos
+T27	Neg_cue 420 422	No
+T28	Negated 423 435	otra clínica
+T29	PROC 450 456	EXAMEN
+#8	AnnotatorNotes T29	C0031809; Physical Examination; Health Care Activity
+T30	PROC 461 479	Exploración física
+#9	AnnotatorNotes T30	C0031809; Physical Examination; Health Care Activity
+T31	Neg_cue 506 508	No
+T32	DISO 509 526	lesiones cutáneas
+#10	AnnotatorNotes T32	C0037284; Skin lesion; Disease or Syndrome | C3241942; Sore on skin; Finding
+T33	Negated 509 526	lesiones cutáneas
+T34	PROC 530 532	AP
+T35	Neg_cue 563 566	sin
+T36	DISO 567 587	ruidos sobreañadidos
+T37	Negated 567 587	ruidos sobreañadidos
+T38	PROC 591 593	AC
+T39	Neg_cue 604 607	sin
+T40	DISO 608 614	soplos
+#11	AnnotatorNotes T40	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T41	Negated 608 614	soplos
+T42	ANAT 618 625	Abdomen
+#12	AnnotatorNotes T42	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T43	Neg_cue 646 649	sin
+T44	DISO 650 658	megalias
+T45	Negated 650 658	megalias
+T46	Neg_cue 661 664	sin
+T47	DISO 665 685	dolor a la palpación
+#13	AnnotatorNotes T47	C0234233; Sore to touch; Sign or Symptom
+T48	Negated 665 685	dolor a la palpación
+T49	PROC 689 712	Exploración neurológica
+T50	ANAT 714 721	Pupilas
+#14	AnnotatorNotes T50	C0034121; Pupil; Body Part, Organ, or Organ Component | C1305618; Entire pupil; Body Part, Organ, or Organ Component
+T51	PROC 752 781	Campimetría por confrontación
+#15	AnnotatorNotes T51	C1444674; Confrontation visual field test; Diagnostic Procedure
+T52	PHYS 794 806	Oculomotores
+#16	AnnotatorNotes T52	C0872237; oculomotor; Organ or Tissue Function
+T53	Neg_cue 807 810	sin
+T54	DISO 811 823	alteraciones
+#17	AnnotatorNotes T54	C0012634; Disease; Disease or Syndrome
+T55	Negated 811 823	alteraciones
+T56	ANAT 853 876	músculo frontal derecho
+T57	ANAT 879 904	músculo orbicular derecho
+T58	ANAT 906 929	Músculo risorio derecho
+T59	DISO 942 952	paralizado
+#18	AnnotatorNotes T59	C0522224; Paralysed; Finding
+T60	DISO 958 989	desviación de la comisura bucal
+T61	PHYS 1010 1016	Marcha
+T62	Neg_cue 1017 1020	sin
+T63	DISO 1021 1033	alteraciones
+#19	AnnotatorNotes T63	C0012634; Disease; Disease or Syndrome
+T64	Negated 1021 1033	alteraciones
+T65	PHYS 1035 1041	Fuerza
+T66	PHYS 1044 1056	sensibilidad
+#20	AnnotatorNotes T66	C0312418; Personality Sensitivity; Mental Process
+T67	PROC 1082 1093	exploración
+#21	AnnotatorNotes T67	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T68	Neg_cue 1094 1097	sin
+T69	DISO 1098 1110	alteraciones
+#22	AnnotatorNotes T69	C0012634; Disease; Disease or Syndrome
+T70	Negated 1098 1110	alteraciones
+T71	DISO 1138 1165	Parálisis facial periférica
+#23	AnnotatorNotes T71	C3266178; Peripheral facial palsy; Disease or Syndrome
+T72	PROC 1168 1179	TRATAMIENTO
+#24	AnnotatorNotes T72	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T73	CHEM 1196 1206	Prednisona
+#25	AnnotatorNotes T73	C0032952; prednisone; Hormone · Organic Chemical · Pharmacologic Substance
+T74	Dose 1207 1211	50mg
+T75	Frequency 1211 1215	/día
+T76	Duration 1224 1231	10 días
+T77	PROC 1235 1252	Protección ocular
+T78	CHEM 1254 1275	lágrimas artificiales
+#26	AnnotatorNotes T78	C2608262; Lubricant Eye Drops; Pharmacologic Substance
+T79	Duration 1281 1291	los 2 días
+T80	Neg_cue 1292 1295	sin
+T82	Negated 1296 1306	progresión
+T83	Duration 1312 1325	las 3 semanas
+T84	DISO 218 272	dificultad para el cierre del ojo derecho y de sonreír
+T85	PROC 1114 1125	DIAGNÓSTICO
+T86	Quantifier_or_Qualifier 135 145	relevantes
+T87	Quantifier_or_Qualifier 423 427	otra
+T88	Observation 428 435	clínica
+T89	Observation 483 502	Buen estado general
+T90	Observation 534 561	buena ventilación bilateral
+T91	Observation 595 602	rítmica
+T92	Observation 626 632	blando
+T93	Observation 634 644	depresible
+T94	Observation 714 750	Pupilas isocóricas y normorreactivas
+T97	Quantifier_or_Qualifier 930 941	parciamente
+T98	Observation 1035 1068	Fuerza y sensibilidad conservadas
+T99	Observation 1296 1306	progresión
+T100	Patient 83 88	Varón
+T101	ANAT 42 46	cara
+T102	ANAT 197 205	hemicara
+T103	Quantifier_or_Qualifier 206 213	derecha
+T104	ANAT 248 251	ojo
+T105	Quantifier_or_Qualifier 252 259	derecho
+T106	Result_or_Value 782 792	conservada
+T107	Observation 825 849	Dificultad para contraer
+T108	Quantifier_or_Qualifier 922 929	derecho
+T109	Quantifier_or_Qualifier 999 1008	izquierda
+T81	Quantifier_or_Qualifier 869 876	derecho
+T96	Quantifier_or_Qualifier 897 904	derecho

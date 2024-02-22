@@ -1,0 +1,171 @@
+T1	DISO 21 30	Cansancio
+#1	AnnotatorNotes T1	C0015672; Fatigue; Sign or Symptom
+T2	LIVB 52 60	Paciente
+#2	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	Age 64 71	62 años
+T4	LIVB 96 101	nieto
+T5	DISO 134 144	Enfermedad
+#3	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	Date 145 151	actual
+T7	PROC 163 172	consultas
+#4	AnnotatorNotes T7	C0009818; Consultation; Health Care Activity
+T8	DISO 198 205	astenia
+#5	AnnotatorNotes T8	C0004093; Asthenia; Sign or Symptom
+T9	Duration 209 220	cuatro días
+T10	DISO 246 253	vómitos
+#6	AnnotatorNotes T10	C0042963; Vomiting; Sign or Symptom
+T11	DISO 256 264	diarreas
+#7	AnnotatorNotes T11	C0011991; Diarrhea; Sign or Symptom
+T12	Neg_cue 268 270	No
+T13	DISO 279 286	cefalea
+#8	AnnotatorNotes T13	C0018681; Headache; Sign or Symptom
+T14	Negated 279 286	cefalea
+T15	DISO 288 309	molestias abdominales
+#9	AnnotatorNotes T15	C0232487; Abdominal discomfort; Sign or Symptom
+T16	Negated 288 309	molestias abdominales
+T17	DISO 320 339	molestias al orinar
+T18	Negated 320 339	molestias al orinar
+T19	Neg_cue 340 342	ni
+T20	Negated 343 386	cambios en color de las heces y de la orina
+T23	DISO 401 436	sensación de mareos e inestabilidad
+T24	DISO 445 451	fiebre
+#11	AnnotatorNotes T24	C0015967; Fever; Sign or Symptom
+T25	Date 465 480	hace una semana
+T26	DISO 492 500	síntomas
+#12	AnnotatorNotes T26	C1457887; Symptoms; Sign or Symptom
+T27	PROC 526 544	Exploración física
+#13	AnnotatorNotes T27	C0031809; Physical Examination; Health Care Activity
+T30	PROC 638 670	Auscultación cardiorrespiratoria
+T31	Neg_cue 717 728	Ausencia de
+T32	DISO 729 735	soplos
+#15	AnnotatorNotes T32	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T33	Negated 729 756	soplos patológicos audibles
+T34	Neg_cue 782 785	sin
+T35	DISO 786 792	roncus
+#16	AnnotatorNotes T35	C0035508; Rhonchi; Finding
+T36	Negated 786 792	roncus
+T37	Neg_cue 793 795	ni
+T38	DISO 796 807	sibilancias
+#17	AnnotatorNotes T38	C0043144; Wheezing; Sign or Symptom | C0425483; Whistling respiration; Finding
+T39	Negated 796 807	sibilancias
+T40	ANAT 811 818	Abdomen
+#18	AnnotatorNotes T40	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T41	Neg_cue 840 842	no
+T42	DISO 843 866	doloroso a la palpación
+T43	Negated 843 866	doloroso a la palpación
+T44	Neg_cue 868 870	No
+T45	DISO 871 879	megalias
+T46	Negated 871 889	megalias palpables
+T47	Neg_cue 890 892	ni
+T48	DISO 893 924	signos de irritación peritoneal
+T49	Negated 893 924	signos de irritación peritoneal
+T50	ANAT 928 947	Miembros inferiores
+#19	AnnotatorNotes T50	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T51	Neg_cue 948 951	sin
+T52	DISO 952 958	edemas
+#20	AnnotatorNotes T52	C0013604; Edema; Pathologic Function
+T53	Negated 952 958	edemas
+T54	Neg_cue 959 961	ni
+T55	DISO 962 975	signos de TVP
+T56	Negated 962 975	signos de TVP
+T57	PROC 980 1003	Pruebas complementarias
+#21	AnnotatorNotes T57	C1515980; Ancillary Study; Research Activity
+T58	PROC 1007 1016	Hemograma
+#22	AnnotatorNotes T58	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T59	PROC 1047 1057	Bioquimica
+#23	AnnotatorNotes T59	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T60	Neg_cue 1058 1061	sin
+T61	DISO 1062 1085	alteraciones analíticas
+T62	Negated 1062 1085	alteraciones analíticas
+T63	PROC 1108 1116	tiroxina
+#24	AnnotatorNotes T63	C0202231; Thyroxine measurement; Laboratory Procedure
+T64	PROC 1119 1129	creatinina
+#25	AnnotatorNotes T64	C0201975; Creatinine measurement; Laboratory Procedure
+T65	PROC 1133 1153	Sistemático de orina
+T66	Spec_cue 1166 1181	compatibles con
+T68	Speculated 1182 1199	hematuria intensa
+T69	ANAT 1229 1237	hematíes
+#26	AnnotatorNotes T69	C0014792; Erythrocytes; Cell
+T70	PROC 1251 1298	Radiografía postero-anterior y lateral de Tórax
+T71	PROC 1312 1331	Ecografía abdominal
+#27	AnnotatorNotes T71	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T72	DISO 1350 1372	nefromegalia izquierda
+T73	DISO 1388 1428	pérdida de diferenciación corticomedular
+T74	DISO 1445 1466	pelvis renal dilatada
+T75	DISO 1511 1526	calcificaciones
+#28	AnnotatorNotes T75	C2242558; Pathologic calcification, calcified structure; Finding
+T76	PROC 1546 1573	Tac abdominal sin contraste
+T77	Neg_cue 1560 1563	sin
+T78	Negated 1564 1573	contraste
+T79	DISO 1587 1623	componente infeccioso pielonefritico
+T80	Spec_cue 1673 1681	probable
+T81	DISO 1682 1707	proceso tumoral urotelial
+T82	Speculated 1682 1707	proceso tumoral urotelial
+T83	DISO 1726 1745	uropatía obsructiva
+T84	ANAT 1777 1789	pelvis renal
+#29	AnnotatorNotes T84	C0227666; Renal pelvis; Body Part, Organ, or Organ Component | C1284489; Entire renal pelvis; Body Part, Organ, or Organ Component
+T85	Spec_cue 1792 1804	posiblemente
+T86	ANAT 1805 1820	cálices renales
+#30	AnnotatorNotes T86	C0022651; Structure of calyx; Body Part, Organ, or Organ Component | C1305755; Entire calyx; Body Part, Organ, or Organ Component
+T87	Speculated 1805 1820	cálices renales
+T88	Spec_cue 1835 1849	compatible con
+T89	DISO 1850 1861	pionefrosis
+#31	AnnotatorNotes T89	C0034216; Pyonephrosis; Disease or Syndrome
+T90	Speculated 1850 1861	pionefrosis
+T91	Speculated 1864 1881	contenido tumoral
+T92	DISO 1874 1881	tumoral
+#32	AnnotatorNotes T92	C0027651; Neoplasms; Neoplastic Process | C0577559; Mass of body structure; Finding
+T93	PROC 1884 1895	TRATAMIENTO
+#33	AnnotatorNotes T93	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T94	PROC 1912 1919	Ingresó
+#34	AnnotatorNotes T94	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T95	PROC 2032 2052	cifras de creatinina
+T96	PROC 2070 2083	biopsia renal
+#35	AnnotatorNotes T96	C0194073; Kidney biopsy; Diagnostic Procedure
+T97	PROC 2096 2103	cirugía
+#36	AnnotatorNotes T97	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T98	PROC 2108 2129	nefrectomía izquierda
+#37	AnnotatorNotes T98	C2222800; nephrectomy of left kidney (treatment); Therapeutic or Preventive Procedure
+T99	DISO 2157 2168	Tumor renal
+#38	AnnotatorNotes T99	C0022665; Kidney Neoplasm; Neoplastic Process
+T100	PROC 515 521	EXAMEN
+T101	PROC 2133 2144	DIAGNÓSTICO
+T102	Observation 84 101	vive con su nieto
+T104	Quantifier_or_Qualifier 452 464	autolimitada
+T105	Observation 548 567	Buen estado general
+T106	Observation 593 605	colaboradora
+T107	Observation 607 621	Bien hidratada
+T108	Observation 624 634	perfundida
+T110	Quantifier_or_Qualifier 748 756	audibles
+T111	Observation 758 781	Buen murmullo vesicular
+T112	Observation 819 825	blando
+T113	Observation 828 838	depresible
+T114	Result_or_Value 1018 1024	normal
+T115	Quantifier_or_Qualifier 1086 1096	reseñables
+T116	Quantifier_or_Qualifier 1192 1199	intensa
+T117	Result_or_Value 1218 1247	más de 100 hematíes con campo
+T118	Observation 1300 1308	anodinas
+T119	Quantifier_or_Qualifier 1345 1349	gran
+T120	Result_or_Value 1376 1382	17 cms
+T122	Quantifier_or_Qualifier 1527 1542	en tercio medio
+T123	Quantifier_or_Qualifier 1708 1712	alto
+T124	Quantifier_or_Qualifier 1746 1754	próximal
+T125	Quantifier_or_Qualifier 1755 1759	izda
+T127	Patient 52 60	Paciente
+T128	Family_member 96 101	nieto
+T21	ANAT 367 372	heces
+T22	ANAT 381 386	orina
+T28	Observation 569 579	consciente
+T29	Observation 581 590	orientada
+T109	Observation 672 715	tonos cardiacos rítmicos a buena frecuencia
+T129	PHYS 672 687	tonos cardiacos
+T130	Quantifier_or_Qualifier 736 747	patológicos
+T131	Quantifier_or_Qualifier 880 889	palpables
+T121	Observation 1471 1508	contenido heterogéneo a nivel interno
+T132	Quantifier_or_Qualifier 1624 1633	izquierdo
+T133	Observation 1638 1652	causa primaria
+T134	Observation 1660 1712	secundaria a probable proceso tumoral urotelial alto
+T67	DISO 1182 1191	hematuria
+T103	Observation 343 359	cambios en color
+T135	Observation 1764 1773	ocupación
+T126	Observation 2002 2052	descenso significativo de las cifras de creatinina

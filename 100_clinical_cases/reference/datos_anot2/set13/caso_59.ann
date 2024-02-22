@@ -1,0 +1,128 @@
+T1	LIVB 21 38	Paciente lactante
+T2	DISO 53 67	nódulo mamario
+#1	AnnotatorNotes T2	C0024103; Mass in breast; Finding
+T3	LIVB 90 95	Mujer
+#2	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	LIVB 122 127	hijos
+T5	Age 144 150	8 años
+T6	PHYS 173 187	dando de mamar
+T7	Neg_cue 243 246	Sin
+T8	DISO 247 280	alergias conocidas a medicamentos
+T9	Negated 247 280	alergias conocidas a medicamentos
+T10	Neg_cue 284 286	No
+T11	Negated 287 320	toma medicación de forma habitual
+T12	CHEM 292 302	medicación
+#3	AnnotatorNotes T12	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T13	Neg_cue 324 326	No
+T14	DISO 333 348	hábitos tóxicos
+T15	Negated 333 348	hábitos tóxicos
+T16	PHYS 352 361	Menarquia
+#4	AnnotatorNotes T16	C0025274; Menarche; Organism Function
+T17	Age 368 375	12 años
+T18	Neg_cue 377 379	No
+T19	Negated 380 414	antecedentes familiares de interés
+T20	DISO 419 429	Enfermedad
+#5	AnnotatorNotes T20	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T21	Date 430 436	actual
+T22	LIVB 440 448	Paciente
+#6	AnnotatorNotes T22	C0030705; Patients; Patient or Disabled Group
+T23	Age 452 459	41 años
+T24	LIVB 461 466	madre
+#7	AnnotatorNotes T24	C0026591; Mother (person); Family Group
+T25	LIVB 472 477	hijos
+T26	Duration 488 494	8 años
+T27	PHYS 495 503	lactando
+#8	AnnotatorNotes T27	C0006147; Breast Feeding; Organism Function
+T28	DISO 551 559	mastitis
+#9	AnnotatorNotes T28	C0024894; Mastitis; Disease or Syndrome
+T29	Date 606 617	hace 5 días
+T30	PHYS 639 651	menstruación
+#10	AnnotatorNotes T30	C0025344; Menstruation; Organism Function
+T31	PHYS 667 672	parto
+#11	AnnotatorNotes T31	C0005615; Birth; Organism Function | C1148523; Childbirth; Organism Function
+T32	Date 673 686	hace 10 meses
+T33	DISO 691 697	nódulo
+#12	AnnotatorNotes T33	C0028259; Nodule; Acquired Abnormality
+T34	ANAT 704 734	cuadrante supero-externo (CSE)
+T35	ANAT 741 753	mama derecha
+#13	AnnotatorNotes T35	C0222600; Right breast; Body Part, Organ, or Organ Component
+T36	PROC 768 786	Exploración física
+#14	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	Neg_cue 853 855	No
+T38	DISO 856 879	síndrome constitucional
+T39	Negated 856 879	síndrome constitucional
+T40	DISO 896 906	nodulación
+T41	Neg_cue 937 939	no
+T42	DISO 940 948	dolorosa
+#15	AnnotatorNotes T42	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T43	Negated 940 948	dolorosa
+T44	ANAT 973 992	CSE de mama derecha
+T45	Neg_cue 994 997	sin
+T46	DISO 998 1033	alteraciones en la piel ni el pezón
+T47	Negated 998 1033	alteraciones en la piel ni el pezón
+T48	PROC 1070 1077	ingreso
+#16	AnnotatorNotes T48	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T49	PROC 1115 1138	Pruebas complementarias
+#17	AnnotatorNotes T49	C1515980; Ancillary Study; Research Activity
+T50	PROC 1143 1153	Mamografía
+#18	AnnotatorNotes T50	C0024671; Mammography; Diagnostic Procedure
+T51	DISO 1166 1196	microcalcificaciones agrupadas
+T52	ANAT 1209 1228	CSE de mama derecha
+T53	PROC 1231 1238	Biopsia
+#19	AnnotatorNotes T53	C0005558; Biopsy; Diagnostic Procedure
+T54	DISO 1251 1305	carcinoma mama infiltrante con diferenciación mucinosa
+T55	PROC 1317 1337	estudio de extensión
+T56	PROC 1365 1376	TRATAMIENTO
+#20	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	LIVB 1396 1404	paciente
+#21	AnnotatorNotes T57	C0030705; Patients; Patient or Disabled Group
+T58	PHYS 1442 1456	dando de mamar
+T59	ANAT 1469 1473	mama
+#22	AnnotatorNotes T59	C0006141; Breast; Body Part, Organ, or Organ Component | C1268990; Entire breast; Body Part, Organ, or Organ Component
+T60	PROC 1519 1539	cirugía conservadora
+T61	PROC 1541 1570	segmentectomía mamaria amplia
+T62	Date 1572 1583	Actualmente
+T63	PROC 1593 1616	quimioterapia adyuvante
+#23	AnnotatorNotes T63	C0085533; Chemotherapy, Adjuvant; Therapeutic or Preventive Procedure
+T64	PROC 1656 1685	consulta de atención primaria
+T65	PROC 1697 1718	seguimiento periódico
+T66	LIVB 1725 1733	paciente
+#24	AnnotatorNotes T66	C0030705; Patients; Patient or Disabled Group
+T67	DISO 1761 1815	Carcinoma mama infiltrante con diferenciación mucinosa
+T68	PROC 1039 1057	deriva a urgencias
+T69	PROC 1083 1110	estudio en Medicina Interna
+T70	PROC 757 763	EXAMEN
+T71	PROC 1737 1748	DIAGNÓSTICO
+T72	Quantifier_or_Qualifier 108 112	sana
+T73	Quantifier_or_Qualifier 188 211	de forma ininterrumpida
+T74	Quantifier_or_Qualifier 303 320	de forma habitual
+T75	Quantifier_or_Qualifier 504 527	de forma ininterrumpida
+T76	Observation 790 809	Buen estado general
+T77	Observation 811 825	bien hidratada
+T78	Observation 827 836	coloreada
+T79	Observation 839 849	perfundida
+T80	Quantifier_or_Qualifier 907 911	lisa
+T81	Observation 916 935	consistencia blanda
+T82	Result_or_Value 953 969	1 cm de diámetro
+T83	Quantifier_or_Qualifier 1353 1358	final
+T84	Quantifier_or_Qualifier 1359 1361	IB
+T85	Observation 1627 1640	bien tolerada
+T86	Patient 21 38	Paciente lactante
+T87	Patient 90 95	Mujer
+T88	Family_member 122 127	hijos
+T91	Patient 440 448	Paciente
+T92	Family_member 461 466	madre
+T93	Family_member 472 477	hijos
+T94	History_of 667 672	parto
+T95	Patient 1396 1404	paciente
+T96	Patient 1725 1733	paciente
+T89	History_of 247 280	alergias conocidas a medicamentos
+T90	History_of 380 414	antecedentes familiares de interés
+T98	Quantifier_or_Qualifier 470 471	4
+T100	ANAT 1028 1033	pezón
+T101	ANAT 1017 1021	piel
+T102	PROC 1343 1352	estadiaje
+T103	Observation 1418 1422	bien
+T104	Quantifier_or_Qualifier 1464 1468	otra
+T105	ANAT 1771 1775	mama
+T97	ANAT 1261 1265	mama

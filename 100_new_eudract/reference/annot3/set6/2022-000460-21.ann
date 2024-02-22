@@ -18,28 +18,39 @@ T14	PROC 491 502	Diagnóstico
 #4	AnnotatorNotes T14	C0011900; Diagnosis; Diagnostic Procedure
 T15	DISO 506 508	MG
 T16	DISO 513 544	debilidad muscular generalizada
-T18	PROC 714 731	Prueba serológica
-#6	AnnotatorNotes T18	C0036743; Serologic tests; Laboratory Procedure
-T19	CHEM 746 774	autoanticuerpos contra AChR.
-T20	PROC 819 829	timectomía
-#7	AnnotatorNotes T20	C0040071; Thymectomy; Therapeutic or Preventive Procedure
-T21	PROC 847 861	cirugía tímica
-T22	Duration 865 877	los 12 meses
-T23	DISO 906 930	Neoplasia tímica maligna
-T24	DISO 932 941	carcinoma
-#8	AnnotatorNotes T24	C0007097; Carcinoma; Neoplastic Process
-T25	DISO 944 950	timoma
-#9	AnnotatorNotes T25	C0040100; Thymoma; Neoplastic Process
-T26	Neg_cue 951 953	no
-T27	PROC 954 962	tratados
-T28	Negated 954 962	tratados
-T29	DISO 981 1017	infección por Neisseria meningitidis
-#10	AnnotatorNotes T29	C0025303; Meningococcal Infections; Disease or Syndrome
-T30	PHYS 1020 1028	Embarazo
-#11	AnnotatorNotes T30	C0032961; Pregnancy; Organism Function
-T31	PHYS 1030 1039	lactancia
-#12	AnnotatorNotes T31	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
-T32	PHYS 1055 1063	concebir
-#13	AnnotatorNotes T32	C0009637; Conception; Organism Function
-T36	Spec_cue 1042 1051	intención
-T37	Speculated 1055 1063	concebir
+T17	PROC 714 731	Prueba serológica
+#5	AnnotatorNotes T17	C0036743; Serologic tests; Laboratory Procedure
+T18	CHEM 746 774	autoanticuerpos contra AChR.
+T19	PROC 819 829	timectomía
+#6	AnnotatorNotes T19	C0040071; Thymectomy; Therapeutic or Preventive Procedure
+T20	PROC 847 861	cirugía tímica
+T21	Duration 865 877	los 12 meses
+T22	DISO 906 930	Neoplasia tímica maligna
+T23	DISO 932 941	carcinoma
+#7	AnnotatorNotes T23	C0007097; Carcinoma; Neoplastic Process
+T24	DISO 944 950	timoma
+#8	AnnotatorNotes T24	C0040100; Thymoma; Neoplastic Process
+T25	Neg_cue 951 953	no
+T26	PROC 954 962	tratados
+T27	Negated 954 962	tratados
+T28	DISO 981 1017	infección por Neisseria meningitidis
+#9	AnnotatorNotes T28	C0025303; Meningococcal Infections; Disease or Syndrome
+T29	PHYS 1020 1028	Embarazo
+#10	AnnotatorNotes T29	C0032961; Pregnancy; Organism Function
+T30	PHYS 1030 1039	lactancia
+#11	AnnotatorNotes T30	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T31	PHYS 1055 1063	concebir
+#12	AnnotatorNotes T31	C0009637; Conception; Organism Function
+T32	Spec_cue 1042 1051	intención
+T33	Speculated 1055 1063	concebir
+T34	Result_or_Value 693 711	Clase II, III o IV
+T35	Result_or_Value 732 740	positiva
+T36	Observation 1042 1063	intención de concebir
+T37	Patient 82 89	adultos
+T38	Patient 294 301	adultos
+T39	History_of 819 829	timectomía
+T40	History_of 847 861	cirugía tímica
+T41	History_of 954 962	tratados
+T42	History_of 981 990	infección
+T43	History_of 995 1017	Neisseria meningitidis
+T44	Future 1055 1063	concebir

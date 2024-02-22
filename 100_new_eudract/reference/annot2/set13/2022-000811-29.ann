@@ -1,0 +1,131 @@
+T1	PROC 44 93	Estudio en fase III, aleatorizado y multicéntrico
+T2	DISO 100 130	enfermedad de Crohn pediátrica
+#1	AnnotatorNotes T2	C0010346; Crohn Disease; Disease or Syndrome
+T3	PROC 166 229	Estudio de plataforma en fase III, aleatorizado y multicéntrico
+T4	PROC 296 318	establecer la eficacia
+T5	DISO 325 355	enfermedad de Crohn pediátrica
+#2	AnnotatorNotes T5	C0010346; Crohn Disease; Disease or Syndrome
+T6	PROC 446 461	Estudio clínico
+#3	AnnotatorNotes T6	C0008972; Clinical Research; Research Activity | C0008976; Clinical Trials; Research Activity
+T7	CHEM 475 486	mirikizumab
+#4	AnnotatorNotes T7	C5139904; mirikizumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T8	LIVB 557 570	participantes
+T9	PROC 586 597	diagnóstico
+#5	AnnotatorNotes T9	C0011900; Diagnosis; Diagnostic Procedure
+T10	DISO 606 621	CD fistulizante
+T11	DISO 643 650	ileítis
+#6	AnnotatorNotes T11	C0020877; Ileitis; Disease or Syndrome
+T12	DISO 653 664	ileocolitis
+#7	AnnotatorNotes T12	C0949272; IIeocolitis; Disease or Syndrome
+T13	PROC 740 752	endoscópicos
+#8	AnnotatorNotes T13	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T14	PROC 755 767	histológicos
+T15	LIVB 776 789	participantes
+T16	LIVB 897 910	participantes
+T17	PROC 933 943	endoscopia
+#9	AnnotatorNotes T17	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T18	LIVB 1021 1034	participantes
+T19	LIVB 1112 1125	participantes
+T20	CHEM 1154 1164	medicación
+#10	AnnotatorNotes T20	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T21	Neg_cue 1255 1263	falta de
+T22	Negated 1264 1274	tolerancia
+T23	PROC 1278 1289	tratamiento
+#11	AnnotatorNotes T23	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T24	Date 1290 1296	actual
+T25	CHEM 1301 1318	inmunomoduladores
+#12	AnnotatorNotes T25	C1527392; Immunomodulators; Immunologic Factor · Pharmacologic Substance
+T26	CHEM 1325 1341	corticosteroides
+#13	AnnotatorNotes T26	C0001617; Adrenal Cortex Hormones; Hormone · Organic Chemical · Pharmacologic Substance
+T27	Route 1342 1348	orales
+T28	Route 1351 1363	intravenosos
+T29	PROC 1381 1398	terapia biológica
+#14	AnnotatorNotes T29	C0005527; Biological Response Modifier Therapy; Therapeutic or Preventive Procedure
+T30	CHEM 1399 1415	inhibidor de JAK
+T31	PROC 1424 1435	tratamiento
+#15	AnnotatorNotes T31	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T32	CHEM 1568 1584	inhibidor de JAK
+T33	LIVB 1619 1632	participantes
+T34	Neg_cue 1633 1635	no
+T35	DISO 1648 1668	complicaciones de EC
+T36	Negated 1648 1668	complicaciones de EC
+T37	DISO 1675 1684	estenosis
+#16	AnnotatorNotes T37	C1261287; Stenosis; Pathologic Function
+T38	Negated 1675 1684	estenosis
+T39	DISO 1687 1709	estenosis sintomáticas
+T40	Negated 1687 1709	estenosis sintomáticas
+T41	DISO 1711 1738	síndrome de intestino corto
+#17	AnnotatorNotes T41	C0036992; Short Bowel Syndrome; Disease or Syndrome
+T42	Negated 1711 1738	síndrome de intestino corto
+T43	DISO 1756 1769	manifestación
+#18	AnnotatorNotes T43	C0037088; Signs and Symptoms; Sign or Symptom
+T44	PROC 1805 1812	cirugía
+#19	AnnotatorNotes T44	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T45	Speculated 1805 1812	cirugía
+T46	LIVB 1821 1834	participantes
+T47	Neg_cue 1835 1837	no
+T48	DISO 1853 1860	absceso
+#20	AnnotatorNotes T48	C0000833; Abscess; Disease or Syndrome
+T49	Negated 1853 1860	absceso
+T50	LIVB 1869 1882	participantes
+T51	Neg_cue 1898 1904	ningún
+T52	PROC 1913 1933	resección intestinal
+#21	AnnotatorNotes T52	C1096244; Intestinal resection; Therapeutic or Preventive Procedure
+T53	Negated 1913 1933	resección intestinal
+T54	Duration 1944 1958	las 26 semanas
+T55	Neg_cue 1980 1990	ni ninguna
+T56	PROC 1996 2018	cirugía intraabdominal
+T57	Negated 1996 2018	cirugía intraabdominal
+T58	Duration 2029 2043	las 12 semanas
+T59	DISO 391 421	Enfermedad de Crohn pediátrica
+T60	DISO 601 603	EC
+T61	DISO 802 804	EC
+T62	PROC 870 875	PCDAI
+T63	DISO 493 523	enfermedad de Crohn pediátrica
+T64	DISO 627 634	colitis
+T65	PROC 720 739	criterios clínicos,
+T66	DISO 961 963	EC
+T67	PROC 1000 1006	SES-CD
+T68	DISO 1039 1055	enfermedad ileal
+T69	DISO 1191 1193	EC
+T70	DISO 1442 1444	EC
+T71	CHEM 1550 1567	terapia biológica
+T72	Negated 1756 1769	manifestación
+T73	Date 12 16	2022
+T74	PROC 1096 1103	estudio
+T75	Date 1165 1171	actual
+T76	Quantifier_or_Qualifier 120 130	pediátrica
+T77	Quantifier_or_Qualifier 411 421	pediátrica
+T78	Quantifier_or_Qualifier 513 523	pediátrica
+T79	Quantifier_or_Qualifier 805 811	activa
+T80	Quantifier_or_Qualifier 815 831	moderada a grave
+T81	CONC 870 875	PCDAI
+T82	Result_or_Value 884 887	>30
+T83	Quantifier_or_Qualifier 964 970	activa
+T84	Result_or_Value 1007 1009	≥6
+T85	Result_or_Value 1013 1015	≥4
+T86	Quantifier_or_Qualifier 1056 1063	aislada
+T87	Observation 1210 1230	respuesta inadecuada
+T88	Observation 1232 1252	pérdida de respuesta
+T89	Observation 1264 1274	tolerancia
+T90	Observation 1481 1501	respuesta inadecuada
+T91	Observation 1503 1523	pérdida de respuesta
+T92	CONC 1973 1979	inicio
+T93	CONC 2058 2064	inicio
+T94	Patient 557 570	participantes
+T95	Patient 776 789	participantes
+T96	Patient 897 910	participantes
+T97	Patient 1021 1034	participantes
+T98	Patient 1112 1125	participantes
+T99	History_of 1154 1164	medicación
+T100	History_of 1381 1398	terapia biológica
+T101	History_of 1399 1415	inhibidor de JAK
+T102	History_of 1525 1528	LOR
+T103	History_of 1532 1544	intolerancia
+T104	Patient 1619 1632	participantes
+T105	Patient 1821 1834	participantes
+T106	Patient 1869 1882	participantes
+T107	History_of 1913 1933	resección intestinal
+T108	History_of 1996 2018	cirugía intraabdominal
+T109	History_of 1481 1501	respuesta inadecuada
+T110	History_of 1503 1523	pérdida de respuesta

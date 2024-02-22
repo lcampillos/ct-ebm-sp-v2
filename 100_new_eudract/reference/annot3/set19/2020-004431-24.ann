@@ -1,0 +1,202 @@
+T1	Date 12 16	2020
+T2	PROC 57 121	evaluar la eficacia, seguridad, farmacocinética y farmacodinamia
+T3	CHEM 125 134	ponesimod
+T4	CHEM 144 154	fingolimod
+#1	AnnotatorNotes T4	C1699926; fingolimod; Immunologic Factor · Organic Chemical · Pharmacologic Substance
+T5	Duration 163 174	108 semanas
+T6	PROC 178 189	tratamiento
+#2	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	LIVB 193 214	pacientes pediátricos
+T8	Age 203 214	pediátricos
+T9	Age 216 232	de 10 a <18 años
+T10	DISO 238 278	esclerosis múltiple remitente recurrente
+#3	AnnotatorNotes T10	C0751967; Multiple Sclerosis, Relapsing-Remitting; Disease or Syndrome
+T11	PROC 299 439	Estudio multicéntrico, aleatorizado, doble ciego, de grupos paralelos, con doble simulación, controlado con tratamiento activo y comparativo
+T12	PROC 445 509	evaluar la eficacia, seguridad, farmacocinética y farmacodinamia
+T13	CHEM 513 522	ponesimod
+T14	CHEM 532 542	fingolimod
+#4	AnnotatorNotes T14	C1699926; fingolimod; Immunologic Factor · Organic Chemical · Pharmacologic Substance
+T15	Duration 551 562	108 semanas
+T16	PROC 566 577	tratamiento
+#5	AnnotatorNotes T16	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T17	LIVB 581 602	pacientes pediátricos
+T18	Age 591 602	pediátricos
+T19	Age 604 620	de 10 a <18 años
+T20	DISO 626 666	esclerosis múltiple remitente recurrente
+#6	AnnotatorNotes T20	C0751967; Multiple Sclerosis, Relapsing-Remitting; Disease or Syndrome
+T21	DISO 688 719	Enfermedad inflamatoria crónica
+T22	Duration 712 719	crónica
+T23	ANAT 733 736	SNC
+#7	AnnotatorNotes T23	C1269563; Entire central nervous system; Body System | C3714787; Central Nervous System; Body System
+T24	DISO 761 801	Esclerosis múltiple remitente recurrente
+#8	AnnotatorNotes T24	C0751967; Multiple Sclerosis, Relapsing-Remitting; Disease or Syndrome
+T25	PROC 833 844	diagnóstico
+#9	AnnotatorNotes T25	C0011900; Diagnosis; Diagnostic Procedure
+T26	DISO 848 888	esclerosis múltiple remitente-recurrente
+#10	AnnotatorNotes T26	C0751967; Multiple Sclerosis, Relapsing-Remitting; Disease or Syndrome
+T27	DISO 890 894	EMRR
+#11	AnnotatorNotes T27	C0751967; Multiple Sclerosis, Relapsing-Remitting; Disease or Syndrome
+T28	Date 937 941	2017
+T29	PROC 989 997	revisión
+#12	AnnotatorNotes T29	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T30	PROC 1010 1021	diagnóstico
+#13	AnnotatorNotes T30	C0011900; Diagnosis; Diagnostic Procedure
+T31	DISO 1025 1044	esclerosis múltiple
+#14	AnnotatorNotes T31	C0026769; Multiple Sclerosis; Disease or Syndrome
+T32	DISO 1045 1049	(EM)
+T33	LIVB 1076 1089	participantes
+T34	PROC 1102 1108	Visita
+T35	Date 1112 1117	Día 1
+T36	PROC 1119 1133	aleatorización
+#15	AnnotatorNotes T36	C0034656; Randomization; Research Activity
+T37	PROC 1155 1197	Escala de Estado de Discapacidad Expandida
+T38	PROC 1199 1203	EDSS
+T39	DISO 1245 1252	recaída
+#16	AnnotatorNotes T39	C2825055; Recurrence (disease attribute); Pathologic Function
+T40	DISO 1259 1261	EM
+#17	AnnotatorNotes T40	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T41	Date 1270 1285	el año anterior
+T42	DISO 1290 1298	recaídas
+#18	AnnotatorNotes T42	C2825055; Recurrence (disease attribute); Pathologic Function
+T43	DISO 1305 1307	EM
+#19	AnnotatorNotes T43	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T44	Duration 1311 1332	los 2 años anteriores
+T45	PROC 1394 1426	imágenes de resonancia magnética
+T46	PROC 1428 1431	IRM
+#20	AnnotatorNotes T46	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T47	Duration 1433 1440	6 meses
+T48	PROC 1453 1459	Visita
+T49	Date 1463 1468	Día 1
+T50	PROC 1470 1484	Aleatorización
+#21	AnnotatorNotes T50	C0034656; Randomization; Research Activity
+T51	PROC 1501 1504	IRM
+#22	AnnotatorNotes T51	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T52	PROC 1511 1517	Visita
+T53	LIVB 1581 1593	investigador
+#23	AnnotatorNotes T53	C0035173; Research Personnel; Professional or Occupational Group
+T54	PROC 1617 1635	exploración física
+#24	AnnotatorNotes T54	C0031809; Physical Examination; Health Care Activity
+T55	PROC 1662 1676	signos vitales
+T56	PROC 1682 1704	pruebas de laboratorio
+#25	AnnotatorNotes T56	C0022885; Laboratory Procedures; Laboratory Procedure
+T57	PROC 1710 1728	electrocardiograma
+#26	AnnotatorNotes T57	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T58	PROC 1730 1733	ECG
+#27	AnnotatorNotes T58	C1623258; Electrocardiography; Diagnostic Procedure
+T59	PROC 1741 1747	visita
+T60	DISO 1773 1784	anormalidad
+#28	AnnotatorNotes T60	C1704258; Abnormality; Finding
+T61	LIVB 1905 1917	participante
+T62	LIVB 1940 1962	investigador principal
+#29	AnnotatorNotes T62	C1521895; Principal Investigator; Professional or Occupational Group
+T63	LIVB 1964 1966	IP
+T64	LIVB 1971 1984	Participantes
+T65	PROC 1989 1993	peso
+T66	PROC 1996 2015	superficie corporal
+T67	LIVB 2075 2088	participantes
+T68	DISO 2093 2102	sobrepeso
+#30	AnnotatorNotes T68	C0497406; Overweight; Finding
+T69	LIVB 2134 2147	participantes
+T70	PROC 2152 2156	peso
+T71	PROC 2215 2234	autorización médica
+T72	PROC 2277 2288	diagnóstico
+#31	AnnotatorNotes T72	C0011900; Diagnosis; Diagnostic Procedure
+T73	DISO 2292 2294	EM
+#32	AnnotatorNotes T73	C0014742; Erythema Multiforme; Disease or Syndrome | C0015674; Chronic Fatigue Syndrome; Disease or Syndrome | C0026269; Mitral Valve Stenosis; Disease or Syndrome | C0026769; Multiple Sclerosis; Disease or Syndrome | C0264766; Rheumatic mitral stenosis; Disease or Syndrome
+T74	DISO 2343 2365	EM primaria progresiva
+T75	DISO 2368 2393	EM progresiva recidivante
+T76	DISO 2398 2460	Alteraciones generalizadas y simétricas de la sustancia blanca
+T77	PROC 2467 2469	RM
+#33	AnnotatorNotes T77	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T78	Spec_cue 2482 2490	sugieren
+T79	DISO 2497 2524	trastornos desmielinizantes
+T80	Speculated 2497 2524	trastornos desmielinizantes
+T81	DISO 2539 2561	trastornos metabólicos
+#34	AnnotatorNotes T81	C0025517; Metabolic Diseases; Disease or Syndrome
+T82	Speculated 2539 2561	trastornos metabólicos
+T83	DISO 2563 2588	trastornos mitocondriales
+#35	AnnotatorNotes T83	C0026244; Mitochondrial Swelling; Cell or Molecular Dysfunction | C0751651; Mitochondrial Diseases; Disease or Syndrome
+T84	Speculated 2563 2588	trastornos mitocondriales
+T85	CHEM 2617 2629	acuaporina 4
+T86	CHEM 2631 2635	AQP4
+T87	PROC 2639 2703	anticuerpos contra la glicoproteína oligodendrocítica de mielina
+T88	PROC 2705 2708	MOG
+T89	PROC 2716 2722	visita
+T90	LIVB 2783 2788	mujer
+#36	AnnotatorNotes T90	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T91	PHYS 2803 2813	concepción
+#37	AnnotatorNotes T91	C0009637; Conception; Organism Function
+T92	PHYS 2843 2852	gestación
+#38	AnnotatorNotes T92	C0032961; Pregnancy; Organism Function
+T93	PROC 2873 2928	prueba de laboratorio de gonadotropina coriónica humana
+T94	PHYS 2956 2965	lactancia
+#39	AnnotatorNotes T94	C0006147; Breast Feeding; Organism Function | C0022925; Lactation; Organ or Tissue Function
+T95	LIVB 3092 3104	investigador
+#40	AnnotatorNotes T95	C0035173; Research Personnel; Professional or Occupational Group
+T96	Neg_cue 3123 3125	no
+T97	Negated 3130 3141	conveniente
+T98	LIVB 3150 3162	participante
+T99	Speculated 3220 3227	impedir
+T100	Speculated 3229 3236	limitar
+T101	Speculated 3239 3248	confundir
+T102	PROC 3253 3265	evaluaciones
+#41	AnnotatorNotes T102	C1261322; Evaluation procedure; Health Care Activity
+T103	PROC 3286 3295	protocolo
+#42	AnnotatorNotes T103	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T104	PROC 44 51	Estudio
+T105	PROC 949 970	criterios de McDonald
+T106	CHEM 1371 1380	gadolinio
+T107	CHEM 1382 1384	Gd
+T108	PROC 1640 1656	historia clínica
+T109	DISO 1825 1838	EM pediátrica
+T110	Age 1828 1838	pediátrica
+T111	PHYS 2740 2750	Embarazada
+T112	PROC 2593 2599	Prueba
+T113	PHYS 2987 2997	embarazada
+T114	PROC 3033 3040	estudio
+T115	Quantifier_or_Qualifier 1050 1060	pediátrica
+T116	Quantifier_or_Qualifier 1109 1110	3
+T117	Result_or_Value 1205 1218	entre 0 y 5,5
+T118	Quantifier_or_Qualifier 1234 1244	Al menos 1
+T119	Quantifier_or_Qualifier 1288 1289	2
+T120	Quantifier_or_Qualifier 1460 1461	3
+T121	Quantifier_or_Qualifier 1518 1519	2
+T122	CONC 1521 1527	Inicio
+T123	Observation 1544 1549	sanos
+T124	CONC 1640 1656	historia clínica
+T125	Quantifier_or_Qualifier 1748 1749	1
+T126	Observation 1773 1784	anormalidad
+T127	Quantifier_or_Qualifier 1828 1838	pediátrica
+T128	Result_or_Value 2016 2046	entre el 5º y el 95º percentil
+T129	Result_or_Value 2103 2127	superior al percentil 95
+T130	Result_or_Value 2157 2180	inferior al percentil 5
+T131	Observation 2188 2198	participar
+T132	Observation 2299 2315	curso progresivo
+T133	CONC 2325 2331	inicio
+T134	Quantifier_or_Qualifier 2346 2354	primaria
+T135	Quantifier_or_Qualifier 2355 2365	progresiva
+T136	Observation 2382 2393	recidivante
+T137	Result_or_Value 2600 2608	positiva
+T138	Quantifier_or_Qualifier 2723 2724	1
+T139	Result_or_Value 2929 2937	positiva
+T140	Observation 2973 2997	planea quedar embarazada
+T141	Quantifier_or_Qualifier 3130 3141	conveniente
+T142	Observation 3177 3204	comprometiendo su bienestar
+T143	CONC 3229 3236	limitar
+T144	CONC 3239 3248	confundir
+T145	Patient 193 214	pacientes pediátricos
+T146	Patient 581 602	pacientes pediátricos
+T147	Patient 1076 1089	participantes
+T148	History_of 1259 1261	EM
+T149	History_of 1305 1307	EM
+T150	Other 1581 1593	investigador
+T151	Patient 1905 1917	participante
+T152	Other 1940 1962	investigador principal
+T153	Other 1964 1966	IP
+T154	Patient 1971 1984	Participantes
+T155	Patient 2075 2088	participantes
+T156	Patient 2134 2147	participantes
+T157	Patient 2783 2788	mujer
+T158	Future 2987 2997	embarazada
+T159	Other 3092 3104	investigador
+T160	Patient 3150 3162	participante

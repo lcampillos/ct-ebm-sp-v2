@@ -1,0 +1,217 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	70 años
+T3	PROC 85 105	analítica de control
+T4	Frequency 106 111	anual
+T5	DISO 161 182	Hipertensión arterial
+#2	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	PROC 186 197	tratamiento
+#3	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	CHEM 202 210	Losartán
+#4	AnnotatorNotes T7	C0126174; losartan; Organic Chemical · Pharmacologic Substance
+T8	Dose 211 216	100mg
+T9	CHEM 217 234	Hidroclorotiazida
+#5	AnnotatorNotes T9	C0020261; hydrochlorothiazide; Organic Chemical · Pharmacologic Substance
+T10	Dose 235 239	25mg
+T11	Frequency 240 248	cada 24h
+T12	CHEM 251 261	Amlodipino
+#6	AnnotatorNotes T12	C0051696; amlodipine; Organic Chemical · Pharmacologic Substance
+T13	Dose 262 265	5mg
+T14	Frequency 266 274	cada 12h
+T15	DISO 276 286	Dislipemia
+#7	AnnotatorNotes T15	C0242339; Dyslipidemias; Disease or Syndrome
+T16	PROC 288 299	Seguimiento
+#8	AnnotatorNotes T16	C0420316; Other follow-up; Health Care Activity
+T17	DISO 314 331	patología crónica
+T18	Duration 324 331	crónica
+T19	DISO 355 367	Leucocitosis
+#9	AnnotatorNotes T19	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T20	Date 371 388	noviembre de 2018
+T21	Spec_cue 389 401	posiblemente
+T22	Speculated 405 440	relación con un problema infeccioso
+T23	DISO 421 440	problema infeccioso
+T24	Neg_cue 473 476	sin
+T25	LIVB 477 482	hijos
+T26	Negated 477 482	hijos
+T27	PROC 486 492	EXAMEN
+#10	AnnotatorNotes T27	C0031809; Physical Examination; Health Care Activity
+T28	PROC 495 513	Exploración física
+#11	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T29	Neg_cue 644 647	Sin
+T30	DISO 658 679	focalidad neurológica
+#12	AnnotatorNotes T30	C1848821; Focal neurologic signs; Finding
+T31	PROC 682 685	ACR
+#13	AnnotatorNotes T31	C0584615; Urine microalbumin/creatinine ratio measurement; Laboratory Procedure
+T32	Neg_cue 711 714	sin
+T33	DISO 715 721	soplos
+#14	AnnotatorNotes T33	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T34	Negated 715 721	soplos
+T35	Neg_cue 754 757	sin
+T36	DISO 758 790	ruidos patológicos sobreañadidos
+T37	Negated 758 790	ruidos patológicos sobreañadidos
+T38	Neg_cue 792 794	No
+T39	DISO 795 801	edemas
+#15	AnnotatorNotes T39	C0013604; Edema; Pathologic Function
+T40	Negated 795 801	edemas
+T41	Neg_cue 802 804	ni
+T42	Negated 805 863	signos de trombosis venosa profunda en miembros inferiores
+T43	DISO 815 840	trombosis venosa profunda
+#16	AnnotatorNotes T43	C0149871; Deep Vein Thrombosis; Disease or Syndrome
+T44	ANAT 844 863	miembros inferiores
+#17	AnnotatorNotes T44	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T45	PROC 866 889	Pruebas Complementarias
+#18	AnnotatorNotes T45	C1515980; Ancillary Study; Research Activity
+T46	PROC 891 900	Analítica
+#19	AnnotatorNotes T46	C0002778; Analysis of substances; Laboratory Procedure
+T47	PROC 902 911	Hemograma
+#20	AnnotatorNotes T47	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T48	PROC 913 924	Hemoglobina
+#21	AnnotatorNotes T48	C0518015; Hemoglobin measurement; Laboratory Procedure
+T49	PROC 927 936	Plaquetas
+T50	PROC 947 957	Leucocitos
+T51	PROC 976 986	linfocitos
+#22	AnnotatorNotes T51	C0024264; Lymphocyte; Cell
+T52	PROC 992 1002	Bioquímica
+#23	AnnotatorNotes T52	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T53	PROC 1004 1015	ácido úrico
+#24	AnnotatorNotes T53	C0202239; Uric acid measurement (procedure); Laboratory Procedure
+T54	PROC 1026 1036	Creatinina
+#25	AnnotatorNotes T54	C0201975; Creatinine measurement; Laboratory Procedure
+T55	PROC 1048 1058	Colesterol
+#26	AnnotatorNotes T55	C0201950; Cholesterol measurement test; Laboratory Procedure
+T56	PROC 1069 1072	HDL
+#27	AnnotatorNotes T56	C0392885; High density lipoprotein measurement; Laboratory Procedure
+T57	PROC 1082 1085	LDL
+#28	AnnotatorNotes T57	C0202117; Low density lipoprotein cholesterol measurement; Laboratory Procedure
+T58	Neg_cue 1103 1106	sin
+T59	Negated 1107 1127	hallazgos relevantes
+T60	PROC 1209 1218	analítica
+#29	AnnotatorNotes T60	C0002778; Analysis of substances; Laboratory Procedure
+T61	PROC 1230 1256	recomendaciones dietéticas
+T62	PROC 1262 1284	control de ácido úrico
+T63	PROC 1313 1324	tratamiento
+#30	AnnotatorNotes T63	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T64	PROC 1358 1385	frotis de sangre periférica
+#31	AnnotatorNotes T64	C2238079; blood smear; Laboratory Procedure
+T65	Spec_cue 1401 1408	posible
+T66	Speculated 1409 1430	causa de linfocitosis
+T67	DISO 1418 1430	linfocitosis
+#32	AnnotatorNotes T67	C0024282; Lymphocytosis; Disease or Syndrome | C0853698; Lymphocyte count increased; Finding
+T68	PROC 1482 1488	frotis
+#33	AnnotatorNotes T68	C0444186; Smear test; Diagnostic Procedure
+T69	PROC 1657 1666	Analítica
+#34	AnnotatorNotes T69	C0002778; Analysis of substances; Laboratory Procedure
+T70	PROC 1668 1677	Hemograma
+#35	AnnotatorNotes T70	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T71	PROC 1679 1690	Hemoglobina
+#36	AnnotatorNotes T71	C0518015; Hemoglobin measurement; Laboratory Procedure
+T72	PROC 1693 1702	Plaquetas
+T73	PROC 1713 1723	Leucocitos
+T74	PROC 1742 1752	linfocitos
+#37	AnnotatorNotes T74	C0024264; Lymphocyte; Cell
+T75	PROC 1758 1768	Bioquímica
+#38	AnnotatorNotes T75	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T76	PROC 1770 1781	ácido úrico
+#39	AnnotatorNotes T76	C0202239; Uric acid measurement (procedure); Laboratory Procedure
+T77	PROC 1792 1802	Creatinina
+#40	AnnotatorNotes T77	C0201975; Creatinine measurement; Laboratory Procedure
+T78	PROC 1814 1817	LDH
+#41	AnnotatorNotes T78	C0202113; Lactate dehydrogenase measurement; Laboratory Procedure
+T79	PROC 1826 1843	β2 Microglobulina
+#42	AnnotatorNotes T79	C0201910; Beta-2-microglobulin measurement; Laboratory Procedure
+T80	PROC 1855 1879	Inmunoglobulinas A, G, M
+T81	PROC 1890 1901	Ac VHB core
+T82	Neg_cue 1918 1921	sin
+T83	Negated 1922 1942	hallazgos relevantes
+T84	PROC 1946 1965	Citometría de flujo
+#43	AnnotatorNotes T84	C0016263; Flow Cytometry; Laboratory Procedure
+T85	DISO 1983 2018	Síndrome Linfoproliferativo crónico
+#44	AnnotatorNotes T85	C0344462; Chronic lymphoproliferative disease NOS; Neoplastic Process
+T86	Duration 2011 2018	crónico
+T87	PROC 2026 2040	inmunofenotipo
+T88	Spec_cue 2041 2055	compatible con
+T89	DISO 2056 2086	Neoplasia de Células B maduras
+T90	Speculated 2056 2086	Neoplasia de Células B maduras
+T91	Spec_cue 2087 2099	sugestivo de
+T92	DISO 2100 2134	Linfoma no Hodgkin (LNH) Folicular
+T93	Speculated 2100 2134	Linfoma no Hodgkin (LNH) Folicular
+T94	Spec_cue 2135 2156	sin poder descartarse
+T95	DISO 2157 2168	LNH Burkitt
+T96	Speculated 2157 2168	LNH Burkitt
+T97	DISO 2171 2202	LNH Difuso de células grandes B
+#45	AnnotatorNotes T97	Diffuse Large B-Cell Lymphoma (C0079744)
+T98	Speculated 2171 2203	LNH Difuso de células grandes B.
+T99	PROC 2206 2209	TAC
+#46	AnnotatorNotes T99	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T100	DISO 2231 2254	paniculitis mesentérica
+#47	AnnotatorNotes T100	C0267770; Retractile Mesenteritis; Disease or Syndrome
+T101	Neg_cue 2256 2259	sin
+T102	DISO 2260 2271	adenopatías
+#48	AnnotatorNotes T102	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T103	Negated 2260 2271	adenopatías
+T104	Neg_cue 2272 2274	ni
+T105	DISO 2275 2283	megalias
+T106	Negated 2275 2283	megalias
+T107	PROC 2287 2309	Biopsia de médula ósea
+T108	DISO 2333 2356	Linfoma B de bajo grado
+#49	AnnotatorNotes T108	C0456861; Low grade B-cell lymphoma; Neoplastic Process
+T109	PROC 2411 2422	TRATAMIENTO
+#50	AnnotatorNotes T109	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T110	Neg_cue 2453 2464	ausencia de
+T111	DISO 2465 2475	síntomas B
+T112	Negated 2465 2475	síntomas B
+T113	DISO 2481 2492	adenopatías
+#51	AnnotatorNotes T113	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T114	Negated 2481 2492	adenopatías
+T115	PROC 2504 2526	abstención terapéutica
+T116	Neg_cue 2504 2514	abstención
+T117	Negated 2515 2526	terapéutica
+T118	PROC 2531 2538	control
+#52	AnnotatorNotes T118	C1522577; follow-up; Health Care Activity
+T119	PROC 2541 2552	seguimiento
+#53	AnnotatorNotes T119	C0420316; Other follow-up; Health Care Activity
+T120	Negated 658 679	focalidad neurológica
+T121	PROC 2360 2371	DIAGNÓSTICO
+T122	PROC 1645 1652	estudio
+T123	Observation 536 546	consciente
+T124	Observation 548 557	orientada
+T125	DISO 2384 2393	Linfoma B
+T126	PROC 50 79	consulta de Atención Primaria
+T127	Observation 442 460	Independiente ABVD
+T128	Observation 462 471	Vive sola
+T129	Observation 515 534	Buen estado general
+T130	Observation 560 572	colaboradora
+T131	Observation 574 592	Eupneica en reposo
+T132	Observation 594 608	Normohidratada
+T133	Observation 610 624	normocoloreada
+T134	Observation 627 642	normoperfundida
+T135	Observation 687 701	tonos rítmicos
+T136	Quantifier_or_Qualifier 704 709	puros
+T137	Observation 723 752	Murmullo vesicular conservado
+T138	Result_or_Value 937 945	normales
+T139	Result_or_Value 958 966	13200/μL
+T140	Result_or_Value 971 989	7420 linfocitos/μL
+T141	Result_or_Value 1016 1024	7.5mg/dL
+T142	Result_or_Value 1037 1046	0.80mg/dL
+T143	Result_or_Value 1059 1067	201mg/dL
+T144	Result_or_Value 1073 1080	64mg/dL
+T145	Result_or_Value 1086 1094	117mg/dL
+T146	Observation 1107 1116	hallazgos
+T147	Quantifier_or_Qualifier 1117 1127	relevantes
+T150	Result_or_Value 1703 1711	normales
+T151	Result_or_Value 1724 1732	13337/μL
+T152	Result_or_Value 1737 1755	7290 linfocitos/μL
+T153	Result_or_Value 1782 1790	8.0mg/dL
+T154	Result_or_Value 1803 1812	1.04mg/dL
+T155	Result_or_Value 1818 1824	149U/L
+T156	Result_or_Value 1844 1852	3.16mg/L
+T157	Result_or_Value 1880 1888	normales
+T158	Result_or_Value 1902 1910	positivo
+T159	Observation 1922 1931	hallazgos
+T160	Quantifier_or_Qualifier 1932 1942	relevantes
+T161	Patient 21 26	Mujer
+T162	History_of 161 182	Hipertensión arterial
+T163	History_of 276 286	Dislipemia
+T164	Family_member 477 482	hijos
+T167	Quantifier_or_Qualifier 2397 2407	bajo grado
+T148	Quantifier_or_Qualifier 1434 1457	repetida en 2 ocasiones

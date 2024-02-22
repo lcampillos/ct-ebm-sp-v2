@@ -1,0 +1,223 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	73 años
+T3	DISO 75 95	deterioro de memoria
+#2	AnnotatorNotes T3	C0233794; Memory impairment; Mental or Behavioral Dysfunction
+T4	Duration 99 106	2 meses
+T5	DISO 141 162	Hipertensión arterial
+#3	AnnotatorNotes T5	C0020538; Hypertensive disease; Disease or Syndrome
+T6	PROC 166 177	tratamiento
+#4	AnnotatorNotes T6	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T7	CHEM 182 203	inhibidores de la ECA
+#5	AnnotatorNotes T7	C0003015; Angiotensin-Converting Enzyme Inhibitors; Pharmacologic Substance
+T8	CHEM 205 241	enzima conversora de la angiotensina
+T9	DISO 244 268	Diabetes mellitus tipo 2
+#6	AnnotatorNotes T9	C0011860; Diabetes Mellitus, Non-Insulin-Dependent; Disease or Syndrome
+T10	PROC 272 283	tratamiento
+#7	AnnotatorNotes T10	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T11	CHEM 288 296	insulina
+#8	AnnotatorNotes T11	C0021641; Insulin; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance | C3537244; Insulins; Pharmacologic Substance
+T12	PROC 298 316	Colecistectomizada
+#9	AnnotatorNotes T12	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T13	DISO 319 329	Enfermedad
+#10	AnnotatorNotes T13	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T14	Date 330 336	actual
+T15	LIVB 342 350	paciente
+#11	AnnotatorNotes T15	C0030705; Patients; Patient or Disabled Group
+T16	LIVB 373 383	familiares
+#12	AnnotatorNotes T16	C0080103; Relative (related person); Family Group
+T17	Duration 412 433	los dos últimos meses
+T18	DISO 434 461	deterioro rápido de memoria
+T19	LIVB 515 520	mujer
+#13	AnnotatorNotes T19	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T20	PHYS 593 598	sueño
+#14	AnnotatorNotes T20	C0013117; Dreams; Mental Process | C0037313; Sleep; Organism Function | C2830004; Somnolence; Mental or Behavioral Dysfunction
+T22	Observation 671 680	irritable
+#15	AnnotatorNotes T22	C0022107; Irritable Mood; Finding
+T23	PROC 706 717	diagnóstico
+#16	AnnotatorNotes T23	C0011900; Diagnosis; Diagnostic Procedure
+T24	DISO 721 740	trastorno depresivo
+#17	AnnotatorNotes T24	C0011581; Depressive disorder; Mental or Behavioral Dysfunction
+T25	DISO 758 769	somnolencia
+#18	AnnotatorNotes T25	C0013144; Drowsiness; Finding | C2830004; Somnolence; Mental or Behavioral Dysfunction
+T26	CHEM 776 784	fármacos
+#19	AnnotatorNotes T26	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T27	PROC 785 795	prescritos
+#20	AnnotatorNotes T27	C0033080; Prescription procedure; Health Care Activity
+T28	Duration 801 824	las dos últimas semanas
+T29	Observation 834 857	dificultad para caminar
+#21	AnnotatorNotes T29	C0311394; Difficulty walking; Finding
+T31	ANAT 876 882	pierna
+#23	AnnotatorNotes T31	C0230443; Structure of left lower leg; Body Part, Organ, or Organ Component
+T32	LIVB 898 908	familiares
+#24	AnnotatorNotes T32	C0080103; Relative (related person); Family Group
+T33	DISO 932 946	mirada perdida
+T34	Duration 951 976	aproximadamente un minuto
+T35	PROC 1064 1082	EXPLORACIÓN FÍSICA
+#25	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	PROC 1085 1103	Examen neurológico
+#26	AnnotatorNotes T36	C0027853; Neurologic Examination; Diagnostic Procedure
+T37	LIVB 1105 1113	Paciente
+#27	AnnotatorNotes T37	C0030705; Patients; Patient or Disabled Group
+T38	DISO 1114 1127	bradipsíquica
+T39	DISO 1143 1161	fallos de atención
+T40	Neg_cue 1188 1201	imposibilitan
+T41	PROC 1214 1233	examen cognoscitivo
+T42	Negated 1214 1233	examen cognoscitivo
+T43	Neg_cue 1236 1238	No
+T44	DISO 1252 1268	signos meníngeos
+T45	Negated 1252 1268	signos meníngeos
+T46	PROC 1276 1287	fundoscopia
+#28	AnnotatorNotes T46	C0029090; Ophthalmoscopy; Diagnostic Procedure
+T47	ANAT 1305 1320	papilas ópticas
+#29	AnnotatorNotes T47	C0029127; Optic Disk; Body Part, Organ, or Organ Component | C1272637; Entire optic disc; Body Part, Organ, or Organ Component
+T48	Neg_cue 1338 1341	sin
+T49	DISO 1342 1350	exudados
+T50	Negated 1342 1350	exudados
+T51	Neg_cue 1351 1353	ni
+T52	DISO 1354 1365	hemorragias
+#30	AnnotatorNotes T52	C0019080; Hemorrhage; Pathologic Function
+T53	Negated 1354 1365	hemorragias
+T54	ANAT 1371 1378	pupilas
+#31	AnnotatorNotes T54	C0034121; Pupil; Body Part, Organ, or Organ Component | C1305618; Entire pupil; Body Part, Organ, or Organ Component
+T55	PHYS 1419 1430	acomodación
+#32	AnnotatorNotes T55	C0000936; Visual Accommodation; Organ or Tissue Function
+T56	DISO 1447 1474	paresia facial supranuclear
+T57	DISO 1486 1507	Hemiparesia izquierda
+#33	AnnotatorNotes T57	C0457436; Left hemiparesis; Finding
+T58	ANAT 1522 1528	crural
+#34	AnnotatorNotes T58	C0015808; Structure of femoral nerve; Body Part, Organ, or Organ Component | C0039866; Thigh structure; Body Location or Region | C1140621; Leg; Body Part, Organ, or Organ Component | C1281586; Entire thigh; Body Part, Organ, or Organ Component | C1285009; Entire lower leg, from knee to ankle; Body Location or Region | C1305061; Entire vastus intermedius muscle; Body Part, Organ, or Organ Component
+T59	DISO 1536 1549	Hiperreflexia
+#35	AnnotatorNotes T59	C0151889; Hyperreflexia; Finding
+T60	PHYS 1565 1588	reflejo cutáneo-plantar
+T61	DISO 1623 1642	hemiparetoespástica
+T62	PROC 1660 1679	pruebas cerebelosas
+T63	PROC 1690 1727	Examen general por órganos y aparatos
+T64	PROC 1737 1760	PRUEBAS COMPLEMENTARIAS
+#36	AnnotatorNotes T64	C1515980; Ancillary Study; Research Activity
+T65	PROC 1763 1772	Hemograma
+#37	AnnotatorNotes T65	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T66	PROC 1774 1791	perfil bioquímico
+T67	PROC 1794 1823	estudio básico de coagulación
+T68	PROC 1834 1854	Electroencefalograma
+#38	AnnotatorNotes T68	C0013819; Electroencephalography; Diagnostic Procedure
+T69	ANAT 1899 1933	áreas parietotemporales izquierdas
+T70	PROC 1936 1939	TAC
+#39	AnnotatorNotes T70	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T71	PROC 1941 1971	tomografía axial computarizada
+#40	AnnotatorNotes T71	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T72	ANAT 1976 1982	cráneo
+#41	AnnotatorNotes T72	C0037303; Bone structure of cranium; Body Part, Organ, or Organ Component | C1279062; Entire cranium; Body Part, Organ, or Organ Component
+T73	DISO 1984 2014	colección extraaxial bilateral
+T74	ANAT 2082 2092	parénquima
+#42	AnnotatorNotes T74	C0524464; Organ parenchyma; Body Location or Region | C0933845; Parenchyma; Body Part, Organ, or Organ Component
+T76	ANAT 2167 2178	ventrículos
+#43	AnnotatorNotes T76	C0018827; Heart Ventricle; Body Part, Organ, or Organ Component | C0446681; Entire ventricle of brain; Body Space or Junction | C1280934; Entire cardiac ventricle; Body Part, Organ, or Organ Component
+T77	PROC 2236 2265	resonancia magnética nuclear)
+T78	ANAT 2266 2276	encefálico
+#44	AnnotatorNotes T78	C0006104; Brain; Body Part, Organ, or Organ Component | C1269537; Entire brain; Body Part, Organ, or Organ Component
+T79	PROC 2312 2315	TAC
+#45	AnnotatorNotes T79	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T80	LIVB 2401 2409	paciente
+#46	AnnotatorNotes T80	C0030705; Patients; Patient or Disabled Group
+T81	DISO 2424 2444	deterioro de memoria
+#47	AnnotatorNotes T81	C0233794; Memory impairment; Mental or Behavioral Dysfunction
+T82	Duration 2448 2463	corta evolución
+T83	PHYS 2492 2498	alerta
+T84	PHYS 2501 2513	atencionales
+T85	DISO 2525 2548	déficit motores focales
+T86	Spec_cue 2561 2572	compatibles
+T87	DISO 2577 2603	crisis parciales complejas
+#48	AnnotatorNotes T87	C0149958; Complex partial seizures; Disease or Syndrome
+T88	Speculated 2577 2603	crisis parciales complejas
+T89	DISO 2616 2626	semiología
+T90	PROC 2661 2683	estudio de neuroimagen
+T91	DISO 2699 2721	alteración estructural
+T92	PROC 2724 2735	DIAGNÓSTICO
+#49	AnnotatorNotes T92	C0011900; Diagnosis; Diagnostic Procedure
+T93	DISO 2748 2773	Hematoma subdural crónico
+#50	AnnotatorNotes T93	C0749095; Hematoma, Subdural, Chronic; Pathologic Function
+T94	Duration 2766 2773	crónico
+T95	PROC 2793 2802	anamnesis
+#51	AnnotatorNotes T95	C0025084; Medical History Taking; Health Care Activity | C0199182; History taking; Health Care Activity
+T97	PROC 2867 2877	entrevista
+T98	DISO 2945 2953	síntomas
+#53	AnnotatorNotes T98	C1457887; Symptoms; Sign or Symptom
+T99	LIVB 2957 2965	paciente
+#54	AnnotatorNotes T99	C0030705; Patients; Patient or Disabled Group
+T100	DISO 2987 3001	caída al suelo
+T101	Neg_cue 3002 3005	sin
+T102	DISO 3006 3028	pérdida de consciencia
+#55	AnnotatorNotes T102	C0041657; Unconscious State; Finding
+T103	Negated 3006 3028	pérdida de consciencia
+T104	DISO 3043 3061	cortejo vegetativo
+T105	DISO 3090 3113	hipotensión ortostática
+#56	AnnotatorNotes T105	C0020651; Hypotension, Orthostatic; Disease or Syndrome
+T106	DISO 3118 3135	sobredosificación
+#57	AnnotatorNotes T106	C0029944; Drug Overdose; Injury or Poisoning
+T107	CHEM 3142 3164	medicación hipotensora
+T108	PROC 3167 3178	TRATAMIENTO
+#58	AnnotatorNotes T108	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T109	LIVB 3184 3192	paciente
+#59	AnnotatorNotes T109	C0030705; Patients; Patient or Disabled Group
+T110	PROC 3197 3224	intervenida quirúrgicamente
+T111	DISO 3248 3269	trastornos cognitivos
+T112	PROC 3284 3295	tratamiento
+#60	AnnotatorNotes T112	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T113	CHEM 3300 3309	fenitoína
+#61	AnnotatorNotes T113	C0031507; phenytoin; Organic Chemical · Pharmacologic Substance
+T114	DISO 3318 3338	episodios comiciales
+T115	Neg_cue 3344 3346	no
+T116	Negated 3351 3369	vuelto a repetirse
+T118	DISO 1856 1875	lentificación focal
+T119	DISO 2371 2380	colección
+T120	PROC 2231 2234	RMN
+T121	Observation 467 505	abandono de sus actividades habituales
+T122	Observation 521 548	absolutamente independiente
+T123	Observation 611 642	reducido su lenguaje espontáneo
+T124	Quantifier_or_Qualifier 1205 1213	completo
+T126	Observation 1393 1430	reactivas a la luz y a la acomodación
+T127	Quantifier_or_Qualifier 1442 1446	leve
+T128	Result_or_Value 1530 1533	4/5
+T129	Observation 1644 1688	Bipedestación y pruebas cerebelosas normales
+T130	Result_or_Value 1728 1734	normal
+T131	Result_or_Value 1824 1832	normales
+T133	Quantifier_or_Qualifier 1923 1933	izquierdas
+T134	Quantifier_or_Qualifier 2005 2014	bilateral
+T135	Quantifier_or_Qualifier 2042 2055	discretamente
+T136	Quantifier_or_Qualifier 2112 2126	lado izquierdo
+T137	Observation 2140 2161	borramiento de surcos
+T138	Quantifier_or_Qualifier 2195 2209	pequeño tamaño
+T139	Observation 2469 2513	cambios en el nivel de alerta y atencionales
+T140	Quantifier_or_Qualifier 2774 2783	bilateral
+T141	Quantifier_or_Qualifier 2859 2866	primera
+T142	Observation 3230 3240	resolución
+T143	Observation 3360 3369	repetirse
+T144	Patient 21 26	Mujer
+T145	History_of 298 316	Colecistectomizada
+T146	Patient 342 350	paciente
+T147	Family_member 373 383	familiares
+T148	Patient 515 520	mujer
+T149	Family_member 898 908	familiares
+T150	Patient 1105 1113	Paciente
+T151	Patient 2401 2409	paciente
+T152	Patient 2957 2965	paciente
+T153	Patient 3184 3192	paciente
+T117	History_of 141 162	Hipertensión arterial
+T154	History_of 244 268	Diabetes mellitus tipo 2
+T155	History_of 521 548	absolutamente independiente
+T156	Observation 580 598	tendencia al sueño
+T21	Observation 862 869	torpeza
+T30	Quantifier_or_Qualifier 883 892	izquierda
+T157	Observation 1009 1061	emite repetidamente sonidos guturales ininteligibles
+T158	Observation 1305 1336	papilas ópticas mal delimitadas
+T125	Quantifier_or_Qualifier 1383 1390	iguales
+T159	Quantifier_or_Qualifier 1475 1484	izquierda
+T160	Quantifier_or_Qualifier 1550 1559	izquierda
+T161	Result_or_Value 1589 1600	indiferente
+T132	ANAT 2029 2039	convexidad
+T162	Observation 2056 2065	hipodensa
+T75	CONC 2929 2953	comienzo de los síntomas
+T163	Observation 2818 2842	antecedentes traumáticos
+T164	History_of 2818 2842	antecedentes traumáticos
+T96	History_of 2987 3001	caída al suelo

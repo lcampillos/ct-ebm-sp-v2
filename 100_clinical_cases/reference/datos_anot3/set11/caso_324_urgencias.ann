@@ -1,0 +1,129 @@
+T1	LIVB 21 27	Hombre
+#1	AnnotatorNotes T1	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T2	Age 31 38	80 años
+T3	PROC 74 78	cura
+#2	AnnotatorNotes T3	C1276305; Curative - procedure intent; Therapeutic or Preventive Procedure
+T4	DISO 82 101	ulcera en la pierna
+#3	AnnotatorNotes T4	C0023223; Leg Ulcer; Disease or Syndrome
+T5	DISO 153 196	Miocardiopatía dilatada de origen isquémico
+#4	AnnotatorNotes T5	Ischemic cardiomyopathy (C0349782)
+T6	PROC 201 205	FEVI
+T7	DISO 213 215	FA
+#5	AnnotatorNotes T7	C0004238; Atrial Fibrillation; Disease or Syndrome | C0016719; Friedreich Ataxia; Disease or Syndrome
+T8	DISO 216 235	Flutter paroxistico
+T9	PROC 236 249	anticoagulado
+#6	AnnotatorNotes T9	C0003281; Anticoagulation Therapy; Therapeutic or Preventive Procedure
+T10	CHEM 254 264	dabigatran
+#7	AnnotatorNotes T10	C2348066; dabigatran; Organic Chemical · Pharmacologic Substance
+T13	PROC 305 316	seguimiento
+#10	AnnotatorNotes T13	C0420316; Other follow-up; Health Care Activity
+T14	PROC 352 355	IQs
+T15	DEVI 364 369	stent
+#11	AnnotatorNotes T15	C0038257; Stent, device; Medical Device
+T16	ANAT 373 389	arterias iliacas
+#12	AnnotatorNotes T16	C0020887; Structure of iliac artery; Body Part, Organ, or Organ Component | C1280172; Entire iliac artery; Body Part, Organ, or Organ Component
+T17	DISO 395 405	Enfermedad
+#13	AnnotatorNotes T17	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T18	PROC 471 473	FC
+T19	Neg_cue 509 512	sin
+T20	Observation 513 526	palpitaciones
+#14	AnnotatorNotes T20	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T21	Negated 513 526	palpitaciones
+T22	Neg_cue 528 530	no
+T23	DISO 531 545	dolor torácico
+#15	AnnotatorNotes T23	C0008031; Chest Pain; Sign or Symptom
+T24	Negated 531 545	dolor torácico
+T25	Neg_cue 546 548	ni
+T26	DISO 549 555	disnea
+#16	AnnotatorNotes T26	C0013404; Dyspnea; Sign or Symptom
+T27	Negated 549 555	disnea
+T28	PROC 570 588	Exploración física
+#17	AnnotatorNotes T28	C0031809; Physical Examination; Health Care Activity
+T29	PROC 613 615	PA
+T30	PROC 625 627	Fc
+T31	PROC 633 638	SatO2
+#18	AnnotatorNotes T31	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T32	PROC 656 679	Pruebas complementarias
+#19	AnnotatorNotes T32	C1515980; Ancillary Study; Research Activity
+T33	PROC 693 696	ECG
+#20	AnnotatorNotes T33	C1623258; Electrocardiography; Diagnostic Procedure
+T34	Spec_cue 710 718	probable
+T35	DISO 719 742	taquicardia ventricular
+#21	AnnotatorNotes T35	C0042514; Tachycardia, Ventricular; Disease or Syndrome
+T36	Speculated 719 742	taquicardia ventricular
+T37	PROC 746 757	TRATAMIENTO
+#22	AnnotatorNotes T37	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T38	CHEM 858 868	amiodarona
+#23	AnnotatorNotes T38	C0002598; amiodarone; Organic Chemical · Pharmacologic Substance
+T39	Dose 869 875	300 mg
+T40	Route 876 878	IV
+T41	Duration 891 906	unos 20 minutos
+T42	LIVB 910 918	paciente
+#24	AnnotatorNotes T42	C0030705; Patients; Patient or Disabled Group
+T43	Observation 939 945	pálido
+#25	AnnotatorNotes T43	C0030232; Pallor; Finding
+T44	PROC 947 949	PA
+T45	PROC 957 960	ECG
+#26	AnnotatorNotes T45	C1623258; Electrocardiography; Diagnostic Procedure
+T46	Neg_cue 961 964	sin
+T47	Negated 965 972	cambios
+T48	PROC 989 992	CVE
+#27	AnnotatorNotes T48	Electric Countershock (C0013778)
+T49	PROC 1000 1008	sedación
+#28	AnnotatorNotes T49	C0344106; Sedation procedure; Therapeutic or Preventive Procedure
+T50	CHEM 1013 1021	propofol
+#29	AnnotatorNotes T50	C0033487; propofol; Organic Chemical · Pharmacologic Substance
+T51	PROC 1113 1127	Traslado a UCI
+#30	AnnotatorNotes T51	Patient transfer to intensive care unit (C1275717)
+T52	Date 1144 1160	Al día siguiente
+T53	PROC 1172 1183	cateterismo
+#31	AnnotatorNotes T53	C0007430; Catheterization; Therapeutic or Preventive Procedure
+T54	DISO 1185 1197	EAC monovaso
+#32	AnnotatorNotes T54	Coronary Artery Disease (C1956346)
+T55	DISO 1199 1226	lesión de circunfleja media
+T56	Date 1274 1284	una semana
+T57	PROC 1286 1301	implante de DAI
+T58	DISO 1329 1352	Taquicardia ventricular
+#33	AnnotatorNotes T58	C0042514; Tachycardia, Ventricular; Disease or Syndrome
+T59	DISO 1354 1375	Cardiopatía isquémica
+#34	AnnotatorNotes T59	C0151744; Myocardial Ischemia; Disease or Syndrome
+T60	DEVI 1377 1380	DAI
+#35	AnnotatorNotes T60	DESFIBRILADOR AUTOMÁTICO IMPLANTABLE
+T61	PROC 419 440	tomarle las constante
+#36	AnnotatorNotes T61	Vital signs measurements (C2963216)
+T62	PROC 774 794	Traslado a urgencias
+#37	AnnotatorNotes T62	Patient transfer to skilled nursing facility for level 2 care (C0184732)
+T63	PROC 1228 1232	ACTP
+#38	AnnotatorNotes T63	Percutaneous Transluminal Coronary Angioplasty (C2936173)
+T64	DEVI 1235 1240	stent
+T65	PROC 559 565	EXAMEN
+T66	PROC 1305 1316	DIAGNÓSTICO
+T67	PROC 1084 1086	PA
+T68	Date 406 412	actual
+T69	Result_or_Value 206 210	35%.
+T70	Quantifier_or_Qualifier 342 351	múltiples
+T71	Quantifier_or_Qualifier 357 363	varios
+T72	Result_or_Value 477 485	160 lpm.
+T73	Observation 494 507	sentirse bien
+T74	Observation 592 611	Buen estado general
+T75	Result_or_Value 616 623	158/110
+T76	Result_or_Value 628 632	160.
+T77	Result_or_Value 639 643	100%
+T78	Quantifier_or_Qualifier 645 648	a.a
+T79	Observation 819 843	estabilidad hemodinámica
+T80	Observation 919 926	empeora
+T81	Result_or_Value 950 955	80/50
+T82	CONC 965 972	cambios
+T83	Observation 1060 1062	RS
+T84	Result_or_Value 1065 1071	60 lpm
+T85	Observation 1102 1109	estable
+T86	Observation 1245 1259	buen resultado
+T87	Patient 21 27	Hombre
+T88	History_of 213 235	FA/Flutter paroxistico
+T90	History_of 268 301	Claudicación intermitente de EEII
+T94	Patient 910 918	paciente
+T95	History_of 153 196	Miocardiopatía dilatada de origen isquémico
+T11	DISO 268 293	Claudicación intermitente
+T96	ANAT 297 301	EEII
+T91	Quantifier_or_Qualifier 1028 1050	descarga de 150 julios
+#8	AnnotatorNotes T91	Podría ser DOSE

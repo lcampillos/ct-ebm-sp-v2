@@ -1,0 +1,144 @@
+T1	DISO 21 27	Fiebre
+#1	AnnotatorNotes T1	C0015967; Fever; Sign or Symptom
+T2	Duration 31 39	48 horas
+T3	DISO 42 45	tos
+#2	AnnotatorNotes T3	C0010200; Coughing; Sign or Symptom
+T4	DISO 50 60	odinofagia
+#3	AnnotatorNotes T4	C0221150; Swallowing painful; Sign or Symptom
+T5	LIVB 83 88	Varón
+T6	Age 89 96	18 años
+T7	Neg_cue 128 131	Sin
+T8	DISO 132 141	patología
+#4	AnnotatorNotes T8	C0677042; Pathology processes; Pathologic Function
+T9	Negated 132 141	patología
+T10	Neg_cue 153 155	ni
+T11	PROC 156 167	tratamiento
+#5	AnnotatorNotes T11	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T13	Neg_cue 180 182	No
+T14	DISO 183 208	reacciones medicamentosas
+#6	AnnotatorNotes T14	C0041755; Adverse reaction to drug; Pathologic Function
+T16	DISO 223 233	Enfermedad
+#7	AnnotatorNotes T16	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T17	Date 234 240	actual
+T18	DISO 244 250	Fiebre
+#8	AnnotatorNotes T18	C0015967; Fever; Sign or Symptom
+T19	DISO 277 287	odinofagia
+#9	AnnotatorNotes T19	C0221150; Swallowing painful; Sign or Symptom
+T20	DISO 290 293	tos
+#10	AnnotatorNotes T20	C0010200; Coughing; Sign or Symptom
+T21	Date 300 313	hace 48 horas
+T22	Neg_cue 317 319	No
+T23	Negated 320 344	aumento de expectoración
+T24	DISO 331 344	expectoración
+T25	Neg_cue 345 347	ni
+T26	DISO 348 354	disnea
+#11	AnnotatorNotes T26	C0013404; Dyspnea; Sign or Symptom
+T27	Negated 348 354	disnea
+T28	DISO 357 371	dolor torácico
+#12	AnnotatorNotes T28	C0008031; Chest Pain; Sign or Symptom
+T29	Negated 357 371	dolor torácico
+T30	Neg_cue 375 377	No
+T31	DISO 378 409	alteraciones gastrointestinales
+#13	AnnotatorNotes T31	C0232459; Abnormal digestive tract function; Finding
+T32	Negated 378 409	alteraciones gastrointestinales
+T33	Neg_cue 410 412	ni
+T34	DISO 413 432	molestias urinarias
+#14	AnnotatorNotes T34	C4049184; Urinary tract discomfort; Sign or Symptom
+T35	Negated 413 432	molestias urinarias
+T36	PROC 447 465	Exploración física
+#15	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	PROC 572 593	saturación de oxígeno
+#16	AnnotatorNotes T37	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T38	PROC 617 636	Frecuencia cardíaca
+T39	PHYS 641 648	latidos
+#17	AnnotatorNotes T39	C0425583; Heart beat; Organ or Tissue Function
+T40	PROC 663 674	Temperatura
+T41	Neg_cue 685 687	No
+T42	DISO 688 697	exantemas
+#18	AnnotatorNotes T42	C0015230; Exanthema; Sign or Symptom
+T43	Negated 688 697	exantemas
+T44	Neg_cue 698 700	ni
+T45	DISO 701 710	petequias
+#19	AnnotatorNotes T45	C0031256; Petechiae; Disease or Syndrome | C0241144; Petechiae of skin; Sign or Symptom
+T46	Negated 701 710	petequias
+T47	ANAT 717 728	área dorsal
+T48	DISO 740 754	lesión cutánea
+#20	AnnotatorNotes T48	C0037284; Skin lesion; Disease or Syndrome | C3241942; Sore on skin; Finding
+T49	DISO 870 888	Faringe hiperémica
+T50	DISO 893 930	adenopatías inflamatorias bilaterales
+T51	PROC 934 961	Auscultación cardiopulmonar
+T52	Neg_cue 993 996	sin
+T53	DISO 997 1015	ruidos patológicos
+T54	Negated 997 1015	ruidos patológicos
+T55	Neg_cue 1032 1035	sin
+T56	DISO 1036 1042	soplos
+#21	AnnotatorNotes T56	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T57	Negated 1036 1051	soplos audibles
+T58	ANAT 1055 1062	Abdomen
+#22	AnnotatorNotes T58	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T59	Neg_cue 1063 1066	sin
+T60	DISO 1067 1079	alteraciones
+#23	AnnotatorNotes T60	C0012634; Disease; Disease or Syndrome
+T61	Negated 1067 1079	alteraciones
+T62	ANAT 1083 1102	Miembros inferiores
+#24	AnnotatorNotes T62	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T63	Neg_cue 1103 1106	sin
+T64	DISO 1107 1119	alteraciones
+#25	AnnotatorNotes T64	C0012634; Disease; Disease or Syndrome
+T65	Negated 1107 1119	alteraciones
+T66	Neg_cue 1123 1125	No
+T67	PROC 1134 1157	pruebas complementarias
+#26	AnnotatorNotes T67	C1515980; Ancillary Study; Research Activity
+T68	Negated 1126 1156	precisa pruebas complementaria
+T69	PROC 1161 1172	TRATAMIENTO
+#27	AnnotatorNotes T69	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T70	PROC 1283 1294	Tratamiento
+#28	AnnotatorNotes T70	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T71	CHEM 1299 1310	analgésicos
+#29	AnnotatorNotes T71	C0002771; Analgesics; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T72	CHEM 1313 1325	antitérmicos
+#30	AnnotatorNotes T72	C0003419; Antipyretics; Pharmacologic Substance
+T73	DISO 1334 1351	cuadro infeccioso
+#31	AnnotatorNotes T73	C3714514; Infection; Pathologic Function
+T74	Date 1361 1371	pocos días
+T75	PROC 1383 1396	biopsia punch
+T76	ANAT 1439 1446	muestra
+T77	PROC 1463 1474	DIAGNÓSTICO
+#32	AnnotatorNotes T77	C0011900; Diagnosis; Diagnostic Procedure
+T78	DISO 1487 1503	Melanoma in situ
+#33	AnnotatorNotes T78	C0346040; Stage 0 Skin Melanoma; Neoplastic Process
+T79	LIVB 1518 1526	paciente
+#34	AnnotatorNotes T79	C0030705; Patients; Patient or Disabled Group
+T80	PROC 1532 1554	extirpación quirúrgica
+T81	PROC 436 442	EXAMEN
+T82	PROC 1192 1224	toman imágenes con dermatoscopio
+T83	Result_or_Value 254 266	hasta 38.5°C
+T85	Observation 469 488	Buen estado general
+T86	Observation 514 528	normocoloreado
+T87	Observation 531 545	normohidratado
+T88	Observation 549 567	Eupneico en reposo
+T89	Result_or_Value 594 597	98%
+T90	Quantifier_or_Qualifier 598 613	a aire ambiente
+T91	Result_or_Value 638 660	77 latidos por minuto.
+T92	Result_or_Value 675 682	38.4°C.
+T93	Result_or_Value 758 764	1.5 cm
+T94	Quantifier_or_Qualifier 766 776	asimétrica
+T95	Observation 781 799	bordes irregulares
+T96	Observation 802 823	coloración abigarrada
+T97	Observation 828 840	áreas negras
+T99	Quantifier_or_Qualifier 919 930	bilaterales
+T100	Observation 963 992	murmullo vesicular conservado
+T101	Observation 1017 1031	tonos rítmicos
+T102	Quantifier_or_Qualifier 1043 1051	audibles
+T103	Patient 83 88	Varón
+T104	History_of 183 208	reacciones medicamentosas
+T105	Patient 1518 1526	paciente
+T106	Future 1532 1554	extirpación quirúrgica
+T107	Observation 490 500	consciente
+T108	Observation 503 512	orientado
+T109	Observation 843 866	áreas menos pigmentadas
+T110	PROC 1452 1460	analizar
+T12	Negated 156 176	tratamiento habitual
+T111	Quantifier_or_Qualifier 320 327	aumento
+T15	Negated 183 208	reacciones medicamentosas
+T84	History_of 132 141	patología

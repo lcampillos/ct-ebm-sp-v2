@@ -1,0 +1,169 @@
+T1	PHYS 66 81	farmacocinética
+#1	AnnotatorNotes T1	C0031327; Drug Kinetics; Physiologic Function
+T2	CHEM 86 96	guselkumab
+#2	AnnotatorNotes T2	C3852217; guselkumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T3	LIVB 100 125	participantes pediátricos
+T4	Age 114 125	pediátricos
+T5	DISO 130 149	enfermedad de Crohn
+#3	AnnotatorNotes T5	C0010346; Crohn Disease; Disease or Syndrome
+T6	PROC 198 261	Estudio de plataforma en fase III, aleatorizado y multicéntrico
+T7	CHEM 298 303	IL-23
+T8	CHEM 319 322	p19
+T9	PROC 328 350	establecer la eficacia
+T10	DISO 357 376	enfermedad de Crohn
+#4	AnnotatorNotes T10	C0010346; Crohn Disease; Disease or Syndrome
+T11	DISO 401 420	Enfermedad de Crohn
+#5	AnnotatorNotes T11	C0010346; Crohn Disease; Disease or Syndrome
+T12	Age 480 492	2 a <18 años
+T13	PROC 531 545	consentimiento
+T14	PROC 554 563	detección
+#6	AnnotatorNotes T14	C1511790; Detection; Therapeutic or Preventive Procedure
+T15	PROC 598 611	examen físico
+#7	AnnotatorNotes T15	C0031809; Physical Examination; Health Care Activity
+T16	PROC 639 653	signos vitales
+T17	PROC 712 742	pruebas de laboratorio clínico
+T18	PROC 783 794	diagnóstico
+#8	AnnotatorNotes T18	C0011900; Diagnosis; Diagnostic Procedure
+T19	DISO 824 831	colitis
+#9	AnnotatorNotes T19	C0009319; Colitis; Disease or Syndrome
+T20	DISO 840 847	ileítis
+#10	AnnotatorNotes T20	C0020877; Ileitis; Disease or Syndrome
+T21	DISO 850 861	ileocolitis
+#11	AnnotatorNotes T21	C0949272; IIeocolitis; Disease or Syndrome
+T22	Date 877 894	cualquier momento
+T23	Date 895 907	en el pasado
+T24	PROC 932 944	endoscópicos
+#12	AnnotatorNotes T24	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T25	PROC 947 959	histológicos
+T26	PROC 985 996	diagnóstico
+#13	AnnotatorNotes T26	C0011900; Diagnosis; Diagnostic Procedure
+T27	PROC 1010 1030	resección quirúrgica
+#14	AnnotatorNotes T27	C0728940; Excision; Therapeutic or Preventive Procedure
+T28	PROC 1043 1053	histología
+#15	AnnotatorNotes T28	C0344441; Histology Procedure; Laboratory Procedure
+T29	PROC 1069 1082	radiográficos
+#16	AnnotatorNotes T29	C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T30	Spec_cue 1083 1089	pueden
+T31	Speculated 1103 1112	evidencia
+T32	PROC 1209 1218	detección
+#17	AnnotatorNotes T32	C1511790; Detection; Therapeutic or Preventive Procedure
+T33	PROC 1238 1248	endoscopia
+#18	AnnotatorNotes T33	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T34	LIVB 1322 1335	participantes
+T35	DISO 1340 1356	enfermedad ileal
+T36	Duration 1376 1389	las 4 semanas
+T37	PROC 1415 1427	intervención
+#19	AnnotatorNotes T37	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T38	Date 1443 1454	la semana 0
+T39	PROC 1468 1477	protocolo
+#20	AnnotatorNotes T39	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T40	DISO 1555 1578	complicaciones de la EC
+T41	DISO 1585 1594	estenosis
+#21	AnnotatorNotes T41	C1261287; Stenosis; Pathologic Function
+T42	DISO 1597 1619	estenosis sintomáticas
+T43	DISO 1621 1649	síndrome del intestino corto
+#22	AnnotatorNotes T43	C0036992; Short Bowel Syndrome; Disease or Syndrome
+T44	PROC 1716 1723	cirugía
+#23	AnnotatorNotes T44	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T45	PROC 1792 1799	terapia
+#24	AnnotatorNotes T45	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T46	Spec_cue 1802 1814	posiblemente
+T47	Speculated 1815 1826	confundiría
+T48	PROC 1865 1876	tratamiento
+#25	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	PROC 1900 1926	procedimientos quirúrgicos
+#26	AnnotatorNotes T49	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T50	PROC 1947 1958	tratamiento
+#27	AnnotatorNotes T50	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T51	DISO 1965 1972	fístula
+#28	AnnotatorNotes T51	C0016169; pathologic fistula; Anatomical Abnormality | C1442858; Surgical fistula; Finding
+T52	Neg_cue 1973 1975	no
+T53	Negated 1995 2006	excluyentes
+T54	LIVB 2024 2038	monitor médico
+T55	Date 2043 2054	Actualmente
+T56	Spec_cue 2063 2074	se sospecha
+T57	DISO 2088 2095	absceso
+#29	AnnotatorNotes T57	C0000833; Abscess; Disease or Syndrome
+T58	Speculated 2088 2095	absceso
+T59	DISO 2101 2131	abscesos cutáneos y perianales
+T60	Date 2132 2141	recientes
+T61	Neg_cue 2142 2144	no
+T62	Negated 2149 2160	excluyentes
+T63	PROC 2167 2175	drenaron
+#30	AnnotatorNotes T63	C0013103; Drainage procedure; Therapeutic or Preventive Procedure
+T64	PROC 2178 2186	trataron
+T65	Duration 2201 2219	al menos 3 semanas
+T66	Date 2229 2252	la semana 0 u 8 semanas
+T67	Date 2262 2273	la semana 0
+T68	DISO 2283 2308	abscesos intraabdominales
+#31	AnnotatorNotes T68	C0243001; Abdominal Abscess; Disease or Syndrome
+T69	Neg_cue 2322 2324	no
+T70	PROC 2354 2361	cirugía
+#32	AnnotatorNotes T70	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T71	Negated 2354 2361	cirugía
+T72	PROC 2400 2420	resección intestinal
+#33	AnnotatorNotes T72	C1096244; Intestinal resection; Therapeutic or Preventive Procedure
+T73	Duration 2431 2445	las 26 semanas
+T74	PROC 2463 2485	cirugía intraabdominal
+T75	Duration 2496 2521	las 12 semanas anteriores
+T76	PROC 2547 2561	bolsa ileoanal
+T77	PROC 2564 2571	ostomía
+#34	AnnotatorNotes T77	C0029473; Ostomy; Therapeutic or Preventive Procedure
+T78	DISO 2582 2591	displasia
+#35	AnnotatorNotes T78	C0334044; Dysplasia; Pathologic Function
+T79	Date 2632 2638	actual
+T80	DISO 2642 2676	displasia polipoide o no polipoide
+T81	Neg_cue 2664 2666	no
+T82	Negated 2667 2676	polipoide
+T83	DISO 2690 2697	adenoma
+#36	AnnotatorNotes T83	C0001430; Adenoma; Neoplastic Process
+T84	Neg_cue 2702 2704	no
+T85	Negated 2705 2722	se haya extirpado
+T86	PROC 2713 2722	extirpado
+#37	AnnotatorNotes T86	C0728940; Excision; Therapeutic or Preventive Procedure
+T87	PROC 2736 2745	protocolo
+#38	AnnotatorNotes T87	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T88	Age 377 387	pediátrica
+T89	DISO 798 800	EC
+T90	DISO 803 818	CD fistulizante
+T91	DISO 1132 1134	EC
+T92	PROC 1200 1205	PCDAI
+T93	DISO 1266 1268	EC
+T94	PROC 1301 1307	SES-CD
+T95	PROC 1755 1760	PCDAI
+T96	Spec_cue 1729 1735	podría
+T97	Negated 1736 1760	impedir el uso del PCDAI
+T98	PROC 2539 2545	estoma
+T99	DISO 1667 1680	manifestación
+T100	Quantifier_or_Qualifier 150 156	activa
+T101	Quantifier_or_Qualifier 160 176	moderada a grave
+T102	Quantifier_or_Qualifier 421 442	moderada a gravemente
+T103	Quantifier_or_Qualifier 443 449	activa
+T104	Observation 569 588	Médicamente estable
+T105	CONC 616 632	historial médico
+T106	Observation 682 701	Médicamente estable
+T107	Observation 1059 1082	hallazgos radiográficos
+T108	Quantifier_or_Qualifier 1135 1141	activa
+T109	Quantifier_or_Qualifier 1145 1161	moderada a grave
+T110	Result_or_Value 1218 1222	> 30
+T111	Quantifier_or_Qualifier 1269 1275	activa
+T112	Result_or_Value 1308 1310	≥6
+T113	Result_or_Value 1314 1316	≥4
+T114	Quantifier_or_Qualifier 1357 1364	aislada
+T115	CONC 1755 1760	PCDAI
+T116	Observation 1777 1799	respuesta a la terapia
+T117	CONC 1815 1826	confundiría
+T118	Observation 1854 1860	efecto
+T119	Quantifier_or_Qualifier 1995 2006	excluyentes
+T120	Quantifier_or_Qualifier 2149 2160	excluyentes
+T121	Quantifier_or_Qualifier 2187 2200	adecuadamente
+T122	Quantifier_or_Qualifier 2340 2350	anticipada
+T123	Patient 100 125	participantes pediátricos
+T124	History_of 1010 1030	resección quirúrgica
+T125	Patient 1322 1335	participantes
+T126	Other 2024 2038	monitor médico
+T127	History_of 2400 2420	resección intestinal
+T128	History_of 2463 2485	cirugía intraabdominal
+T129	History_of 2642 2676	displasia polipoide o no polipoide
+T130	History_of 2690 2697	adenoma
+T131	History_of 2713 2722	extirpado

@@ -1,0 +1,159 @@
+T1	ANAT 55 71	cardiovasculares
+#1	AnnotatorNotes T1	C0007226; Cardiovascular system; Body System | C3887460; Cardiovascular; Body System
+T2	DISO 74 86	hemorrágicos
+#2	AnnotatorNotes T2	C0019080; Hemorrhage; Pathologic Function
+T3	PROC 99 145	implantación de un stent liberador de fármacos
+T4	PROC 151 178	tratamiento antiplaquetario
+#3	AnnotatorNotes T4	C1096021; Antiplatelet therapy; Therapeutic or Preventive Procedure
+T5	Duration 179 196	de corta duración
+T6	DISO 247 257	isquémicos
+#4	AnnotatorNotes T6	C0022116; Ischemia; Pathologic Function
+T7	DISO 260 272	hemorrágicos
+#5	AnnotatorNotes T7	C0019080; Hemorrhage; Pathologic Function
+T8	PROC 281 303	implantaicón del stent
+T9	PROC 320 348	terapia antiplaquetaria dual
+T10	PROC 363 422	ensayo controlado aleatorizado, muticéntrico, factorial 2x2
+T11	LIVB 437 450	participantes
+T12	DISO 509 538	Enfermedad arterial coronaria
+T13	DISO 551 574	angina de pecho estable
+#6	AnnotatorNotes T13	C0340288; Stable angina; Disease or Syndrome
+T14	DISO 577 594	ataque al corazón
+#7	AnnotatorNotes T14	C0027051; Myocardial Infarction; Disease or Syndrome
+T15	DISO 620 649	Enfermedad arterial coronaria
+T16	Age 683 698	≥18 - < 95 años
+T17	DISO 726 735	estenosis
+#8	AnnotatorNotes T17	C1261287; Stenosis; Pathologic Function
+T18	ANAT 757 774	arteria coronaria
+#9	AnnotatorNotes T18	C0205042; Coronary artery; Body Part, Organ, or Organ Component | C1269008; Entire coronary artery; Body Part, Organ, or Organ Component
+T19	ANAT 790 830	conducto de derivación venosa o arterial
+T20	PROC 848 882	implantación de un stent coronario
+T21	ANAT 887 891	vaso
+#10	AnnotatorNotes T21	C0005847; Blood Vessel; Body Part, Organ, or Organ Component | C0042591; Vessel Positions; Body Location or Region
+T22	Neg_cue 950 953	sin
+T23	Negated 954 964	limitación
+T24	DISO 979 987	lesiones
+#11	AnnotatorNotes T24	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T25	PROC 988 996	tratadas
+T26	ANAT 998 1003	vasos
+#12	AnnotatorNotes T26	C0005847; Blood Vessel; Body Part, Organ, or Organ Component | C0042591; Vessel Positions; Body Location or Region
+T27	DISO 1021 1027	lesión
+#13	AnnotatorNotes T27	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T28	PROC 1053 1077	consentimiento informado
+#14	AnnotatorNotes T28	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T29	DISO 1152 1164	Intolerancia
+T30	CHEM 1179 1187	aspirina
+#15	AnnotatorNotes T30	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T31	CHEM 1193 1213	inhibidores de P2Y12
+T32	CHEM 1215 1226	clopidogrel
+#16	AnnotatorNotes T32	C0070166; clopidogrel; Organic Chemical · Pharmacologic Substance
+T33	CHEM 1228 1237	prasugrel
+#17	AnnotatorNotes T33	C1620287; prasugrel; Organic Chemical · Pharmacologic Substance
+T34	CHEM 1240 1250	ticagrelor
+#18	AnnotatorNotes T34	C1999375; ticagrelor; Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T35	CHEM 1253 1262	sirolimus
+#19	AnnotatorNotes T35	C0072980; sirolimus; Antibiotic · Organic Chemical
+T36	CHEM 1264 1274	everolimus
+#20	AnnotatorNotes T36	C0541315; everolimus; Organic Chemical · Pharmacologic Substance
+T37	CHEM 1277 1290	cromo-cobalto
+T38	DISO 1295 1313	Deterioro hepático
+T39	PROC 1358 1377	Cirugía no cardíaca
+T40	Neg_cue 1366 1368	no
+T41	Negated 1369 1377	cardíaca
+T42	Date 1395 1408	el primer mes
+T43	PROC 1423 1426	ICP
+T44	PROC 1455 1478	terapia antiplaquetaria
+T45	Date 1496 1518	período perioperatorio
+T46	PROC 1523 1561	Cirugía de revascularización coronaria
+T47	PROC 1563 1567	CABG
+T48	PROC 1644 1647	ICP
+T49	DISO 1659 1669	Hemorragia
+#21	AnnotatorNotes T49	C0019080; Hemorrhage; Pathologic Function
+T50	PROC 1685 1698	cirugía mayor
+#22	AnnotatorNotes T50	C0679637; major surgery; Therapeutic or Preventive Procedure
+T51	Duration 1702 1721	los últimos 30 días
+T52	DISO 1726 1751	Accidente cerebrovascular
+#23	AnnotatorNotes T52	C0038454; Cerebrovascular accident; Disease or Syndrome
+T53	Duration 1784 1795	los 30 días
+T54	PROC 1812 1826	aleatorización
+#24	AnnotatorNotes T54	C0034656; Randomization; Research Activity
+T55	PHYS 1831 1839	Embarazo
+#25	AnnotatorNotes T55	C0032961; Pregnancy; Organism Function
+T56	PROC 1869 1883	aleatorización
+#26	AnnotatorNotes T56	C0034656; Randomization; Research Activity
+T57	LIVB 1888 1910	Mujeres en edad fértil
+T58	Age 1899 1910	edad fértil
+T59	LIVB 1928 1933	mujer
+#27	AnnotatorNotes T59	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T60	Age 1950 1961	edad fértil
+T61	PHYS 1976 1985	menarquia
+#28	AnnotatorNotes T61	C0025274; Menarche; Organism Function
+T62	DISO 2062 2069	estéril
+#29	AnnotatorNotes T62	C0021359; Infertility; Pathologic Function
+T63	PROC 2086 2100	esterilización
+#30	AnnotatorNotes T63	C0038280; Sterilization for infection control; Health Care Activity | C0038288; Sexual sterilization; Therapeutic or Preventive Procedure
+T64	PROC 2124 2137	histerectomía
+#31	AnnotatorNotes T64	C0020699; Hysterectomy; Therapeutic or Preventive Procedure
+T65	PROC 2142 2166	salpingectomía bilateral
+T66	PROC 2172 2194	ooforectomía bilateral
+#32	AnnotatorNotes T66	C0278321; Bilateral oophorectomy; Therapeutic or Preventive Procedure
+T67	PHYS 2199 2220	estado posmenopáusico
+#33	AnnotatorNotes T67	C0206159; Postmenopause; Organism Function
+T68	Neg_cue 2239 2250	ausencia de
+T69	PHYS 2251 2263	menstruación
+#34	AnnotatorNotes T69	C0025344; Menstruation; Organism Function
+T70	Negated 2251 2263	menstruación
+T71	Duration 2272 2280	12 meses
+T72	Neg_cue 2281 2284	sin
+T73	Negated 2289 2301	causa médica
+T74	LIVB 2318 2353	Mujer que esté periodo de lactancia
+T75	PROC 2374 2388	aleatorización
+#35	AnnotatorNotes T75	C0034656; Randomization; Research Activity
+T76	Date 2404 2415	actualmente
+T77	PROC 2424 2451	ensayo controlado aleatorio
+T78	Neg_cue 2456 2458	no
+T79	Negated 2464 2498	alcanzado aún su objetivo primario
+T80	Duration 2521 2538	inferior a un año
+T81	DISO 2552 2582	comorbilidad no cardiovascular
+T82	Neg_cue 2565 2567	no
+T83	Negated 2568 2582	cardiovascular
+T84	PROC 1343 1352	Child-Pug
+T85	PHYS 2014 2028	posmenopáusica
+T86	PROC 1595 1611	cirugía cardíaca
+T87	Quantifier_or_Qualifier 344 348	dual
+T88	Quantifier_or_Qualifier 349 358	abreviada
+T89	Quantifier_or_Qualifier 716 725	una o más
+T90	Result_or_Value 736 749	del 50% o más
+T91	Quantifier_or_Qualifier 775 781	nativa
+T92	Result_or_Value 932 948	al menos 2,00 mm
+T93	CONC 954 964	limitación
+T94	CONC 1021 1027	lesión
+T95	Observation 1037 1042	capaz
+T96	Observation 1086 1121	dispuesto a participar en el ensayo
+T97	Quantifier_or_Qualifier 1314 1319	grave
+T98	Result_or_Value 1330 1339	Estadio C
+T99	Quantifier_or_Qualifier 1479 1484	doble
+T100	Quantifier_or_Qualifier 1648 1654	índice
+T101	Quantifier_or_Qualifier 1670 1675	mayor
+T102	Quantifier_or_Qualifier 1676 1682	activa
+T103	Quantifier_or_Qualifier 2046 2061	permanentemente
+T104	Quantifier_or_Qualifier 2101 2111	permanente
+T105	Observation 2289 2301	causa médica
+T106	CONC 2503 2520	Esperanza de vida
+T107	Quantifier_or_Qualifier 2568 2582	cardiovascular
+T108	Patient 437 450	participantes
+T109	History_of 1152 1164	Intolerancia
+T110	History_of 1295 1313	Deterioro hepático
+T111	Future 1358 1377	Cirugía no cardíaca
+T112	Future 1423 1426	ICP
+T113	Future 1523 1561	Cirugía de revascularización coronaria
+T114	Future 1563 1567	CABG
+T115	Future 1595 1611	cirugía cardíaca
+T116	Future 1613 1621	valvular
+T117	Future 1644 1647	ICP
+T118	History_of 1659 1675	Hemorragia mayor
+T119	History_of 1685 1698	cirugía mayor
+T120	History_of 1726 1751	Accidente cerebrovascular
+T121	History_of 1831 1839	Embarazo
+T122	Patient 1888 1910	Mujeres en edad fértil
+T123	Patient 1928 1933	mujer
+T124	Patient 2318 2323	Mujer

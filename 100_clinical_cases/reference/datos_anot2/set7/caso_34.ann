@@ -1,0 +1,99 @@
+T1	DISO 21 33	Dolor lumbar
+#1	AnnotatorNotes T1	C0024031; Low Back Pain; Sign or Symptom
+T2	ANAT 52 71	miembros inferiores
+#2	AnnotatorNotes T2	C0023216; Lower Extremity; Body Part, Organ, or Organ Component | C1269079; Entire lower limb; Body Part, Organ, or Organ Component
+T3	ANAT 73 77	MMII
+#3	AnnotatorNotes T3	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T4	DISO 106 115	debilidad
+#4	AnnotatorNotes T4	C0424594; Frailty; Finding | C3714552; Weakness; Sign or Symptom
+T5	DISO 118 133	dolor abdominal
+#5	AnnotatorNotes T5	C0000737; Abdominal Pain; Sign or Symptom
+T6	LIVB 156 161	Varón
+T7	Age 165 172	46 años
+T8	Neg_cue 182 185	sin
+T9	LIVB 186 191	hijos
+T10	Negated 186 191	hijos
+T11	Neg_cue 194 197	Sin
+T12	DISO 198 213	hábitos tóxicos
+T13	Negated 198 214	hábitos tóxicos,
+T14	DISO 215 232	patología de base
+T15	Negated 215 232	patología de base
+T16	Neg_cue 233 235	ni
+T17	CHEM 236 246	medicación
+#6	AnnotatorNotes T17	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T18	Negated 236 255	medicación habitual
+T19	DISO 275 289	sintomatología
+#7	AnnotatorNotes T19	C3540840; Sign or Symptom; Finding
+T20	LIVB 330 347	Médico de Familia
+#8	AnnotatorNotes T20	C1704221; Physicians, Family; Professional or Occupational Group
+T21	PROC 372 395	exploración neurológica
+T22	DISO 412 429	pérdida de fuerza
+#9	AnnotatorNotes T22	C3714552; Weakness; Sign or Symptom
+T23	ANAT 433 437	MMII
+#10	AnnotatorNotes T23	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T25	PROC 543 563	Radiografía de tórax
+#12	AnnotatorNotes T25	C0039985; Plain chest X-ray; Diagnostic Procedure
+T26	PROC 566 583	analítica general
+T27	PROC 596 611	Electromiograma
+#13	AnnotatorNotes T27	C0013839; Electromyography; Diagnostic Procedure
+T28	PROC 614 634	Electroencefalograma
+#14	AnnotatorNotes T28	C0013819; Electroencephalography; Diagnostic Procedure
+T29	PROC 647 670	TC craneal y de columna
+T30	PROC 683 714	Resonancia Magnética de Columna
+T31	DISO 716 737	fístula dural espinal
+T32	PROC 829 842	Arteriografía
+#15	AnnotatorNotes T32	C0003844; Arteriography; Diagnostic Procedure | C0918037; Arteriogram; Diagnostic Procedure
+T33	DISO 844 880	fístula arterio venosa dural medular
+T34	PROC 890 901	TRATAMIENTO
+#16	AnnotatorNotes T34	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T35	PROC 916 928	Embolización
+#17	AnnotatorNotes T35	C0013931; Embolization, Therapeutic; Therapeutic or Preventive Procedure
+T36	DISO 935 941	lesión
+#18	AnnotatorNotes T36	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T37	PROC 963 974	cateterismo
+#19	AnnotatorNotes T37	C0007430; Catheterization; Therapeutic or Preventive Procedure
+T38	Spec_cue 994 1001	posible
+T39	PROC 1002 1025	intervención quirúrgica
+#20	AnnotatorNotes T39	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T40	Speculated 1002 1025	intervención quirúrgica
+T41	Date 1161 1172	Actualmente
+T42	DISO 1192 1219	limitación sensitivo-motora
+T43	DISO 1253 1270	pérdida de fuerza
+#21	AnnotatorNotes T43	C3714552; Weakness; Sign or Symptom
+T44	ANAT 1274 1278	MMII
+#22	AnnotatorNotes T44	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T45	Frequency 1287 1299	semanalmente
+T46	PROC 1300 1314	rehabilitación
+#23	AnnotatorNotes T46	C0034991; Rehabilitation therapy; Therapeutic or Preventive Procedure
+T47	LIVB 1353 1356	MdF
+T48	DISO 1384 1397	Fístula dural
+T49	DISO 1405 1435	Lesión medular sensitivo-motor
+T50	ANAT 1436 1446	T7 derecho
+T51	ANAT 1449 1462	T12 izquierdo
+T52	PROC 755 815	Serologías para HTLV-1, Dengue, Zika, Chikungunya, lúes, VIH
+T53	ANAT 746 751	D4-D6
+T54	ANAT 881 886	D4-D7
+T55	ANAT 1398 1403	D4-D7
+T56	PROC 1360 1371	DIAGNÓSTICO
+T57	PROC 532 538	EXAMEN
+T58	Observation 38 71	irradiación a miembros inferiores
+T59	Quantifier_or_Qualifier 80 90	fluctuante
+T60	Observation 174 180	casado
+T61	Quantifier_or_Qualifier 351 367	varias ocasiones
+T62	Result_or_Value 396 402	normal
+T63	Quantifier_or_Qualifier 438 448	fluctuante
+T65	Observation 484 505	progresión del cuadro
+T66	Result_or_Value 584 592	normales
+T67	Result_or_Value 635 643	normales
+T68	Result_or_Value 671 679	normales
+T69	Result_or_Value 816 825	negativas
+T70	Quantifier_or_Qualifier 975 989	superselectivo
+T72	Quantifier_or_Qualifier 1187 1191	leve
+T73	Quantifier_or_Qualifier 1248 1252	leve
+T74	Quantifier_or_Qualifier 1453 1462	izquierdo
+T75	Patient 156 161	Varón
+T76	Family_member 186 191	hijos
+T77	Other 330 347	Médico de Familia
+T71	Quantifier_or_Qualifier 1439 1446	derecho
+T24	DISO 469 474	dolor
+T64	Other 1353 1356	MdF

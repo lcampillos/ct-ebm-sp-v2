@@ -1,0 +1,102 @@
+T1	LIVB 21 27	Hombre
+#1	AnnotatorNotes T1	C0025266; Male population group; Population Group | C0086418; Homo sapiens; Human
+T2	Age 31 38	41 años
+T3	DISO 49 63	dolor cervical
+#2	AnnotatorNotes T3	C0007859; Neck Pain; Sign or Symptom
+T4	DISO 69 85	caída accidental
+#3	AnnotatorNotes T4	C0000921; Accidental Falls; Injury or Poisoning
+T5	DISO 138 163	Espondilitis anquilosante
+#4	AnnotatorNotes T5	C0038013; Ankylosing spondylitis; Disease or Syndrome
+T6	DISO 168 178	Enfermedad
+#5	AnnotatorNotes T6	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T7	Date 179 185	actual
+T8	DISO 229 234	caída
+T10	Neg_cue 295 298	sin
+T11	DISO 299 302	TCE
+#6	AnnotatorNotes T11	C0018674; Craniocerebral Trauma; Injury or Poisoning
+T12	Negated 299 302	TCE
+T13	PROC 317 335	Exploración física
+#7	AnnotatorNotes T13	C0031809; Physical Examination; Health Care Activity
+T14	DISO 362 382	Dolor a la palpación
+#8	AnnotatorNotes T14	C0234233; Sore to touch; Sign or Symptom
+T15	DISO 437 448	Disestesias
+#9	AnnotatorNotes T15	C0392699; Dysesthesia; Disease or Syndrome
+T16	ANAT 452 463	ambas manos
+T17	PROC 476 499	exploración neurológica
+T18	PROC 511 534	Pruebas complementarias
+#10	AnnotatorNotes T18	C1515980; Ancillary Study; Research Activity
+T19	PROC 538 552	Rx C. Cervical
+T20	Spec_cue 554 562	probable
+T21	DISO 563 577	fractura de C5
+T22	Speculated 563 577	fractura de C5
+T23	PROC 581 593	TAC cervical
+#11	AnnotatorNotes T23	C0412604; Computed Tomography (CT) of Neck; Diagnostic Procedure
+T24	DISO 595 622	Fractura de cuerpo cervical
+T25	ANAT 626 628	C5
+#12	AnnotatorNotes T25	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T26	ANAT 671 691	agujeros vertebrales
+#13	AnnotatorNotes T26	C0459720; Vertebral Foramen; Body Space or Junction
+T27	PROC 695 707	RMN cervical
+#14	AnnotatorNotes T27	C0202762; Magnetic Resonance Imaging (MRI) of Neck; Diagnostic Procedure
+T28	DISO 723 752	fractura del cuerpo vertebral
+T29	ANAT 756 758	C5
+#15	AnnotatorNotes T29	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T30	ANAT 777 792	ambos pedículos
+T31	DISO 795 833	afectación del ligamento interespinoso
+T32	ANAT 834 836	C4
+#16	AnnotatorNotes T32	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T33	ANAT 837 839	C5
+#17	AnnotatorNotes T33	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T34	DISO 844 867	signos de inestabilidad
+T35	DISO 869 896	Hematoma epidural posterior
+T36	ANAT 941 943	C5
+#18	AnnotatorNotes T36	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T37	ANAT 966 968	C3
+#19	AnnotatorNotes T37	C0223116; Entire C3 vertebra; Body Part, Organ, or Organ Component | C0459939; Bone structure of C3; Body Part, Organ, or Organ Component
+T38	ANAT 975 977	T1
+#20	AnnotatorNotes T38	C0459933; Bone structure of T1; Body Part, Organ, or Organ Component
+T39	DISO 1069 1096	estenosis de canal cervical
+T40	ANAT 1112 1114	C4
+#21	AnnotatorNotes T40	C0223131; Entire C4 vertebra; Body Part, Organ, or Organ Component | C0459941; Bone structure of C4; Body Part, Organ, or Organ Component
+T41	ANAT 1115 1117	C5
+#22	AnnotatorNotes T41	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T42	ANAT 1120 1122	C5
+#23	AnnotatorNotes T42	C0223146; Entire C5 vertebra; Body Part, Organ, or Organ Component | C0459943; Bone structure of C5; Body Part, Organ, or Organ Component
+T43	ANAT 1123 1125	C6
+#24	AnnotatorNotes T43	C0223161; Entire C6 vertebra; Body Part, Organ, or Organ Component | C0459944; Bone structure of C6; Body Part, Organ, or Organ Component
+T44	PROC 1129 1140	TRATAMIENTO
+#25	AnnotatorNotes T44	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T45	PROC 1207 1232	Inmovilización del cuello
+T46	DISO 1277 1288	disestesias
+#26	AnnotatorNotes T46	C0392699; Dysesthesia; Disease or Syndrome
+T47	ANAT 1291 1307	ambos antebrazos
+T48	PROC 1311 1334	Intervención quirúrgica
+#27	AnnotatorNotes T48	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T49	PROC 1336 1348	laminectomía
+#28	AnnotatorNotes T49	C0022983; Laminectomy; Therapeutic or Preventive Procedure
+T50	PROC 1351 1376	artrodesis cervico-dorsal
+T51	ANAT 1377 1379	C3
+#29	AnnotatorNotes T51	C0223116; Entire C3 vertebra; Body Part, Organ, or Organ Component | C0459939; Bone structure of C3; Body Part, Organ, or Organ Component
+T52	ANAT 1380 1392	T2 posterior
+T53	PROC 1394 1404	evacuación
+#30	AnnotatorNotes T53	C1282573; Evacuation procedure; Therapeutic or Preventive Procedure
+T54	DISO 1413 1431	colección hemática
+T55	DISO 1459 1479	Traumatismo cervical
+T56	PROC 306 312	EXAMEN
+T57	ANAT 386 427	apófisis espinosas vertebrales cervicales
+T58	PROC 1157 1203	Trasladado al hospital, Unidad de Neurocirugía
+T59	DISO 993 1046	compresión extrínseca posterior de la médula cervical
+T60	DEVI 1237 1261	collarín de philadelphia
+T61	PROC 1435 1446	DIAGNÓSTICO
+T62	Observation 339 358	Buen estado general
+T63	Result_or_Value 500 506	normal
+T64	Quantifier_or_Qualifier 629 664	que se extiende de forma horizontal
+T67	Observation 1263 1273	Progresión
+T68	Quantifier_or_Qualifier 1408 1412	gran
+T69	Patient 21 27	Hombre
+T70	History_of 138 163	Espondilitis anquilosante
+T71	Quantifier_or_Qualifier 235 257	desde su propia altura
+T9	Observation 260 293	sensación de crujido en el cuello
+T72	Observation 763 773	afectación
+T65	Quantifier_or_Qualifier 904 917	grosor máximo
+T66	Result_or_Value 921 925	7 mm

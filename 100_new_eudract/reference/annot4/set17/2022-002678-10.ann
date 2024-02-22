@@ -1,0 +1,56 @@
+T1	PROC 63 73	protocolos
+#1	AnnotatorNotes T1	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T2	PROC 77 97	estimulación ovárica
+T3	LIVB 101 119	donantes de óvulos
+T4	CHEM 127 139	progestágeno
+#2	AnnotatorNotes T4	C0033306; Progestins; Hormone · Pharmacologic Substance
+T5	CHEM 180 192	progestágeno
+#3	AnnotatorNotes T5	C0033306; Progestins; Hormone · Pharmacologic Substance
+T6	Date 206 211	día 5
+T7	PROC 218 238	estimulación ovárica
+T8	PROC 268 288	estimulación ovárica
+T9	PROC 310 319	Protocolo
+#4	AnnotatorNotes T9	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T10	PROC 324 360	Progestin-primed Ovarian Stimulation
+T11	PROC 362 366	PPOS
+T12	PROC 371 376	pauta
+#5	AnnotatorNotes T12	C0935576; treatment guideline; Therapeutic or Preventive Procedure
+T13	Date 385 390	día 5
+T14	PROC 394 406	estimulación
+#6	AnnotatorNotes T14	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T15	PROC 414 423	Protocolo
+#7	AnnotatorNotes T15	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T16	PROC 466 470	PPOS
+T17	PROC 475 493	pauta convencional
+T18	PROC 510 522	estimulación
+#8	AnnotatorNotes T18	C1292856; Stimulation procedure; Therapeutic or Preventive Procedure
+T19	LIVB 526 544	donantes de óvulos
+T20	ANAT 577 591	óvulos maduros
+T21	PROC 610 630	estimulación ovárica
+T22	PROC 633 653	extracción de óvulos
+T23	LIVB 673 693	donantes de ovocitos
+T24	ANAT 728 736	ovocitos
+#9	AnnotatorNotes T24	C0029045; Oocytes; Cell
+T25	Age 803 819	entre 18-35 años
+T26	PROC 823 826	IMC
+T27	PROC 893 902	protocolo
+#10	AnnotatorNotes T27	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T28	PROC 931 957	consentimiento por escrito
+T29	LIVB 987 995	Donantes
+#11	AnnotatorNotes T29	C0013018; Donor person; Population Group
+T30	PROC 1000 1030	recuento de folículos antrales
+T31	ANAT 1048 1061	ambos ovarios
+T32	PROC 145 170	inhibidor de la ovulación
+T33	Neg_cue 145 154	inhibidor
+T34	Negated 161 170	ovulación
+T35	PROC 428 464	Progestin-primed Ovarian Stimulation
+T36	CONC 567 591	Número de óvulos maduros
+T37	CONC 718 736	Numero de ovocitos
+T38	Result_or_Value 827 846	entre 18 y 32 kg/m2
+T39	Observation 850 902	Capacidad para participar y cumplir con el protocolo
+T40	Result_or_Value 1031 1041	menor a 10
+T41	Observation 1066 1107	Participación concurrente en otro estudio
+T42	Patient 101 119	donantes de óvulos
+T43	Patient 526 544	donantes de óvulos
+T44	Patient 673 693	donantes de ovocitos
+T45	Patient 987 995	Donantes

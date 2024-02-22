@@ -1,0 +1,249 @@
+T1	LIVB 21 26	Mujer
+#1	AnnotatorNotes T1	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T2	Age 30 37	67 años
+T3	DISO 95 104	cansancio
+#2	AnnotatorNotes T3	C0015672; Fatigue; Sign or Symptom
+T5	DISO 185 201	Fiebre reumática
+#3	AnnotatorNotes T5	C0035436; Rheumatic Fever; Disease or Syndrome
+T6	Date 208 212	1973
+T7	PROC 213 252	colocación de prótesis aórtica mecánica
+T8	Date 279 283	1983
+T9	DISO 288 313	endocarditis por fiebre Q
+#4	AnnotatorNotes T9	Q fever endocarditis (C0340354)
+T10	Date 320 324	1995
+T11	PROC 346 377	sustitución de prótesis aórtica
+T12	DISO 382 392	disfunción
+#5	AnnotatorNotes T12	C0277785; Functional disorder; Pathologic Function
+T13	PROC 395 422	implante de prótesis mitral
+T14	DISO 426 460	Bloqueo completo de rama izquierda
+#6	AnnotatorNotes T14	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T15	DISO 462 465	BRI
+#7	AnnotatorNotes T15	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T16	DISO 470 523	Fibrilación auricular con respuesta ventricular lenta
+#8	AnnotatorNotes T16	Atrial fibrillation with slow ventricular response (C2216003)
+T17	DISO 527 545	Enfermedad de Lyme
+#9	AnnotatorNotes T17	C0024198; Lyme Disease; Disease or Syndrome
+T18	DISO 550 571	picadura de garrapata
+#10	AnnotatorNotes T18	C0241407; Tick bite (disorder); Injury or Poisoning
+T19	PROC 575 593	Colecistectomizada
+#11	AnnotatorNotes T19	C0008320; Cholecystectomy procedure; Therapeutic or Preventive Procedure
+T20	DISO 597 607	Dislipemia
+#12	AnnotatorNotes T20	C0242339; Dyslipidemias; Disease or Syndrome
+T21	DISO 611 630	Esteatosis hepática
+#13	AnnotatorNotes T21	C2711227; Steatohepatitis; Disease or Syndrome | C4529962
+T22	DISO 634 646	Intolerancia
+T23	CHEM 649 662	Moxifloxacino
+#14	AnnotatorNotes T23	C0536495; moxifloxacin; Antibiotic · Organic Chemical
+T24	PROC 669 680	tratamiento
+#15	AnnotatorNotes T24	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T25	CHEM 685 695	Bisoprolol
+#16	AnnotatorNotes T25	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T26	CHEM 697 704	Sintrom
+#17	AnnotatorNotes T26	C0919378; Synthrom; Organic Chemical · Pharmacologic Substance | C1439266; Sintrom; Organic Chemical · Pharmacologic Substance
+T27	CHEM 706 715	Enalapril
+#18	AnnotatorNotes T27	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T28	CHEM 717 730	Atorvastatina
+#19	AnnotatorNotes T28	C0286651; atorvastatin; Organic Chemical · Pharmacologic Substance
+T29	CHEM 733 743	Furosemida
+#20	AnnotatorNotes T29	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T30	Dose 744 748	40mg
+T31	Frequency 748 752	/día
+T32	DISO 757 767	Enfermedad
+#21	AnnotatorNotes T32	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T33	DISO 778 784	Disnea
+#22	AnnotatorNotes T33	C0013404; Dyspnea; Sign or Symptom
+T35	DISO 824 831	astenia
+#23	AnnotatorNotes T35	C0004093; Asthenia; Sign or Symptom
+T36	DISO 834 864	pesadez en miembros inferiores
+#24	AnnotatorNotes T36	Heaviness in limbs (C0235721)
+T37	Neg_cue 866 868	No
+T38	Negated 877 891	dolor torácico
+#25	AnnotatorNotes T38	C0008031; Chest Pain; Sign or Symptom
+T39	Neg_cue 917 919	no
+T40	DISO 920 930	sudoración
+#26	AnnotatorNotes T40	C0038990; Sweating; Finding
+T41	Negated 920 930	sudoración
+T42	DISO 932 938	fiebre
+#27	AnnotatorNotes T42	C0015967; Fever; Sign or Symptom
+T43	Negated 932 938	fiebre
+T44	DISO 940 947	náuseas
+#28	AnnotatorNotes T44	C0027497; Nausea; Sign or Symptom
+T45	Negated 940 947	náuseas
+T46	Neg_cue 948 950	ni
+T47	DISO 951 958	vómitos
+#29	AnnotatorNotes T47	C0042963; Vomiting; Sign or Symptom
+T48	Negated 951 958	vómitos
+T49	DISO 980 1014	dificultad para conciliar el sueño
+#30	AnnotatorNotes T49	Difficulty sleeping (C0235162)
+T50	DISO 1067 1078	ganado peso
+#31	AnnotatorNotes T50	Weight Gain (C0043094) / R63.5 CIE-10 Aumento anormal de peso
+T52	DISO 1128 1134	disnea
+#32	AnnotatorNotes T52	C0013404; Dyspnea; Sign or Symptom
+T53	PROC 1193 1211	Exploración física
+#33	AnnotatorNotes T53	C0031809; Physical Examination; Health Care Activity
+T54	Neg_cue 1263 1265	no
+T55	Negated 1266 1281	tolera decúbito
+T56	PROC 1285 1317	Auscultación cardiorrespiratoria
+T57	DISO 1322 1338	tonos arrítmicos
+#34	AnnotatorNotes T57	Cardiac Arrhythmia (C0003811)
+T59	Observation 1395 1406	crepitantes
+#36	AnnotatorNotes T59	C0034642; Rales; Finding
+T60	ANAT 1410 1421	ambas bases
+#37	AnnotatorNotes T60	Lower part of the lungs
+T61	ANAT 1425 1432	Abdomen
+#38	AnnotatorNotes T61	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T63	Neg_cue 1495 1497	No
+T64	DISO 1498 1519	ingurgitación yugular
+#40	AnnotatorNotes T64	C0425687; Jugular venous engorgement; Finding
+T65	Negated 1498 1519	ingurgitación yugular
+T66	DISO 1523 1552	Edemas en miembros inferiores
+#41	AnnotatorNotes T66	C0239340; Edema of lower extremity; Pathologic Function
+T67	PROC 1569 1571	TA
+T68	PROC 1588 1592	NYHA
+T69	PROC 1617 1640	Pruebas complementarias
+#42	AnnotatorNotes T69	C1515980; Ancillary Study; Research Activity
+T70	PROC 1644 1662	Electrocardiograma
+#43	AnnotatorNotes T70	C0013798; Electrocardiogram; Diagnostic Procedure | C1623258; Electrocardiography; Diagnostic Procedure
+T71	DISO 1664 1689	bloqueo de rama izquierda
+#44	AnnotatorNotes T71	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T72	PROC 1702 1711	Analítica
+#45	AnnotatorNotes T72	C0002778; Analysis of substances; Laboratory Procedure
+T73	PROC 1716 1725	hemograma
+#46	AnnotatorNotes T73	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T74	PROC 1728 1746	hormonas tiroideas
+T75	Neg_cue 1748 1751	sin
+T76	Negated 1752 1759	interés
+T77	PROC 1763 1783	Radiografía de tórax
+#47	AnnotatorNotes T77	C0039985; Plain chest X-ray; Diagnostic Procedure
+T78	Neg_cue 1785 1788	sin
+T79	Negated 1789 1796	interés
+T80	PROC 1800 1811	TRATAMIENTO
+#48	AnnotatorNotes T80	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T81	PROC 1828 1844	Se aumentó dosis
+#49	AnnotatorNotes T81	Therapeutic procedure (C0087111)
+T82	CHEM 1848 1858	Furosemida
+#50	AnnotatorNotes T82	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T83	PROC 1861 1869	se pautó
+#51	AnnotatorNotes T83	Therapeutic procedure (C0087111)
+T84	CHEM 1870 1885	Espironolactona
+#52	AnnotatorNotes T84	C0037982; spironolactone; Organic Chemical · Pharmacologic Substance
+T85	Dose 1886 1891	25mg.
+T86	Duration 1900 1906	7 días
+T87	PROC 1912 1922	evaluación
+#53	AnnotatorNotes T87	C1261322; Evaluation procedure; Health Care Activity
+T88	CHEM 2024 2034	medicación
+#54	AnnotatorNotes T88	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T89	Route 2035 2039	oral
+T90	Neg_cue 2041 2043	no
+T91	PROC 2056 2076	ingreso hospitalario
+#55	AnnotatorNotes T91	C0184666; Hospital admission; Health Care Activity
+T92	Negated 2056 2076	ingreso hospitalario
+T93	PROC 2090 2101	tratamiento
+#56	AnnotatorNotes T93	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T94	PROC 2195 2199	NYHA
+T95	Observation 2213 2238	intolerancia al ejercicio
+#57	AnnotatorNotes T95	Impaired exercise tolerance C0424551
+T96	PROC 2331 2345	ecocardiograma
+#58	AnnotatorNotes T96	C0013516; Echocardiography; Diagnostic Procedure
+T97	DISO 2356 2387	disfunción severa biventricular
+#59	AnnotatorNotes T97	Biventricular dysfunction (C5775743)
+T98	Spec_cue 2392 2418	probabilidad intermedia de
+T99	DISO 2419 2440	hipertensión pulmonar
+#60	AnnotatorNotes T99	C0020542; Pulmonary Hypertension; Pathologic Function
+T100	Speculated 2419 2440	hipertensión pulmonar
+T102	PROC 2508 2523	ecocardiogramas
+#61	AnnotatorNotes T102	C0013516; Echocardiography; Diagnostic Procedure
+T103	PROC 2609 2628	seguimiento clínico
+#62	AnnotatorNotes T103	Follow-Up Care (C3899107)
+T105	PROC 2719 2730	tratamiento
+#64	AnnotatorNotes T105	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T106	CHEM 2735 2745	Sacubitril
+#65	AnnotatorNotes T106	C4033447; sacubitril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T107	CHEM 2746 2755	Valsartan
+#66	AnnotatorNotes T107	C0216784; valsartan; Organic Chemical · Pharmacologic Substance
+T108	Neg_cue 2760 2762	no
+T109	Negated 2763 2769	toleró
+T110	DISO 2774 2794	prurito generalizado
+#67	AnnotatorNotes T110	Generalized pruritus (C0475858)
+T111	PROC 2857 2907	colocación de desfibrilador automático implantable
+T112	PROC 2916 2952	terapia de resincronización cardíaca
+T113	DEVI 2954 2957	DAI
+T114	PROC 2960 2963	TRC
+T115	DISO 2969 2972	BRI
+#68	AnnotatorNotes T115	C0023211; Left Bundle-Branch Block; Disease or Syndrome
+T116	PROC 2987 3006	prevención primaria
+#69	AnnotatorNotes T116	C0033144; Primary Prevention; Therapeutic or Preventive Procedure
+T117	DISO 3010 3013	MSC
+#70	AnnotatorNotes T117	Sudden Cardiac Death (C0085298)
+T118	PROC 3016 3027	tratamiento
+#71	AnnotatorNotes T118	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T119	DISO 3031 3034	ICC
+#72	AnnotatorNotes T119	C0018802; Congestive heart failure; Disease or Syndrome
+T120	DEVI 3053 3064	dispositivo
+#73	AnnotatorNotes T120	C1285539; Direct device; Medical Device
+T121	DISO 3139 3145	Disnea
+#74	AnnotatorNotes T121	C0013404; Dyspnea; Sign or Symptom
+T122	DISO 3150 3191	descompensación de insuficiencia cardíaca
+#75	AnnotatorNotes T122	Myocardial decompensation (C0235525)
+T123	DISO 86 92	disnea
+#76	AnnotatorNotes T123	Dyspnea (C0013404)
+T124	PROC 1940 1951	seguimiento
+#77	AnnotatorNotes T124	Follow-Up Care (C3899107)
+T125	DISO 877 891	dolor torácico
+T126	Neg_cue 892 894	ni
+T127	Negated 895 915	de otra localización
+T128	DISO 1037 1050	falta de aire
+#78	AnnotatorNotes T128	C0013404; Dyspnea; Sign or Symptom
+T129	ANAT 1554 1558	MMII
+#79	AnnotatorNotes T129	Physical examination maneuver related to lower extremity (C1293841)
+T131	PROC 3115 3126	DIAGNÓSTICO
+T132	Date 3079 3090	actualmente
+T133	PROC 1182 1188	EXAMEN
+T134	Date 768 774	actual
+T136	Result_or_Value 1101 1104	7kg
+T137	Observation 1108 1134	empeoramiento de su disnea
+T138	Observation 1150 1178	hacerse de mínimos esfuerzos
+T139	Observation 1215 1234	Buen estado general
+T140	Observation 1236 1254	eupneica en reposo
+T141	Observation 1266 1281	tolera decúbito
+T142	Result_or_Value 1341 1346	65lpm
+T143	Quantifier_or_Qualifier 1376 1392	normofuncionante
+T144	Observation 1433 1439	blando
+T145	Observation 1442 1452	depresible
+T146	Result_or_Value 1572 1584	120/60 mmHg.
+T147	Result_or_Value 1594 1613	clase funcional II.
+T148	Quantifier_or_Qualifier 1690 1698	avanzado
+T149	Observation 2109 2132	empeorando clínicamente
+T150	Result_or_Value 2175 2194	clase funcional III
+T151	Observation 2250 2271	empeoramiento clínico
+T152	Observation 2443 2484	detrimento de la función sistólica del VI
+T153	Quantifier_or_Qualifier 2500 2507	últimos
+T154	Observation 2763 2769	toleró
+T155	Quantifier_or_Qualifier 2973 2981	avanzado
+T156	Observation 3036 3064	Responde bien al dispositivo
+T157	Observation 3091 3111	estable clínicamente
+T158	Patient 21 26	Mujer
+T164	History_of 597 607	Dislipemia
+T165	History_of 611 630	Esteatosis hepática
+T166	History_of 634 646	Intolerancia
+T167	Future 1892 1896	Cita
+T4	Date 108 120	varios meses
+T172	History_of 185 201	Fiebre reumática
+T161	History_of 288 313	endocarditis por fiebre Q
+T162	PROC 266 275	sustituir
+T34	Date 788 800	varios meses
+T51	Date 1082 1099	los últimos meses
+T62	DISO 1457 1470	hepatomegalia
+T130	Date 2138 2157	el paso de los años
+#39	AnnotatorNotes T130	expresión de tiempo indefinida
+T101	Observation 2637 2662	riesgo de descompensación
+T104	PHYS 2460 2484	función sistólica del VI
+T169	History_of 382 392	disfunción
+T171	History_of 426 460	Bloqueo completo de rama izquierda
+T176	History_of 462 465	BRI
+T177	History_of 470 523	Fibrilación auricular con respuesta ventricular lenta
+T178	History_of 527 545	Enfermedad de Lyme
+T179	History_of 550 571	picadura de garrapata
+T180	Quantifier_or_Qualifier 898 902	otra
+T181	Future 1912 1922	evaluación
+T58	DEVI 1358 1375	prótesis metálica

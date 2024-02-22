@@ -1,0 +1,152 @@
+T1	DISO 21 24	Tos
+#1	AnnotatorNotes T1	C0010200; Coughing; Sign or Symptom
+T2	DISO 27 47	ruidos respiratorios
+T3	DISO 72 82	Enfermedad
+#2	AnnotatorNotes T3	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T4	Date 83 89	actual
+T5	LIVB 93 101	Paciente
+#3	AnnotatorNotes T5	C0030705; Patients; Patient or Disabled Group
+T6	Age 112 120	14 meses
+T7	DISO 204 207	tos
+#4	AnnotatorNotes T7	C0010200; Coughing; Sign or Symptom
+T8	DISO 210 230	ruidos respiratorios
+T9	DISO 256 271	reagudizaciones
+#5	AnnotatorNotes T9	C4086268; Exacerbation; Finding
+T10	DISO 291 314	dificultad respiratoria
+#6	AnnotatorNotes T10	C0013404; Dyspnea; Sign or Symptom | C0476273; Respiratory distress; Sign or Symptom
+T11	DISO 328 362	deposiciones pastosas y brillantes
+T13	PROC 397 404	pruebas
+#7	AnnotatorNotes T13	C1510438; Assay; Laboratory Procedure
+T14	PROC 446 460	cloro en sudor
+T15	PROC 496 512	estudio genético
+T16	PROC 529 540	diagnóstico
+#8	AnnotatorNotes T16	C0011900; Diagnosis; Diagnostic Procedure
+T17	DISO 544 561	fibrosis quística
+#9	AnnotatorNotes T17	C0010674; Cystic Fibrosis; Disease or Syndrome
+T18	DISO 563 565	FQ
+#10	AnnotatorNotes T18	C0010674; Cystic Fibrosis; Disease or Syndrome
+T21	PROC 669 681	fisioterapia
+#11	AnnotatorNotes T21	C0949766; Physical therapy; Therapeutic or Preventive Procedure
+T22	CHEM 683 700	broncodilatadores
+#12	AnnotatorNotes T22	C0006280; Bronchodilator Agents; Pharmacologic Substance
+T23	CHEM 702 713	mucolíticos
+#13	AnnotatorNotes T23	C0026698; mucolytic agents; Pharmacologic Substance
+T24	PROC 715 729	antibioterapia
+#14	AnnotatorNotes T24	C0338237; Antibiotic therapy; Therapeutic or Preventive Procedure
+T25	CHEM 731 748	antiinflamatorios
+#15	AnnotatorNotes T25	C0003209; Anti-Inflammatory Agents; Pharmacologic Substance
+T26	CHEM 750 770	enzimas pancreáticos
+#16	AnnotatorNotes T26	C0920330; Pancreatic enzyme; Amino Acid, Peptide, or Protein · Enzyme · Pharmacologic Substance
+T27	CHEM 772 781	vitaminas
+#17	AnnotatorNotes T27	C0042890; Vitamins; Organic Chemical · Pharmacologic Substance · Vitamin
+T28	LIVB 851 859	gérmenes
+#18	AnnotatorNotes T28	C0242437; Seedlings; Plant
+T29	ANAT 866 882	vía respiratoria
+#19	AnnotatorNotes T29	C0282335; Respiratory tract structure; Body Part, Organ, or Organ Component | C1283798; Entire respiratory tract; Body Part, Organ, or Organ Component
+T30	PROC 884 911	cultivo de exudado faríngeo
+T31	LIVB 918 927	S. aureus
+#20	AnnotatorNotes T31	C0038172; Staphylococcus aureus; Bacterium
+T32	LIVB 929 942	S. pneumoniae
+#21	AnnotatorNotes T32	C0038410; Streptococcus pneumoniae; Bacterium
+T33	LIVB 945 958	P. aeruginosa
+#22	AnnotatorNotes T33	C0033809; Pseudomonas aeruginosa; Bacterium
+T34	PROC 983 1008	antibioterapia nebulizada
+T35	Route 998 1008	nebulizada
+T36	CHEM 1013 1024	tobramicina
+#23	AnnotatorNotes T36	C0040341; tobramycin; Antibiotic · Organic Chemical
+T37	CHEM 1027 1037	colimicina
+T38	CHEM 1049 1061	antibióticos
+#24	AnnotatorNotes T38	C0003232; Antibiotics; Antibiotic
+T39	Route 1066 1074	vía oral
+T40	PROC 1082 1094	antibiograma
+#25	AnnotatorNotes T40	C0025948; Microbial Sensitivity Tests; Laboratory Procedure | C0201179; Antimicrobial susceptibility test (procedure); Laboratory Procedure
+T41	DISO 1097 1123	signos y síntomas clínicos
+T42	PROC 1138 1164	estudio funcional pulmonar
+T43	Age 1187 1204	5 años y 10 meses
+T44	PROC 1227 1245	Exploración física
+#26	AnnotatorNotes T44	C0031809; Physical Examination; Health Care Activity
+T45	PROC 1249 1253	Peso
+T46	PROC 1271 1276	Talla
+T47	PROC 1293 1296	IMC
+T48	PROC 1304 1306	FR
+#27	AnnotatorNotes T48	C0201660; Rheumatoid Factor Measurement; Laboratory Procedure
+T49	PROC 1321 1326	SatO2
+#28	AnnotatorNotes T49	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T50	ANAT 1372 1376	piel
+#29	AnnotatorNotes T50	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T51	ANAT 1379 1386	mucosas
+#30	AnnotatorNotes T51	C0026724; Mucous Membrane; Tissue | C0026727; Mucous body substance; Body Substance | C1284117; Entire mucous membrane; Tissue
+T52	PROC 1390 1417	Auscultación cardiopulmonar
+T53	DISO 1419 1439	respiración alargada
+T54	DISO 1442 1460	roncus bilaterales
+T55	PROC 1465 1488	Pruebas complementarias
+#31	AnnotatorNotes T55	C1515980; Ancillary Study; Research Activity
+T57	PROC 1532 1536	VEF1
+T58	Age 1548 1555	10 años
+T59	PROC 1568 1589	exploración funcional
+T60	PROC 1594 1606	espirometría
+#33	AnnotatorNotes T60	C0037981; Spirometry; Diagnostic Procedure
+T61	DISO 1627 1647	afectación funcional
+T62	PROC 1717 1737	transplante pulmonar
+T63	PROC 1739 1743	FEV1
+T64	PROC 1755 1766	TRATAMIENTO
+#34	AnnotatorNotes T64	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T65	Duration 1791 1803	los dos años
+T66	DISO 1821 1829	síntomas
+#35	AnnotatorNotes T66	C1457887; Symptoms; Sign or Symptom
+T67	DISO 1842 1856	tos productiva
+#36	AnnotatorNotes T67	C0239134; Productive Cough; Finding
+T68	DISO 1862 1876	exacerbaciones
+#37	AnnotatorNotes T68	C2825055; Recurrence (disease attribute); Pathologic Function
+T69	PROC 1911 1922	tratamiento
+#38	AnnotatorNotes T69	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T70	ANAT 1976 1988	respiratoria
+#39	AnnotatorNotes T70	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
+T71	DISO 2034 2042	síntomas
+#40	AnnotatorNotes T71	C1457887; Symptoms; Sign or Symptom
+T72	DISO 2055 2070	reagudizaciones
+#41	AnnotatorNotes T72	C4086268; Exacerbation; Finding
+T73	PROC 2087 2107	ingreso hospitalario
+#42	AnnotatorNotes T73	C0184666; Hospital admission; Health Care Activity
+T74	LIVB 2114 2122	paciente
+#43	AnnotatorNotes T74	C0030705; Patients; Patient or Disabled Group
+T75	DISO 2123 2131	falleció
+#44	AnnotatorNotes T75	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T76	Age 2138 2147	doce años
+T77	DISO 2184 2201	Fibrosis quística
+#45	AnnotatorNotes T77	C0010674; Cystic Fibrosis; Disease or Syndrome
+T78	PROC 181 188	estudio
+T80	PROC 1216 1222	EXAMEN
+T81	DISO 1512 1530	patrón obstructivo
+T82	PROC 2160 2171	DIAGNÓSTICO
+T83	Quantifier_or_Qualifier 231 251	de forma persistente
+T85	Result_or_Value 462 471	90 mmol/l
+T87	Food 784 806	suplementos dietéticos
+T89	Result_or_Value 1255 1262	24,5 kg
+T90	Result_or_Value 1278 1284	118 cm
+T91	Result_or_Value 1298 1301	18.
+T92	Result_or_Value 1308 1320	20 resp/min.
+T93	Result_or_Value 1328 1332	97%.
+T94	Observation 1335 1354	Buen estado general
+T98	Result_or_Value 1537 1543	<80%).
+T99	Result_or_Value 1744 1752	30-40%).
+T100	Quantifier_or_Qualifier 1830 1840	frecuentes
+T102	Quantifier_or_Qualifier 2043 2052	continuos
+T103	Patient 93 101	Paciente
+T104	Patient 2114 2122	paciente
+T84	Result_or_Value 364 367	3-4
+T12	Frequency 368 371	día
+T106	CONC 422 436	primer momento
+T19	DISO 567 592	(mutación delta F508/G85E
+T20	PROC 629 663	manejo y tratamiento estandarizado
+T79	CONC 811 822	Precozmente
+T86	Observation 838 859	presencia de gérmenes
+T88	CONC 1169 1180	primera vez
+T95	Observation 1356 1368	Color normal
+T56	PROC 1492 1510	Espirometría basal
+T96	Quantifier_or_Qualifier 1648 1659	mucho mayor
+T105	Observation 1881 1906	requieren intensificación
+T107	Quantifier_or_Qualifier 1929 1941	domiciliario
+T108	Quantifier_or_Qualifier 1947 1959	hospitalario
+T101	Observation 2011 2026	intensificación
+T97	Observation 1966 2005	evolución respiratoria fue desfavorable

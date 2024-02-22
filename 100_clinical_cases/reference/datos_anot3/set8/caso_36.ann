@@ -1,0 +1,107 @@
+T1	DISO 21 27	Disnea
+#1	AnnotatorNotes T1	C0013404; Dyspnea; Sign or Symptom
+T2	DISO 30 43	palpitaciones
+#2	AnnotatorNotes T2	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T3	Duration 47 55	24 horas
+T4	LIVB 91 96	Mujer
+#3	AnnotatorNotes T4	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T5	Age 100 107	22 años
+T6	DISO 143 153	Enfermedad
+#4	AnnotatorNotes T6	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T7	DISO 197 203	disnea
+#5	AnnotatorNotes T7	C0013404; Dyspnea; Sign or Symptom
+T8	DISO 206 219	palpitaciones
+#6	AnnotatorNotes T8	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T9	Date 230 243	hace 24 horas
+T10	PHYS 266 273	ingesta
+T11	CHEM 277 299	medicación ansiolítica
+T12	DISO 326 334	nerviosa
+#7	AnnotatorNotes T12	C0027769; Nervousness; Sign or Symptom | C0860604; Jumpy; Finding | C1862915; Easily excitable; Finding
+T13	Date 360 370	hace 1 mes
+T14	DISO 544 575	Síndrome de ovario poliquístico
+#8	AnnotatorNotes T14	C0032460; Polycystic Ovary Syndrome; Disease or Syndrome
+T15	PROC 579 590	tratamiento
+#9	AnnotatorNotes T15	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T16	CHEM 595 610	anticonceptivos
+#10	AnnotatorNotes T16	C0009871; Contraceptive Agents; Pharmacologic Substance
+T17	Route 611 617	orales
+T18	DISO 620 634	Hipotiroidismo
+#11	AnnotatorNotes T18	C0020676; Hypothyroidism; Disease or Syndrome
+T19	PROC 638 649	tratamiento
+#12	AnnotatorNotes T19	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T20	PROC 664 682	Exploración física
+#13	AnnotatorNotes T20	C0031809; Physical Examination; Health Care Activity
+T21	PROC 691 702	exploración
+#14	AnnotatorNotes T21	C1280903; Exploration procedure; Therapeutic or Preventive Procedure
+T22	PROC 730 746	tensión arterial
+T23	DISO 761 772	Taquipneica
+#15	AnnotatorNotes T23	C0231835; Tachypnea; Finding
+T24	PROC 777 798	saturación de oxígeno
+#16	AnnotatorNotes T24	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T25	Neg_cue 803 806	sin
+T26	Negated 807 813	aporte
+T27	PROC 815 839	Exploración por aparatos
+T28	Neg_cue 840 843	sin
+T29	Negated 844 853	hallazgos
+T30	PROC 873 894	auscultación cardiaca
+#17	AnnotatorNotes T30	C0018793; Heart Auscultation; Diagnostic Procedure
+T31	DISO 910 921	taquicardia
+#18	AnnotatorNotes T31	C0039231; Tachycardia; Finding
+T32	PROC 966 969	EKG
+#19	AnnotatorNotes T32	C1623258; Electrocardiography; Diagnostic Procedure
+T33	DISO 984 1003	taquicardia sinusal
+#20	AnnotatorNotes T33	C0039239; Sinus Tachycardia; Disease or Syndrome
+T34	DISO 1028 1058	sobrecarga ventricular derecha
+#21	AnnotatorNotes T34	Right ventricular overload (C1868926)
+T35	PROC 1070 1093	derivación hospitalaria
+T36	PROC 1139 1160	saturación de oxígeno
+#22	AnnotatorNotes T36	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T37	PROC 1165 1188	Pruebas complementarias
+#23	AnnotatorNotes T37	C1515980; Ancillary Study; Research Activity
+T38	PROC 1217 1226	analítica
+#24	AnnotatorNotes T38	C0002778; Analysis of substances; Laboratory Procedure
+T39	PROC 1260 1268	dimero D
+T40	PROC 1285 1302	gasometría venosa
+#25	AnnotatorNotes T40	C0201919; Blood gases, venous measurement; Diagnostic Procedure
+T41	PROC 1307 1311	pCO2
+T42	PROC 1321 1341	Radiografía de tórax
+#26	AnnotatorNotes T42	C0039985; Plain chest X-ray; Diagnostic Procedure
+T43	Neg_cue 1342 1345	sin
+T44	Negated 1346 1355	hallazgos
+T45	PROC 1357 1369	TAC torácico
+#27	AnnotatorNotes T45	C0202823; Chest CT; Diagnostic Procedure
+T46	DISO 1384 1425	tromboembolismo pulmonar masivo bilateral
+#28	AnnotatorNotes T46	Pulmonary Thromboembolisms (C0524702)
+T47	PROC 1429 1440	TRATAMIENTO
+#29	AnnotatorNotes T47	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T48	PROC 1455 1469	Ingreso en UCI
+T49	PROC 1472 1497	tratamiento fibrinolítico
+T50	DISO 1552 1593	Tromboembolismo pulmonar masivo bilateral
+T51	PROC 1528 1539	DIAGNÓSTICO
+T52	PROC 653 659	EXAMEN
+T54	Date 380 387	semanas
+T55	Duration 488 511	más de 14 horas diarias
+T56	Date 154 160	actual
+T57	Observation 402 417	en su domicilio
+T58	Observation 461 479	estudiando sentada
+T59	Observation 704 728	aceptable estado general
+T60	Result_or_Value 747 760	110/62 mm Hg.
+T61	Result_or_Value 799 802	89%
+T62	Observation 844 853	hallazgos
+T63	Result_or_Value 923 930	135 l/m
+T64	Result_or_Value 1006 1013	140 l/m
+T65	Observation 1102 1133	hallazgos electrocardiográficos
+T66	Result_or_Value 1231 1250	parámetros normales
+T67	Result_or_Value 1272 1282	2020 ng/ml
+T68	Result_or_Value 1312 1319	25 mmHg
+T69	Observation 1346 1355	hallazgos
+T70	Quantifier_or_Qualifier 1409 1415	masivo
+T71	Observation 1499 1524	Evoluciona favorablemente
+T72	Quantifier_or_Qualifier 1577 1583	masivo
+T73	Quantifier_or_Qualifier 1584 1593	bilateral
+T74	Patient 91 96	Mujer
+T76	History_of 544 575	Síndrome de ovario poliquístico
+T53	LIVB 109 137	estudiante de 5o de medicina
+T75	Patient 109 137	estudiante de 5o de medicina
+T77	Observation 434 459	inmovilización prolongada
+T78	Quantifier_or_Qualifier 1416 1425	bilateral

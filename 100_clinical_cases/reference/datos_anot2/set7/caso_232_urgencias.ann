@@ -1,0 +1,221 @@
+T1	LIVB 22 30	Paciente
+#1	AnnotatorNotes T1	C0030705; Patients; Patient or Disabled Group
+T2	LIVB 57 69	médico de AP
+T3	LIVB 92 97	Varón
+T4	Age 101 108	80 años
+T6	LIVB 174 179	mujer
+#2	AnnotatorNotes T6	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T7	DISO 212 216	EPOC
+#3	AnnotatorNotes T7	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T8	CHEM 237 247	Budesonida
+#4	AnnotatorNotes T8	C0054201; budesonide; Organic Chemical · Pharmacologic Substance
+T9	CHEM 248 258	Formeterol
+T10	Route 259 267	inhalado
+T11	PROC 271 273	IQ
+T12	DISO 275 290	úlcera gástrica
+#5	AnnotatorNotes T12	C0038358; Gastric ulcer; Disease or Syndrome
+T13	Date 291 300	hace años
+T14	PROC 304 313	Usa pañal
+T15	DISO 318 340	incontinencia urinaria
+#6	AnnotatorNotes T15	C0042024; Urinary Incontinence; Pathologic Function
+T16	Date 350 361	hace un mes
+T17	DEVI 383 389	bastón
+#7	AnnotatorNotes T17	C0006856; CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP; Medical Device
+T18	DISO 395 405	Enfermedad
+#8	AnnotatorNotes T18	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T19	Date 406 412	actual
+T20	Duration 437 443	un mes
+T21	DISO 460 475	pérdida de peso
+#9	AnnotatorNotes T21	C1262477; Weight decreased; Finding
+T22	Neg_cue 476 478	no
+T23	Negated 479 491	cuantificada
+T24	DISO 493 520	deterioro de estado general
+T25	DISO 522 529	astenia
+#10	AnnotatorNotes T25	C0004093; Asthenia; Sign or Symptom
+T26	DISO 532 540	anorexia
+#11	AnnotatorNotes T26	C0003123; Anorexia; Disease or Syndrome | C1971624; Loss of appetite (finding); Finding
+T27	DISO 542 549	nauseas
+#12	AnnotatorNotes T27	C0027497; Nausea; Sign or Symptom
+T28	Neg_cue 550 553	sin
+T29	DISO 563 570	vomitar
+#13	AnnotatorNotes T29	C0042963; Vomiting; Sign or Symptom
+T30	Negated 563 570	vomitar
+T31	ANAT 574 586	Deposiciones
+T32	Date 605 616	hace 4 días
+T33	DISO 617 625	oliguria
+#14	AnnotatorNotes T33	C0028961; Oliguria; Disease or Syndrome
+T34	DISO 636 659	edemas en ambas piernas
+#15	AnnotatorNotes T34	C5230913; Bilateral lower limb edema; Pathologic Function
+T35	PROC 674 692	Exploración física
+#16	AnnotatorNotes T35	C0031809; Physical Examination; Health Care Activity
+T36	PROC 696 698	PA
+T37	PROC 712 714	FC
+T38	PROC 724 726	Tª
+T39	PROC 735 740	SatO2
+#17	AnnotatorNotes T39	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T40	PROC 746 748	FR
+#18	AnnotatorNotes T40	C0201660; Rheumatoid Factor Measurement; Laboratory Procedure
+T41	DISO 789 796	delgado
+#19	AnnotatorNotes T41	C0039870; Thinness; Finding
+T42	DISO 798 808	caquéctico
+#20	AnnotatorNotes T42	C0006625; Cachexia; Sign or Symptom
+T43	Observation 812 822	Consciente
+#21	AnnotatorNotes T43	C0229994; Conscious mind; Mental Process | C0234421; Conscious; Mental Process
+T44	Observation 825 834	orientado
+T45	DISO 838 864	Sequedad de piel y mucosas
+T46	PROC 880 883	ACP
+#22	AnnotatorNotes T46	C0030625; Passive Cutaneous Anaphylaxis; Laboratory Procedure | C0078944; Patient-Controlled Analgesia; Therapeutic or Preventive Procedure
+T47	ANAT 895 902	Abdomen
+#23	AnnotatorNotes T47	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T48	DISO 904 923	masa en mesogastrio
+T49	DISO 936 959	dolorosa a la palpación
+T50	Neg_cue 960 963	sin
+T51	Negated 964 985	signos de peritonismo
+T52	PROC 989 993	PPRB
+T53	ANAT 1006 1010	EEII
+#24	AnnotatorNotes T53	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T54	DISO 1012 1040	edemas bilaterales con fóvea
+T55	ANAT 1051 1059	rodillas
+#25	AnnotatorNotes T55	C0022742; Knee; Body Part, Organ, or Organ Component | C1283838; Entire knee region; Body Location or Region | C1963703; Knee region structure; Body Location or Region
+T56	PROC 1064 1087	Pruebas complementarias
+#26	AnnotatorNotes T56	C1515980; Ancillary Study; Research Activity
+T57	PROC 1091 1094	ECG
+#27	AnnotatorNotes T57	C1623258; Electrocardiography; Diagnostic Procedure
+T58	Neg_cue 1108 1111	sin
+T59	DISO 1112 1124	alteraciones
+#28	AnnotatorNotes T59	C0012634; Disease; Disease or Syndrome
+T60	Negated 1112 1124	alteraciones
+T61	PROC 1143 1151	Rx Tórax
+#29	AnnotatorNotes T61	C0039985; Plain chest X-ray; Diagnostic Procedure
+T62	Neg_cue 1153 1156	sin
+T63	DISO 1157 1169	alteraciones
+#30	AnnotatorNotes T63	C0012634; Disease; Disease or Syndrome
+T64	Negated 1157 1169	alteraciones
+T65	PROC 1187 1196	Analítica
+#31	AnnotatorNotes T65	C0002778; Analysis of substances; Laboratory Procedure
+T66	PROC 1198 1208	Creatinina
+#32	AnnotatorNotes T66	C0201975; Creatinine measurement; Laboratory Procedure
+T67	PROC 1231 1235	Urea
+#33	AnnotatorNotes T67	C0523961; Urea measurement; Laboratory Procedure
+T68	PROC 1255 1257	Na
+#34	AnnotatorNotes T68	C0337443; Sodium measurement; Laboratory Procedure
+T69	PROC 1279 1280	K
+#35	AnnotatorNotes T69	C0202194; Potassium measurement; Laboratory Procedure
+T70	PROC 1296 1303	Glucosa
+T71	PROC 1324 1326	Hb
+#36	AnnotatorNotes T71	C0518015; Hemoglobin measurement; Laboratory Procedure
+T72	PROC 1346 1349	Htc
+T73	PROC 1365 1368	VCM
+#37	AnnotatorNotes T73	C0863148; Mean corpuscular volume analyses; Laboratory Procedure
+T74	PROC 1386 1396	Leucocitos
+T75	PROC 1421 1432	Neutrófilos
+T76	PROC 1440 1449	Plaquetas
+T77	PROC 1472 1475	INR
+#38	AnnotatorNotes T77	C0525032; International Normalized Ratio; Laboratory Procedure
+T78	DEVI 1554 1562	colector
+T79	LIVB 1567 1575	paciente
+#39	AnnotatorNotes T79	C0030705; Patients; Patient or Disabled Group
+T80	DISO 1582 1604	incontinencia de orina
+#40	AnnotatorNotes T80	C0042024; Urinary Incontinence; Pathologic Function
+T81	PROC 1615 1634	ECOGRAFÍA ABDOMINAL
+#41	AnnotatorNotes T81	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T82	DISO 1652 1666	masa abdominal
+#42	AnnotatorNotes T82	C0000734; Abdominal mass; Finding
+T83	DISO 1682 1695	globo vesical
+#43	AnnotatorNotes T83	C0005687; Bladder distention; Finding
+T84	DISO 1730 1749	insuficiencia renal
+#44	AnnotatorNotes T84	C0035078; Kidney Failure; Disease or Syndrome | C1565489; Renal Insufficiency; Disease or Syndrome
+T85	DISO 1754 1768	hiperpotasemia
+#45	AnnotatorNotes T85	C0020461; Hyperkalemia; Finding
+T86	Neg_cue 1769 1772	sin
+T87	DISO 1773 1785	alteraciones
+#46	AnnotatorNotes T87	C0012634; Disease; Disease or Syndrome
+T88	Negated 1773 1795	alteraciones en el ECG
+T89	PROC 1792 1795	ECG
+#47	AnnotatorNotes T89	C1623258; Electrocardiography; Diagnostic Procedure
+T90	DISO 1804 1822	anemia normocítica
+#48	AnnotatorNotes T90	C0085577; Normocytic anemia; Disease or Syndrome
+T91	PROC 1826 1837	TRATAMIENTO
+#49	AnnotatorNotes T91	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T92	PROC 1859 1874	sondaje vesical
+#50	AnnotatorNotes T92	C1970989; Insertion of catheter into urinary bladder; Therapeutic or Preventive Procedure
+T93	ANAT 1897 1902	orina
+#51	AnnotatorNotes T93	C0042036; Urine; Body Substance
+T94	PROC 1916 1928	sueroterapia
+#52	AnnotatorNotes T94	C0242348; Serotherapy; Therapeutic or Preventive Procedure
+T95	CHEM 1933 1935	SF
+T96	PROC 1939 1946	Ingresa
+#53	AnnotatorNotes T96	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T97	PROC 1984 1994	creatinina
+#54	AnnotatorNotes T97	C0201975; Creatinine measurement; Laboratory Procedure
+T98	DISO 964 985	signos de peritonismo
+T99	ANAT 1526 1531	orina
+T100	PROC 663 669	EXAMEN
+T101	PROC 1699 1710	DIAGNÓSTICO
+T102	Observation 110 160	dependiente para las actividades de la vida diaria
+T103	Observation 162 179	vive con su mujer
+T104	Quantifier_or_Qualifier 217 232	bien controlado
+T105	Observation 362 389	salía a la calle con bastón
+T106	Quantifier_or_Qualifier 423 433	progresivo
+T107	Quantifier_or_Qualifier 479 491	cuantificada
+T108	Observation 574 595	Deposiciones normales
+T109	Result_or_Value 699 710	144/73 mmHg
+T110	Result_or_Value 715 722	102 lpm
+T111	Result_or_Value 727 733	36,2ºC
+T112	Result_or_Value 741 743	98
+T113	Result_or_Value 749 755	28 rpm
+T114	Observation 759 781	Regular estado general
+T115	Observation 868 876	Eupneico
+T116	Result_or_Value 885 891	normal
+T117	Quantifier_or_Qualifier 924 935	ligeramente
+T118	Observation 994 1002	indolora
+T119	Observation 1096 1098	RS
+T120	Result_or_Value 1101 1107	97 lpm
+T121	Quantifier_or_Qualifier 1125 1139	significativas
+T122	Quantifier_or_Qualifier 1170 1184	significativas
+T123	Result_or_Value 1209 1219	9.o6 mg/dL
+T124	Result_or_Value 1236 1245	365 mg/dL
+T125	Result_or_Value 1250 1252	71
+T126	Result_or_Value 1258 1267	137 mEq/L
+T127	Result_or_Value 1269 1272	135
+T128	Result_or_Value 1273 1276	145
+T129	Result_or_Value 1281 1284	6.8
+T130	Result_or_Value 1290 1291	5
+T131	Result_or_Value 1292 1293	4
+T132	Result_or_Value 1304 1313	158 mg/dL
+T133	Result_or_Value 1327 1336	12.4 g/dL
+T134	Result_or_Value 1350 1355	36.7%
+T135	Result_or_Value 1357 1359	40
+T136	Result_or_Value 1360 1362	50
+T137	Result_or_Value 1369 1376	96.6 fL
+T138	Result_or_Value 1378 1380	80
+T139	Result_or_Value 1381 1383	97
+T140	Result_or_Value 1397 1410	15.200 *e3/uL
+T141	Result_or_Value 1433 1435	89
+T142	Result_or_Value 1450 1460	273 *e3/uL
+T143	Result_or_Value 1462 1469	140-400
+T144	Result_or_Value 1476 1480	1.18
+T145	Quantifier_or_Qualifier 1677 1681	gran
+T146	Quantifier_or_Qualifier 1723 1729	Severa
+T147	Quantifier_or_Qualifier 1797 1803	Ligera
+T148	Result_or_Value 1886 1893	1900 cc
+T149	Quantifier_or_Qualifier 1969 1980	poco a poco
+T150	Result_or_Value 2001 2013	normalizando
+T151	Patient 22 30	Paciente
+T152	Other 57 69	médico de AP
+T153	Patient 92 97	Varón
+T154	History_of 110 121	dependiente
+T155	Family_member 174 179	mujer
+T156	History_of 271 273	IQ
+T157	History_of 275 290	úlcera gástrica
+T158	Future 1515 1531	muestra de orina
+T159	Patient 1567 1575	paciente
+T160	Quantifier_or_Qualifier 646 651	ambas
+T161	ANAT 652 659	piernas
+T162	Quantifier_or_Qualifier 785 788	Muy
+T163	ANAT 850 854	piel
+T164	ANAT 857 864	mucosas
+T165	ANAT 912 923	mesogastrio
+T166	PROC 950 959	palpación
+T167	Quantifier_or_Qualifier 1019 1030	bilaterales
+T168	ANAT 1599 1604	orina

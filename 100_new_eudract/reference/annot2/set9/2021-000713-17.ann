@@ -1,0 +1,122 @@
+T1	PROC 47 105	Estudio en fase III, aleatorizado, doble ciego, controlado
+T2	PROC 112 146	evaluar la eficacia y la seguridad
+T3	PROC 153 170	terapia combinada
+#1	AnnotatorNotes T3	C0009429; Combined Modality Therapy; Therapeutic or Preventive Procedure
+T4	CHEM 175 181	VX-121
+T5	LIVB 185 192	sujetos
+#2	AnnotatorNotes T5	C0681850; Study Subject; Group
+T6	DISO 197 214	fibrosis quística
+#3	AnnotatorNotes T6	C0010674; Cystic Fibrosis; Disease or Syndrome
+T7	DISO 229 246	Fibrosis quística
+#4	AnnotatorNotes T7	C0010674; Cystic Fibrosis; Disease or Syndrome
+T8	LIVB 279 285	sujeto
+#5	AnnotatorNotes T8	C0681850; Study Subject; Group
+T9	LIVB 292 305	representante
+#6	AnnotatorNotes T9	C0600419; Patient Agent; Group | C1708966; Medical Equipment Company Technician or Representative; Professional or Occupational Group
+T10	PROC 376 400	consentimiento informado
+#7	AnnotatorNotes T10	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T11	PROC 402 405	ICF
+T12	PROC 501 508	visitas
+T13	PROC 533 544	tratamiento
+#8	AnnotatorNotes T13	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T14	PROC 581 603	pruebas de laboratorio
+#9	AnnotatorNotes T14	C0022885; Laboratory Procedures; Laboratory Procedure
+T15	PROC 609 631	pautas anticonceptivas
+T16	PROC 640 654	procedimientos
+T17	Neg_cue 671 673	No
+T18	PROC 684 698	consentimiento
+T19	Negated 684 698	consentimiento
+T20	PROC 776 787	Tratamiento
+#10	AnnotatorNotes T20	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T21	CHEM 804 811	fármaco
+#11	AnnotatorNotes T21	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T22	PROC 856 884	interrupción(es) del fármaco
+T23	Neg_cue 927 929	no
+T24	PROC 930 968	interrumpió permanentemente el fármaco
+T25	PROC 996 1003	visitas
+T26	PROC 1032 1038	visita
+T27	PROC 1065 1076	tratamiento
+#12	AnnotatorNotes T27	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T28	PROC 1134 1156	régimen de tratamiento
+T29	DISO 1173 1175	FQ
+#13	AnnotatorNotes T29	C0010674; Cystic Fibrosis; Disease or Syndrome
+T30	DISO 1275 1287	comorbilidad
+#14	AnnotatorNotes T30	C0206308; Dual diagnosis (psychiatry); Finding | C1275743; Co-morbid conditions; Finding
+T31	LIVB 1306 1318	investigador
+#15	AnnotatorNotes T31	C0035173; Research Personnel; Professional or Occupational Group
+T32	PROC 1399 1425	administración del fármaco
+T33	LIVB 1441 1447	sujeto
+#16	AnnotatorNotes T33	C0681850; Study Subject; Group
+T34	LIVB 1509 1516	mujeres
+#17	AnnotatorNotes T34	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T35	PROC 1533 1551	prueba de embarazo
+#18	AnnotatorNotes T35	C0032976; Pregnancy Tests; Diagnostic Procedure
+T36	Neg_cue 1552 1560	negativa
+T37	PROC 1567 1573	visita
+T38	Date 1578 1583	día 1
+T39	CHEM 1622 1629	fármaco
+#19	AnnotatorNotes T39	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T40	DISO 1658 1683	intolerancia a las drogas
+T41	LIVB 1750 1756	sujeto
+#20	AnnotatorNotes T41	C0681850; Study Subject; Group
+T42	LIVB 1772 1784	investigador
+#21	AnnotatorNotes T42	C0035173; Research Personnel; Professional or Occupational Group
+T43	LIVB 1795 1802	sujetos
+#22	AnnotatorNotes T43	C0681850; Study Subject; Group
+T44	DISO 1823 1830	alergia
+#23	AnnotatorNotes T44	C0020517; Hypersensitivity; Pathologic Function
+T45	DISO 1833 1850	hipersensibilidad
+#24	AnnotatorNotes T45	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T46	CHEM 1854 1861	fármaco
+#25	AnnotatorNotes T46	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T47	Date 1893 1899	actual
+T48	Neg_cue 1949 1951	no
+T49	PROC 2013 2040	estudio no intervencionista
+T50	PROC 2056 2079	estudios de observación
+#26	AnnotatorNotes T50	C1518527; Observational Study; Research Activity
+T51	PROC 2085 2105	estudios de registro
+T52	PROC 2135 2157	extracciones de sangre
+#27	AnnotatorNotes T52	C0419338; Blood withdrawal NOS; Diagnostic Procedure
+T53	Neg_cue 2158 2161	sin
+T54	PROC 2165 2191	administración del fármaco
+T55	PROC 433 459	formulario de asentimiento
+T56	Negated 930 968	interrumpió permanentemente el fármaco
+T57	Negated 1533 1551	prueba de embarazo
+T58	LIVB 1452 1459;1477 1497	Mujeres período de lactancia
+T59	LIVB 1452 1471	Mujeres embarazadas
+T60	PROC 1906 1943	ensayo de un fármaco en investigación
+T61	PROC 1959 1976	estudio principal
+T62	Negated 1959 1976	estudio principal
+T63	Negated 2165 2191	administración del fármaco
+T64	Observation 329 339	autorizado
+T65	Observation 447 459	asentimiento
+T66	Observation 464 473	Dispuesto
+T67	Observation 476 492	capaz de cumplir
+T68	Quantifier_or_Qualifier 788 796	completo
+T69	Quantifier_or_Qualifier 942 957	permanentemente
+T70	Observation 983 1003	completó las visitas
+T71	Quantifier_or_Qualifier 1025 1031	última
+T72	Quantifier_or_Qualifier 1039 1049	programada
+T73	Quantifier_or_Qualifier 1157 1164	estable
+T74	Observation 1182 1214	completar la participación en el
+T75	Observation 1326 1350	confundir los resultados
+T76	Observation 1376 1382	riesgo
+T77	Result_or_Value 1552 1560	negativa
+T78	CONC 1604 1617	primera dosis
+T79	Observation 1725 1731	riesgo
+T80	Observation 1879 1912	Participación actual en un ensayo
+T81	Quantifier_or_Qualifier 1967 1976	principal
+T82	Patient 185 192	sujetos
+T83	Patient 279 285	sujeto
+T84	Other 292 316	representante legalmente
+T85	History_of 1275 1287	comorbilidad
+T86	Other 1306 1318	investigador
+T87	Patient 1441 1447	sujeto
+T88	Patient 1452 1497	Mujeres embarazadas o en período de lactancia
+T89	Patient 1509 1516	mujeres
+T90	History_of 1658 1683	intolerancia a las drogas
+T91	Patient 1750 1756	sujeto
+T92	Other 1772 1784	investigador
+T93	Patient 1795 1802	sujetos
+T94	History_of 1823 1830	alergia
+T95	History_of 1833 1850	hipersensibilidad

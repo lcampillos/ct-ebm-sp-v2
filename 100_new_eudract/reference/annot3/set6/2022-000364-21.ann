@@ -98,86 +98,137 @@ T57	Neg_cue 1478 1480	no
 T58	Negated 1481 1491	controlada
 T59	DISO 1495 1528	insuficiencia cardíaca congestiva
 #41	AnnotatorNotes T59	C0018802; Congestive heart failure; Disease or Syndrome
-T61	DISO 1595 1615	infarto de miocardio
-#42	AnnotatorNotes T61	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
-T62	DISO 1617 1633	angina inestable
-#43	AnnotatorNotes T62	C0002965; Angina, Unstable; Disease or Syndrome
-T63	DISO 1636 1660	síndrome coronario agudo
-#44	AnnotatorNotes T63	C0948089; Acute Coronary Syndrome; Disease or Syndrome
-T64	Duration 1676 1681	1 año
-T65	PROC 1694 1708	aleatorización
-#45	AnnotatorNotes T65	C0034656; Randomization; Research Activity
-T66	Duration 1716 1732	superior a 1 año
-T67	PROC 1750 1771	consulta cardiológica
-T68	ANAT 1809 1816	corazón
-#46	AnnotatorNotes T68	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
-T69	DISO 1820 1823	HTA
-#47	AnnotatorNotes T69	C0020538; Hypertensive disease; Disease or Syndrome
-T70	Neg_cue 1824 1826	no
-T71	Negated 1827 1837	controlada
-T72	PROC 1843 1854	tratamiento
-#48	AnnotatorNotes T72	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T73	CHEM 1867 1891	medicamentos para la HTA
-T74	PROC 1893 1905	PA sistólica
-T75	PROC 1909 1916	cribado
-#49	AnnotatorNotes T75	C0220908; Screening procedure; Diagnostic Procedure | C1698960; research subject screening; Research Activity | C1710031; Disease Screening; Diagnostic Procedure
-T76	PROC 1930 1943	PA diastólica
-#50	AnnotatorNotes T76	C1305849; Diastolic blood pressure measurement; Diagnostic Procedure
-T77	PROC 1956 1980	Terapia contra el cáncer
-#51	AnnotatorNotes T77	C0920425; cancer treatment; Therapeutic or Preventive Procedure
-T78	PROC 1993 2006	quimioterapia
-#52	AnnotatorNotes T78	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
-T79	PROC 2008 2020	radioterapia
-#53	AnnotatorNotes T79	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
-T80	CHEM 2042 2054	monoclonales
-#54	AnnotatorNotes T80	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
-T82	CHEM 2079 2100	anticuerpo monoclonal
-#55	AnnotatorNotes T82	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
-T83	CHEM 2103 2127	agentes en investigación
-T84	Duration 2128 2136	≤21 días
-T86	CHEM 2168 2175	fármaco
-#56	AnnotatorNotes T86	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
-T88	DISO 2265 2284	Infección sistémica
-#57	AnnotatorNotes T88	C0243026; Sepsis; Disease or Syndrome
-T89	Neg_cue 2292 2294	no
-T90	Negated 2295 2305	controlada
-T91	DISO 2318 2328	enfermedad
-#58	AnnotatorNotes T91	Life threatening illness (C3846017)
-T92	DISO 2359 2369	enfermedad
-#59	AnnotatorNotes T92	Life threatening illness (C3846017)
-T93	DISO 2400 2416	condición médica
-#60	AnnotatorNotes T93	C4745084; Medical Condition; Finding
-T94	DISO 2419 2454	disfunción de un sistema de órganos
-T95	LIVB 2475 2487	investigador
-#61	AnnotatorNotes T95	C0035173; Research Personnel; Professional or Occupational Group
-T96	Spec_cue 2489 2494	pueda
-T97	Speculated 2495 2519	comprometer la seguridad
-T98	LIVB 2524 2536	participante
-T100	PHYS 2557 2566	absorción
-T102	PHYS 2590 2599	absorción
-T103	PHYS 2605 2616	metabolismo
-#62	AnnotatorNotes T103	C0025519; Metabolism; Organism Function
-T104	CHEM 2620 2629	ibrutinib
-#63	AnnotatorNotes T104	C3501358; ibrutinib; Organic Chemical · Pharmacologic Substance
-T105	DISO 2642 2659	diabetes mellitus
-#64	AnnotatorNotes T105	C0011849; Diabetes Mellitus; Disease or Syndrome | C1802373; Diabetes mellitus (incl subtypes); Disease or Syndrome
-T106	Neg_cue 2660 2662	no
-T107	Negated 2663 2673	controlada
-T108	PROC 2676 2681	HbA1C
-#65	AnnotatorNotes T108	C0202054; Glucohemoglobin measurement; Laboratory Procedure
-T109	DISO 2688 2691	VIH
-#66	AnnotatorNotes T109	C0458074; Human immunodeficiency virus (HIV) status; Finding
-T110	DISO 2693 2731	infección activa por hepatitis B/C y E
-T81	LIVB 417 423	médico
-T118	Spec_cue 2539 2549	interferir
-T99	Speculated 2557 2566	absorción
-T119	Spec_cue 2572 2582	interferir
-T101	Speculated 2590 2599	absorción
-T120	Speculated 2605 2616	metabolismo
-T60	CHEM 2031 2040	moléculas
-T115	CHEM 2061 2069	molécula
-T121	Duration 2140 2163	al menos 5 vidas medias
-T87	PROC 2219 2249	administración del tratamiento
-#70	AnnotatorNotes T87	Administration of medication C3469597 
-#69	AnnotatorNotes T94	Organ dysfunction syndrome C0342953
-#72	AnnotatorNotes T67	Cardiovascular examination and evaluation C0436125
+T60	DISO 1595 1615	infarto de miocardio
+#42	AnnotatorNotes T60	C0027051; Myocardial Infarction; Disease or Syndrome | C0155626; Acute myocardial infarction; Disease or Syndrome
+T61	DISO 1617 1633	angina inestable
+#43	AnnotatorNotes T61	C0002965; Angina, Unstable; Disease or Syndrome
+T62	DISO 1636 1660	síndrome coronario agudo
+#44	AnnotatorNotes T62	C0948089; Acute Coronary Syndrome; Disease or Syndrome
+T63	Duration 1676 1681	1 año
+T64	PROC 1694 1708	aleatorización
+#45	AnnotatorNotes T64	C0034656; Randomization; Research Activity
+T65	Duration 1716 1732	superior a 1 año
+T66	PROC 1750 1771	consulta cardiológica
+#46	AnnotatorNotes T66	Cardiovascular examination and evaluation C0436125
+T67	ANAT 1809 1816	corazón
+#47	AnnotatorNotes T67	C0018787; Heart; Body Part, Organ, or Organ Component | C1281570; Entire heart; Body Part, Organ, or Organ Component
+T68	DISO 1820 1823	HTA
+#48	AnnotatorNotes T68	C0020538; Hypertensive disease; Disease or Syndrome
+T69	Neg_cue 1824 1826	no
+T70	Negated 1827 1837	controlada
+T71	PROC 1843 1854	tratamiento
+#49	AnnotatorNotes T71	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T72	CHEM 1867 1891	medicamentos para la HTA
+T73	PROC 1893 1905	PA sistólica
+T74	PROC 1909 1916	cribado
+#50	AnnotatorNotes T74	C0220908; Screening procedure; Diagnostic Procedure | C1698960; research subject screening; Research Activity | C1710031; Disease Screening; Diagnostic Procedure
+T75	PROC 1930 1943	PA diastólica
+#51	AnnotatorNotes T75	C1305849; Diastolic blood pressure measurement; Diagnostic Procedure
+T76	PROC 1956 1980	Terapia contra el cáncer
+#52	AnnotatorNotes T76	C0920425; cancer treatment; Therapeutic or Preventive Procedure
+T77	PROC 1993 2006	quimioterapia
+#53	AnnotatorNotes T77	C0013216; Pharmacotherapy; Therapeutic or Preventive Procedure | C0392920; Chemotherapy Regimen; Therapeutic or Preventive Procedure | C3665472; Chemotherapy; Therapeutic or Preventive Procedure
+T78	PROC 2008 2020	radioterapia
+#54	AnnotatorNotes T78	C0041626; Ultraviolet Therapy; Therapeutic or Preventive Procedure | C1522449; Therapeutic radiology procedure; Therapeutic or Preventive Procedure
+T79	CHEM 2042 2054	monoclonales
+#55	AnnotatorNotes T79	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T80	CHEM 2079 2100	anticuerpo monoclonal
+#56	AnnotatorNotes T80	C0003250; Monoclonal Antibodies; Amino Acid, Peptide, or Protein · Immunologic Factor
+T81	CHEM 2103 2127	agentes en investigación
+T82	Duration 2128 2136	≤21 días
+T83	CHEM 2168 2175	fármaco
+#57	AnnotatorNotes T83	C0013227; Pharmaceutical Preparations; Pharmacologic Substance
+T84	DISO 2265 2284	Infección sistémica
+#58	AnnotatorNotes T84	C0243026; Sepsis; Disease or Syndrome
+T85	Neg_cue 2292 2294	no
+T86	Negated 2295 2305	controlada
+T87	DISO 2318 2328	enfermedad
+#59	AnnotatorNotes T87	Life threatening illness (C3846017)
+T88	DISO 2359 2369	enfermedad
+#60	AnnotatorNotes T88	Life threatening illness (C3846017)
+T89	DISO 2400 2416	condición médica
+#61	AnnotatorNotes T89	C4745084; Medical Condition; Finding
+T90	DISO 2419 2454	disfunción de un sistema de órganos
+#62	AnnotatorNotes T90	Organ dysfunction syndrome C0342953
+T91	LIVB 2475 2487	investigador
+#63	AnnotatorNotes T91	C0035173; Research Personnel; Professional or Occupational Group
+T92	Spec_cue 2489 2494	pueda
+T93	Speculated 2495 2519	comprometer la seguridad
+T94	LIVB 2524 2536	participante
+T95	PHYS 2557 2566	absorción
+T96	PHYS 2590 2599	absorción
+T97	PHYS 2605 2616	metabolismo
+#64	AnnotatorNotes T97	C0025519; Metabolism; Organism Function
+T98	CHEM 2620 2629	ibrutinib
+#65	AnnotatorNotes T98	C3501358; ibrutinib; Organic Chemical · Pharmacologic Substance
+T99	DISO 2642 2659	diabetes mellitus
+#66	AnnotatorNotes T99	C0011849; Diabetes Mellitus; Disease or Syndrome | C1802373; Diabetes mellitus (incl subtypes); Disease or Syndrome
+T100	Neg_cue 2660 2662	no
+T101	Negated 2663 2673	controlada
+T102	PROC 2676 2681	HbA1C
+#67	AnnotatorNotes T102	C0202054; Glucohemoglobin measurement; Laboratory Procedure
+T103	DISO 2688 2691	VIH
+#68	AnnotatorNotes T103	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T104	DISO 2693 2731	infección activa por hepatitis B/C y E
+T105	LIVB 417 423	médico
+T106	Spec_cue 2539 2549	interferir
+T107	Speculated 2557 2566	absorción
+T108	Spec_cue 2572 2582	interferir
+T109	Speculated 2590 2599	absorción
+T110	Speculated 2605 2616	metabolismo
+T111	CHEM 2031 2040	moléculas
+T112	CHEM 2061 2069	molécula
+T113	Duration 2140 2163	al menos 5 vidas medias
+T114	PROC 2219 2249	administración del tratamiento
+#69	AnnotatorNotes T114	Administration of medication C3469597 
+T115	Observation 211 234	recidivante/refractario
+T116	Observation 528 539	recidivante
+T117	Observation 542 553	refractario
+T118	Observation 649 660	recidivante
+T119	Observation 663 674	refractario
+T120	Quantifier_or_Qualifier 742 752	Al menos 1
+T121	CONC 939 943	ECOG
+T122	Result_or_Value 944 946	≤1
+T123	Observation 949 974	Función orgánica adecuada
+T124	Result_or_Value 979 990	≥ 1000/mm^3
+T125	Result_or_Value 1001 1021	≥50.000 células/mm^3
+T126	Result_or_Value 1034 1041	≥8 g/dL
+T127	Result_or_Value 1051 1059	≤3 X ULN
+T128	Result_or_Value 1078 1088	≤1,5 X ULN
+T129	Result_or_Value 1094 1104	≥30 mL/min
+T130	Quantifier_or_Qualifier 1428 1454	clínicamente significativa
+T131	Quantifier_or_Qualifier 1481 1491	controlada
+T132	Result_or_Value 1532 1543	clase II-IV
+T133	Quantifier_or_Qualifier 1827 1837	controlada
+T134	Quantifier_or_Qualifier 1859 1866	3 o más
+T135	Result_or_Value 1917 1927	>160 mm Hg
+T136	Result_or_Value 1944 1953	>100mm Hg
+T137	Quantifier_or_Qualifier 2285 2291	activa
+T138	Quantifier_or_Qualifier 2295 2305	controlada
+T139	Observation 2333 2357	ponga en peligro la vida
+T140	Observation 2374 2398	ponga en peligro la vida
+T141	Observation 2495 2519	comprometer la seguridad
+T142	CONC 2539 2549	interferir
+T143	CONC 2572 2582	interferir
+T144	Quantifier_or_Qualifier 2663 2673	controlada
+T145	Result_or_Value 2682 2685	>7)
+T146	Other 417 423	médico
+T147	Patient 485 494	pacientes
+T148	Patient 703 720	Pacientes adultos
+T149	History_of 753 760	régimen
+T150	History_of 764 775	tratamiento
+T151	History_of 806 810	BTKi
+T152	History_of 878 889	tratamiento
+T153	History_of 1133 1140	Terapia
+T154	History_of 1152 1156	BTKi
+T155	History_of 1159 1166	Terapia
+T156	History_of 1178 1190	Lenalidomida
+T157	History_of 1193 1203	Bortezomib
+T158	History_of 1206 1219	Cirugía mayor
+T159	History_of 1259 1264	ictus
+T160	History_of 1267 1290	hemorragia intracraneal
+T161	History_of 1595 1615	infarto de miocardio
+T162	History_of 1617 1633	angina inestable
+T163	History_of 1636 1660	síndrome coronario agudo
+T164	Other 2475 2487	investigador
+T165	Patient 2524 2536	participante

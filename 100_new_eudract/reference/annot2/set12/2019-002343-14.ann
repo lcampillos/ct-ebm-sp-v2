@@ -1,0 +1,145 @@
+T1	Date 12 16	2019
+T2	PROC 44 60	TERAPIA GENÉTICA
+T3	LIVB 64 69	NIÑOS
+#1	AnnotatorNotes T3	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T4	Age 64 69	NIÑOS
+T5	PROC 152 181	ENSAYO CLÍNICO DE FASE I / II
+T6	PROC 185 244	TERAPIA DE GENES DE CÉLULAS MADRE HEMATOPOYÉTICAS AUTÓLOGAS
+T7	LIVB 329 334	Niños
+#2	AnnotatorNotes T7	C0008059; Child; Age Group | C0870221; Boys; Age Group
+T8	Age 329 334	Niños
+T9	DISO 339 372	inmunodeficiencia combinada grave
+T10	DISO 386 409	mutación en el gen RAG1
+T11	LIVB 434 443	Pacientes
+#3	AnnotatorNotes T11	C0030705; Patients; Patient or Disabled Group
+T12	DISO 448 481	inmunodeficiencia combinada grave
+T13	DISO 483 487	SCID
+#4	AnnotatorNotes T13	C0085110; Severe Combined Immunodeficiency; Disease or Syndrome
+T14	DISO 502 518	defecto genético
+T15	CHEM 542 555	recombinasa 1
+T16	DISO 591 615	Deficiencia de RAG1 SCID
+T17	PROC 631 648	análisis genético
+#5	AnnotatorNotes T17	C0679560; Genetic screening method; Laboratory Procedure
+T18	ANAT 699 717	células T vírgenes
+#6	AnnotatorNotes T18	C0039194; T-Lymphocyte; Cell
+T19	Age 734 741	<2 años
+T20	Age 751 769	al menos 8 semanas
+T21	PROC 798 812	administración
+#7	AnnotatorNotes T21	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T22	CHEM 816 824	busulfán
+#8	AnnotatorNotes T22	C0006463; busulfan; Hazardous or Poisonous Substance · Organic Chemical · Pharmacologic Substance
+T23	Neg_cue 829 837	Falta de
+T24	Negated 841 867	donante compatible con HLA
+T25	LIVB 841 848	donante
+#9	AnnotatorNotes T25	C0013018; Donor person; Population Group
+T26	PROC 864 867	HLA
+T27	LIVB 880 887	hermano
+#10	AnnotatorNotes T27	C0037047; Sibling; Family Group
+T28	PROC 892 895	HLA
+T29	Negated 896 904	idéntico
+T30	LIVB 907 914	donante
+#11	AnnotatorNotes T30	C0013018; Donor person; Population Group
+T31	Neg_cue 920 922	no
+T32	Negated 924 934	parentesco
+T33	PROC 985 1009	consentimiento informado
+#12	AnnotatorNotes T33	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T34	LIVB 1019 1024	padre
+#13	AnnotatorNotes T34	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T35	LIVB 1027 1032	tutor
+T36	PROC 1074 1078	TCMH
+T37	PROC 1084 1095	seguimiento
+#14	AnnotatorNotes T37	C0420316; Other follow-up; Health Care Activity
+T38	PROC 1101 1110	protocolo
+#15	AnnotatorNotes T38	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T39	Duration 1134 1140	2 años
+T40	PROC 1146 1154	revisión
+#16	AnnotatorNotes T40	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T41	Duration 1158 1165	15 años
+T42	Date 1184 1197	a largo plazo
+T43	LIVB 1248 1255	donante
+#17	AnnotatorNotes T43	C0013018; Donor person; Population Group
+T44	PROC 1271 1274	HLA
+T45	LIVB 1276 1283	hermano
+#18	AnnotatorNotes T45	C0037047; Sibling; Family Group
+T46	PROC 1288 1291	HLA
+T47	LIVB 1303 1310	donante
+#19	AnnotatorNotes T47	C0013018; Donor person; Population Group
+T48	Neg_cue 1327 1329	no
+T49	DISO 1381 1401	Deficiencia de RAG 1
+T50	ANAT 1453 1471	células T vírgenes
+#20	AnnotatorNotes T50	C0039194; T-Lymphocyte; Cell
+T51	DISO 1483 1500	Síndrome de Omenn
+#21	AnnotatorNotes T51	C2700553; Omenn Syndrome; Disease or Syndrome
+T52	PROC 1504 1518	TCMH alogénico
+T53	DISO 1529 1539	Disfunción
+#22	AnnotatorNotes T53	C0277785; Functional disorder; Pathologic Function
+T54	DISO 1542 1554	comorbilidad
+#23	AnnotatorNotes T54	C0206308; Dual diagnosis (psychiatry); Finding | C1275743; Co-morbid conditions; Finding
+T55	ANAT 1572 1579	órganos
+#24	AnnotatorNotes T55	C0178784; Organ; Body Part, Organ, or Organ Component | C1280836; Entire body organ; Body Part, Organ, or Organ Component
+T56	PROC 1648 1668	Ventilacion mecanica
+#25	AnnotatorNotes T56	C0199470; Mechanical ventilation; Therapeutic or Preventive Procedure
+T57	PROC 1674 1698	Fracción de acortamiento
+T58	PROC 1702 1716	ecocardiograma
+#26	AnnotatorNotes T58	C0013516; Echocardiography; Diagnostic Procedure
+T59	DISO 1728 1747	Insuficiencia renal
+#27	AnnotatorNotes T59	C0035078; Kidney Failure; Disease or Syndrome | C1565489; Renal Insufficiency; Disease or Syndrome
+T60	PROC 1777 1785	diálisis
+#28	AnnotatorNotes T60	C4551529; Renal Dialysis; Therapeutic or Preventive Procedure
+T61	DISO 1791 1824	Trastorno convulsivo incontrolado
+T62	DISO 1843 1859	condición médica
+#29	AnnotatorNotes T62	C4745084; Medical Condition; Finding
+T63	LIVB 1880 1895	médico tratante
+T64	Spec_cue 1897 1902	pueda
+T65	Speculated 1903 1913	interferir
+T66	PROC 1942 1956	ensayo clínico
+#30	AnnotatorNotes T66	C0008976; Clinical Trials; Research Activity
+T67	PROC 1998 2026	recolección de células madre
+T68	Contraindicated 1998 2026	recolección de células madre
+T69	PROC 2032 2046	administración
+#31	AnnotatorNotes T69	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T70	Contraindicated 2032 2046	administración
+T71	CHEM 2050 2079	medicamentos acondicionadores
+T72	DISO 2084 2101	Infección por VIH
+#32	AnnotatorNotes T72	C0019693; HIV Infections; Disease or Syndrome
+T73	DISO 2104 2122	infección por HTLV
+T74	DISO 74 131	INMUNODEFICIENCIA COMBINADA GRAVE POR DEFICIENCIA DE RAG1
+T75	DISO 250 307	INMUNODEFICIENCIA COMBINADA GRAVE CON DEFICIENCIA DE RAG1
+T76	PHYS 1346 1352	alelos
+T77	PHYS 939 945	alelos
+T78	ANAT 652 661	Células T
+T79	ANAT 665 682	sangre periférica
+T80	PROC 1176 1183	estudio
+T81	Negated 841 848	donante
+T82	ANAT 1406 1415	células T
+T83	ANAT 1419 1436	sangre periférica
+T84	Contraindicated 2050 2079	medicamentos acondicionadores
+T85	Quantifier_or_Qualifier 102 107	GRAVE
+T86	Quantifier_or_Qualifier 235 244	AUTÓLOGAS
+T87	Quantifier_or_Qualifier 278 283	GRAVE
+T88	Result_or_Value 683 692	<300 / µL
+T89	Result_or_Value 718 725	<1 / µL
+T90	Observation 924 934	parentesco
+T91	Quantifier_or_Qualifier 946 948	10
+T92	Quantifier_or_Qualifier 949 951	10
+T93	Observation 1037 1042	capaz
+T94	Quantifier_or_Qualifier 1353 1355	10
+T95	Result_or_Value 1436 1446	> 300 / µL
+T96	Result_or_Value 1471 1479	> 1 / µL
+T97	Quantifier_or_Qualifier 1555 1568	significativa
+T98	Result_or_Value 1717 1724	<25% C.
+T99	CONC 1903 1913	interferir
+T100	Observation 1921 1937	buena conducción
+T101	Patient 64 69	NIÑOS
+T102	Patient 329 334	Niños
+T103	Patient 434 443	Pacientes
+T104	Other 841 848	donante
+T105	Family_member 880 887	hermano
+T106	Other 907 914	donante
+T107	Family_member 1019 1024	padre
+T108	Other 1027 1032	tutor
+T109	Other 1248 1255	donante
+T110	Family_member 1276 1283	hermano
+T111	Other 1303 1310	donante
+T112	History_of 1504 1518	TCMH alogénico
+T113	Other 1880 1895	médico tratante

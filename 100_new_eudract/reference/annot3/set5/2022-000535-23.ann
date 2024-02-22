@@ -1,0 +1,82 @@
+T1	CHEM 59 81	ácido acetilsalicílico
+#1	AnnotatorNotes T1	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T2	PROC 87 95	prevenir
+#2	AnnotatorNotes T2	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T3	DISO 96 123	complicaciones del embarazo
+T4	LIVB 127 134	mujeres
+#3	AnnotatorNotes T4	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T5	DISO 135 160	infectadas por SARS-CoV-2
+T6	PROC 183 208	Evaluación de la eficacia
+T7	CHEM 213 235	ácido acetilsalicílico
+#4	AnnotatorNotes T7	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T8	Dose 238 249	dosis bajas
+T9	PROC 256 266	prevención
+#5	AnnotatorNotes T9	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T10	DISO 274 313	efectos maternos y perinatales adversos
+T11	Date 293 304	perinatales
+T12	DISO 337 365	infectadas por el SARS-CoV-2
+T13	DISO 389 413	Infección por SARS-CoV-2
+#6	AnnotatorNotes T13	C5203670; COVID19 (disease); Disease or Syndrome
+T14	Duration 468 482	las 32 semanas
+T15	PROC 486 502	edad gestacional
+T16	Age 505 523	Mayores de 18 años
+T17	PROC 604 615	tratamiento
+#7	AnnotatorNotes T17	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T18	CHEM 628 631	AAS
+#8	AnnotatorNotes T18	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T19	PROC 640 650	prevención
+#9	AnnotatorNotes T19	C0199176; Prophylactic treatment; Therapeutic or Preventive Procedure
+T20	DISO 657 669	preeclampsia
+#10	AnnotatorNotes T20	C0032914; Pre-Eclampsia; Pathologic Function
+T21	PROC 680 721	medicación antiinflamatoria no esteroidea
+T22	Neg_cue 708 710	no
+T23	Negated 711 721	esteroidea
+T24	Date 722 735	a largo plazo
+T25	DISO 738 761	Trastornos hemorrágicos
+#11	AnnotatorNotes T25	C0019087; Hemorrhagic Disorders; Disease or Syndrome
+T26	DISO 770 798	enfermedad de Von Willebrand
+#12	AnnotatorNotes T26	C0042974; von Willebrand Disease; Disease or Syndrome
+T27	DISO 817 835	ulceración péptica
+#13	AnnotatorNotes T27	C0030920; Peptic Ulcer; Disease or Syndrome
+T28	DISO 854 871	hipersensibilidad
+#14	AnnotatorNotes T28	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T29	CHEM 875 878	AAS
+#15	AnnotatorNotes T29	C0004057; aspirin; Organic Chemical · Pharmacologic Substance
+T30	PROC 903 917	ensayo clínico
+#16	AnnotatorNotes T30	C0008976; Clinical Trials; Research Activity
+T31	Neg_cue 920 936	Incapacidad para
+T32	Negated 937 976	cooperar con los requisitos del estudio
+T33	DISO 979 1008	Enfermedad grave por COVID-19
+T34	PROC 1044 1067	frecuencia respiratoria
+T35	DISO 1092 1115	dificultad respiratoria
+#17	AnnotatorNotes T35	C0013404; Dyspnea; Sign or Symptom | C0476273; Respiratory distress; Sign or Symptom
+T36	PROC 1123 1127	SpO2
+T37	DISO 1153 1194	síndrome de dificultad respiratoria aguda
+#18	AnnotatorNotes T37	C0035222; Respiratory Distress Syndrome, Adult; Disease or Syndrome
+T38	DISO 1196 1202	sepsis
+#19	AnnotatorNotes T38	C0243026; Sepsis; Disease or Syndrome
+T39	DISO 1207 1232	disfunción orgánica aguda
+T40	DISO 1237 1258	Hiperémesis gravídica
+#20	AnnotatorNotes T40	C0020450; Hyperemesis Gravidarum; Sign or Symptom
+T41	PROC 1273 1284	tratamiento
+#21	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	LIVB 317 336	mujeres embarazadas
+T43	PHYS 535 544	dar a luz
+T44	LIVB 442 461	Mujeres embarazadas
+T45	Observation 526 544	Deseo de dar a luz
+T46	Quantifier_or_Qualifier 711 721	esteroidea
+T47	Observation 881 917	Participación en otro ensayo clínico
+T48	Observation 937 964	cooperar con los requisitos
+T49	Result_or_Value 1068 1090	> 30 respiraciones/min
+T50	Quantifier_or_Qualifier 1116 1121	grave
+T51	Result_or_Value 1128 1134	≤ 93 %
+T52	Quantifier_or_Qualifier 1135 1151	en aire ambiente
+T53	Observation 1259 1284	resistente al tratamiento
+T54	Patient 127 134	mujeres
+T55	Patient 282 290	maternos
+T56	Patient 293 304	perinatales
+T57	Patient 317 336	mujeres embarazadas
+T58	Patient 442 461	Mujeres embarazadas
+T59	Future 541 544	luz
+T60	History_of 817 835	ulceración péptica
+T61	History_of 854 871	hipersensibilidad

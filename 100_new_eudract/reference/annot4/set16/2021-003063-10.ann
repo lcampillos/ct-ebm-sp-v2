@@ -1,0 +1,111 @@
+T1	PROC 47 75	Estudio de extensión abierto
+T2	PROC 107 153	evaluar la seguridad, tolerabilidad y eficacia
+T3	Date 154 167	a largo plazo
+#1	AnnotatorNotes T3	C1517942 Long-term Follow-up
+T4	Route 189 191	SC
+T5	LIVB 195 216	participantes adultos
+T6	Age 209 216	adultos
+T7	DISO 221 241	penfigoide ampolloso
+#2	AnnotatorNotes T7	C0030805; Bullous pemphigoid; Disease or Syndrome
+T8	PROC 259 276	Estudio de fase 3
+T9	PROC 282 328	evaluar la seguridad, tolerabilidad y eficacia
+T10	Route 350 352	SC
+T11	LIVB 356 377	participantes adultos
+T12	Age 370 377	adultos
+T13	DISO 382 402	penfigoide ampolloso
+#3	AnnotatorNotes T13	C0030805; Bullous pemphigoid; Disease or Syndrome
+T14	DISO 424 445	Enfermedad autoinmune
+#4	AnnotatorNotes T14	C0004364; Autoimmune Diseases; Disease or Syndrome
+T15	DISO 458 475	ampollas cutáneas
+#5	AnnotatorNotes T15	C0005758; Bulla; Finding
+T16	DISO 478 485	prurito
+#6	AnnotatorNotes T16	C0033774; Pruritus; Sign or Symptom
+T17	DISO 510 530	Penfigoide ampolloso
+#7	AnnotatorNotes T17	C0030805; Bullous pemphigoid; Disease or Syndrome
+T18	PROC 729 738	protocolo
+#8	AnnotatorNotes T18	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T19	PROC 767 790	métodos anticonceptivos
+#9	AnnotatorNotes T19	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T20	LIVB 846 867	Varones participantes
+T21	PROC 872 893	método anticonceptivo
+#10	AnnotatorNotes T21	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T22	DEVI 910 916	condón
+#11	AnnotatorNotes T22	C0009653; Condoms, Male; Medical Device | C0677582; Condoms, Unspecified; Medical Device
+T23	LIVB 928 952	participantes masculinos
+T24	Neg_cue 953 955	no
+T25	PROC 956 969	esterilizados
+#12	AnnotatorNotes T25	C0038280; Sterilization for infection control; Health Care Activity | C0038288; Sexual sterilization; Therapeutic or Preventive Procedure
+T26	Negated 956 969	esterilizados
+T27	PROC 1016 1040	Consentimiento Informado
+#13	AnnotatorNotes T27	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T28	CHEM 1079 1082	PEI
+T29	Neg_cue 1154 1162	negativo
+T30	CHEM 1254 1257	PEI
+T31	PROC 1324 1347	métodos anticonceptivos
+#14	AnnotatorNotes T31	C0700589; Contraceptive methods; Therapeutic or Preventive Procedure
+T32	PROC 1364 1373	protocolo
+#15	AnnotatorNotes T32	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T33	PROC 1393 1417	Consentimiento Informado
+#16	AnnotatorNotes T33	C0567423; Informed consent for procedure; Therapeutic or Preventive Procedure
+T34	CHEM 1444 1447	PEI
+T35	DISO 1479 1489	Enfermedad
+#17	AnnotatorNotes T35	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T36	PROC 1630 1653	intervención quirúrgica
+#18	AnnotatorNotes T36	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T37	LIVB 1725 1737	investigador
+#19	AnnotatorNotes T37	C0035173; Research Personnel; Professional or Occupational Group
+T38	Spec_cue 1739 1744	pueda
+T39	Speculated 1745 1754	confundir
+T40	Spec_cue 1795 1801	riesgo
+T41	LIVB 1819 1831	participante
+T42	DISO 1837 1854	Hipersensibilidad
+#20	AnnotatorNotes T42	C0020517; Hypersensitivity; Pathologic Function | C0429891; Hypersensitivity finding; Finding | C0585186; Cutaneous hypersensitivity; Disease or Syndrome
+T43	CHEM 1867 1870	PEI
+T44	CHEM 1889 1900	excipientes
+#21	AnnotatorNotes T44	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T45	PROC 1690 1704	proceso médico
+T46	Negated 1180 1188	embarazo
+T47	Speculated 1819 1831	participante
+T48	PROC 579 585	visita
+#22	AnnotatorNotes T48	C1512346; Patient Visit; Health Care Activity
+T49	Date 589 601	la semana 36
+T50	CHEM 332 349	efgartigimod PH20
+T51	CHEM 171 188	efgartigimod PH20
+T52	PROC 1534 1556	cirugía mayor reciente
+#23	AnnotatorNotes T52	recent surgery C2169607
+T53	PROC 1518 1530	intervención
+T54	LIVB 1263 1297	mujeres con capacidad reproductiva
+#24	AnnotatorNotes T54	Female of child bearing age C1960468
+T55	LIVB 1092 1126	mujeres con capacidad reproductiva
+#25	AnnotatorNotes T55	Female of child bearing age C1960468 
+T56	PROC 659 691	consentimiento informado firmado
+T57	Duration 1561 1572	los 3 meses
+T58	Spec_cue 1601 1610	intención
+T59	Speculated 1630 1653	intervención quirúrgica
+T60	Speculated 1690 1704	proceso médico
+T61	PROC 1170 1188	prueba de embarazo
+T62	ANAT 1192 1197	orina
+T63	CONC 560 572	Finalización
+T64	Observation 633 642	Capacidad
+T65	Observation 694 724	cumplimiento de los requisitos
+T66	CONC 1062 1074	última dosis
+T67	Result_or_Value 1144 1162	resultado negativo
+T68	CONC 1214 1227	momento basal
+T69	CONC 1427 1439	última dosis
+T70	Quantifier_or_Qualifier 1490 1516	clínicamente significativa
+T71	CONC 1584 1597	momento basal
+T72	Observation 1690 1704	proceso médico
+T73	Observation 1745 1769	confundir los resultados
+T74	Observation 1795 1801	riesgo
+T75	Quantifier_or_Qualifier 1802 1810	excesivo
+T76	Patient 195 216	participantes adultos
+T77	Patient 356 377	participantes adultos
+T78	Patient 846 867	Varones participantes
+T79	Patient 928 952	participantes masculinos
+T80	Patient 1092 1099	mujeres
+T81	Patient 1263 1270	mujeres
+T82	History_of 1518 1547	intervención de cirugía mayor
+T83	Future 1630 1653	intervención quirúrgica
+T84	Other 1725 1737	investigador
+T85	Patient 1819 1831	participante
+T86	History_of 1837 1854	Hipersensibilidad

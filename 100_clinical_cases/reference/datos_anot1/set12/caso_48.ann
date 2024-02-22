@@ -1,0 +1,218 @@
+T1	DISO 21 36	Dolor abdominal
+#1	AnnotatorNotes T1	C0000737; Abdominal Pain; Sign or Symptom
+T2	DISO 38 45	diarrea
+#2	AnnotatorNotes T2	C0011991; Diarrhea; Sign or Symptom
+T3	DISO 48 54	fiebre
+#3	AnnotatorNotes T3	C0015967; Fever; Sign or Symptom
+T4	LIVB 77 82	Varón
+T5	Age 86 93	54 años
+T6	Neg_cue 112 115	sin
+T7	LIVB 116 121	hijos
+T8	Negated 116 121	hijos
+T9	LIVB 138 145	hermano
+#4	AnnotatorNotes T9	C0037047; Sibling; Family Group
+T10	LIVB 147 157	agricultor
+T11	DISO 175 185	Enfermedad
+#5	AnnotatorNotes T11	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T12	Date 186 192	actual
+T13	PROC 228 245	Atención Primaria
+#6	AnnotatorNotes T13	C0033137; Primary Health Care; Health Care Activity
+T14	DISO 260 275	dolor abdominal
+#7	AnnotatorNotes T14	C0344304; Generalized abdominal pain; Sign or Symptom
+T15	Duration 292 300	12 horas
+T16	DISO 315 322	náuseas
+#8	AnnotatorNotes T16	C0027497; Nausea; Sign or Symptom
+T17	DISO 330 336	vómito
+#9	AnnotatorNotes T17	C0042963; Vomiting; Sign or Symptom
+T18	DISO 338 346	diarreas
+#10	AnnotatorNotes T18	C0011991; Diarrhea; Sign or Symptom
+T19	PHYS 370 382	deposiciones
+T20	Frequency 383 390	diarias
+T21	Neg_cue 392 395	sin
+T22	Negated 396 417	productos patológicos
+T23	DISO 421 427	fiebre
+#11	AnnotatorNotes T23	C0015967; Fever; Sign or Symptom
+T24	Observation 439 447	tiritona
+#12	AnnotatorNotes T24	C0036973; Shivering; Finding
+T25	PROC 464 487	tratamiento antitérmico
+T26	PHYS 509 515	comido
+#13	AnnotatorNotes T26	C0013470; Eating; Organism Function
+T27	Neg_cue 535 538	sin
+T28	PROC 539 556	control sanitario
+T29	Negated 539 556	control sanitario
+T30	Date 557 568	hace 3 días
+T31	DISO 600 603	HTA
+#14	AnnotatorNotes T31	C0020538; Hypertensive disease; Disease or Syndrome
+T32	DISO 606 616	dislipemia
+#15	AnnotatorNotes T32	C0242339; Dyslipidemias; Disease or Syndrome
+T33	PROC 620 631	tratamiento
+#16	AnnotatorNotes T33	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T34	CHEM 636 645	enalapril
+#17	AnnotatorNotes T34	C0014025; enalapril; Amino Acid, Peptide, or Protein · Pharmacologic Substance
+T35	Dose 646 651	20 mg
+T36	Frequency 651 655	/día
+T37	CHEM 658 670	simvastatina
+#18	AnnotatorNotes T37	C0074554; simvastatin; Organic Chemical · Pharmacologic Substance
+T38	Dose 671 676	20 mg
+T39	Frequency 676 680	/día
+T40	LIVB 712 717	padre
+#19	AnnotatorNotes T40	C0015671; Father (person); Family Group | C0030551; parent; Family Group
+T41	DISO 718 727	fallecido
+#20	AnnotatorNotes T41	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T42	DISO 731 734	SCA
+T43	LIVB 738 743	madre
+#21	AnnotatorNotes T43	C0026591; Mother (person); Family Group
+T44	DISO 744 753	fallecida
+#22	AnnotatorNotes T44	C1306577; Death (finding); Finding | C1546956; Patient Outcome - Died; Finding
+T45	DISO 758 769	Ca de recto
+T46	PROC 784 802	Exploración física
+#23	AnnotatorNotes T46	C0031809; Physical Examination; Health Care Activity
+T47	Observation 873 892	palidez mucocutánea
+T48	PROC 924 956	Auscultación cardiorrespiratoria
+T49	Neg_cue 957 960	sin
+T50	Negated 961 970	hallazgos
+T51	ANAT 985 992	Abdomen
+#24	AnnotatorNotes T51	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T52	DISO 1036 1059	doloroso a la palpación
+T53	Observation 1083 1125	Ruidos hidroaéreos intestinales aumentados
+T54	Neg_cue 1127 1129	No
+T55	DISO 1140 1145	masas
+#25	AnnotatorNotes T55	C0577559; Mass of body structure; Finding
+T56	Negated 1140 1145	masas
+T57	Neg_cue 1146 1148	ni
+T58	DISO 1149 1157	megalias
+T59	Negated 1149 1157	megalias
+T60	Neg_cue 1159 1162	Sin
+T61	DISO 1163 1194	signos de irritación peritoneal
+T62	Negated 1163 1194	signos de irritación peritoneal
+T63	PROC 1248 1271	pruebas complementarias
+#26	AnnotatorNotes T63	C1515980; Ancillary Study; Research Activity
+T64	PROC 1276 1299	Pruebas complementarias
+#27	AnnotatorNotes T64	C1515980; Ancillary Study; Research Activity
+T65	PROC 1303 1312	Analitica
+#28	AnnotatorNotes T65	C0002778; Analysis of substances; Laboratory Procedure
+T66	PROC 1314 1316	hb
+#29	AnnotatorNotes T66	C0518015; Hemoglobin measurement; Laboratory Procedure
+T67	PROC 1323 1333	leucocitos
+T68	DISO 1345 1356	neutrofilia
+#30	AnnotatorNotes T68	C3665444; Neutrophilia (disorder); Disease or Syndrome
+T69	PROC 1358 1367	plaquetas
+T70	PROC 1377 1388	Coagulación
+#31	AnnotatorNotes T70	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T71	PROC 1389 1392	INR
+#32	AnnotatorNotes T71	C0525032; International Normalized Ratio; Laboratory Procedure
+T72	PROC 1399 1401	TP
+#33	AnnotatorNotes T72	C0033707; Prothrombin time assay; Laboratory Procedure
+T73	PROC 1406 1408	AP
+T74	PROC 1414 1421	Glucosa
+T75	PROC 1427 1431	urea
+#34	AnnotatorNotes T75	C0523961; Urea measurement; Laboratory Procedure
+T76	PROC 1436 1446	creatinina
+#35	AnnotatorNotes T76	C0201975; Creatinine measurement; Laboratory Procedure
+T77	PROC 1453 1458	sodio
+#36	AnnotatorNotes T77	C0337443; Sodium measurement; Laboratory Procedure
+T78	PROC 1464 1471	potasio
+#37	AnnotatorNotes T78	C0202194; Potassium measurement; Laboratory Procedure
+T79	PROC 1477 1480	GOT
+#38	AnnotatorNotes T79	C0201899; Aspartate aminotransferase measurement; Laboratory Procedure
+T80	PROC 1485 1488	GPT
+#39	AnnotatorNotes T80	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T81	PROC 1493 1496	GGT
+#40	AnnotatorNotes T81	C0202035; Gamma glutamyl transferase measurement; Laboratory Procedure
+T82	PROC 1502 1505	PCR
+#41	AnnotatorNotes T82	C0032520; Polymerase Chain Reaction; Molecular Biology Research Technique | C0201657; C-reactive protein measurement; Laboratory Procedure
+T83	PROC 1513 1516	ECO
+#42	AnnotatorNotes T83	C0041618; Ultrasonography; Diagnostic Procedure
+T84	PROC 1519 1532	TAC abdominal
+#43	AnnotatorNotes T84	C0412620; CT of abdomen; Diagnostic Procedure
+T85	Neg_cue 1533 1536	sin
+T86	Negated 1537 1546	hallazgos
+T87	PROC 1558 1567	analgesia
+T88	PROC 1570 1582	sueroterapia
+#44	AnnotatorNotes T88	C0242348; Serotherapy; Therapeutic or Preventive Procedure
+T89	PROC 1633 1640	ingreso
+#45	AnnotatorNotes T89	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T90	PROC 1706 1717	tratamiento
+T91	Route 1718 1721	iv.
+T92	PROC 1725 1737	Coprocultivo
+#46	AnnotatorNotes T92	C0430414; Stool culture; Laboratory Procedure
+T93	LIVB 1763 1783	Campylobacter Jejuni
+#47	AnnotatorNotes T93	C0006819; Campylobacter jejuni; Bacterium
+T94	PROC 1794 1803	analítica
+#48	AnnotatorNotes T94	C0002778; Analysis of substances; Laboratory Procedure
+T95	PROC 1806 1816	serologías
+#49	AnnotatorNotes T95	C0036743; Serologic tests; Laboratory Procedure
+T96	LIVB 1818 1821	VHA
+T97	LIVB 1823 1826	VHB
+T98	LIVB 1829 1832	VHC
+T99	LIVB 1834 1837	VIH
+#50	AnnotatorNotes T99	C0458074; Human immunodeficiency virus (HIV) status; Finding
+T100	Neg_cue 1839 1842	sin
+T101	Negated 1843 1852	hallazgos
+T102	PROC 1867 1878	TRATAMIENTO
+#51	AnnotatorNotes T102	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T103	Route 1987 1989	IV
+T104	CHEM 1991 2005	ciprofloxacino
+#52	AnnotatorNotes T104	C0008809; ciprofloxacin; Organic Chemical · Pharmacologic Substance
+T105	Dose 2006 2011	400mg
+T106	Frequency 2011 2016	/12 h
+T107	PROC 2019 2031	Dado de alta
+#53	AnnotatorNotes T107	C0030685; Patient Discharge; Health Care Activity
+T108	Duration 2037 2044	14 días
+T109	PROC 2068 2075	ingreso
+#54	AnnotatorNotes T109	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T110	DISO 2129 2179	Toxiinfección alimentaria por Campylobacter jejuni
+T112	PROC 1197 1205	Derivado
+T114	PROC 1940 1963	tratamiento sintomático
+T115	PROC 1966 1986	antibiótico empírico
+T116	PROC 773 779	EXAMEN
+T117	PROC 2105 2116	DIAGNÓSTICO
+T118	Observation 103 110	soltero
+T119	Observation 123 145	Convive con su hermano
+T120	Quantifier_or_Qualifier 327 329	un
+T121	Quantifier_or_Qualifier 348 369	aproximadamente siete
+T123	Observation 396 417	productos patológicos
+T124	Result_or_Value 431 434	39º
+T125	Observation 452 487	mejora tras tratamiento antitérmico
+T126	Food 519 534	pollo de corral
+T127	Observation 833 855	regular estado general
+T128	Observation 857 871	normohidratado
+T129	Observation 895 920	hemodinámicamente estable
+T130	Observation 961 970	hallazgos
+T131	Observation 985 1034	Abdomen blando y depresible, globuloso, timpánico
+T134	Quantifier_or_Qualifier 1060 1081	de forma generalizada
+T135	Result_or_Value 1317 1321	12.6
+T136	Result_or_Value 1334 1340	15.000
+T137	Result_or_Value 1368 1375	180.000
+T138	Result_or_Value 1393 1397	1.24
+T139	Result_or_Value 1402 1404	20
+T140	Result_or_Value 1409 1413	57%.
+T141	Result_or_Value 1422 1425	140
+T142	Result_or_Value 1432 1434	40
+T143	Result_or_Value 1447 1451	1.15
+T144	Result_or_Value 1459 1462	138
+T145	Result_or_Value 1472 1475	3.5
+T146	Result_or_Value 1481 1483	55
+T147	Result_or_Value 1489 1491	30
+T148	Result_or_Value 1497 1500	250
+T149	Result_or_Value 1506 1509	250
+T150	Observation 1537 1546	hallazgos
+T151	Observation 1602 1621	persiste la clínica
+T152	Result_or_Value 1739 1757	resultado positivo
+T153	Observation 1843 1852	hallazgos
+T154	Observation 1924 1937	responde bien
+T155	Quantifier_or_Qualifier 1978 1986	empírico
+T156	Observation 2050 2101	evolución durante ingreso y posterior satisfactoria
+T157	Patient 77 82	Varón
+T158	Family_member 116 121	hijos
+T159	Family_member 138 145	hermano
+T160	Family_member 147 157	agricultor
+T161	History_of 600 603	HTA
+T162	History_of 606 616	dislipemia
+T163	Family_member 712 717	padre
+T164	Family_member 738 743	madre
+T166	LIVB 2159 2179	Campylobacter jejuni
+T167	Quantifier_or_Qualifier 276 288	generalizado
+T111	PROC 1686 1703	completar estudio
+T113	Observation 818 827	orientado
+T122	Observation 806 816	Consciente

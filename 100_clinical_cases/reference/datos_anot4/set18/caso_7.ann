@@ -1,0 +1,198 @@
+T1	LIVB 21 35	Paciente varón
+T2	Age 39 46	70 años
+T4	DISO 93 133	pérdida de memoria para hechos recientes
+T5	Duration 137 144	4 meses
+T7	DISO 192 205	irritabilidad
+#2	AnnotatorNotes T7	C0022107; Irritable Mood; Finding
+T8	DISO 207 215	ansiedad
+#3	AnnotatorNotes T8	C0003467; Anxiety; Mental or Behavioral Dysfunction
+T9	DISO 217 225	insomnio
+#4	AnnotatorNotes T9	C0917801; Sleeplessness; Sign or Symptom
+T10	DISO 229 260	ideación paranoide persecutoria
+T11	DISO 282 289	Fumador
+#5	AnnotatorNotes T11	C0337664; Smoker; Finding
+T12	Frequency 307 311	/día
+T13	DISO 334 373	enfermedad pulmonar obstructiva crónica
+#6	AnnotatorNotes T13	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T14	Duration 366 373	crónica
+T15	DISO 375 379	EPOC
+#7	AnnotatorNotes T15	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T17	DISO 441 462	cuadro constitucional
+T18	Duration 491 498	3 meses
+T19	DISO 502 521	esputos hemoptoicos
+#8	AnnotatorNotes T19	C0019079; Hemoptysis; Sign or Symptom
+T20	Frequency 522 533	ocasionales
+T21	DISO 553 556	tos
+#9	AnnotatorNotes T21	C0010200; Coughing; Sign or Symptom
+T22	PROC 568 586	EXPLORACIÓN FÍSICA
+#10	AnnotatorNotes T22	C0031809; Physical Examination; Health Care Activity
+T23	PROC 589 617	Examen general y neurológico
+T24	PROC 619 623	MMSE
+#11	AnnotatorNotes T24	C0451306; Mini-mental state examination; Diagnostic Procedure
+T25	PROC 625 654	Mini-Mental State Examination
+T26	DISO 676 736	defectos en orientación temporal, cálculo y memoria diferida
+T27	Neg_cue 739 750	Ausencia de
+T28	DISO 751 780	signos de irritación meníngea
+T29	Negated 751 780	signos de irritación meníngea
+T30	ANAT 782 789	Pupilas
+#12	AnnotatorNotes T30	C0034121; Pupil; Body Part, Organ, or Organ Component | C1305618; Entire pupil; Body Part, Organ, or Organ Component
+T31	PHYS 811 826	Oculomotricidad
+T32	ANAT 838 853	pares craneales
+#13	AnnotatorNotes T32	C0010268; Cranial Nerves; Body Part, Organ, or Organ Component | C1269897; Entire cranial nerve; Body Part, Organ, or Organ Component
+T33	Neg_cue 854 857	sin
+T34	DISO 858 870	alteraciones
+#14	AnnotatorNotes T34	C0012634; Disease; Disease or Syndrome
+T35	Negated 858 870	alteraciones
+T36	PHYS 872 878	Fuerza
+T37	ANAT 897 907	4 miembros
+T38	Neg_cue 909 912	Sin
+T39	DISO 913 931	déficit sensitivos
+T40	Negated 913 931	déficit sensitivos
+T41	DISO 933 984	Reflejos de estiramiento muscular (REM) hipoactivos
+T42	PHYS 1008 1034	Reflejos cutáneo-plantares
+T43	PHYS 1036 1039	RCP
+T44	DISO 1058 1080	inestabilidad postural
+T45	PHYS 1082 1088	Marcha
+T46	Neg_cue 1089 1092	sin
+T47	DISO 1093 1105	alteraciones
+#15	AnnotatorNotes T47	C0012634; Disease; Disease or Syndrome
+T48	Negated 1093 1105	alteraciones
+T49	PROC 1114 1133	exploración general
+T51	DISO 1182 1204	palidez cutáneo mucosa
+T52	DISO 1207 1218	acropaquias
+#16	AnnotatorNotes T52	C0009080; Clubbed Fingers; Anatomical Abnormality | C0029412; Osteoarthropathy, Secondary Hypertrophic; Disease or Syndrome | C0345408; Hereditary clubbing; Congenital Abnormality
+T53	PROC 1223 1244	auscultación pulmonar
+#17	AnnotatorNotes T53	C2230255; auscultation of lungs; Diagnostic Procedure
+T54	DISO 1265 1271	roncus
+#18	AnnotatorNotes T54	C0035508; Rhonchi; Finding
+T56	PROC 1289 1300	Temperatura
+T57	PROC 1303 1319	presión arterial
+T58	PROC 1331 1354	PRUEBAS COMPLEMENTARIAS
+#19	AnnotatorNotes T58	C1515980; Ancillary Study; Research Activity
+T59	PROC 1357 1366	Hemograma
+#20	AnnotatorNotes T59	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T60	DISO 1368 1401	Anemia normocítica y normocrómica
+T61	PROC 1420 1431	hemoglobina
+#21	AnnotatorNotes T61	C0518015; Hemoglobin measurement; Laboratory Procedure
+T62	PROC 1443 1459	series hemáticas
+T63	PROC 1461 1483	estudio de coagulación
+T64	PROC 1485 1502	perfil bioquímico
+T65	PROC 1504 1533	determinación de vitamina B12
+T66	PROC 1536 1548	ácido fólico
+T67	PROC 1550 1565	perfil tiroideo
+T68	PROC 1568 1581	proteinograma
+T69	PROC 1595 1598	EEG
+#22	AnnotatorNotes T69	C0013819; Electroencephalography; Diagnostic Procedure
+T70	PROC 1600 1620	electroencefalograma
+#23	AnnotatorNotes T70	C0013819; Electroencephalography; Diagnostic Procedure
+T71	DISO 1631 1673	enlentecimiento a nivel temporal bilateral
+T72	PROC 1678 1723	RMN (resonancia magnética nuclear) encefálica
+T73	ANAT 1779 1820	región medial de ambos lóbulos temporales
+T74	PROC 1834 1848	estudio de LCR
+T75	ANAT 1850 1873	líquido cefalorraquídeo
+#24	AnnotatorNotes T75	C0007806; Cerebrospinal Fluid; Body Substance
+T76	ANAT 1889 1896	células
+#25	AnnotatorNotes T76	C0007634; Cells; Cell | C1269647; Entire cell; Cell
+T77	PROC 1902 1909	glucosa
+T78	PROC 1919 1928	proteínas
+#26	AnnotatorNotes T78	C0202202; Protein measurement; Laboratory Procedure
+T79	LIVB 2009 2026	virus neurotropos
+T80	Negated 2009 2026	virus neurotropos
+T81	LIVB 2028 2032	lúes
+T82	Negated 2028 2032	lúes
+T83	LIVB 2034 2042	borrelia
+#27	AnnotatorNotes T83	C0006033; Borrelia; Bacterium
+T84	Negated 2034 2042	borrelia
+T85	LIVB 2044 2054	toxoplasma
+#28	AnnotatorNotes T85	C0040556; Toxoplasma; Eukaryote
+T86	Negated 2044 2054	toxoplasma
+T87	LIVB 2057 2067	criptococo
+#29	AnnotatorNotes T87	C0010415; Cryptococcus; Fungus
+T88	Negated 2057 2067	criptococo
+T89	Neg_cue 2075 2084	negativos
+T90	PROC 2090 2092	RX
+#30	AnnotatorNotes T90	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T91	PROC 2094 2105	radiografía
+#31	AnnotatorNotes T91	C1306645; Plain x-ray; Diagnostic Procedure | C1962945; Radiographic imaging procedure; Diagnostic Procedure
+T92	PROC 2109 2112	TAC
+#32	AnnotatorNotes T92	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T93	PROC 2114 2144	tomografía axial computarizada
+#33	AnnotatorNotes T93	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T94	ANAT 2149 2154	tórax
+#34	AnnotatorNotes T94	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T95	DISO 2169 2173	masa
+#35	AnnotatorNotes T95	C0577559; Mass of body structure; Finding
+T96	ANAT 2180 2205	lóbulo inferior izquierdo
+T97	PROC 2212 2230	estudio citológico
+T98	PROC 2240 2273	punción-aspiración con aguja fina
+T99	PROC 2275 2279	PAAF
+#36	AnnotatorNotes T99	C1510483; Fine needle aspiration biopsy; Diagnostic Procedure
+T100	DISO 2288 2317	carcinoma de células pequeñas
+#37	AnnotatorNotes T100	C0262584; Carcinoma, Small Cell; Neoplastic Process
+T101	ANAT 2364 2369	tórax
+#38	AnnotatorNotes T101	C0817096; Chest; Body Location or Region | C1269614; Entire thorax; Body Part, Organ, or Organ Component
+T102	DISO 2432 2450	cuadro neurológico
+T103	ANAT 2458 2470	respiratorio
+#39	AnnotatorNotes T103	C0035231; Respiratory Muscles; Body Part, Organ, or Organ Component | C0035237; Respiratory System; Body System
+T104	PROC 2501 2520	anticuerpos anti-Hu
+T105	PROC 2522 2548	anticuerpos antineuronales
+T106	ANAT 2553 2558	suero
+#40	AnnotatorNotes T106	C0229671; Serum; Body Substance | C0588987; Serum product; Body Substance
+T107	ANAT 2561 2564	LCR
+#41	AnnotatorNotes T107	C0007806; Cerebrospinal Fluid; Body Substance
+T108	ANAT 2566 2589	líquido cefalorraquídeo
+#42	AnnotatorNotes T108	C0007806; Cerebrospinal Fluid; Body Substance
+T109	PROC 2638 2664	tratamiento quimioterápico
+T110	Duration 2669 2680	los 3 meses
+T111	PROC 2684 2695	seguimiento
+#43	AnnotatorNotes T111	C0420316; Other follow-up; Health Care Activity
+T112	ANAT 2729 2740	neurológico
+T113	DISO 2763 2779	déficit mnésicos
+T114	PROC 2831 2842	DIAGNÓSTICO
+#44	AnnotatorNotes T114	C0011900; Diagnosis; Diagnostic Procedure
+T115	PROC 2872 2883	diagnóstico
+#45	AnnotatorNotes T115	C0011900; Diagnosis; Diagnostic Procedure
+T116	DISO 2887 2921	encefalitis límbica paraneoplásica
+#46	AnnotatorNotes T116	C0338430; Limbic Encephalitis; Disease or Syndrome
+T117	LIVB 2925 2933	paciente
+#47	AnnotatorNotes T117	C0030705; Patients; Patient or Disabled Group
+T118	DISO 2938 2976	carcinoma pulmonar de células pequeñas
+#48	AnnotatorNotes T118	C0149925; Small cell carcinoma of lung; Neoplastic Process
+T119	PROC 2979 2990	TRATAMIENTO
+#49	AnnotatorNotes T119	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T120	PROC 2993 3019	Tratamiento quimioterápico
+T121	DISO 464 479	pérdida de peso
+T122	DISO 2806 2828	síntomas psiquiátricos
+T123	PROC 1955 1999	estudios citológicos, cultivos y serológicos
+T125	Result_or_Value 293 311	40 cigarrillos/día
+T126	Observation 394 428	cambios cognitivos y psiquiátricos
+T127	Result_or_Value 483 487	8 kg
+T130	Result_or_Value 669 674	20/30
+T134	Quantifier_or_Qualifier 985 1006	de forma generalizada
+T135	Observation 1008 1052	Reflejos cutáneo-plantares (RCP) en flexión.
+T136	Quantifier_or_Qualifier 1053 1057	Leve
+T138	Quantifier_or_Qualifier 1254 1264	abundantes
+T139	Result_or_Value 1320 1328	normales
+T140	Result_or_Value 1407 1416	10.5 g/dl
+T141	Result_or_Value 1582 1590	normales
+T144	Quantifier_or_Qualifier 1887 1888	4
+T145	Result_or_Value 1910 1916	normal
+T146	Result_or_Value 1929 1949	ligeramente elevadas
+T147	Result_or_Value 2075 2084	negativos
+T148	Observation 2338 2360	hallazgos radiológicos
+T149	CONC 2394 2413	datos inmunológicos
+T150	Result_or_Value 2604 2612	positiva
+T151	Observation 2741 2755	estabilización
+T152	Patient 21 35	Paciente varón
+T153	History_of 334 373	enfermedad pulmonar obstructiva crónica
+T154	History_of 375 379	EPOC
+T155	Patient 2925 2933	paciente
+T3	PROC 59 79	ingresa para estudio
+T6	DISO 170 190	cambios conductuales
+T50	DISO 1147 1176	estado nutricional deficiente
+T55	Quantifier_or_Qualifier 1275 1287	ambos campos
+T129	Observation 1733 1758	incremento de señal en T2
+T131	Observation 2782 2798	adecuado control
+T128	Observation 790 809	iguales y reactivas
+T16	Observation 539 565	aumento de su tos habitual
+T124	Observation 872 889	Fuerza conservada

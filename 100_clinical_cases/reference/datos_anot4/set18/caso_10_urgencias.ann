@@ -1,0 +1,111 @@
+T1	Date 21 36	El día 14/02/10
+T2	Time 39 48	las 12.46
+T3	LIVB 58 63	varón
+T4	Age 67 74	32 años
+T5	DISO 79 92	palpitaciones
+#1	AnnotatorNotes T5	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T6	DISO 144 170	Síndrome ansioso depresivo
+#2	AnnotatorNotes T6	C0338908; Mixed anxiety and depressive disorder; Mental or Behavioral Dysfunction
+T7	PROC 174 177	tto
+#3	AnnotatorNotes T7	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T8	CHEM 182 192	Paroxetina
+#4	AnnotatorNotes T8	C0070122; paroxetine; Organic Chemical · Pharmacologic Substance
+T9	Neg_cue 224 226	No
+T10	DISO 243 256	muerte súbita
+#5	AnnotatorNotes T10	C0011071; Sudden death; Pathologic Function
+T11	Negated 243 256	muerte súbita
+T12	DISO 261 271	Enfermedad
+#6	AnnotatorNotes T12	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T13	Date 272 278	actual
+T14	DISO 290 316	sensación de palpitaciones
+T15	DISO 390 416	consumido alcohol y tabaco
+T16	Neg_cue 420 425	Niega
+T17	DISO 426 450	ingesta de otros tóxicos
+T18	Negated 426 450	ingesta de otros tóxicos
+T19	DISO 459 478	sensación de disnea
+T20	Neg_cue 479 482	sin
+T21	DISO 483 497	dolor torácico
+#7	AnnotatorNotes T21	C0008031; Chest Pain; Sign or Symptom
+T22	Negated 483 497	dolor torácico
+T23	Neg_cue 498 500	ni
+T24	DISO 501 519	cortejo vegetativo
+T25	Negated 501 519	cortejo vegetativo
+T26	Neg_cue 523 525	No
+T27	Negated 526 546	historia de síncopes
+T28	DISO 538 546	síncopes
+#8	AnnotatorNotes T28	C0039070; Syncope; Sign or Symptom
+T29	PROC 569 587	Exploración física
+#9	AnnotatorNotes T29	C0031809; Physical Examination; Health Care Activity
+T30	PROC 591 593	TA
+T31	PROC 607 609	Fc
+T32	PROC 619 624	SatO2
+#10	AnnotatorNotes T32	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T33	PROC 655 657	Ac
+T34	DISO 659 672	taquiarritmia
+#11	AnnotatorNotes T34	C0080203; Tachyarrhythmia; Finding
+T35	Neg_cue 673 676	sin
+T36	DISO 677 683	soplos
+#12	AnnotatorNotes T36	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T37	Negated 677 683	soplos
+T38	Neg_cue 693 696	sin
+T39	Negated 697 717	hallazgos valorables
+T40	PROC 722 745	Pruebas complementarias
+#13	AnnotatorNotes T40	C1515980; Ancillary Study; Research Activity
+T41	PROC 749 757	Rx Tórax
+#14	AnnotatorNotes T41	C0039985; Plain chest X-ray; Diagnostic Procedure
+T42	PROC 769 778	Analítica
+#15	AnnotatorNotes T42	C0002778; Analysis of substances; Laboratory Procedure
+T43	PROC 787 796	Troponina
+#16	AnnotatorNotes T43	C0523952; Troponin measurement; Laboratory Procedure
+T44	PROC 803 805	CK
+#17	AnnotatorNotes T44	C0201973; Creatine kinase measurement; Laboratory Procedure
+T45	PROC 813 816	ECG
+#18	AnnotatorNotes T45	C1623258; Electrocardiography; Diagnostic Procedure
+T46	DISO 822 829	AC x FA
+T47	PROC 850 861	TRATAMIENTO
+#19	AnnotatorNotes T47	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T48	PROC 878 881	TTO
+#20	AnnotatorNotes T48	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T49	CHEM 896 906	Flecainida
+#21	AnnotatorNotes T49	C0016229; flecainide; Organic Chemical · Pharmacologic Substance
+T50	Dose 907 913	300 mg
+T51	Route 914 918	oral
+T52	PROC 941 953	monitorizado
+#22	AnnotatorNotes T52	C1283169; Monitoring - action; Activity
+T53	Duration 987 997	unas horas
+T54	PROC 1023 1026	ECG
+#23	AnnotatorNotes T54	C1623258; Electrocardiography; Diagnostic Procedure
+T55	Date 1037 1046	el día 17
+T56	PROC 1081 1084	ECG
+#24	AnnotatorNotes T56	C1623258; Electrocardiography; Diagnostic Procedure
+T57	PROC 1087 1096	Ecocardio
+T58	PROC 1162 1165	EEF
+T59	Spec_cue 1193 1200	Posible
+T60	DISO 1201 1220	síndrome de Brugada
+#25	AnnotatorNotes T60	C1142166; Brugada Syndrome (disorder); Disease or Syndrome
+T61	Speculated 1201 1220	síndrome de Brugada
+T62	PROC 558 564	EXAMEN
+T63	Duration 323 340	hace unas 8 horas
+T64	PROC 1169 1180	DIAGNÓSTICO
+T65	Observation 352 368	estado de fiesta
+T67	Quantifier_or_Qualifier 454 458	Leve
+T68	Result_or_Value 594 606	140/60 mmHg.
+T69	Result_or_Value 610 617	140 lpm
+T70	Result_or_Value 625 629	97%.
+T71	Observation 632 651	Buen estado general
+T74	Result_or_Value 759 765	normal
+T75	Result_or_Value 779 785	normal
+T76	Result_or_Value 797 801	0,01
+T77	Result_or_Value 806 810	188.
+T78	Observation 834 837	RVM
+T79	Result_or_Value 840 847	135 x´.
+T80	Observation 967 974	estable
+T82	Result_or_Value 1098 1104	Normal
+T83	Patient 58 63	varón
+T84	History_of 144 170	Síndrome ansioso depresivo
+T85	History_of 243 256	muerte súbita
+T86	History_of 538 546	síncopes
+T87	Food 400 407	alcohol
+T66	Observation 697 717	hallazgos valorables
+T72	Observation 998 1011	revierte a RS
+T73	PROC 1049 1068	CCEE de Cardiología

@@ -1,0 +1,115 @@
+T1	DISO 21 34	Palpitaciones
+#1	AnnotatorNotes T1	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T2	DISO 86 89	HTA
+#2	AnnotatorNotes T2	C0020538; Hypertensive disease; Disease or Syndrome
+T3	PROC 93 96	tto
+#3	AnnotatorNotes T3	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T4	CHEM 101 111	Olmesartan
+#4	AnnotatorNotes T4	C1098320; olmesartan; Organic Chemical · Pharmacologic Substance
+T5	DISO 136 164	taquicardia supraventricular
+#5	AnnotatorNotes T5	C0039240; Supraventricular tachycardia; Disease or Syndrome
+T6	PROC 178 204	estudio electrofisiológico
+T7	DISO 209 219	Enfermedad
+#6	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	LIVB 230 235	Mujer
+#7	AnnotatorNotes T8	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T9	Age 239 246	60 años
+T10	DISO 257 270	palpitaciones
+#8	AnnotatorNotes T10	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T11	Duration 274 281	3 horas
+T12	PROC 309 327	Exploración física
+#9	AnnotatorNotes T12	C0031809; Physical Examination; Health Care Activity
+T13	PROC 331 333	PA
+T14	PROC 347 349	Fc
+T15	PROC 359 364	SatO2
+#10	AnnotatorNotes T15	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T16	PROC 443 445	AC
+T17	DISO 447 466	taquicardia rítmica
+T18	Neg_cue 467 470	sin
+T19	DISO 471 477	soplos
+#11	AnnotatorNotes T19	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T20	Negated 471 477	soplos
+T21	PROC 481 483	AP
+T22	ANAT 495 502	Abdomen
+#12	AnnotatorNotes T22	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T23	ANAT 505 507	EE
+T24	PROC 521 544	Pruebas complementarias
+#13	AnnotatorNotes T24	C1515980; Ancillary Study; Research Activity
+T25	PROC 548 557	Analítica
+#14	AnnotatorNotes T25	C0002778; Analysis of substances; Laboratory Procedure
+T26	PROC 560 568	Rx Tórax
+#15	AnnotatorNotes T26	C0039985; Plain chest X-ray; Diagnostic Procedure
+T27	Neg_cue 569 572	sin
+T28	DISO 573 585	alteraciones
+#16	AnnotatorNotes T28	C0012634; Disease; Disease or Syndrome
+T29	Negated 573 585	alteraciones
+T30	PROC 604 607	ECG
+#17	AnnotatorNotes T30	C1623258; Electrocardiography; Diagnostic Procedure
+T31	DISO 609 644	taquicardia rítmica de QRS estrecho
+T32	Duration 667 676	2 semanas
+T33	PROC 678 704	estudio electrofisiológico
+T34	PROC 706 709	EEF
+T35	PROC 714 725	TRATAMIENTO
+#18	AnnotatorNotes T35	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T36	Dose 769 773	6 mg
+T37	CHEM 777 786	adenosina
+#19	AnnotatorNotes T37	C0001443; adenosine; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T38	DISO 819 830	taquicardia
+#20	AnnotatorNotes T38	C0039231; Tachycardia; Finding
+T39	Dose 858 863	12 mg
+T40	CHEM 867 876	adenosina
+#21	AnnotatorNotes T40	C0001443; adenosine; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T41	DISO 898 909	taquicardia
+#22	AnnotatorNotes T41	C0039231; Tachycardia; Finding
+T42	CHEM 935 944	diltiazem
+#23	AnnotatorNotes T42	C0012373; diltiazem; Organic Chemical · Pharmacologic Substance
+T43	Route 945 947	IV
+T44	DISO 965 976	taquicardia
+#24	AnnotatorNotes T44	C0039231; Tachycardia; Finding
+T45	Duration 999 1009	30 minutos
+T46	Duration 1041 1051	unas horas
+T47	PROC 1055 1066	observación
+#25	AnnotatorNotes T47	C0302523; Observation in research; Research Activity | C0700325; Patient observation; Health Care Activity
+T48	Duration 1098 1107	2 semanas
+T49	DISO 1131 1144	palpitaciones
+#26	AnnotatorNotes T49	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T50	CHEM 1160 1170	bisoprolol
+#27	AnnotatorNotes T50	C0053799; bisoprolol; Organic Chemical · Pharmacologic Substance
+T51	DISO 1187 1198	taquicardia
+#28	AnnotatorNotes T51	C0039231; Tachycardia; Finding
+T52	Duration 1227 1235	una hora
+T53	PROC 1273 1301	ablación por radiofrecuencia
+#29	AnnotatorNotes T53	C0850292; Radiofrequency Ablation; Therapeutic or Preventive Procedure
+T54	DISO 1329 1358	Taquicardia auricular derecha
+T55	PROC 1360 1368	Ablación
+#30	AnnotatorNotes T55	C0547070; Ablation; Therapeutic or Preventive Procedure
+T56	PROC 298 304	EXAMEN
+T57	Route 795 797	IV
+T58	PROC 1079 1083	alta
+T59	Route 790 794	bolo
+T60	PROC 1305 1316	DIAGNÓSTICO
+T61	Date 220 226	actual
+T62	Result_or_Value 334 345	99/ 64 mmHg
+T63	Result_or_Value 350 357	190 lpm
+T64	Result_or_Value 365 368	95%
+T65	Observation 371 390	Buen estado general
+T66	Observation 392 406	Bien hidratada
+T67	Observation 409 419	perfundida
+T68	Observation 421 439	Eupneica en reposo
+T69	Result_or_Value 485 491	normal
+T70	Observation 509 516	anodino
+T71	Quantifier_or_Qualifier 586 600	significativas
+T72	Result_or_Value 647 653	191 x´
+T73	Observation 809 815	efecto
+T74	Quantifier_or_Qualifier 950 961	poco a poco
+T75	Observation 980 989	ralentiza
+T76	Observation 1019 1032	ritmo sinusal
+T77	Quantifier_or_Qualifier 1172 1183	poco a poco
+T78	Observation 1245 1258	ritmo sinusal
+T79	History_of 86 89	HTA
+T80	History_of 136 164	taquicardia supraventricular
+T81	Future 178 204	estudio electrofisiológico
+T82	Patient 230 235	Mujer
+T83	Observation 831 840	reaparece
+T84	Observation 910 919	reaparece
+T85	Observation 1202 1213	va frenando

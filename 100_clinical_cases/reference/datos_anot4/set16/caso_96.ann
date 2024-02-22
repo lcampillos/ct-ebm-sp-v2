@@ -1,0 +1,97 @@
+T1	DISO 21 39	Lesión excreciente
+T2	ANAT 43 57	mama izquierda
+#1	AnnotatorNotes T2	C0222601; Left breast; Body Part, Organ, or Organ Component
+T3	LIVB 80 85	Mujer
+#2	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 89 96	80 años
+T5	LIVB 110 116	marido
+#3	AnnotatorNotes T5	C0242664; husband; Family Group
+T6	DISO 121 131	Enfermedad
+#4	AnnotatorNotes T6	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T7	Date 132 138	actual
+T8	Duration 170 178	dos años
+T9	PROC 206 224	Exploración física
+#5	AnnotatorNotes T9	C0031809; Physical Examination; Health Care Activity
+T10	DISO 228 251	Masa sólida excreciente
+T11	ANAT 275 310	cuadrante interno de mama izquierda
+T12	DISO 350 356	ulcera
+#6	AnnotatorNotes T12	C0041582; Ulcer; Pathologic Function | C0234233; Sore to touch; Sign or Symptom | C3887532; Ulceration; Pathologic Function
+T13	ANAT 360 364	piel
+#7	AnnotatorNotes T13	C1123023; Skin; Body System | C1278993; Entire skin; Body System
+T14	ANAT 370 391	complejo areola-pezón
+T15	PROC 396 419	Pruebas complementarias
+#8	AnnotatorNotes T15	C1515980; Ancillary Study; Research Activity
+T16	PROC 423 433	Mamografía
+#9	AnnotatorNotes T16	C0024671; Mammography; Diagnostic Procedure
+T17	DISO 435 449	cáncer de mama
+#10	AnnotatorNotes T17	C0006142; Malignant neoplasm of breast; Neoplastic Process | C0678222; Breast Carcinoma; Neoplastic Process
+T18	PROC 478 484	BIRADS
+T19	PROC 490 523	Ecografía axilar y mama bilateral
+T20	Neg_cue 525 533	descarta
+T21	DISO 534 544	adenopatía
+#11	AnnotatorNotes T21	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T22	Negated 534 544	adenopatía
+T24	Negated 547 576	afectación mama contralateral
+T25	PROC 580 601	BAG de mama izquierda
+T26	DISO 603 624	Carcinoma Infiltrante
+#12	AnnotatorNotes T26	C1334274; Invasive Carcinoma; Neoplastic Process
+T27	PROC 629 635	BIRADS
+T28	PROC 640 666	Estudio inmunohistoquímico
+T29	PROC 733 745	índice Ki-67
+T30	PROC 755 759	CK19
+T31	PROC 776 796	TAC toraco-abdominal
+#13	AnnotatorNotes T31	C2521320; Imaging @ Anatomical Regions @ Computerized Tomography (CT Scan) @ Chest and Abdomen; Diagnostic Procedure
+T32	PROC 798 809	RMN craneal
+T33	PROC 811 827	gammagrafía ósea
+#14	AnnotatorNotes T33	C0203668; Radioisotope scan of bone; Diagnostic Procedure | C3889015; Bone scintigraphy; Diagnostic Procedure
+T34	Neg_cue 829 837	descarta
+T35	DISO 838 860	enfermedad metastásica
+#15	AnnotatorNotes T35	C0341683; Hydatid cyst of kidney; Disease or Syndrome
+T36	Negated 838 860	enfermedad metastásica
+T37	PROC 864 875	TRATAMIENTO
+#16	AnnotatorNotes T37	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T38	PROC 903 914	mastectomía
+#17	AnnotatorNotes T38	C0024881; Mastectomy; Therapeutic or Preventive Procedure
+T39	Negated 903 914	mastectomía
+T40	LIVB 923 931	paciente
+#18	AnnotatorNotes T40	C0030705; Patients; Patient or Disabled Group
+T41	Neg_cue 932 939	rechaza
+T42	PROC 940 963	intervención quirúrgica
+#19	AnnotatorNotes T42	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T43	Negated 940 963	intervención quirúrgica
+T44	Date 964 984	en el momento actual
+T45	PROC 998 1025	hormonoterapia neoadyuvante
+T46	CHEM 1030 1038	Letrozol
+#20	AnnotatorNotes T46	C0246421; letrozole; Organic Chemical · Pharmacologic Substance
+T47	Frequency 1045 1050	/24 h
+T48	PROC 1062 1070	revisión
+#21	AnnotatorNotes T48	C0558347; Surgical revision; Therapeutic or Preventive Procedure | C1522577; follow-up; Health Care Activity
+T49	Duration 1074 1081	2 meses
+T50	Speculated 1095 1126	otras alternativas terapéuticas
+T51	DISO 1154 1171	Carcinoma de mama
+#22	AnnotatorNotes T51	C0678222; Breast Carcinoma; Neoplastic Process
+T53	PROC 195 201	EXAMEN
+T54	PROC 668 707	Receptores de estrógeno y progesterona:
+T55	Dose 1039 1045	2'5 mg
+T56	PROC 1130 1141	DIAGNÓSTICO
+T57	Observation 98 117	Vive con su marido.
+T58	Result_or_Value 255 271	5 cm de diámetro
+T59	Quantifier_or_Qualifier 312 324	polilobulada
+T60	Observation 329 345	aspecto tortuoso
+T61	Result_or_Value 485 486	5
+T63	Quantifier_or_Qualifier 625 627	G1
+T64	Result_or_Value 635 637	-6
+T65	Result_or_Value 708 715	+80-90%
+T66	Result_or_Value 747 754	15-20%.
+T67	Result_or_Value 760 761	+
+T68	Quantifier_or_Qualifier 1172 1191	localmente avanzado
+T69	Patient 80 85	Mujer
+T70	Family_member 110 116	marido
+T72	Future 903 914	mastectomía
+T73	Patient 923 931	paciente
+T74	Future 940 963	intervención quirúrgica
+T71	ANAT 152 166	mama izquierda
+T52	DISO 142 148	lesión
+T23	Observation 547 557	afectación
+T62	ANAT 558 576	mama contralateral
+T75	Future 1062 1070	revisión

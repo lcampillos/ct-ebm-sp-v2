@@ -1,0 +1,250 @@
+T1	DISO 21 33	Dolor costal
+#1	AnnotatorNotes T1	C0574068; Rib pain; Sign or Symptom
+T2	DISO 36 43	vómitos
+#2	AnnotatorNotes T2	C0042963; Vomiting; Sign or Symptom
+T3	Neg_cue 95 98	Sin
+T4	DISO 99 122	alergias medicamentosas
+#3	AnnotatorNotes T4	C0013182; Drug Allergy; Pathologic Function
+T5	Negated 99 132	alergias medicamentosas conocidas
+T6	Neg_cue 133 135	ni
+T7	Negated 136 159	antecedentes familiares
+T8	DISO 174 182	Fumadora
+#4	AnnotatorNotes T8	C0337664; Smoker; Finding
+T9	Frequency 207 218	a la semana
+T10	Neg_cue 222 224	No
+T11	Observation 225 233	bebedora
+T12	Negated 225 233	bebedora
+T13	DISO 238 248	Enfermedad
+#6	AnnotatorNotes T13	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T14	LIVB 259 264	Mujer
+#7	AnnotatorNotes T14	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T15	Age 268 275	77 años
+T16	DISO 315 343	dolor en hipocondrio derecho
+#8	AnnotatorNotes T16	C0235299; Right upper quadrant pain; Sign or Symptom | C0578057; Right hypochondrial pain; Sign or Symptom
+T17	Date 347 354	semanas
+T18	ANAT 396 403	espalda
+#9	AnnotatorNotes T18	C0004600; Back; Body Location or Region | C1281593; Entire back (surface region); Body Location or Region | C1995000; Back structure, excluding neck; Body Location or Region
+T19	DISO 417 433	vómitos biliosos
+#10	AnnotatorNotes T19	C0232599; Vomiting bile; Finding
+T20	Time 434 448	postprandiales
+T21	DISO 450 457	astenia
+#11	AnnotatorNotes T21	C0004093; Asthenia; Sign or Symptom
+T22	DISO 460 475	pérdida de peso
+#12	AnnotatorNotes T22	C1262477; Weight decreased; Finding
+T23	Neg_cue 476 478	no
+T24	Negated 479 491	cuantificada
+T25	Neg_cue 493 495	No
+T26	DISO 505 511	fiebre
+#13	AnnotatorNotes T26	C0015967; Fever; Sign or Symptom
+T27	Negated 505 511	fiebre
+T28	DISO 513 520	coluria
+#14	AnnotatorNotes T28	C0159076; Biliuria; Finding
+T29	Negated 513 520	coluria
+T30	DISO 523 529	acolia
+#15	AnnotatorNotes T30	C0948198; Acholia; Disease or Syndrome | C2675627; Acholic stool; Finding
+T31	Negated 523 529	acolia
+T32	PROC 585 594	analgesia
+#16	AnnotatorNotes T32	C3202977; Analgesia; Therapeutic or Preventive Procedure
+T33	DISO 657 669	leucocitosis
+#17	AnnotatorNotes T33	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T34	DISO 672 692	hipertransaminasemia
+#18	AnnotatorNotes T34	C0438717; Transaminases increased; Finding | C2242708; Hypertransaminasaemia; Finding
+T35	PROC 714 733	ecografía abdominal
+#19	AnnotatorNotes T35	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T36	PROC 736 742	EXAMEN
+#20	AnnotatorNotes T36	C0031809; Physical Examination; Health Care Activity
+T37	PROC 747 765	Exploración física
+#21	AnnotatorNotes T37	C0031809; Physical Examination; Health Care Activity
+T38	PROC 976 992	tensión arterial
+T39	PROC 1022 1041	frecuencia cardiaca
+T40	DISO 1065 1072	Afebril
+#22	AnnotatorNotes T40	C0277797; Apyrexial; Finding
+T41	Negated 1065 1072	Afebril
+T42	PROC 1074 1095	Saturación de oxígeno
+#23	AnnotatorNotes T42	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T43	PROC 1109 1132	Exploración neurológica
+T44	PROC 1133 1140	Glasgow
+T45	Neg_cue 1177 1179	No
+T46	DISO 1180 1197	pérdida de fuerza
+#24	AnnotatorNotes T46	C3714552; Weakness; Sign or Symptom
+T47	Negated 1180 1197	pérdida de fuerza
+T48	Neg_cue 1198 1200	ni
+T49	DISO 1201 1212	parestesias
+#25	AnnotatorNotes T49	C0030554; Paresthesia; Disease or Syndrome
+T50	Negated 1201 1212	parestesias
+T51	Neg_cue 1302 1310	negativo
+T52	Neg_cue 1312 1314	No
+T53	DISO 1315 1324	dismetría
+#26	AnnotatorNotes T53	C0234162; Cerebellar Dysmetria; Finding
+T54	Negated 1315 1324	dismetría
+T55	Neg_cue 1326 1328	No
+T56	DISO 1339 1360	focalidad neurológica
+#27	AnnotatorNotes T56	C1848821; Focal neurologic signs; Finding
+T57	PROC 1364 1395	Auscultación cardiorespiratoria
+T58	Neg_cue 1425 1428	sin
+T59	DISO 1429 1435	soplos
+#28	AnnotatorNotes T59	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T60	Negated 1429 1435	soplos
+T61	Neg_cue 1474 1476	no
+T62	DISO 1477 1509	ruidos patológicos sobreañadidos
+T63	Negated 1477 1509	ruidos patológicos sobreañadidos
+T64	Neg_cue 1541 1543	no
+T65	DISO 1544 1567	doloroso a la palpación
+T66	Negated 1544 1567	doloroso a la palpación
+T67	Neg_cue 1569 1572	sin
+T68	DISO 1573 1604	signos de irritación peritoneal
+T69	Negated 1573 1604	signos de irritación peritoneal
+T70	Neg_cue 1605 1607	ni
+T71	DISO 1608 1615	ascitis
+#29	AnnotatorNotes T71	C0003962; Ascites; Disease or Syndrome
+T72	Negated 1608 1615	ascitis
+T73	Neg_cue 1617 1619	No
+T74	DISO 1630 1635	masas
+#30	AnnotatorNotes T74	C0577559; Mass of body structure; Finding
+T75	Negated 1630 1635	masas
+T76	Neg_cue 1636 1638	ni
+T77	DISO 1639 1647	megalias
+T78	Negated 1639 1647	megalias
+T79	DISO 1649 1657	Blumberg
+#31	AnnotatorNotes T79	C0436944; O/E - rebound tenderness; Finding
+T80	Negated 1649 1657	Blumberg
+T81	DISO 1660 1666	Murphy
+T82	Negated 1660 1666	Murphy
+T83	Neg_cue 1667 1675	negativo
+T84	ANAT 1711 1734	Extremidades inferiores
+#32	AnnotatorNotes T84	C0023216; Lower Extremity; Body Part, Organ, or Organ Component
+T85	Neg_cue 1735 1738	sin
+T86	DISO 1739 1745	edemas
+#33	AnnotatorNotes T86	C0013604; Edema; Pathologic Function
+T87	Negated 1739 1745	edemas
+T88	Neg_cue 1746 1748	ni
+T89	DISO 1759 1784	trombosis venosa profunda
+#34	AnnotatorNotes T89	C0149871; Deep Vein Thrombosis; Disease or Syndrome
+T90	PROC 1822 1845	Pruebas complementarias
+#35	AnnotatorNotes T90	C1515980; Ancillary Study; Research Activity
+T91	PROC 1849 1859	Bioquímica
+#36	AnnotatorNotes T91	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T92	PROC 1861 1868	glucosa
+T93	PROC 1880 1883	GPT
+#37	AnnotatorNotes T93	C0201836; Alanine aminotransferase measurement; Laboratory Procedure
+T94	PROC 1888 1901	función renal
+T95	PROC 1903 1914	bilirrubina
+#38	AnnotatorNotes T95	C0863174; Blood bilirubin measurement; Laboratory Procedure
+T96	PROC 1916 1923	amilasa
+#39	AnnotatorNotes T96	C0201883; Amylase measurement; Laboratory Procedure
+T97	PROC 1942 1951	Hemograma
+#40	AnnotatorNotes T97	C0009555; Complete Blood Count; Laboratory Procedure | C0200631; Complete blood count without differential; Laboratory Procedure | C0852571; Blood counts NEC; Laboratory Procedure
+T98	Neg_cue 1953 1955	no
+T99	DISO 1956 1968	leucocitosis
+#41	AnnotatorNotes T99	C0023518; Leukocytosis; Disease or Syndrome | C0750426; White blood cell count increased (lab result); Finding
+T100	Negated 1956 1968	leucocitosis
+T101	PROC 1970 1981	hemoglobina
+#42	AnnotatorNotes T101	C0518015; Hemoglobin measurement; Laboratory Procedure
+T102	PROC 1993 2002	plaquetas
+T103	PROC 2013 2024	Coagulación
+#43	AnnotatorNotes T103	C0441509; Coagulation procedure; Therapeutic or Preventive Procedure
+T104	PROC 2036 2055	Ecografía abdominal
+#44	AnnotatorNotes T104	C0203464; Ultrasonography of abdomen; Diagnostic Procedure
+T105	DISO 2057 2070	masa hepática
+#45	AnnotatorNotes T105	C0240225; Liver mass; Disease or Syndrome
+T106	ANAT 2074 2088	segmentos V-VI
+T107	ANAT 2124 2139	vesícula biliar
+#46	AnnotatorNotes T107	C0016976; Gallbladder; Body Part, Organ, or Organ Component | C1269001; Entire gallbladder; Body Part, Organ, or Organ Component
+T108	Observation 2149 2160	efecto masa
+T109	ANAT 2167 2186	vía biliar proximal
+T110	ANAT 2189 2199	vena porta
+#47	AnnotatorNotes T110	C0032718; Portal vein structure; Body Part, Organ, or Organ Component | C1281393; Entire trunk of portal vein; Body Part, Organ, or Organ Component | C1305775; Entire portal vein; Body Part, Organ, or Organ Component
+T111	PROC 2203 2206	RMN
+#48	AnnotatorNotes T111	C0024485; Magnetic Resonance Imaging; Diagnostic Procedure
+T112	PROC 2209 2222	TAC abdominal
+#49	AnnotatorNotes T112	C0412620; CT of abdomen; Diagnostic Procedure
+T113	DISO 2238 2264	masa hipodensa infiltrante
+T114	ANAT 2283 2298	vesícula biliar
+#50	AnnotatorNotes T114	C0016976; Gallbladder; Body Part, Organ, or Organ Component | C1269001; Entire gallbladder; Body Part, Organ, or Organ Component
+T115	Spec_cue 2304 2319	impresionaba de
+T116	DISO 2320 2339	neoplasia vesicular
+T117	Speculated 2320 2339	neoplasia vesicular
+T118	PROC 2395 2402	Biopsia
+#51	AnnotatorNotes T118	C0005558; Biopsy; Diagnostic Procedure
+T119	DISO 2404 2438	carcinoma de vía y vesícula biliar
+T120	PROC 2442 2453	TRATAMIENTO
+#52	AnnotatorNotes T120	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T121	PROC 2470 2490	Ingreso hospitalario
+#53	AnnotatorNotes T121	C0184666; Hospital admission; Health Care Activity
+T122	LIVB 2497 2505	paciente
+#54	AnnotatorNotes T122	C0030705; Patients; Patient or Disabled Group
+T123	PROC 2509 2520	Tratamiento
+#55	AnnotatorNotes T123	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T124	PROC 2594 2613	control sintomático
+T125	PROC 2616 2634	terapia esteroidea
+T126	Spec_cue 2648 2658	hipotética
+T127	DISO 2659 2670	obstrucción
+#56	AnnotatorNotes T127	C0028778; Obstruction; Pathologic Function
+T128	Speculated 2659 2670	obstrucción
+T129	Spec_cue 2672 2679	posible
+T130	DISO 2680 2692	complicación
+#57	AnnotatorNotes T130	C0009566; Complication; Pathologic Function
+T131	Speculated 2680 2709	complicación de la enfermedad
+T132	DISO 2699 2709	enfermedad
+#58	AnnotatorNotes T132	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T133	Spec_cue 2711 2724	se plantearía
+T134	PROC 2725 2755	colocar un stent de vía biliar
+T135	Speculated 2725 2755	colocar un stent de vía biliar
+T136	DISO 2783 2817	Carcinoma de vía y vesícula biliar
+T137	PROC 2759 2770	DIAGNÓSTICO
+T138	PROC 555 582	pautaron medidas higiénicas
+#59	AnnotatorNotes T138	C0935576; treatment guideline; Therapeutic or Preventive Procedure
+T139	Negated 1339 1360	focalidad neurológica
+T140	ANAT 1513 1520	Abdomen
+T141	ANAT 1214 1221	Pupilas
+T142	ANAT 1148 1163	Pares craneales
+T143	Negated 1759 1784	trombosis venosa profunda
+T144	Date 249 255	actual
+T145	Observation 795 805	consciente
+T146	Observation 807 838	orientada temporo-espacialmente
+T147	PHYS 908 913	habla
+T148	PHYS 1045 1052	latidos
+T149	PHYS 1786 1792	Pulsos
+T150	Speculated 2345 2390	afectación ganglionar local y órganos vecinos
+T151	DISO 2345 2390	afectación ganglionar local y órganos vecinos
+T152	PHYS 1263 1292	movimientos oculares externos
+T154	Negated 1294 1301	Romberg
+T155	PROC 607 614	estudio
+T156	Result_or_Value 191 218	2-3 cigarrillos a la semana
+T157	Observation 384 403	irradiado a espalda
+T158	Quantifier_or_Qualifier 479 491	cuantificada
+T159	Quantifier_or_Qualifier 652 656	leve
+T160	Observation 769 793	Aceptable estado general
+T161	Observation 841 853	colaboradora
+T162	Observation 855 869	Bien hidratada
+T163	Observation 872 882	perfundida
+T164	Observation 884 892	Eupneica
+T165	Quantifier_or_Qualifier 893 902	en reposo
+T166	Observation 917 924	Estable
+T167	Result_or_Value 1008 1019	130/78 mmHg
+T168	Result_or_Value 1042 1064	73 latidos por minuto.
+T169	Quantifier_or_Qualifier 1096 1101	basal
+T170	Result_or_Value 1102 1106	98%.
+T171	Result_or_Value 1141 1146	15/15
+T172	Observation 1148 1175	Pares craneales conservados
+T173	Observation 1214 1248	Pupilas isocóricas normorreactivas
+T174	Observation 1400 1424	tonos cardiacos rítmicos
+T175	Observation 1437 1472	Conservación del murmullo vesicular
+T176	Observation 1521 1527	blando
+T177	Observation 1529 1539	depresible
+T178	Observation 1677 1707	Ruidos hidroaéreos conservados
+T179	Observation 1786 1817	Pulsos simétricos y conservados
+T180	Result_or_Value 1869 1878	135 mg/dL
+T181	Result_or_Value 1884 1886	88
+T182	Result_or_Value 1982 1991	13.5 gr/L
+T183	Result_or_Value 2003 2010	261000.
+T184	Result_or_Value 2025 2032	anodina
+T185	Observation 2090 2110	bordes mal definidos
+T187	Quantifier_or_Qualifier 2367 2372	local
+T188	History_of 99 122	alergias medicamentosas
+T189	Patient 259 264	Mujer
+T190	Future 714 733	ecografía abdominal
+T191	Patient 2497 2505	paciente
+T153	DISO 1294 1301	Romberg
+T192	Result_or_Value 1932 1938	normal
+T186	Quantifier_or_Qualifier 2178 2186	proximal

@@ -1,0 +1,184 @@
+T1	DISO 21 56	Edemas en ambos miembros inferiores
+#1	AnnotatorNotes T1	C5230913; Bilateral lower limb edema; Pathologic Function
+T2	DISO 72 78	disnea
+#2	AnnotatorNotes T2	C0013404; Dyspnea; Sign or Symptom
+T3	LIVB 101 106	Mujer
+#3	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 110 117	61 años
+T5	Neg_cue 149 151	No
+T6	DISO 152 175	alergias medicamentosas
+#4	AnnotatorNotes T6	C0013182; Drug Allergy; Pathologic Function
+T7	Negated 152 175	alergias medicamentosas
+T8	Neg_cue 179 181	No
+T9	Negated 182 215	factores de riesgo cardiovascular
+T10	DISO 182 215	factores de riesgo cardiovascular
+T12	DISO 295 307	Exalcohólica
+#6	AnnotatorNotes T12	C0337679; Ex-drinker; Finding
+T13	DISO 311 328	EPOC enfisematoso
+T14	PROC 329 333	GOLD
+T15	PROC 339 370	tratamiento con O2 domiciliario
+T16	DEVI 372 383	inhaladores
+#7	AnnotatorNotes T16	C0021461; Inhaler; Medical Device
+T17	CHEM 387 398	Indacaterol
+#8	AnnotatorNotes T17	C1722260; indacaterol; Organic Chemical · Pharmacologic Substance
+T18	CHEM 399 412	Glicopirronio
+T19	CHEM 415 425	salbutamol
+#9	AnnotatorNotes T19	C0001927; albuterol; Organic Chemical · Pharmacologic Substance
+T20	Spec_cue 427 438	Sospecha de
+T22	Speculated 439 465	incumplimiento terapéutico
+T23	Neg_cue 469 471	No
+T24	Negated 472 509	otras alteraciones médico–quirúrgicas
+T25	DISO 478 509	alteraciones médico–quirúrgicas
+T26	DISO 525 535	Enfermedad
+#10	AnnotatorNotes T26	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T27	Date 536 542	actual
+T28	PROC 554 562	consulta
+#11	AnnotatorNotes T28	C0009818; Consultation; Health Care Activity
+T29	DISO 588 623	edemas en ambos miembros inferiores
+#12	AnnotatorNotes T29	C5230913; Bilateral lower limb edema; Pathologic Function
+T30	DISO 639 645	disnea
+#13	AnnotatorNotes T30	C0013404; Dyspnea; Sign or Symptom
+T31	Neg_cue 652 655	sin
+T32	DISO 656 692	síntomas de reagudización infecciosa
+T33	Negated 656 692	síntomas de reagudización infecciosa
+T34	Neg_cue 693 695	ni
+T35	DISO 696 710	dolor torácico
+#14	AnnotatorNotes T35	C0008031; Chest Pain; Sign or Symptom
+T36	Negated 696 710	dolor torácico
+T37	Duration 726 734	4-5 días
+T39	DISO 785 788	tos
+#15	AnnotatorNotes T39	C0010200; Coughing; Sign or Symptom
+T41	PROC 830 841	tratamiento
+#16	AnnotatorNotes T41	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T42	CHEM 846 856	mucolítico
+#17	AnnotatorNotes T42	C0026698; mucolytic agents; Pharmacologic Substance
+T43	Neg_cue 860 865	Niega
+T44	DISO 866 892	autoescucha de sibilancias
+T45	Negated 866 892	autoescucha de sibilancias
+T46	DISO 895 922	disnea paroxística nocturna
+#18	AnnotatorNotes T46	C1956415; Paroxysmal nocturnal dyspnea; Disease or Syndrome
+T47	Negated 895 922	disnea paroxística nocturna
+T48	PROC 937 955	Exploración física
+#19	AnnotatorNotes T48	C0031809; Physical Examination; Health Care Activity
+T49	DISO 1052 1073	Ingurgitación yugular
+#20	AnnotatorNotes T49	C0425687; Jugular venous engorgement; Finding
+T50	Neg_cue 1075 1077	No
+T51	DISO 1078 1086	cianosis
+#21	AnnotatorNotes T51	C0010520; Cyanosis; Sign or Symptom
+T52	Negated 1078 1086	cianosis
+T53	DISO 1088 1097	Taquipnea
+#22	AnnotatorNotes T53	C0231835; Tachypnea; Finding
+T54	PROC 1110 1142	Auscultación cardiorrespiratoria
+T55	DISO 1157 1173	roncus dispersos
+T56	DISO 1211 1257	Disminución generalizada de murmullo vesicular
+T57	ANAT 1261 1268	Abdomen
+#23	AnnotatorNotes T57	C0000726; Abdomen; Body Location or Region | C1281594; Entire abdomen; Body Part, Organ, or Organ Component
+T58	DISO 1270 1292	hepatomegalia dolorosa
+#24	AnnotatorNotes T58	C0495672; Hepatomegaly, not elsewhere classified; Pathologic Function
+T59	Neg_cue 1293 1296	sin
+T60	Negated 1297 1314	signos de ascitis
+T61	DISO 1307 1314	ascitis
+#25	AnnotatorNotes T61	C0003962; Ascites; Disease or Syndrome
+T62	PROC 1319 1342	Pruebas complementarias
+#26	AnnotatorNotes T62	C1515980; Ancillary Study; Research Activity
+T63	PROC 1346 1355	Analítica
+#27	AnnotatorNotes T63	C0002778; Analysis of substances; Laboratory Procedure
+T64	PROC 1370 1376	proBNP
+T65	DISO 1384 1396	macrocitosis
+#28	AnnotatorNotes T65	C0085662; Macrocytosis; Disease or Syndrome | C2004480; Macrocytosis (morphologic abnormality); Cell or Molecular Dysfunction
+T66	Neg_cue 1397 1400	sin
+T67	DISO 1401 1407	anemia
+#29	AnnotatorNotes T67	C0002871; Anemia; Disease or Syndrome
+T68	Negated 1401 1407	anemia
+T69	PROC 1411 1428	Radiografía tórax
+T70	DISO 1430 1443	cardiomegalia
+#30	AnnotatorNotes T70	C0018800; Cardiomegaly; Finding
+T71	DISO 1448 1489	infiltrado intersticial bilateral bibasal
+T72	PROC 1493 1496	ECG
+#31	AnnotatorNotes T72	C1623258; Electrocardiography; Diagnostic Procedure
+T73	DISO 1498 1530	taquicardia auricular multifocal
+#32	AnnotatorNotes T73	C0221158; Multifocal atrial tachycardia; Finding
+T74	DISO 1532 1566	bloqueo incompleto de rama derecha
+T76	PROC 1606 1617	TRATAMIENTO
+#33	AnnotatorNotes T76	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T77	PROC 1684 1695	Tratamiento
+#34	AnnotatorNotes T77	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T78	CHEM 1700 1710	furosemida
+#35	AnnotatorNotes T78	C0016860; furosemide; Organic Chemical · Pharmacologic Substance
+T79	Neg_cue 1712 1726	desapareciendo
+T80	DISO 1731 1737	edemas
+#36	AnnotatorNotes T80	C0013604; Edema; Pathologic Function
+T81	Negated 1731 1737	edemas
+T82	DISO 1753 1759	disnea
+#37	AnnotatorNotes T82	C0013404; Dyspnea; Sign or Symptom
+T83	Duration 1766 1772	semana
+T85	PROC 1860 1871	tratamiento
+#39	AnnotatorNotes T85	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T86	PROC 1949 1964	ecocardiografía
+#40	AnnotatorNotes T86	C0013516; Echocardiography; Diagnostic Procedure
+T87	DISO 1996 2029	dilatación del ventrículo derecho
+T88	PHYS 2034 2048	contractilidad
+T89	DISO 2062 2083	hipertensión pulmonar
+#41	AnnotatorNotes T89	C0020542; Pulmonary Hypertension; Pathologic Function
+T90	Neg_cue 2091 2094	sin
+T91	DISO 2095 2114	derrame pericárdico
+#42	AnnotatorNotes T91	C0031039; Pericardial effusion; Disease or Syndrome | C0349077; Pericardial effusion - noninflammatory; Pathologic Function
+T92	Negated 2095 2114	derrame pericárdico
+T93	Neg_cue 2116 2118	No
+T94	DISO 2119 2156	alteraciones del ventrículo izquierdo
+T95	Negated 2119 2156	alteraciones del ventrículo izquierdo
+T96	PROC 2175 2186	diagnóstico
+#43	AnnotatorNotes T96	C0011900; Diagnosis; Diagnostic Procedure
+T97	DISO 2190 2203	COR pulmonale
+#44	AnnotatorNotes T97	C0034072; Cor pulmonale; Disease or Syndrome
+T98	PROC 2205 2213	se trata
+T99	CHEM 2218 2233	espironolactona
+#45	AnnotatorNotes T99	C0037982; spironolactone; Organic Chemical · Pharmacologic Substance
+T100	CHEM 2236 2246	carvedilol
+#46	AnnotatorNotes T100	C0054836; carvedilol; Organic Chemical · Pharmacologic Substance
+T101	DISO 2275 2279	EPOC
+#47	AnnotatorNotes T101	C0024117; Chronic Obstructive Airway Disease; Disease or Syndrome
+T102	DISO 2284 2297	COR Pulmonale
+#48	AnnotatorNotes T102	C0034072; Cor pulmonale; Disease or Syndrome
+T103	PROC 926 932	EXAMEN
+T105	CHEM 1798 1808	medicación
+T106	PROC 2251 2262	DIAGNÓSTICO
+T107	Negated 1099 1106	Afebril
+T109	Quantifier_or_Qualifier 228 234	activa
+T111	Result_or_Value 274 291	40 paquetes – año
+T112	Observation 439 465	incumplimiento terapéutico
+T114	Quantifier_or_Qualifier 646 651	basal
+T115	Observation 959 978	Buen estado general
+T116	Observation 1004 1016	colaboradora
+T117	Observation 1018 1032	Normohidratada
+T118	Observation 1035 1050	normoperfundida
+T119	Observation 1176 1209	aumento del segundo tono cardíaco
+T120	Observation 1357 1376	elevación de proBNP
+T121	Quantifier_or_Qualifier 1379 1383	leve
+T122	Quantifier_or_Qualifier 1596 1604	aisladas
+T123	Observation 1740 1749	mejorando
+T124	Observation 1786 1808	abandono de medicación
+T125	Observation 1827 1845	abandono de tabaco
+T126	Observation 1890 1902	cumplimiento
+T127	Quantifier_or_Qualifier 1987 1995	moderada
+T128	Observation 2034 2059	contractilidad conservada
+T129	Quantifier_or_Qualifier 2084 2090	severa
+T130	Patient 101 106	Mujer
+T131	History_of 152 175	alergias medicamentosas
+T132	History_of 295 307	Exalcohólica
+T134	Observation 61 68	aumento
+T108	CONC 236 273	Índice de consumo acumulado de tabaco
+T110	Result_or_Value 334 335	B
+T21	Observation 628 635	aumento
+T38	Observation 753 772	recorte de diuresis
+T113	Observation 774 781	aumento
+T40	Observation 791 818	dificultad de expectoración
+T133	Observation 980 990	consciente
+T135	Observation 992 1001	orientada
+T75	DISO 1568 1595	Extrasístoles ventriculares
+T84	Observation 1774 1781	recaída
+T137	PROC 1936 1946	valoración
+T11	DISO 219 227	Fumadora
+T139	History_of 219 227	Fumadora
+T136	DISO 1099 1106	Afebril
+T140	PHYS 1188 1209	segundo tono cardíaco

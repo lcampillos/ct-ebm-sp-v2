@@ -1,0 +1,109 @@
+T1	PROC 49 77	estudio de extensión abierto
+T2	LIVB 83 92	pacientes
+#1	AnnotatorNotes T2	C0030705; Patients; Patient or Disabled Group
+T3	PROC 174 220	Estudio de extensión abierta (OLE) de fase III
+T4	PROC 226 246	evaluar la seguridad
+T5	PROC 253 279	administración intravítrea
+T6	Route 268 279	intravítrea
+T7	CHEM 283 301	avacincaptad pegol
+T8	CHEM 303 331	inhibidor del complemento C5
+T9	LIVB 336 345	pacientes
+#2	AnnotatorNotes T9	C0030705; Patients; Patient or Disabled Group
+T10	DISO 350 368	atrofia geográfica
+#3	AnnotatorNotes T10	C1536085; Geographic Atrophy; Disease or Syndrome
+T11	PROC 403 422	estudio de fase III
+T12	DISO 465 484	Atrofia greográfica
+T13	DISO 511 529	Atrofia geográfica
+#4	AnnotatorNotes T13	C1536085; Geographic Atrophy; Disease or Syndrome
+T14	LIVB 556 588	Pacientes masculinos o femeninos
+T15	Age 592 605	50 años o más
+T16	PROC 606 620	diagnosticados
+#5	AnnotatorNotes T16	C0011900; Diagnosis; Diagnostic Procedure
+T17	DISO 625 627	AG
+T18	ANAT 651 656	fóvea
+#6	AnnotatorNotes T18	C0450290; Entire fovea centralis; Body Part, Organ, or Organ Component | C0836913; Fossa; Body Space or Junction
+T19	PROC 712 718	visita
+T20	Date 723 729	Mes 24
+T21	PROC 736 747	tratamiento
+#7	AnnotatorNotes T21	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T22	PROC 797 808	tratamiento
+#8	AnnotatorNotes T22	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T23	CHEM 813 831	avacincaptad pegol
+T24	CHEM 834 838	Sham
+T25	PROC 883 892	protocolo
+#9	AnnotatorNotes T25	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T26	LIVB 963 972	pacientes
+#10	AnnotatorNotes T26	C0030705; Patients; Patient or Disabled Group
+T27	PROC 1001 1037	consentimiento informado por escrito
+T28	PROC 1129 1136	visitas
+T29	Duration 1156 1168	los 18 meses
+T30	LIVB 1211 1220	pacientes
+#11	AnnotatorNotes T30	C0030705; Patients; Patient or Disabled Group
+T31	Neg_cue 1221 1223	no
+T32	Negated 1230 1255	elegibles para el estudio
+T33	LIVB 1266 1274	paciente
+#12	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	Neg_cue 1275 1277	no
+T35	Negated 1278 1297	completó el estudio
+T36	PROC 1326 1332	visita
+T37	Date 1337 1343	mes 24
+T38	PROC 1347 1358	tratamiento
+#13	AnnotatorNotes T38	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T39	CHEM 1379 1397	avacincaptad pegol
+T40	CHEM 1400 1404	Sham
+T41	LIVB 1414 1423	pacientes
+#14	AnnotatorNotes T41	C0030705; Patients; Patient or Disabled Group
+T42	PROC 1441 1458	retiró el fármaco
+T43	DISO 1498 1500	EA
+#15	AnnotatorNotes T43	C0002395; Alzheimer's Disease; Disease or Syndrome | C0003507; Aortic Valve Stenosis; Disease or Syndrome | C0038013; Ankylosing spondylitis; Disease or Syndrome | C0947926; Alzheimer's disease (incl subtypes); Mental or Behavioral Dysfunction
+T44	Neg_cue 1501 1503	no
+T45	Negated 1508 1517	elegibles
+T46	LIVB 1523 1532	pacientes
+#16	AnnotatorNotes T46	C0030705; Patients; Patient or Disabled Group
+T47	PROC 1550 1581	retuvo temporalmente el fármaco
+T48	DISO 1606 1608	AA
+#17	AnnotatorNotes T48	C0000727; Abdomen, Acute; Sign or Symptom | C0002874; Aplastic Anemia; Disease or Syndrome | C0003486; Aortic Aneurysm; Disease or Syndrome | C0004031; Aspergillosis, Allergic Bronchopulmonary; Disease or Syndrome | C0085693; Acute appendicitis NOS (disorder); Disease or Syndrome | C0221014; Reactive systemic amyloidosis; Disease or Syndrome
+T49	PROC 1611 1625	cirugía ocular
+#18	AnnotatorNotes T49	C0395020; Surgical procedure on eye proper; Therapeutic or Preventive Procedure
+T50	PROC 1641 1650	revisados
+T51	LIVB 1704 1712	paciente
+#19	AnnotatorNotes T51	C0030705; Patients; Patient or Disabled Group
+T52	Neg_cue 1713 1715	no
+T53	Negated 1719 1731	inscribió en
+T54	Duration 1785 1792	90 días
+T55	LIVB 1797 1818	Pacientes embarazadas
+T56	LIVB 1821 1830	lactantes
+#20	AnnotatorNotes T56	C0021270; Infant; Age Group
+T57	Negated 1737 1747	ensayo OLE
+T58	PROC 1737 1747	ensayo OLE
+T59	PROC 1048 1058	ensayo OLE
+T60	Observation 97 131	completaron previamente el estudio
+T61	Observation 377 422	completado previamente el estudio de fase III
+T62	CONC 628 634	dentro
+T63	CONC 639 656	fuera de la fóvea
+T64	Observation 661 683	completaron el estudio
+T65	Observation 1068 1078	participar
+T66	Observation 1105 1113	regresar
+T67	Observation 1230 1255	elegibles para el estudio
+T68	Observation 1278 1297	completó el estudio
+T69	Quantifier_or_Qualifier 1471 1490	de forma permanente
+T70	Observation 1508 1517	elegibles
+T71	Quantifier_or_Qualifier 1626 1634	electiva
+T72	Patient 83 92	pacientes
+T73	Patient 336 345	pacientes
+T74	History_of 403 422	estudio de fase III
+T75	Patient 556 588	Pacientes masculinos o femeninos
+T76	History_of 676 683	estudio
+T77	History_of 797 808	tratamiento
+T78	History_of 813 831	avacincaptad pegol
+T79	History_of 834 838	Sham
+T80	Patient 963 972	pacientes
+T81	Patient 1211 1220	pacientes
+T82	Patient 1266 1274	paciente
+T83	Patient 1414 1423	pacientes
+T84	Patient 1523 1532	pacientes
+T85	Future 1641 1650	revisados
+T86	Patient 1704 1712	paciente
+T87	Patient 1797 1818	Pacientes embarazadas
+T88	Patient 1821 1830	lactantes
+T89	Future 1230 1255	elegibles para el estudio

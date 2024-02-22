@@ -1,0 +1,86 @@
+T1	DISO 21 37	Lesión en escote
+T2	LIVB 60 65	Mujer
+#1	AnnotatorNotes T2	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T3	Age 69 76	41 años
+T4	Neg_cue 108 111	Sin
+T5	Negated 112 119	interés
+T6	DISO 124 134	Enfermedad
+#2	AnnotatorNotes T6	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T7	Date 135 141	actual
+T8	PROC 145 169	Consulta telefónicamente
+T9	DISO 178 194	lesión en escote
+T10	Duration 198 223	aproximadamente dos meses
+T11	Date 260 276	esa misma semana
+T12	DISO 295 301	lesión
+#3	AnnotatorNotes T12	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T13	Spec_cue 327 340	impresiona de
+T14	DISO 341 370	quiste sebáceo sobreinfectado
+T15	Speculated 341 370	quiste sebáceo sobreinfectado
+T16	DISO 372 383	eritematoso
+#4	AnnotatorNotes T16	C0041834; Erythema; Disease or Syndrome
+T17	PROC 407 430	tratamiento antibiótico
+T18	CHEM 435 445	mupirocina
+#5	AnnotatorNotes T18	C0085259; mupirocin; Antibiotic · Organic Chemical
+T19	Duration 449 456	10 días
+T20	LIVB 468 476	paciente
+#6	AnnotatorNotes T20	C0030705; Patients; Patient or Disabled Group
+T21	PROC 477 501	consulta telefónicamente
+T22	DISO 529 535	lesión
+#7	AnnotatorNotes T22	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T23	PROC 543 566	tratamiento antibiótico
+T24	PROC 581 599	Exploración física
+#8	AnnotatorNotes T24	C0031809; Physical Examination; Health Care Activity
+T25	DISO 619 636	lesión pediculada
+T26	Neg_cue 664 667	sin
+T27	DISO 668 678	supuración
+#9	AnnotatorNotes T27	C3203360; Suppuration; Pathologic Function
+T28	Negated 668 678	supuración
+T29	Neg_cue 679 681	ni
+T30	Negated 682 701	bordes eritematosos
+T31	Neg_cue 703 705	no
+T32	DISO 706 714	dolorosa
+T33	Negated 706 729	dolorosa a la palpación
+T34	PROC 768 791	Pruebas complementarias
+#10	AnnotatorNotes T34	C1515980; Ancillary Study; Research Activity
+T35	PROC 795 808	Dermatoscopia
+#11	AnnotatorNotes T35	C1449565; Dermoscopy; Diagnostic Procedure | C1960246; Diagnostic dermatoscopy of skin; Diagnostic Procedure
+T36	PROC 843 854	TRATAMIENTO
+#12	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	DISO 902 910	melanoma
+#13	AnnotatorNotes T37	C0025202; melanoma; Neoplastic Process
+T38	PROC 924 946	extirpación quirúrgica
+T39	DISO 953 959	lesión
+#14	AnnotatorNotes T39	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T40	Date 960 979	la semana siguiente
+T41	PROC 991 998	cirugía
+#15	AnnotatorNotes T41	C0543467; Operative Surgical Procedures; Therapeutic or Preventive Procedure
+T42	DISO 1002 1010	cicatriz
+#16	AnnotatorNotes T42	C0008767; Cicatrization; Pathologic Function | C0241158; Scar Tissue; Finding | C2004491; Cicatrix; Pathologic Function
+T43	Neg_cue 1037 1040	sin
+T44	DISO 1051 1065	complicaciones
+#17	AnnotatorNotes T44	C0009566; Complication; Pathologic Function
+T45	Negated 1051 1065	complicaciones
+T46	PROC 1097 1116	anatomía patológica
+T47	DISO 1146 1163	granuloma piógeno
+#18	AnnotatorNotes T47	C0085653; Pyogenic granuloma; Neoplastic Process
+T48	DISO 1166 1178	botriomicoma
+T50	PROC 811 824	tele-consulta
+T51	PROC 1070 1081	DIAGNÓSTICO
+T52	PROC 570 576	EXAMEN
+T53	Result_or_Value 305 321	1 cm de diámetro
+T55	Observation 515 535	aumento de la lesión
+T56	Observation 641 653	color rojizo
+T57	Observation 655 662	perlado
+T58	Observation 682 701	bordes eritematosos
+T59	Observation 737 756	aumentado de tamaño
+T60	Result_or_Value 759 764	3 cm.
+T61	Observation 1011 1035	evoluciona adecuadamente
+T62	Patient 60 65	Mujer
+T63	Patient 468 476	paciente
+T64	Future 924 946	extirpación quirúrgica
+T65	ANAT 31 37	escote
+T66	ANAT 188 194	escote
+T67	PROC 243 259	cita en consulta
+T68	Observation 386 394	caliente
+T49	Observation 706 729	dolorosa a la palpación
+T70	PROC 892 910	descartar melanoma

@@ -6,75 +6,99 @@ T4	DISO 129 137	melanoma
 #2	AnnotatorNotes T4	C0025202; melanoma; Neoplastic Process
 T5	DISO 143 159	cáncer de vejiga
 #3	AnnotatorNotes T5	C0005684; Malignant neoplasm of urinary bladder; Neoplastic Process
-T7	CHEM 214 223	nivolumab
-#4	AnnotatorNotes T7	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
-T8	Route 238 253	vía intravenosa
-T9	Route 255 258	i.v
-T10	Route 263 277	vía subcutánea
-T11	Route 279 283	s.c.
-T12	LIVB 288 301	participantes
-T13	DISO 306 314	melanoma
-#5	AnnotatorNotes T13	C0025202; melanoma; Neoplastic Process
-T14	PROC 315 323	resecado
-#6	AnnotatorNotes T14	C0728940; Excision; Therapeutic or Preventive Procedure
-T15	DISO 351 379	carcinoma urotelial invasivo
-T16	PROC 380 388	resecado
-#7	AnnotatorNotes T16	C0728940; Excision; Therapeutic or Preventive Procedure
-T17	ANAT 420 426	vejiga
-#8	AnnotatorNotes T17	C0005682; Urinary Bladder; Body Part, Organ, or Organ Component
-T18	DISO 449 457	Melanoma
-#9	AnnotatorNotes T18	C0025202; melanoma; Neoplastic Process
-T19	DISO 460 482	carcinoma en la vejiga
-#10	AnnotatorNotes T19	C0699885; Carcinoma of bladder; Neoplastic Process
-T20	DISO 508 516	Melanoma
-#11	AnnotatorNotes T20	C0025202; melanoma; Neoplastic Process
-T21	PROC 517 525	resecado
-#12	AnnotatorNotes T21	C0728940; Excision; Therapeutic or Preventive Procedure
-T22	DISO 556 589	carcinoma urotelial (CU) invasivo
-T23	PROC 590 598	resecado
-#13	AnnotatorNotes T23	C0728940; Excision; Therapeutic or Preventive Procedure
-T24	LIVB 630 643	participantes
-T25	PROC 673 694	tratamiento adyuvante
-#14	AnnotatorNotes T25	C0677850; Adjuvant therapy; Therapeutic or Preventive Procedure
-T26	DISO 702 710	melanoma
-#15	AnnotatorNotes T26	C0025202; melanoma; Neoplastic Process
-T27	DISO 713 715	CU
-#16	AnnotatorNotes T27	C0009324; Ulcerative Colitis; Disease or Syndrome
-T28	DISO 720 737	invasión muscular
-T29	ANAT 754 760	vejiga
-#17	AnnotatorNotes T29	C0005682; Urinary Bladder; Body Part, Organ, or Organ Component
-T30	DISO 765 773	Melanoma
-#18	AnnotatorNotes T30	C0025202; melanoma; Neoplastic Process
-T31	PROC 775 784	resección
-#19	AnnotatorNotes T31	C0728940; Excision; Therapeutic or Preventive Procedure
-T33	ANAT 841 847	Vegiga
-T34	Neg_cue 853 855	no
-T35	Negated 871 912	quimioterapia neoadyuvante con cisplatino
-T36	PROC 871 897	quimioterapia neoadyuvante
-T38	PROC 950 976	quimioterapia neoadyuvante
-T40	DISO 1077 1105	melanoma ocular o de mucosas
-T41	DISO 1108 1139	CU de vías urinarias superiores
-T42	ANAT 1141 1147	uréter
-#22	AnnotatorNotes T42	C0041951; Ureter; Body Part, Organ, or Organ Component | C0555807; Ureter NEC; Body Part, Organ, or Organ Component | C1281572; Entire ureter; Body Part, Organ, or Organ Component
-T43	ANAT 1149 1161	pelvis renal
-#23	AnnotatorNotes T43	C0227666; Renal pelvis; Body Part, Organ, or Organ Component | C1284489; Entire renal pelvis; Body Part, Organ, or Organ Component
-T44	DISO 1164 1169	NMIBC
-T45	DISO 1172 1209	Metástasis en el SNC o leptomeníngeas
-T46	Neg_cue 1210 1212	no
-T47	PROC 1213 1221	tratadas
-T48	Negated 1213 1221	tratadas
-T49	Neg_cue 1224 1226	no
-T50	PROC 1227 1236	resecadas
-#24	AnnotatorNotes T50	C0728940; Excision; Therapeutic or Preventive Procedure
-T51	Negated 1227 1236	resecadas
-T52	Neg_cue 1239 1241	No
-T54	PROC 1256 1267	tratamiento
-#25	AnnotatorNotes T54	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
-T55	CHEM 1279 1305	agentes inmuno-oncológicos
-T56	Negated 1279 1305	agentes inmuno-oncológicos
-#26	AnnotatorNotes T44	Non-Muscle Invasive Bladder Neoplasms (C1336527)
-T57	PROC 44 62	Estudio del cambio
-T32	Negated 1256 1267	tratamiento
-T53	CHEM 902 912	cisplatino
-T39	CHEM 981 991	cisplatino
-T6	PROC 181 210	Estudio de fase II del cambio
+T6	CHEM 214 223	nivolumab
+#4	AnnotatorNotes T6	C3657270; nivolumab; Amino Acid, Peptide, or Protein · Immunologic Factor · Pharmacologic Substance
+T7	Route 238 253	vía intravenosa
+T8	Route 255 258	i.v
+T9	Route 263 277	vía subcutánea
+T10	Route 279 283	s.c.
+T11	LIVB 288 301	participantes
+T12	DISO 306 314	melanoma
+#5	AnnotatorNotes T12	C0025202; melanoma; Neoplastic Process
+T13	PROC 315 323	resecado
+#6	AnnotatorNotes T13	C0728940; Excision; Therapeutic or Preventive Procedure
+T14	DISO 351 379	carcinoma urotelial invasivo
+T15	PROC 380 388	resecado
+#7	AnnotatorNotes T15	C0728940; Excision; Therapeutic or Preventive Procedure
+T16	ANAT 420 426	vejiga
+#8	AnnotatorNotes T16	C0005682; Urinary Bladder; Body Part, Organ, or Organ Component
+T17	DISO 449 457	Melanoma
+#9	AnnotatorNotes T17	C0025202; melanoma; Neoplastic Process
+T18	DISO 460 482	carcinoma en la vejiga
+#10	AnnotatorNotes T18	C0699885; Carcinoma of bladder; Neoplastic Process
+T19	DISO 508 516	Melanoma
+#11	AnnotatorNotes T19	C0025202; melanoma; Neoplastic Process
+T20	PROC 517 525	resecado
+#12	AnnotatorNotes T20	C0728940; Excision; Therapeutic or Preventive Procedure
+T21	DISO 556 589	carcinoma urotelial (CU) invasivo
+T22	PROC 590 598	resecado
+#13	AnnotatorNotes T22	C0728940; Excision; Therapeutic or Preventive Procedure
+T23	LIVB 630 643	participantes
+T24	PROC 673 694	tratamiento adyuvante
+#14	AnnotatorNotes T24	C0677850; Adjuvant therapy; Therapeutic or Preventive Procedure
+T25	DISO 702 710	melanoma
+#15	AnnotatorNotes T25	C0025202; melanoma; Neoplastic Process
+T26	DISO 713 715	CU
+#16	AnnotatorNotes T26	C0009324; Ulcerative Colitis; Disease or Syndrome
+T27	DISO 720 737	invasión muscular
+T28	ANAT 754 760	vejiga
+#17	AnnotatorNotes T28	C0005682; Urinary Bladder; Body Part, Organ, or Organ Component
+T29	DISO 765 773	Melanoma
+#18	AnnotatorNotes T29	C0025202; melanoma; Neoplastic Process
+T30	PROC 775 784	resección
+#19	AnnotatorNotes T30	C0728940; Excision; Therapeutic or Preventive Procedure
+T31	ANAT 841 847	Vegiga
+T32	Neg_cue 853 855	no
+T33	Negated 871 912	quimioterapia neoadyuvante con cisplatino
+T34	PROC 871 897	quimioterapia neoadyuvante
+T35	PROC 950 976	quimioterapia neoadyuvante
+T36	DISO 1077 1105	melanoma ocular o de mucosas
+T37	DISO 1108 1139	CU de vías urinarias superiores
+T38	ANAT 1141 1147	uréter
+#20	AnnotatorNotes T38	C0041951; Ureter; Body Part, Organ, or Organ Component | C0555807; Ureter NEC; Body Part, Organ, or Organ Component | C1281572; Entire ureter; Body Part, Organ, or Organ Component
+T39	ANAT 1149 1161	pelvis renal
+#21	AnnotatorNotes T39	C0227666; Renal pelvis; Body Part, Organ, or Organ Component | C1284489; Entire renal pelvis; Body Part, Organ, or Organ Component
+T40	DISO 1164 1169	NMIBC
+#22	AnnotatorNotes T40	Non-Muscle Invasive Bladder Neoplasms (C1336527)
+T41	DISO 1172 1209	Metástasis en el SNC o leptomeníngeas
+T42	Neg_cue 1210 1212	no
+T43	PROC 1213 1221	tratadas
+T44	Negated 1213 1221	tratadas
+T45	Neg_cue 1224 1226	no
+T46	PROC 1227 1236	resecadas
+#23	AnnotatorNotes T46	C0728940; Excision; Therapeutic or Preventive Procedure
+T47	Negated 1227 1236	resecadas
+T48	Neg_cue 1239 1241	No
+T49	PROC 1256 1267	tratamiento
+#24	AnnotatorNotes T49	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T50	CHEM 1279 1305	agentes inmuno-oncológicos
+T51	Negated 1279 1305	agentes inmuno-oncológicos
+T52	PROC 44 62	Estudio del cambio
+T53	Negated 1256 1267	tratamiento
+T54	CHEM 902 912	cisplatino
+T55	CHEM 981 991	cisplatino
+T56	PROC 181 210	Estudio de fase II del cambio
+T57	Quantifier_or_Qualifier 324 348	estadio III o estadio IV
+T58	Quantifier_or_Qualifier 371 379	invasivo
+T59	Observation 392 403	alto riesgo
+T60	Quantifier_or_Qualifier 526 549	estadio IIIA/B/C/D o IV
+T61	Quantifier_or_Qualifier 581 589	invasivo
+T62	Quantifier_or_Qualifier 788 806	estadio IIIA/B/C/D
+T63	Quantifier_or_Qualifier 809 819	estadio IV
+T64	Observation 914 922	pT3-pT4a
+T65	Observation 925 928	pN+
+T66	Observation 996 1002	2-pT4a
+T67	Observation 1008 1010	+.
+T68	CONC 1013 1017	ECOG
+T69	Result_or_Value 1021 1026	0 o 1
+T70	Result_or_Value 1028 1047	Mayor o igual a 18.
+T71	Patient 288 301	participantes
+T72	Patient 630 643	participantes
+T73	Future 685 694	adyuvante
+T74	History_of 775 784	resección
+T75	History_of 871 897	quimioterapia neoadyuvante
+T76	History_of 902 912	cisplatino
+T77	History_of 950 976	quimioterapia neoadyuvante
+T78	History_of 981 991	cisplatino
+T79	History_of 1256 1267	tratamiento
+T80	History_of 1279 1305	agentes inmuno-oncológicos

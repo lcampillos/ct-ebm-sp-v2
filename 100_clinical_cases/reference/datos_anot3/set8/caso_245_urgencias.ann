@@ -1,0 +1,134 @@
+T1	LIVB 21 26	Varón
+T2	Age 30 37	65 años
+T3	DISO 48 61	palpitaciones
+#1	AnnotatorNotes T3	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T4	DISO 64 78	dolor torácico
+#2	AnnotatorNotes T4	C0008031; Chest Pain; Sign or Symptom
+T5	Neg_cue 130 133	Sin
+T6	Negated 134 157	antecedentes relevantes
+T7	DISO 162 172	Enfermedad
+#3	AnnotatorNotes T7	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T8	DISO 195 208	palpitaciones
+#4	AnnotatorNotes T8	C0030252; Palpitations; Finding | C1866748; Fasciculation-like movements; Finding
+T9	DISO 211 234	dolor torácico opresivo
+#5	AnnotatorNotes T9	Central crushing chest pain (C0458102)
+T10	Date 244 259	hace 15 minutos
+T11	Neg_cue 263 265	No
+T12	DISO 266 272	disnea
+#6	AnnotatorNotes T12	C0013404; Dyspnea; Sign or Symptom
+T13	Negated 266 272	disnea
+T14	Neg_cue 273 275	ni
+T15	DISO 276 294	cortejo vegetativo
+#7	AnnotatorNotes T15	Vasovagal Reaction (C1710621)
+T16	Negated 276 294	cortejo vegetativo
+T17	PROC 309 327	Exploración física
+#8	AnnotatorNotes T17	C0031809; Physical Examination; Health Care Activity
+T18	PROC 331 333	PA
+T19	PROC 347 349	FC
+T20	PROC 359 364	SatO2
+#9	AnnotatorNotes T20	C0523807; Oxygen saturation measurement; Laboratory Procedure
+T21	PROC 435 437	AC
+T22	DISO 439 450	taquicardia
+#10	AnnotatorNotes T22	C0039231; Tachycardia; Finding
+T23	Neg_cue 451 454	sin
+T24	DISO 455 461	soplos
+#11	AnnotatorNotes T24	C0006318; Bruit; Finding | C0018808; Heart murmur; Finding | C0232255; Innocent Murmurs; Finding
+T25	Negated 455 461	soplos
+T26	PROC 465 467	AP
+T27	PROC 497 520	Pruebas complementarias
+#12	AnnotatorNotes T27	C1515980; Ancillary Study; Research Activity
+T28	PROC 524 532	Rx Tórax
+#13	AnnotatorNotes T28	C0039985; Plain chest X-ray; Diagnostic Procedure
+T29	PROC 535 544	analítica
+#14	AnnotatorNotes T29	C0002778; Analysis of substances; Laboratory Procedure
+T30	Neg_cue 546 549	sin
+T31	DISO 550 562	alteraciones
+#15	AnnotatorNotes T31	C0012634; Disease; Disease or Syndrome
+T32	Negated 550 562	alteraciones
+T33	PROC 581 584	ECG
+#16	AnnotatorNotes T33	C1623258; Electrocardiography; Diagnostic Procedure
+T34	DISO 586 605	Taquicardia regular
+T35	DISO 615 624	QRS ancho
+#17	AnnotatorNotes T35	C0235475; Wide QRS complex; Finding
+T36	PROC 639 650	TRATAMIENTO
+#18	AnnotatorNotes T36	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T37	CHEM 695 705	AMIODARONA
+#19	AnnotatorNotes T37	C0002598; amiodarone; Organic Chemical · Pharmacologic Substance
+T38	Dose 707 713	300 mg
+T39	Route 715 718	IV.
+T40	CHEM 721 730	ADENOSINA
+#20	AnnotatorNotes T40	C0001443; adenosine; Biologically Active Substance · Nucleic Acid, Nucleoside, or Nucleotide · Pharmacologic Substance
+T41	Route 744 746	IV
+T42	Route 757 761	bolo
+#21	AnnotatorNotes T42	inyección intravenosa rápida
+T43	Route 762 764	IV
+T44	Neg_cue 767 777	sin ningún
+T45	Negated 778 784	efecto
+T46	CHEM 818 827	MIDAZOLAM
+#22	AnnotatorNotes T46	C0026056; midazolam; Organic Chemical · Pharmacologic Substance
+T47	PROC 841 864	cardioversión eléctrica
+#23	AnnotatorNotes T47	C0013778; Electric Countershock; Therapeutic or Preventive Procedure
+T48	PROC 867 870	ECG
+#24	AnnotatorNotes T48	C1623258; Electrocardiography; Diagnostic Procedure
+T49	DISO 909 922	extrasístoles
+#25	AnnotatorNotes T49	C0340464; Premature Cardiac Complex; Disease or Syndrome | C1399226; Ectopic rhythm; Disease or Syndrome
+T50	DISO 967 978	taquicardia
+#26	AnnotatorNotes T50	C0039231; Tachycardia; Finding
+T51	PROC 982 996	Ingreso en UCI
+T52	PROC 1037 1040	ECG
+#27	AnnotatorNotes T52	C1623258; Electrocardiography; Diagnostic Procedure
+T53	Duration 1052 1058	2 días
+T54	PROC 1074 1089	Coronariografía
+#28	AnnotatorNotes T54	C0085532; Coronary angiography; Diagnostic Procedure
+T55	ANAT 1091 1101	coronarias
+#29	AnnotatorNotes T55	C0545745; coronary artery and coronary vein; Body Part, Organ, or Organ Component
+T56	Neg_cue 1102 1105	sin
+T57	DISO 1106 1118	ateromatosis
+#30	AnnotatorNotes T57	C0004153; Atherosclerosis; Disease or Syndrome
+T58	Negated 1106 1118	ateromatosis
+T59	PROC 1135 1139	FEVI
+T60	Neg_cue 1144 1147	sin
+T61	DISO 1148 1194	alteraciones segmentarias de la contractilidad
+T62	Negated 1148 1194	alteraciones segmentarias de la contractilidad
+T63	PROC 1210 1222	RMN cardiaca
+#31	AnnotatorNotes T63	C0412692; Magnetic Resonance Imaging (MRI) of Heart; Diagnostic Procedure
+T64	Spec_cue 1227 1238	sospecha de
+T65	DISO 1239 1269	Displasia arritmogénica del VD
+T66	Speculated 1239 1269	Displasia arritmogénica del VD
+T67	DISO 1297 1320	Taquicardia ventricular
+#32	AnnotatorNotes T67	C0042514; Tachycardia, Ventricular; Disease or Syndrome
+T68	PROC 298 304	EXAMEN
+T69	Route 739 743	bolo
+#33	AnnotatorNotes T69	inyección intravenosa rápida
+T70	PROC 1273 1284	DIAGNÓSTICO
+T71	PROC 793 801	sedación
+T72	Date 173 179	actual
+T73	Dose 681 691	2 ampollas
+T74	Dose 748 753	12 mg
+T75	PROC 876 889	cardioversión
+T76	Dose 731 735	6 mg
+T77	Time 871 889	post cardioversión
+#34	AnnotatorNotes T77	post cardioversion (C2599596)
+T78	Quantifier_or_Qualifier 147 157	relevantes
+T79	Result_or_Value 334 345	130/80 mmHg
+T80	Result_or_Value 350 357	220 lpm
+T81	Result_or_Value 365 370	100%.
+T82	Observation 373 392	Buen estado general
+T83	Observation 394 408	Bien hidratado
+T84	Observation 411 421	perfundido
+T85	Observation 423 431	Eupneico
+T86	Result_or_Value 469 475	normal
+T87	Quantifier_or_Qualifier 563 577	significativas
+T88	Result_or_Value 608 612	220x
+T89	Result_or_Value 626 634	161 mseg
+T90	Observation 778 784	efecto
+T91	Observation 891 904	ritmo sinusal
+T92	Quantifier_or_Qualifier 923 931	aislados
+T93	Observation 1010 1017	estable
+T94	Observation 1022 1035	ritmo sinusal
+T95	Observation 1060 1062	RS
+T96	Result_or_Value 1065 1071	64 lpm
+T97	Quantifier_or_Qualifier 1119 1133	significativas
+T98	Result_or_Value 1140 1143	70%
+T99	Patient 21 26	Varón
+T101	Future 1210 1222	RMN cardiaca

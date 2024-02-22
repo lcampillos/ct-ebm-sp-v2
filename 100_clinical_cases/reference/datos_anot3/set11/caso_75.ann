@@ -1,0 +1,142 @@
+T1	DISO 21 49	Heridas ulcerosas en el pene
+#1	AnnotatorNotes T1	Ulcer of penis (C0240698)
+T2	LIVB 72 77	Varón
+T3	Age 81 88	21 años
+T4	Neg_cue 111 114	sin
+T5	LIVB 115 128	pareja sexual
+T6	Negated 115 136	pareja sexual estable
+T7	Neg_cue 168 173	Niega
+T8	DISO 174 197	alergias medicamentosas
+#2	AnnotatorNotes T8	C0013182; Drug Allergy; Pathologic Function
+T9	Negated 174 197	alergias medicamentosas
+T10	Neg_cue 201 203	No
+T11	Negated 204 234	antecedentes medicoquirúrgicos
+T12	Neg_cue 238 240	No
+T13	PROC 249 260	tratamiento
+#3	AnnotatorNotes T13	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T14	Negated 249 260	tratamiento
+T15	DISO 274 284	Enfermedad
+#4	AnnotatorNotes T15	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T16	DISO 305 346	lesiones ulcerosas en glande pruriginosas
+#5	AnnotatorNotes T16	SKIN LESION PRURITIC (C0748813)
+T17	Neg_cue 349 351	no
+T18	DISO 352 361	dolorosas
+#6	AnnotatorNotes T18	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T19	Negated 352 361	dolorosas
+T20	Observation 363 370	afebril
+#7	AnnotatorNotes T20	C0277797; Apyrexial; Finding
+T21	Negated 363 370	afebril
+T22	Date 386 398	hace 2 meses
+T23	PHYS 407 422	relación sexual
+#8	AnnotatorNotes T23	C0009253; Coitus; Organism Function
+T24	Neg_cue 423 426	sin
+T25	Negated 427 448	barrera de protección
+T26	PROC 463 481	Exploración física
+#9	AnnotatorNotes T26	C0031809; Physical Examination; Health Care Activity
+T27	PROC 609 628	Exploración genital
+T28	DISO 630 640	Adenopatía
+#10	AnnotatorNotes T28	C0497156; Lymphadenopathy; Disease or Syndrome | C4282165; Swollen Lymph Node; Sign or Symptom
+T29	ANAT 669 685	inguinal derecha
+T30	DISO 694 702	lesiones
+#11	AnnotatorNotes T30	C0221198; Lesion; Finding | C3263723; Traumatic injury; Injury or Poisoning
+T31	ANAT 722 737	base del glande
+T32	DISO 744 769	granulomatosas, ulceradas
+T33	Neg_cue 805 807	no
+T34	DISO 808 816	dolorosa
+#12	AnnotatorNotes T34	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T35	Negated 808 834	dolorosa a la manipulación
+T36	PROC 822 834	manipulación
+#13	AnnotatorNotes T36	C0947647; Manipulation procedure; Therapeutic or Preventive Procedure
+T37	PROC 839 862	Pruebas complementarias
+#14	AnnotatorNotes T37	C1515980; Ancillary Study; Research Activity
+T38	PROC 866 875	Analítica
+#15	AnnotatorNotes T38	C0002778; Analysis of substances; Laboratory Procedure
+T39	PROC 897 913	líneas celulares
+#16	AnnotatorNotes T39	C0007600; Cultured Cell Line; Cell
+T40	PROC 922 932	bioquímica
+#17	AnnotatorNotes T40	C0201682; Chemical procedure; Laboratory Procedure | C0430027; biochemical test; Laboratory Procedure
+T41	PROC 944 957	función renal
+#18	AnnotatorNotes T41	C0232804; Renal function; Organ or Tissue Function
+T42	PROC 960 979	proteína C reactiva
+#19	AnnotatorNotes T42	C0201657; C-reactive protein measurement; Laboratory Procedure
+T43	PROC 983 992	Serología
+#20	AnnotatorNotes T43	C0036743; Serologic tests; Laboratory Procedure
+T44	DISO 1008 1015	sífilis
+#21	AnnotatorNotes T44	C0039128; Syphilis; Disease or Syndrome
+T45	DISO 1018 1026	gonorrea
+#22	AnnotatorNotes T45	C0018081; Gonorrhea; Disease or Syndrome
+T46	Spec_cue 1030 1037	posible
+T47	DISO 1038 1059	infección hepatitis B
+T48	Speculated 1038 1059	infección hepatitis B
+T49	PROC 1061 1072	anticuerpos
+T50	PROC 1084 1093	antígenos
+T51	PROC 1127 1145	serología para VIH
+T52	PROC 1189 1198	serología
+#23	AnnotatorNotes T52	C0036743; Serologic tests; Laboratory Procedure
+T53	DISO 1201 1212	hepatitis C
+#24	AnnotatorNotes T53	C0019196; Hepatitis C; Disease or Syndrome
+T54	Negated 1201 1212	hepatitis C
+T55	Neg_cue 1213 1221	negativa
+T56	PROC 1225 1236	TRATAMIENTO
+#25	AnnotatorNotes T56	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T57	Route 1295 1308	intramuscular
+T58	PROC 1390 1401	tratamiento
+#26	AnnotatorNotes T58	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T59	DISO 1429 1436	Sífilis
+#27	AnnotatorNotes T59	C0039128; Syphilis; Disease or Syndrome
+T60	DISO 1439 1447	gonorrea
+#28	AnnotatorNotes T60	C0018081; Gonorrhea; Disease or Syndrome
+T61	Spec_cue 1449 1456	Posible
+T62	DISO 1457 1468	hepatitis B
+#29	AnnotatorNotes T62	C0019163; Hepatitis B; Disease or Syndrome
+T63	Speculated 1457 1468	hepatitis B
+T64	PROC 1470 1476	Ac VHB
+T65	PROC 1517 1523	Ag VHB
+T66	PROC 1534 1566	serología para infección por VIH
+T67	PROC 1619 1628	serología
+#30	AnnotatorNotes T67	C0036743; Serologic tests; Laboratory Procedure
+T68	Duration 1639 1646	6 meses
+T69	PROC 452 458	EXAMEN
+T70	PROC 1405 1416	DIAGNÓSTICO
+T71	DEVI 427 448	barrera de protección
+#31	AnnotatorNotes T71	Condoms, Male (C0009653)
+T72	PROC 1380 1387	estudio
+T73	Dose 1267 1282	2.4 millones UI
+T74	Date 285 291	actual
+T75	Observation 506 516	consciente
+T77	Observation 90 97	soltero
+T78	Quantifier_or_Qualifier 129 136	estable
+T80	Observation 485 504	Buen estado general
+T81	Observation 529 540	colaborador
+T82	Observation 542 556	bien hidratado
+T83	Observation 559 569	perfundido
+T84	Observation 571 585	normocoloreado
+T85	Observation 587 605	eupneico en reposo
+T86	Result_or_Value 650 668	1.5 cm de diámetro
+T87	Quantifier_or_Qualifier 687 693	Varias
+T88	Quantifier_or_Qualifier 703 715	milimétricas
+T89	Result_or_Value 786 804	3-4 mm de diámetro
+T90	Result_or_Value 877 887	normalidad
+T91	Result_or_Value 994 1002	positivo
+T92	Result_or_Value 1073 1082	positivos
+T93	Quantifier_or_Qualifier 1119 1126	primera
+T94	Result_or_Value 1146 1154	negativa
+T95	Quantifier_or_Qualifier 1181 1188	segunda
+T96	Result_or_Value 1213 1221	negativa
+T97	Result_or_Value 1477 1486	negativos
+T98	Quantifier_or_Qualifier 1526 1533	Primera
+T99	Result_or_Value 1567 1575	negativa
+T100	Quantifier_or_Qualifier 1611 1618	segunda
+T101	Patient 72 77	Varón
+T103	History_of 174 197	alergias medicamentosas
+T102	Other 115 128	pareja sexual
+T105	Observation 99 109	homosexual
+#32	AnnotatorNotes T105	Homosexuals (C0019898) Semantic Types: Population Group. Duda, observación?
+T76	Observation 518 527	orientado
+#33	AnnotatorNotes T75	Fully conscious (C0424523) Semantic Types: Finding
+T79	Future 1189 1198	serología
+T104	Future 1619 1628	serología
+T106	Observation 1094 1114	pendiente de recibir
+#34	AnnotatorNotes T106	Pending result (C4700169)
+T107	Observation 1493 1513	espera de resultados
+#35	AnnotatorNotes T107	Pending result (C4700169)

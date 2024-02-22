@@ -1,0 +1,102 @@
+T1	Date 21 36	El día 13/10/11
+T2	Time 39 47	las 2:15
+T3	LIVB 58 63	mujer
+#1	AnnotatorNotes T3	C0043210; Woman; Population Group | C0242665; wife; Family Group
+T4	Age 67 74	93 años
+T5	DISO 141 151	Enfermedad
+#2	AnnotatorNotes T5	C0012634; Disease; Disease or Syndrome | C0221423; Illness (finding); Sign or Symptom
+T6	Date 152 158	actual
+T7	DISO 214 236	infección respiratoria
+#3	AnnotatorNotes T7	C0035243; Respiratory Tract Infections; Disease or Syndrome
+T8	DISO 239 246	vómitos
+#4	AnnotatorNotes T8	C0042963; Vomiting; Sign or Symptom
+T9	PROC 257 260	tto
+#5	AnnotatorNotes T9	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T10	CHEM 265 282	Amoxi-clavulánico
+T11	CHEM 285 294	Primperan
+#6	AnnotatorNotes T11	C0242395; Primperan; Organic Chemical · Pharmacologic Substance
+T12	LIVB 299 307	paciente
+#7	AnnotatorNotes T12	C0030705; Patients; Patient or Disabled Group
+T13	DISO 316 341	dolor en cadera izquierda
+#8	AnnotatorNotes T13	C2141922; Pain of left hip joint; Sign or Symptom
+T14	Date 348 362	hace 2 semanas
+T16	PROC 396 424	Rx Axial de cadera izquierda
+T17	PROC 426 438	Dada de alta
+#9	AnnotatorNotes T17	C0030685; Patient Discharge; Health Care Activity
+T18	PROC 443 457	tto analgésico
+T19	Duration 479 487	unos día
+T21	DISO 538 543	dolor
+#10	AnnotatorNotes T21	C0030193; Pain; Sign or Symptom | C0234238; Ache; Sign or Symptom
+T22	PROC 558 567	ingresada
+#11	AnnotatorNotes T22	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T23	Spec_cue 589 600	sospecha de
+T24	DISO 601 604	HDA
+#12	AnnotatorNotes T24	C0041909; Upper gastrointestinal hemorrhage; Pathologic Function
+T25	Speculated 601 604	HDA
+T26	DISO 610 617	vómitos
+#13	AnnotatorNotes T26	C0042963; Vomiting; Sign or Symptom
+T27	Negated 610 617	vómitos
+T28	Neg_cue 618 623	ceden
+T29	LIVB 650 658	paciente
+#14	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	LIVB 664 671	familia
+#15	AnnotatorNotes T30	C0015576; Family; Family Group
+T31	Neg_cue 672 674	no
+T32	PROC 686 696	endoscopia
+#16	AnnotatorNotes T32	C0014245; Endoscopy (procedure); Diagnostic Procedure
+T33	Negated 686 696	endoscopia
+T34	PROC 698 702	Alta
+#17	AnnotatorNotes T34	C0030685; Patient Discharge; Health Care Activity
+T35	LIVB 709 717	paciente
+#18	AnnotatorNotes T35	C0030705; Patients; Patient or Disabled Group
+T36	DISO 745 763	dolor en la cadera
+#19	AnnotatorNotes T36	C4551516; Hip pain; Sign or Symptom
+T37	DISO 765 772	vómitos
+#20	AnnotatorNotes T37	C0042963; Vomiting; Sign or Symptom
+T38	Spec_cue 775 781	dudosa
+T39	DISO 782 804	infección respiratoria
+#21	AnnotatorNotes T39	C0035243; Respiratory Tract Infections; Disease or Syndrome
+T40	Speculated 782 804	infección respiratoria
+T41	PROC 809 820	Rx de Tórax
+#22	AnnotatorNotes T41	C0039985; Plain chest X-ray; Diagnostic Procedure
+T42	PROC 842 865	Pruebas complementarias
+#23	AnnotatorNotes T42	C1515980; Ancillary Study; Research Activity
+T43	PROC 869 881	Rx de Cadera
+#24	AnnotatorNotes T43	C0203262; Radiography of hip; Diagnostic Procedure
+T44	DISO 883 921	fractura subcapital de femur izquierdo
+T45	PROC 925 936	TRATAMIENTO
+#25	AnnotatorNotes T45	C0087111; Therapeutic procedure; Therapeutic or Preventive Procedure
+T46	CHEM 953 964	Paracetamol
+#26	AnnotatorNotes T46	C0000970; acetaminophen; Organic Chemical · Pharmacologic Substance
+T47	Route 965 968	IV.
+T48	PROC 971 992	Estudio preoperatorio
+#27	AnnotatorNotes T48	C1293091; Pre-surgery evaluation; Diagnostic Procedure
+T49	Date 979 992	preoperatorio
+T50	DISO 1049 1087	Fractura subcapital de femur izquierdo
+T51	LIVB 91 97	médico
+T52	LIVB 184 190	médico
+T53	PROC 831 837	EXAMEN
+T54	PROC 1025 1036	DIAGNÓSTICO
+T55	Quantifier_or_Qualifier 503 519	aspecto negruzco
+T56	Observation 618 623	ceden
+T57	Result_or_Value 821 827	normal
+T58	Patient 58 63	mujer
+T59	Other 91 97	médico
+T60	Other 184 190	médico
+T61	Patient 299 307	paciente
+T62	History_of 426 438	Dada de alta
+T63	Patient 650 658	paciente
+T64	Family_member 664 671	familia
+T65	Patient 709 717	paciente
+T66	ANAT 325 341	cadera izquierda
+T67	Quantifier_or_Qualifier 332 341	izquierda
+T15	DISO 368 373	caída
+T68	ANAT 408 424	cadera izquierda
+T69	Quantifier_or_Qualifier 415 424	izquierda
+T70	ANAT 906 921	femur izquierdo
+T71	Quantifier_or_Qualifier 912 921	izquierdo
+T72	ANAT 1072 1087	femur izquierdo
+T73	Quantifier_or_Qualifier 1078 1087	izquierdo
+T20	DISO 492 499	vómitos
+T74	ANAT 757 763	cadera
+T75	Quantifier_or_Qualifier 374 380	casual

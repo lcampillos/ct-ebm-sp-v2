@@ -1,0 +1,193 @@
+T1	DISO 55 80	accidente cerebrovascular
+#1	AnnotatorNotes T1	C0038454; Cerebrovascular accident; Disease or Syndrome
+T2	Form 84 92	solución
+T3	CHEM 103 116	afamelanotida
+T4	PROC 149 198	Estudio de fase IIa, no ciego, prueba de concepto
+T5	Neg_cue 170 172	no
+T6	Negated 173 178	ciego
+T7	PROC 204 224	evaluar la seguridad
+T8	Form 231 239	solución
+T9	CHEM 250 263	afamelanotida
+T10	LIVB 267 276	pacientes
+#2	AnnotatorNotes T10	C0030705; Patients; Patient or Disabled Group
+T11	DISO 281 313	infarto agudo de origen arterial
+T12	DISO 315 318	IAA
+T13	Neg_cue 324 326	no
+T14	PROC 344 367	trombólisis intravenosa
+T15	Negated 344 367	trombólisis intravenosa
+T16	PROC 369 372	IVT
+T17	Negated 369 372	IVT
+T18	PROC 376 401	trombectomía endovascular
+T19	Negated 376 401	trombectomía endovascular
+T20	PROC 403 406	EVT
+T21	Negated 403 406	EVT
+T22	DISO 421 453	infarto agudo de origen arterial
+T23	DISO 455 458	IAA
+T24	LIVB 488 518	Sujetos masculinos o femeninos
+T25	PROC 523 534	diagnóstico
+#3	AnnotatorNotes T25	C0011900; Diagnosis; Diagnostic Procedure
+T26	DISO 538 541	IAA
+T27	LIVB 558 567	pacientes
+#4	AnnotatorNotes T27	C0030705; Patients; Patient or Disabled Group
+T28	PROC 623 628	NIHSS
+T29	LIVB 645 654	pacientes
+#5	AnnotatorNotes T29	C0030705; Patients; Patient or Disabled Group
+T30	PROC 711 716	NIHSS
+T31	LIVB 743 752	pacientes
+#6	AnnotatorNotes T31	C0030705; Patients; Patient or Disabled Group
+T32	PROC 772 777	NIHSS
+T33	LIVB 802 811	pacientes
+#7	AnnotatorNotes T33	C0030705; Patients; Patient or Disabled Group
+T34	PROC 827 832	NIHSS
+T35	PROC 853 863	reclutados
+T36	DISO 868 890	anomalías de perfusión
+T37	PROC 908 917	perfusión
+#8	AnnotatorNotes T37	C0031001; Perfusion (procedure); Therapeutic or Preventive Procedure
+T38	PROC 922 946	tomografía computarizada
+#9	AnnotatorNotes T38	C0040405; X-Ray Computed Tomography; Diagnostic Procedure
+T39	PROC 948 951	CTP
+#10	AnnotatorNotes T39	C0203085; Percutaneous transhepatic cholangiography; Diagnostic Procedure | C1504490; Percutaneous transhepatic cholangiodrainage; Therapeutic or Preventive Procedure
+T40	LIVB 971 980	pacientes
+#11	AnnotatorNotes T40	C0030705; Patients; Patient or Disabled Group
+T41	Neg_cue 981 984	sin
+T42	DISO 985 1007	anomalías de perfusión
+T43	Negated 985 1007	anomalías de perfusión
+T44	Spec_cue 1017 1033	sospecha clínica
+T45	DISO 1037 1040	IAA
+T46	Speculated 1037 1040	IAA
+T47	PROC 1043 1046	mRS
+#12	AnnotatorNotes T47	C0024487; Magnetic Resonance Spectroscopy; Diagnostic Procedure
+T48	DISO 1059 1064	ictus
+#13	AnnotatorNotes T48	C0038454; Cerebrovascular accident; Disease or Syndrome
+T49	Age 1070 1082	18 a 85 años
+T50	PROC 1085 1121	Consentimiento informado por escrito
+T51	LIVB 1135 1143	paciente
+#14	AnnotatorNotes T51	C0030705; Patients; Patient or Disabled Group
+T52	LIVB 1152 1163	responsable
+T53	PROC 1193 1211	tratamiento médico
+#15	AnnotatorNotes T53	C0418981; Medical therapy; Therapeutic or Preventive Procedure
+T54	PROC 1260 1267	ingreso
+#16	AnnotatorNotes T54	C0021629; Institutionalization; Health Care Activity | C0184666; Hospital admission; Health Care Activity
+T55	PROC 1298 1312	Administración
+#17	AnnotatorNotes T55	C1533734; Administration procedure; Therapeutic or Preventive Procedure
+T56	PROC 1316 1348	terapia trombolítica intravenosa
+T57	Route 1337 1348	intravenosa
+T58	DISO 1355 1370	oclusión distal
+#18	AnnotatorNotes T58	C0232511; Disto-occlusion of teeth; Congenital Abnormality
+T59	DISO 1390 1393	IAA
+T60	PROC 1396 1408	Intervención
+#19	AnnotatorNotes T60	C0184661; Interventional procedure; Therapeutic or Preventive Procedure
+T61	PROC 1418 1443	trombectomía endovascular
+T62	PROC 1445 1448	EVT
+T63	DISO 1452 1459	Alergia
+#20	AnnotatorNotes T63	C0020517; Hypersensitivity; Pathologic Function
+T64	DISO 1462 1472	anafilaxia
+#21	AnnotatorNotes T64	C0002792; anaphylaxis; Disease or Syndrome
+T65	CHEM 1488 1518	hormona adrenocorticocotrópica
+T66	CHEM 1520 1524	ACTH
+#22	AnnotatorNotes T66	C0001655; corticotropin; Amino Acid, Peptide, or Protein · Hormone · Pharmacologic Substance
+T67	CHEM 1527 1541	melanocortinas
+#23	AnnotatorNotes T67	C1720997; Melanocortins; Amino Acid, Peptide, or Protein · Hormone
+T68	CHEM 1562 1573	excipientes
+#24	AnnotatorNotes T68	C0015237; Pharmaceutical Excipient; Biomedical or Dental Material
+T69	LIVB 1602 1614	investigador
+#25	AnnotatorNotes T69	C0035173; Research Personnel; Professional or Occupational Group
+T70	DISO 1640 1662	insuficiencia hepática
+#26	AnnotatorNotes T70	C0085605; Liver Failure; Disease or Syndrome | C1306571; Hepatic Insufficiency; Pathologic Function
+T71	DISO 1640 1653;1710 1715	insuficiencia renal
+T72	PROC 1731 1735	eTFG
+T73	DISO 1773 1789	condición médica
+#27	AnnotatorNotes T73	C4745084; Medical Condition; Finding
+T74	Spec_cue 1794 1799	pueda
+T75	Speculated 1800 1810	interferir
+T76	PROC 1818 1827	protocolo
+#28	AnnotatorNotes T76	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T77	DISO 1854 1882	problemas físicos o mentales
+T78	Neg_cue 1887 1889	no
+T79	Negated 1890 1935	permitan que los pacientes sigan el protocolo
+T80	LIVB 1907 1916	pacientes
+#29	AnnotatorNotes T80	C0030705; Patients; Patient or Disabled Group
+T81	PROC 1926 1935	protocolo
+#30	AnnotatorNotes T81	C0008971; Clinical Protocols; Therapeutic or Preventive Procedure
+T82	LIVB 1939 1955	Mujer embarazada
+#31	AnnotatorNotes T82	C0033011; Pregnant Women; Population Group
+T83	PROC 1972 1997	prueba de embarazo sérica
+T84	CHEM 2010 2013	GCH
+T85	LIVB 2046 2054	lactante
+#32	AnnotatorNotes T85	C0021270; Infant; Age Group
+T86	LIVB 2057 2079	Mujeres en edad fértil
+T87	Age 2068 2079	edad fértil
+T88	Neg_cue 2084 2086	no
+T89	Negated 2096 2139	medidas anticonceptivas de gran efectividad
+T90	PROC 2096 2119	medidas anticonceptivas
+T91	Duration 2146 2156	tres meses
+T92	PROC 2178 2187	inyección
+#33	AnnotatorNotes T92	C1533685; Injection procedure; Therapeutic or Preventive Procedure
+T93	LIVB 2224 2230	pareja
+#34	AnnotatorNotes T93	C0682323; Partner in relationship; Family Group
+T94	Age 2234 2245	edad fértil
+T95	Neg_cue 2250 2252	no
+T96	PROC 2257 2280	medidas anticonceptivas
+T97	Negated 2257 2280	medidas anticonceptivas
+T98	Neg_cue 2327 2337	Incapaz de
+T99	PROC 2354 2383	resonancia magnética cerebral
+#35	AnnotatorNotes T99	C4028269; Nuclear magnetic resonance imaging brain; Diagnostic Procedure
+T100	Negated 2354 2383	resonancia magnética cerebral
+T101	Neg_cue 2386 2388	No
+T102	Negated 2389 2415	apto para la participación
+T103	LIVB 2436 2458	Investigador Principal
+#36	AnnotatorNotes T103	C1521895; Principal Investigator; Professional or Occupational Group
+T104	LIVB 2460 2462	IP
+T105	LIVB 2466 2475	Pacientes
+#37	AnnotatorNotes T105	C0030705; Patients; Patient or Disabled Group
+T106	CHEM 2490 2503	afamelanotida
+T107	Duration 2504 2518	24 horas o más
+T108	DISO 2528 2553	accidente cerebrovascular
+#38	AnnotatorNotes T108	C0038454; Cerebrovascular accident; Disease or Syndrome
+T109	LIVB 2190 2196	Hombre
+T110	Quantifier_or_Qualifier 542 550	primario
+T111	Quantifier_or_Qualifier 572 580	gravedad
+T112	Quantifier_or_Qualifier 581 596	leve a moderada
+T113	Result_or_Value 632 636	1-15
+T114	Quantifier_or_Qualifier 659 667	gravedad
+T115	Quantifier_or_Qualifier 668 684	moderada a grave
+T116	Result_or_Value 720 725	16-42
+T117	Quantifier_or_Qualifier 729 742	Al menos tres
+T118	Result_or_Value 781 785	1-15
+T119	Quantifier_or_Qualifier 788 801	al menos tres
+T120	Result_or_Value 833 846	superior a 15
+T121	Observation 868 890	anomalías de perfusión
+T122	Observation 985 1007	anomalías de perfusión
+T123	Result_or_Value 1065 1067	<4
+T124	CONC 1222 1240	inicio del estudio
+T125	Result_or_Value 1678 1706	tres veces el rango estándar
+T126	Result_or_Value 1736 1754	<50 ml/min/1,73 m²
+T127	CONC 1800 1810	interferir
+T128	Observation 1890 1898	permitan
+T129	Observation 1917 1935	sigan el protocolo
+T130	Result_or_Value 1998 2006	positiva
+T131	CONC 2024 2042	inicio del estudio
+T132	Quantifier_or_Qualifier 2120 2139	de gran efectividad
+T133	Quantifier_or_Qualifier 2281 2290	adecuadas
+T134	Observation 2389 2415	apto para la participación
+T135	Patient 267 276	pacientes
+T136	Patient 488 518	Sujetos masculinos o femeninos
+T137	Patient 558 567	pacientes
+T138	Patient 645 654	pacientes
+T139	Patient 743 752	pacientes
+T140	Patient 802 811	pacientes
+T141	Patient 971 980	pacientes
+T142	Patient 1135 1143	paciente
+T143	Other 1152 1163	responsable
+T144	History_of 1452 1459	Alergia
+T145	History_of 1462 1472	anafilaxia
+T146	Other 1602 1614	investigador
+T147	Patient 1907 1916	pacientes
+T148	Patient 1939 1955	Mujer embarazada
+T149	Patient 2046 2054	lactante
+T150	Patient 2057 2079	Mujeres en edad fértil
+T151	Patient 2190 2196	Hombre
+T152	Family_member 2224 2230	pareja
+T153	Other 2436 2458	Investigador Principal
+T154	Other 2460 2462	IP
+T155	Patient 2466 2475	Pacientes
