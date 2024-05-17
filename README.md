@@ -41,10 +41,10 @@ Texts were annotated with the following entity types:
     - Other: e.g. _cirujano_ (‘surgeon’)
   - Event temporality attributes:
     - History\_of: e.g. _antecedentes de migraña_ (‘history of migraine’)
+    - Future: e.g. _cirugía pendiente_ (‘pending surgery’)
     - Family_history\_of: e.g. _antecedentes familiares de diabetes_ (‘family history of diabetes’)
     - Hypothetical: e.g. _si el paciente tuviera fiebre_ (‘if the patient had a fever’)
-    - Future: e.g. _cirugía pendiente_ (‘pending surgery’)
-    - Other: e.g. _cirujano_ (‘surgeon’)
+    
 
 A companion annotated guideline is available in this repository.
 
