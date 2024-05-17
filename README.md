@@ -39,10 +39,10 @@ Texts were annotated with the following entity types:
     - Patient: e.g. _mujer embarazada_ (‘pregnant woman’)
     - Family\_member: e.g. _padres_ (‘parents’)
     - Other: e.g. _cirujano_ (‘surgeon’)
-  - Event temporality attributes:
-    - History\_of: e.g. _antecedentes de migraña_ (‘history of migraine’)
-    - Future: e.g. _cirugía pendiente_ (‘pending surgery’)
+  - Event temporality attributes:    
     - Family_history\_of: e.g. _antecedentes familiares de diabetes_ (‘family history of diabetes’)
+    - Future: e.g. _cirugía pendiente_ (‘pending surgery’)
+    - History\_of: e.g. _antecedentes de migraña_ (‘history of migraine’)
     - Hypothetical: e.g. _si el paciente tuviera fiebre_ (‘if the patient had a fever’)
     
 
