@@ -70,10 +70,11 @@ The article describing the first version of the corpus is [available here](https
 If you use this second version of the corpus, please cite the reference as follows:
 
 ```
-@article{medspaner,
-  title={Hybrid natural language processing tool for semantic annotation of medical texts in Spanish},
-  author={L. Campillos-Llanos, A. Valverde-Mateos and A. Capllonch-Carrión},
-  title={Under review}
+@article{campillosetal2024,
+  title={{Hybrid natural language processing tool for semantic annotation of medical texts in Spanish}},
+  author={Campillos-Llanos, Leonardo and Valverde-Mateos, Ana and Capllonch-Carri{\'o}n, Adri{\'a}n},
+  journal={BMC Bioinformatics},
+  publisher={BioMed Central}
 }
 ```
 
